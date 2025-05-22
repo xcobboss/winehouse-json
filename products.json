@@ -44376,7 +44376,7 @@
     "varietal": "BORDEAUX BLEND",
     "keywords": [],
     "price": 26.99,
-    "available": 103.0,
+    "available": 101.0,
     "termsale": 0,
     "termsalelistprice": 0.0,
     "termsaleprice": 0.0,
@@ -84469,21 +84469,19 @@
   {
     "style_id": 134375,
     "product_code": "55588",
-    "product_name": "2023 Comando G Rozas Vino de Pueblo Vinos de Madrid Garnacha (Pre-Arrival, ETA Summer 2025)",
+    "product_name": "2023 Comando G Rozas Vino de Pueblo Vinos de Madrid Garnacha",
     "bottle_size": "750ML",
     "country_state": "SPAIN",
     "region": "OTHER SPAIN",
     "varietal": "GRENACHE",
-    "keywords": [
-      "FUTURES"
-    ],
+    "keywords": [],
     "price": 63.99,
-    "available": 23.0,
+    "available": 5.0,
     "termsale": 0,
     "termsalelistprice": 0.0,
     "termsaleprice": 0.0,
     "image": "https://www.winehouse.com/prodimages/1940-DEFAULT-l.jpg",
-    "product_url": "https://www.winehouse.com/shop/2023-Comando-G-Rozas-Vino-de-Pueblo-Vinos-de-Madrid-Garnacha-(Pre-Arrival,-ETA-Summer-2025)-134375"
+    "product_url": "https://www.winehouse.com/shop/2023-Comando-G-Rozas-Vino-de-Pueblo-Vinos-de-Madrid-Garnacha-134375"
   },
   {
     "style_id": 134377,
@@ -90931,6 +90929,23 @@
     "termsaleprice": 0.0,
     "image": "https://www.winehouse.com/prodimages/1872-DEFAULT-l.jpg",
     "product_url": "https://www.winehouse.com/shop/2013-The-Vineyard-House-Cabernet-Sauvignon\nOakville-135233"
+  },
+  {
+    "style_id": 135235,
+    "product_code": "WSETL2AWARD53125",
+    "product_name": "WSET Level 2 Award in Wines",
+    "bottle_size": null,
+    "country_state": null,
+    "region": null,
+    "varietal": null,
+    "keywords": [],
+    "price": 899.0,
+    "available": 3.0,
+    "termsale": 0,
+    "termsalelistprice": 0.0,
+    "termsaleprice": 0.0,
+    "image": "https://www.winehouse.com/prodimages/1896-DEFAULT-l.jpg",
+    "product_url": "https://www.winehouse.com/shop/WSET-Level-2-Award-in-Wines-135235"
   },
   {
     "style_id": 135239,
