@@ -94144,10 +94144,10 @@
     "keywords": [],
     "price": 54.99,
     "available": 35.0,
-    "termsale": null,
-    "termsalelistprice": null,
-    "termsaleprice": null,
-    "image": null,
+    "termsale": 0,
+    "termsalelistprice": 0.0,
+    "termsaleprice": 0.0,
+    "image": "https://www.winehouse.com/prodimages/2845-DEFAULT-l.jpg",
     "product_url": "https://www.winehouse.com/shop/2023-Jean-Foillard-Morgon-Cuvee-Corcelette-135580"
   },
   {
