@@ -77433,14 +77433,12 @@
     "country_state": "CALIFORNIA",
     "region": "NAPA VALLEY",
     "varietal": "CABERNET SAUVIGNON",
-    "keywords": [
-      "sale"
-    ],
+    "keywords": [],
     "price": 79.99,
     "available": 29.0,
-    "termsale": 1,
-    "termsalelistprice": 79.99,
-    "termsaleprice": 59.99,
+    "termsale": 0,
+    "termsalelistprice": 0.0,
+    "termsaleprice": 0.0,
     "image": "https://www.winehouse.com/prodimages/1409-DEFAULT-l.jpg",
     "product_url": "https://www.winehouse.com/shop/2021-Sullivan-Cabernet-Sauvignon-Coeur-de-Vigne-Rutherford-133192"
   },
