@@ -63704,9 +63704,9 @@
     "keywords": [],
     "price": 21.99,
     "available": 16.0,
-    "termsale": null,
-    "termsalelistprice": null,
-    "termsaleprice": null,
+    "termsale": 0,
+    "termsalelistprice": 0.0,
+    "termsaleprice": 0.0,
     "image": null,
     "product_url": "https://www.winehouse.com/shop/2021-Torbreck-Vintners-Juveniles-Barossa-Valley-130335"
   },
