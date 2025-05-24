@@ -154,27 +154,6 @@
     "product_url": "https://www.winehouse.com/shop/Stone-Brewing-Co.-Enjoy-By-7-4-2019-Unfiltered-IPA-9.4%-ABV-12oz-Cans-.-101680"
   },
   {
-    "style_id": 131980,
-    "product_code": "99875473",
-    "product_name": "2023 Chateau de Manissy Tavel Ros\u00e9 Cuvee des Lys",
-    "bottle_size": "750ML",
-    "country_state": "France",
-    "region": "Southern Rhone",
-    "varietal": "Rose",
-    "producer": "",
-    "dept": null,
-    "keywords": [
-      "Summer Rose"
-    ],
-    "price": 18.99,
-    "available": 1.0,
-    "termsale": null,
-    "termsalelistprice": null,
-    "termsaleprice": null,
-    "image": null,
-    "product_url": "https://www.winehouse.com/shop/2023-Chateau-de-Manissy-Tavel-Ros\u00e9-Cuvee-des-Lys-131980"
-  },
-  {
     "style_id": 135701,
     "product_code": "IWFS2",
     "product_name": "\"Piedmont:\u00a0 Off the Beaten Track\" Virtual Tasting",
@@ -9895,6 +9874,27 @@
     "termsaleprice": 0.0,
     "image": null,
     "product_url": "https://www.winehouse.com/shop/2021-Timo-Mayer-Gamay-Yarra-Valley-27647"
+  },
+  {
+    "style_id": 122834,
+    "product_code": "860008987914",
+    "product_name": "2021 McPrice Myers Beautiful Earth Cabernet Sauvignon Paso Robles",
+    "bottle_size": "750ML",
+    "country_state": "California",
+    "region": "Paso Robles",
+    "varietal": "Cabernet Sauvignon",
+    "producer": "Mcprice Myers Wines",
+    "dept": "Now Tasting",
+    "keywords": [
+      "Cabfest24"
+    ],
+    "price": 54.99,
+    "available": 22.0,
+    "termsale": 0,
+    "termsalelistprice": 0.0,
+    "termsaleprice": 0.0,
+    "image": "https://www.winehouse.com/prodimages/2459-DEFAULT-l.jpg",
+    "product_url": "https://www.winehouse.com/shop/2021-McPrice-Myers-Beautiful-Earth-Cabernet-Sauvignon-Paso-Robles-122834"
   },
   {
     "style_id": 125875,
@@ -42867,7 +42867,7 @@
     "dept": "Wine",
     "keywords": [],
     "price": 91.99,
-    "available": 2.0,
+    "available": 1.0,
     "termsale": 0,
     "termsalelistprice": 0.0,
     "termsaleprice": 0.0,
@@ -85886,6 +85886,27 @@
     "product_url": "https://www.winehouse.com/shop/2001-Bodegas-Muga-Aro-Rioja-DOCa-131975"
   },
   {
+    "style_id": 131980,
+    "product_code": "99875473",
+    "product_name": "2023 Chateau de Manissy Tavel Ros\u00e9 Cuvee des Lys",
+    "bottle_size": "750ML",
+    "country_state": "France",
+    "region": "Southern Rhone",
+    "varietal": "Rose",
+    "producer": "",
+    "dept": "Wine",
+    "keywords": [
+      "Summer Rose"
+    ],
+    "price": 18.99,
+    "available": 1.0,
+    "termsale": 0,
+    "termsalelistprice": 0.0,
+    "termsaleprice": 0.0,
+    "image": "https://www.winehouse.com/prodimages/2839-DEFAULT-l.jpg",
+    "product_url": "https://www.winehouse.com/shop/2023-Chateau-de-Manissy-Tavel-Ros\u00e9-Cuvee-des-Lys-131980"
+  },
+  {
     "style_id": 131998,
     "product_code": "705489006061",
     "product_name": "2023 Ch\u00e2teau du Rouet Cuvee Reservee Tradition Ros\u00e9 Cotes de Provence",
@@ -108086,7 +108107,7 @@
     "dept": "Wine",
     "keywords": [],
     "price": 31.99,
-    "available": 32.0,
+    "available": 31.0,
     "termsale": 0,
     "termsalelistprice": 0.0,
     "termsaleprice": 0.0,
@@ -109080,7 +109101,7 @@
     "dept": "Wine",
     "keywords": [],
     "price": 21.99,
-    "available": 36.0,
+    "available": 35.0,
     "termsale": 0,
     "termsalelistprice": 0.0,
     "termsaleprice": 0.0,
@@ -109118,7 +109139,7 @@
     "dept": "Wine",
     "keywords": [],
     "price": 17.99,
-    "available": 36.0,
+    "available": 35.0,
     "termsale": 0,
     "termsalelistprice": 0.0,
     "termsaleprice": 0.0,
