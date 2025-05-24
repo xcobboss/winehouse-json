@@ -9897,27 +9897,6 @@
     "product_url": "https://www.winehouse.com/shop/2021-Timo-Mayer-Gamay-Yarra-Valley-27647"
   },
   {
-    "style_id": 122834,
-    "product_code": "860008987914",
-    "product_name": "2021 McPrice Myers Beautiful Earth Cabernet Sauvignon Paso Robles",
-    "bottle_size": "750ML",
-    "country_state": "California",
-    "region": "Paso Robles",
-    "varietal": "Cabernet Sauvignon",
-    "producer": "Mcprice Myers Wines",
-    "dept": "Now Tasting",
-    "keywords": [
-      "cabfest24"
-    ],
-    "price": 54.99,
-    "available": 22.0,
-    "termsale": 0,
-    "termsalelistprice": 0.0,
-    "termsaleprice": 0.0,
-    "image": "https://www.winehouse.com/prodimages/2459-DEFAULT-l.jpg",
-    "product_url": "https://www.winehouse.com/shop/2021-McPrice-Myers-Beautiful-Earth-Cabernet-Sauvignon-Paso-Robles-122834"
-  },
-  {
     "style_id": 127926,
     "product_code": "139251",
     "product_name": "2021 Domaine Ostertag Pinot Noir Fronholz Alsace",
@@ -10148,6 +10127,25 @@
     "termsaleprice": 0.0,
     "image": null,
     "product_url": "https://www.winehouse.com/shop/2022-La-Spinetta-Barbera-d\u2019Asti-Ca`-di-Pian-134022"
+  },
+  {
+    "style_id": 134109,
+    "product_code": "5886214",
+    "product_name": "2021 Van Ardi Red Blend Armenia",
+    "bottle_size": "750ML",
+    "country_state": "Other Imports",
+    "region": null,
+    "varietal": "Other Red",
+    "producer": "",
+    "dept": "Now Tasting",
+    "keywords": [],
+    "price": 24.99,
+    "available": 12.0,
+    "termsale": 0,
+    "termsalelistprice": 0.0,
+    "termsaleprice": 0.0,
+    "image": null,
+    "product_url": "https://www.winehouse.com/shop/2021-Van-Ardi-Red-Blend-Armenia-134109"
   },
   {
     "style_id": 134651,
@@ -10961,7 +10959,7 @@
     "dept": "Sake",
     "keywords": [],
     "price": 24.99,
-    "available": 11.0,
+    "available": 9.0,
     "termsale": 0,
     "termsalelistprice": 0.0,
     "termsaleprice": 0.0,
