@@ -327,25 +327,6 @@
     "product_url": "https://www.winehouse.com/shop/WSET-Level-1-Award-in-Wines-135821"
   },
   {
-    "style_id": 135855,
-    "product_code": "WSETLEVEL3100525",
-    "product_name": "WSET Level 3 Award in Wines",
-    "bottle_size": "",
-    "country_state": "",
-    "region": "",
-    "varietal": "",
-    "producer": "",
-    "dept": null,
-    "keywords": [],
-    "price": 1599.0,
-    "available": 22.0,
-    "termsale": null,
-    "termsalelistprice": null,
-    "termsaleprice": null,
-    "image": null,
-    "product_url": "https://www.winehouse.com/shop/WSET-Level-3-Award-in-Wines-135855"
-  },
-  {
     "style_id": 135701,
     "product_code": "IWFS2",
     "product_name": "\"Piedmont:\u00a0 Off the Beaten Track\" Virtual Tasting",
@@ -7346,6 +7327,25 @@
     "termsaleprice": 0.0,
     "image": "https://www.winehouse.com/prodimages/2925-DEFAULT-l.jpg",
     "product_url": "https://www.winehouse.com/shop/WSET-Level-2-Award-in-Wines-135822"
+  },
+  {
+    "style_id": 135855,
+    "product_code": "WSETLEVEL3100525",
+    "product_name": "WSET Level 3 Award in Wines",
+    "bottle_size": null,
+    "country_state": null,
+    "region": null,
+    "varietal": null,
+    "producer": "",
+    "dept": "Classes And Events",
+    "keywords": [],
+    "price": 1599.0,
+    "available": 22.0,
+    "termsale": 0,
+    "termsalelistprice": 0.0,
+    "termsaleprice": 0.0,
+    "image": "https://www.winehouse.com/prodimages/2927-DEFAULT-l.jpg",
+    "product_url": "https://www.winehouse.com/shop/WSET-Level-3-Award-in-Wines-135855"
   },
   {
     "style_id": 4,
