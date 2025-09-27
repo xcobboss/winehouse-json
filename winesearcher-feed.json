@@ -1,6 +1,19 @@
 {
   "product-list": [
     {
+      "sku": "688187044194",
+      "name": "2023 Vigerons d`Estezargues \"Taparas\" Cotes du Rhone",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "15.99",
+      "url": "https://www.winehouse.com/shop/2023-vigerons-d-estezargues-taparas-cotes-du-rhone-135492",
+      "min-order": "1",
+      "offer-type": "marketplace",
+      "stock-level": "7",
+      "pre-arrival": "false",
+      "image-url": "https://www.winehouse.com/prodimages/2493-DEFAULT-l.jpg"
+    },
+    {
       "sku": "000287628607",
       "name": "2000 Les Forts de Latour Pauillac",
       "vintage": "2000",
@@ -35127,19 +35140,6 @@
       "image-url": ""
     },
     {
-      "sku": "688187044194",
-      "name": "2023 Vigerons d`Estezargues \"Taparas\" Cotes du Rhone",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "15.99",
-      "url": "https://www.winehouse.com/shop/2023-vigerons-d-estezargues-taparas-cotes-du-rhone-135492",
-      "min-order": "1",
-      "offer-type": "marketplace",
-      "stock-level": "7",
-      "pre-arrival": "false",
-      "image-url": "https://www.winehouse.com/prodimages/2493-DEFAULT-l.jpg"
-    },
-    {
       "sku": "688187044460",
       "name": "NV Vincent Couche Montgueux Chardonnay Ratafia Champagne",
       "vintage": "NV",
@@ -50111,7 +50111,7 @@
       "url": "https://www.winehouse.com/shop/garrison-brothers-guadalupe-twice-barreled-texas-straight-bourbon-57-5-abv-28432",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "5",
+      "stock-level": "4",
       "pre-arrival": "false",
       "image-url": "https://www.winehouse.com/prodimages/767-DEFAULT-l.jpg"
     },
