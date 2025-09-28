@@ -646,7 +646,7 @@
       "url": "https://www.winehouse.com/shop/2023-weingut-max-ferd-richter-riesling-brauneberger-juffer-kabinett-trocken-136420",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "5",
+      "stock-level": "4",
       "pre-arrival": "false",
       "image-url": "https://www.winehouse.com/prodimages/3965-DEFAULT-l.jpg"
     },
@@ -10971,6 +10971,19 @@
       "stock-level": "1",
       "pre-arrival": "false",
       "image-url": ""
+    },
+    {
+      "sku": "139378",
+      "name": "2023 Domaine Huet Vouvray Clos du Bourg Sec",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "46.99",
+      "url": "https://www.winehouse.com/shop/2023-domaine-huet-vouvray-clos-du-bourg-sec-136123",
+      "min-order": "1",
+      "offer-type": "marketplace",
+      "stock-level": "2",
+      "pre-arrival": "false",
+      "image-url": "https://www.winehouse.com/prodimages/3707-DEFAULT-l.jpg"
     },
     {
       "sku": "139812",
@@ -21849,7 +21862,7 @@
       "url": "https://www.winehouse.com/shop/2021-domaine-guiberteau-saumur-blanc-breze-135828",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "4",
+      "stock-level": "3",
       "pre-arrival": "false",
       "image-url": "https://www.winehouse.com/prodimages/3371-DEFAULT-l.jpg"
     },
@@ -40387,7 +40400,7 @@
       "url": "https://www.winehouse.com/shop/2021-domaine-des-roches-neuves-saumur-blanc-lechelier-135078",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "8",
+      "stock-level": "7",
       "pre-arrival": "false",
       "image-url": "https://www.winehouse.com/prodimages/1731-DEFAULT-l.jpg"
     },
