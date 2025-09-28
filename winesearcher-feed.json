@@ -19722,19 +19722,6 @@
       "image-url": "https://www.winehouse.com/prodimages/2203-DEFAULT-l.jpg"
     },
     {
-      "sku": "325556",
-      "name": "2013 Schrader Cellars Cabernet Sauvignon LPV Beckstoffer Las Piedras Vineyard",
-      "vintage": "2013",
-      "unit-size": "750ML",
-      "price": "279.98",
-      "url": "https://www.winehouse.com/shop/2013-schrader-cellars-cabernet-sauvignon-lpv-beckstoffer-las-piedras-vineyard-60138",
-      "min-order": "1",
-      "offer-type": "marketplace",
-      "stock-level": "1",
-      "pre-arrival": "false",
-      "image-url": ""
-    },
-    {
       "sku": "3255602",
       "name": "2013 Schrader Cellars Cabernet Sauvignon RBS Beckstoffer To Kolan Vineyard",
       "vintage": "2013",
@@ -20224,7 +20211,7 @@
       "url": "https://www.winehouse.com/shop/2019-realm-cellars-the-bard-proprietary-red-blend-napa-valley-14416",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "2",
+      "stock-level": "1",
       "pre-arrival": "false",
       "image-url": "https://www.winehouse.com/prodimages/2195-DEFAULT-l.jpg"
     },
@@ -57261,7 +57248,7 @@
       "url": "https://www.winehouse.com/shop/2022-williams-selyem-pinot-noir-estate-vineyard-132280",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "2",
+      "stock-level": "1",
       "pre-arrival": "false",
       "image-url": ""
     },
