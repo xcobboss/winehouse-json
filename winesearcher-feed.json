@@ -4429,7 +4429,7 @@
       "url": "https://www.winehouse.com/shop/siete-7-leguas-tequila-reposado-28570",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "43",
+      "stock-level": "40",
       "pre-arrival": "false",
       "image-url": "https://www.winehouse.com/prodimages/789-DEFAULT-l.jpg"
     },
@@ -9565,19 +9565,6 @@
       "min-order": "1",
       "offer-type": "marketplace",
       "stock-level": "2",
-      "pre-arrival": "false",
-      "image-url": ""
-    },
-    {
-      "sku": "12015558",
-      "name": "1980 Marcel Juge Cornas",
-      "vintage": "1980",
-      "unit-size": "750ML",
-      "price": "799.98",
-      "url": "https://www.winehouse.com/shop/1980-marcel-juge-cornas-9766",
-      "min-order": "1",
-      "offer-type": "marketplace",
-      "stock-level": "1",
       "pre-arrival": "false",
       "image-url": ""
     },
