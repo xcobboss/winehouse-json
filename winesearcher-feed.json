@@ -9577,6 +9577,18 @@
       "image-url": "https://www.winehouse.com/prodimages/3501-DEFAULT-l.jpg"
     },
     {
+      "sku": "1134677",
+      "name": "2023 Brooks Winery Pinot Noir Willamette Valley",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "25.99",
+      "url": "https://www.winehouse.com/shop/2023-brooks-winery-pinot-noir-willamette-valley-134208",
+      "min-order": "1",
+      "offer-type": "marketplace",
+      "stock-level": "36",
+      "image-url": ""
+    },
+    {
       "sku": "11356",
       "name": "2022 Tignanello (Pre-Arrival, ETA Summer 2025)",
       "vintage": "2022",
@@ -17497,18 +17509,6 @@
       "image-url": ""
     },
     {
-      "sku": "293358",
-      "name": "2020 Adroit Gamay San Benito County",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "24.99",
-      "url": "https://www.winehouse.com/shop/2020-adroit-gamay-san-benito-county-132520",
-      "min-order": "1",
-      "offer-type": "marketplace",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/1361-DEFAULT-l.jpg"
-    },
-    {
       "sku": "295488",
       "name": "2019 Adaptation Cabernet Sauvignon Napa Valley",
       "vintage": "2019",
@@ -25198,18 +25198,6 @@
       "min-order": "1",
       "offer-type": "marketplace",
       "stock-level": "3",
-      "image-url": ""
-    },
-    {
-      "sku": "4260122620135",
-      "name": "2019 Staffelter Hof Jan Matthias Klein Papa Panda`s Rising, Mosel",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "25.99",
-      "url": "https://www.winehouse.com/shop/2019-staffelter-hof-jan-matthias-klein-papa-panda-s-rising-mosel-7830",
-      "min-order": "1",
-      "offer-type": "marketplace",
-      "stock-level": "1",
       "image-url": ""
     },
     {
