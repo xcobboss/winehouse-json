@@ -2493,7 +2493,7 @@
       "url": "https://www.winehouse.com/shop/buffalo-trace-bourbon-cream-liqueur-17-abv-28514",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "19",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/776-DEFAULT-l.jpg"
     },
     {
@@ -2733,7 +2733,7 @@
       "url": "https://www.winehouse.com/shop/noilly-prat-extra-dry-vermouth-22132",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/691-DEFAULT-l.jpg"
     },
     {
@@ -30323,18 +30323,6 @@
       "offer-type": "R",
       "stock-level": "1",
       "image-url": ""
-    },
-    {
-      "sku": "5632536",
-      "name": "Glenmorangie 12 Year Old Highland Scotch Whisky",
-      "vintage": "",
-      "unit-size": "750ML",
-      "price": "26.99",
-      "url": "https://www.winehouse.com/shop/glenmorangie-12-year-old-highland-scotch-whisky-136046",
-      "min-order": "1",
-      "offer-type": "marketplace",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/3397-DEFAULT-l.jpg"
     },
     {
       "sku": "5632888",
