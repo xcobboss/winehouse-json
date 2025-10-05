@@ -417,7 +417,7 @@
       "url": "https://www.winehouse.com/shop/quady-vya-whisper-dry-vermouth-26250",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "3",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/1599-DEFAULT-l.jpg"
     },
     {
@@ -1701,7 +1701,7 @@
       "url": "https://www.winehouse.com/shop/2023-bodegas-virgen-del-galir-val-do-galir-godello-valdeorras-136898",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "31",
+      "stock-level": "30",
       "image-url": "https://www.winehouse.com/prodimages/4771-DEFAULT-l.jpg"
     },
     {
@@ -7797,7 +7797,7 @@
       "url": "https://www.winehouse.com/shop/2024-santa-julia-el-zorrito-mendoza-naranjo-natural-chardonnay-136058",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/3403-DEFAULT-l.jpg"
     },
     {
@@ -10629,7 +10629,7 @@
       "url": "https://www.winehouse.com/shop/2022-daniel-bouland-morgon-corcelette-133489",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -12297,18 +12297,6 @@
       "url": "https://www.winehouse.com/shop/2018-domaine-thierry-allemand-cornas-reynard-13965",
       "min-order": "1",
       "offer-type": "R",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
-      "sku": "183103000006",
-      "name": "2023 Dr. Loosen Riesling Bernkasteler Lay Kabinett Mosel",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "26.99",
-      "url": "https://www.winehouse.com/shop/2023-dr-loosen-riesling-bernkasteler-lay-kabinett-133609",
-      "min-order": "1",
-      "offer-type": "marketplace",
       "stock-level": "1",
       "image-url": ""
     },
@@ -22149,7 +22137,7 @@
       "url": "https://www.winehouse.com/shop/2021-cru-winery-unoaked-chardonnay-arroyo-seco-130536",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "10",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/3489-DEFAULT-l.jpg"
     },
     {
@@ -52737,7 +52725,7 @@
       "url": "https://www.winehouse.com/shop/frank-august-small-batch-bourbon-17605",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/553-DEFAULT-l.jpg"
     },
     {
