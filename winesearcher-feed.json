@@ -21958,7 +21958,7 @@
       "min-order": "1",
       "offer-type": "marketplace",
       "stock-level": "5",
-      "image-url": ""
+      "image-url": "https://www.winehouse.com/prodimages/5218-DEFAULT-l.jpg"
     },
     {
       "sku": "3554770164143",
@@ -34486,7 +34486,7 @@
       "min-order": "1",
       "offer-type": "marketplace",
       "stock-level": "5",
-      "image-url": ""
+      "image-url": "https://www.winehouse.com/prodimages/5211-DEFAULT-l.jpg"
     },
     {
       "sku": "680035",
@@ -47637,7 +47637,7 @@
       "url": "https://www.winehouse.com/shop/2021-vinos-en-voz-baja-costumbres-rioja-red-blend-134599",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/3677-DEFAULT-l.jpg"
     },
     {
@@ -52631,6 +52631,30 @@
       "offer-type": "marketplace",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/2740-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "860008412836",
+      "name": "2018 Cantina Globale Barolo",
+      "vintage": "2018",
+      "unit-size": "750ML",
+      "price": "39.99",
+      "url": "https://www.winehouse.com/shop/2018-cantina-globale-barolo-18657",
+      "min-order": "1",
+      "offer-type": "marketplace",
+      "stock-level": "36",
+      "image-url": ""
+    },
+    {
+      "sku": "860008412843",
+      "name": "2021 Cantina Globale Nebbiolo Langhe",
+      "vintage": "2021",
+      "unit-size": "750ML",
+      "price": "23.99",
+      "url": "https://www.winehouse.com/shop/2021-cantina-globale-nebbiolo-langhe-18659",
+      "min-order": "1",
+      "offer-type": "marketplace",
+      "stock-level": "12",
+      "image-url": ""
     },
     {
       "sku": "860008915108",
