@@ -4353,7 +4353,7 @@
       "url": "https://www.winehouse.com/shop/carpano-antica-vermouth-28723",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": ""
     },
     {
@@ -5567,18 +5567,6 @@
       "offer-type": "marketplace",
       "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/1229-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "086891054001",
-      "name": "Nonino Amaro Quintessentia",
-      "vintage": "",
-      "unit-size": "750ML",
-      "price": "45.99",
-      "url": "https://www.winehouse.com/shop/nonino-amaro-quintessentia-21955",
-      "min-order": "1",
-      "offer-type": "marketplace",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/663-DEFAULT-l.jpg"
     },
     {
       "sku": "086891071503",
@@ -37413,7 +37401,7 @@
       "url": "https://www.winehouse.com/shop/campari-aperitivo-21800",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "34",
+      "stock-level": "33",
       "image-url": "https://www.winehouse.com/prodimages/633-DEFAULT-l.jpg"
     },
     {
@@ -40241,7 +40229,7 @@
       "name": "2021 Patine Cellars Pinot Noir Whole Cluster Sun Chase Vineyard",
       "vintage": "2021",
       "unit-size": "750ML",
-      "price": "79.99",
+      "price": "69.99",
       "url": "https://www.winehouse.com/shop/2021-patine-cellars-pinot-noir-whole-cluster-sun-chase-vineyard-137204",
       "min-order": "1",
       "offer-type": "marketplace",
@@ -40265,7 +40253,7 @@
       "name": "2023 Patine Cellars Pinot Noir Soberanes Vineyard Santa Lucia Highlands",
       "vintage": "2023",
       "unit-size": "750ML",
-      "price": "79.99",
+      "price": "69.99",
       "url": "https://www.winehouse.com/shop/2023-patine-cellars-pinot-noir-soberanes-vineyard-santa-lucia-highlands-137202",
       "min-order": "1",
       "offer-type": "marketplace",
@@ -43693,18 +43681,6 @@
       "image-url": ""
     },
     {
-      "sku": "803070012016",
-      "name": "2022 Opolo Vineyards Zinfandel Summit Creek Paso Robles",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "18.99",
-      "url": "https://www.winehouse.com/shop/2022-opolo-vineyards-zinfandel-summit-creek-paso-robles-133593",
-      "min-order": "1",
-      "offer-type": "marketplace",
-      "stock-level": "7",
-      "image-url": "https://www.winehouse.com/prodimages/3668-DEFAULT-l.jpg"
-    },
-    {
       "sku": "8030967020911",
       "name": "2020 Le Pupille Morellino di Scansano Riserva",
       "vintage": "2020",
@@ -46377,7 +46353,7 @@
       "url": "https://www.winehouse.com/shop/milam-greene-triple-cask-straight-bourbon-whiskey-47-abv-127067",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/919-DEFAULT-l.jpg"
     },
     {
@@ -46389,7 +46365,7 @@
       "url": "https://www.winehouse.com/shop/milam-greene-straight-rye-whiskey-finished-in-port-casks-47-abv-27602",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/926-DEFAULT-l.jpg"
     },
     {
