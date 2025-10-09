@@ -33801,7 +33801,7 @@
       "url": "https://www.winehouse.com/shop/2023-diatom-chardonnay-santa-barbara-county-130813",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "8",
+      "stock-level": "56",
       "image-url": "https://www.winehouse.com/prodimages/3216-DEFAULT-l.jpg"
     },
     {
@@ -40605,7 +40605,7 @@
       "url": "https://www.winehouse.com/shop/2022-opolo-vineyards-zinfandel-mountain-paso-robles-133594",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "6",
+      "stock-level": "18",
       "image-url": ""
     },
     {
@@ -49185,7 +49185,7 @@
       "url": "https://www.winehouse.com/shop/2023-austin-hope-quest-proprietary-red-wine-paso-robles-135963",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "6",
+      "stock-level": "30",
       "image-url": "https://www.winehouse.com/prodimages/3355-DEFAULT-l.jpg"
     },
     {
@@ -49569,7 +49569,7 @@
       "url": "https://www.winehouse.com/shop/2023-siduri-wines-pinot-noir-santa-barbara-county-136033",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "11",
+      "stock-level": "35",
       "image-url": "https://www.winehouse.com/prodimages/3391-DEFAULT-l.jpg"
     },
     {
@@ -49581,7 +49581,7 @@
       "url": "https://www.winehouse.com/shop/2022-siduri-pinot-noir-russian-river-valley-136034",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "16",
+      "stock-level": "40",
       "image-url": ""
     },
     {
@@ -55953,7 +55953,7 @@
       "url": "https://www.winehouse.com/shop/2023-hartford-family-wines-hartford-court-pinot-noir-russian-river-valley-137067",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "15",
+      "stock-level": "39",
       "image-url": "https://www.winehouse.com/prodimages/4910-DEFAULT-l.jpg"
     },
     {
@@ -57179,6 +57179,18 @@
       "offer-type": "marketplace",
       "stock-level": "112",
       "image-url": "https://www.winehouse.com/prodimages/5088-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "9120071973513",
+      "name": "2024 Brundlmayer Gruner Veltliner L&T",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "20.99",
+      "url": "https://www.winehouse.com/shop/2024-brundlmayer-gruner-veltliner-lt-137225",
+      "min-order": "1",
+      "offer-type": "marketplace",
+      "stock-level": "36",
+      "image-url": "https://www.winehouse.com/prodimages/5147-DEFAULT-l.jpg"
     },
     {
       "sku": "3554770159873",
