@@ -8485,18 +8485,6 @@
       "image-url": "https://www.winehouse.com/prodimages/4414-DEFAULT-l.jpg"
     },
     {
-      "sku": "098709099159",
-      "name": "2022 Bodega Catena Malbec Paraje Altamira",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "21.99",
-      "url": "https://www.winehouse.com/shop/2022-bodega-catena-malbec-paraje-altamira-134149",
-      "min-order": "1",
-      "offer-type": "marketplace",
-      "stock-level": "6",
-      "image-url": "https://www.winehouse.com/prodimages/4416-DEFAULT-l.jpg"
-    },
-    {
       "sku": "098709099173",
       "name": "2022 El Enemigo Cabernet Franc Mendoza",
       "vintage": "2022",
@@ -8517,7 +8505,7 @@
       "url": "https://www.winehouse.com/shop/2022-el-enemigo-chardonnay-mendoza-134829",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "10",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/4418-DEFAULT-l.jpg"
     },
     {
@@ -18537,7 +18525,7 @@
       "url": "https://www.winehouse.com/shop/2022-francois-villard-condrieu-grand-vallon-136845",
       "min-order": "1",
       "offer-type": "marketplace",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/4737-DEFAULT-l.jpg"
     },
     {
