@@ -1545,7 +1545,7 @@
       "url": "https://www.winehouse.com/shop/2019-grgich-hills-cellars-zinfandel-napa-valley-133801",
       "min-order": "1",
       "offer-type": "",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": ""
     },
     {
@@ -3239,6 +3239,18 @@
       "offer-type": "",
       "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/985-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "080696001123",
+      "name": "2021 Beaulieu Vineyard Cabernet Sauvignon Georges de Latour Private Reserve",
+      "vintage": "2021",
+      "unit-size": "750ML",
+      "price": "139.99",
+      "url": "https://www.winehouse.com/shop/2021-beaulieu-vineyard-cabernet-sauvignon-georges-de-latour-private-reserve-napa-133616",
+      "min-order": "1",
+      "offer-type": "",
+      "stock-level": "11",
+      "image-url": ""
     },
     {
       "sku": "080696001529",
@@ -7737,7 +7749,7 @@
       "url": "https://www.winehouse.com/shop/2022-olivier-leflaive-bourgone-blanc-les-setilles-136909",
       "min-order": "1",
       "offer-type": "",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/4774-DEFAULT-l.jpg"
     },
     {
@@ -9777,7 +9789,7 @@
       "url": "https://www.winehouse.com/shop/2023-domaine-michel-bouzereau-et-fils-bourgogne-côte-d-or-chardonnay-136277",
       "min-order": "1",
       "offer-type": "",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/4317-DEFAULT-l.jpg"
     },
     {
@@ -13305,7 +13317,7 @@
       "url": "https://www.winehouse.com/shop/g4-blanco-tequila-26771",
       "min-order": "1",
       "offer-type": "",
-      "stock-level": "39",
+      "stock-level": "38",
       "image-url": ""
     },
     {
@@ -30829,18 +30841,6 @@
       "image-url": ""
     },
     {
-      "sku": "55563251",
-      "name": "2020 Beaulieu Vineyard Cabernet Sauvignon Georges de Latour Private Reserve",
-      "vintage": "2020",
-      "unit-size": "750ML",
-      "price": "139.99",
-      "url": "https://www.winehouse.com/shop/2020-beaulieu-vineyard-cabernet-sauvignon-georges-de-latour-private-reserve-napa-130848",
-      "min-order": "1",
-      "offer-type": "",
-      "stock-level": "11",
-      "image-url": "https://www.winehouse.com/prodimages/3560-DEFAULT-l.jpg"
-    },
-    {
       "sku": "555754",
       "name": "2011 Lis Neris Bianco Confini Pinot Grigio-Traminer-Riesling",
       "vintage": "2011",
@@ -34353,7 +34353,7 @@
       "url": "https://www.winehouse.com/shop/2023-precision-wine-co-method-cabernet-sauvignon-california-137558",
       "min-order": "1",
       "offer-type": "",
-      "stock-level": "155",
+      "stock-level": "143",
       "image-url": ""
     },
     {
@@ -35085,7 +35085,7 @@
       "url": "https://www.winehouse.com/shop/2024-ameztoi-getariako-txakolina-135763",
       "min-order": "1",
       "offer-type": "",
-      "stock-level": "36",
+      "stock-level": "35",
       "image-url": ""
     },
     {
@@ -44893,18 +44893,6 @@
       "image-url": ""
     },
     {
-      "sku": "8032601850014",
-      "name": "2023 Pra Soave \"Otto\"",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "23.99",
-      "url": "https://www.winehouse.com/shop/2023-pra-soave-otto-135905",
-      "min-order": "1",
-      "offer-type": "",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/3513-DEFAULT-l.jpg"
-    },
-    {
       "sku": "80326058402952",
       "name": "2019 Ciacci Piccolomini d Aragona Brunello di Montalcino Pianrosso",
       "vintage": "2019",
@@ -47841,7 +47829,7 @@
       "url": "https://www.winehouse.com/shop/2020-fattoria-di-felsina-berardenga-chianti-classico-riserva-137295",
       "min-order": "1",
       "offer-type": "",
-      "stock-level": "14",
+      "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/5164-DEFAULT-l.jpg"
     },
     {
@@ -49029,7 +49017,7 @@
       "url": "https://www.winehouse.com/shop/2024-faustino-rivero-ulecia-albarino-rias-baixas-136778",
       "min-order": "1",
       "offer-type": "",
-      "stock-level": "21",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/4587-DEFAULT-l.jpg"
     },
     {
