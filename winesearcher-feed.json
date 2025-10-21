@@ -17541,7 +17541,7 @@
       "url": "https://www.winehouse.com/shop/wheatley-small-batch-vodka-41-abv-28814",
       "min-order": "1",
       "offer-type": "",
-      "stock-level": "25",
+      "stock-level": "23",
       "image-url": "https://www.winehouse.com/prodimages/851-DEFAULT-l.jpg"
     },
     {
@@ -38085,7 +38085,7 @@
       "url": "https://www.winehouse.com/shop/2021-opus-one-proprietary-red-wine-napa-valley-132944",
       "min-order": "1",
       "offer-type": "",
-      "stock-level": "28",
+      "stock-level": "27",
       "image-url": "https://www.winehouse.com/prodimages/3664-DEFAULT-l.jpg"
     },
     {
@@ -39529,6 +39529,18 @@
       "image-url": "https://www.winehouse.com/prodimages/3927-DEFAULT-l.jpg"
     },
     {
+      "sku": "562525",
+      "name": "2021 Darioush 'Darius II' Cabernet Sauvignon Napa Valley",
+      "vintage": "2021",
+      "unit-size": "750ML",
+      "price": "379.99",
+      "url": "https://www.winehouse.com/shop/2021-darioush-darius-ii-cabernet-sauvignon-napa-valley-133346",
+      "min-order": "1",
+      "offer-type": "",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/298-DEFAULT-l.jpg"
+    },
+    {
       "sku": "815783000013",
       "name": "2012 R. Lopez de Heredia Vina Tondonia Reserva Rioja",
       "vintage": "2012",
@@ -40331,18 +40343,6 @@
       "offer-type": "",
       "stock-level": "15",
       "image-url": ""
-    },
-    {
-      "sku": "3770011323012",
-      "name": "2022 Domaine La Barroche `Liberty` Rouge, Vin de France",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "31.99",
-      "url": "https://www.winehouse.com/shop/2022-domaine-la-barroche-liberty-rouge-vin-de-france-133635",
-      "min-order": "1",
-      "offer-type": "",
-      "stock-level": "11",
-      "image-url": "https://www.winehouse.com/prodimages/3120-DEFAULT-l.jpg"
     },
     {
       "sku": "8005358000025",
