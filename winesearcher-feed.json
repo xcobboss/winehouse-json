@@ -11498,7 +11498,7 @@
     },
     {
       "sku": "1421069",
-      "name": "2020 Klipsun Vineyards Cabernet Sauvignon Red Mountain AVA",
+      "name": "2020 Klipsun Vineyards Cabernet Sauvignon Red Mountain (Was $149.99)",
       "vintage": "2020",
       "unit-size": "750ML",
       "price": "75.00",
@@ -26246,7 +26246,7 @@
     },
     {
       "sku": "433797",
-      "name": "2019 La Jota Vineyard Company Cabernet Sauvignon Howell Mountain",
+      "name": "2019 La Jota Vineyard Company Cabernet Sauvignon Howell Mountain (Was $174.99)",
       "vintage": "2019",
       "unit-size": "750ML",
       "price": "99.00",
@@ -33734,7 +33734,7 @@
     },
     {
       "sku": "639384",
-      "name": "2018 Merryvale Vineyards Profile Proprietary Red Wine Napa Valley",
+      "name": "2018 Merryvale Vineyards Profile Proprietary Red Wine Napa Valley (Was $199.99)",
       "vintage": "2018",
       "unit-size": "750ML",
       "price": "99.00",
@@ -34163,6 +34163,18 @@
       "offer-type": "",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/2388-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "651357500929",
+      "name": "2023 Precision Wine Co. Method Cabernet Sauvignon California",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "19.99",
+      "url": "https://www.winehouse.com/shop/2023-precision-wine-co-method-cabernet-sauvignon-california-137558",
+      "min-order": "1",
+      "offer-type": "",
+      "stock-level": "22",
+      "image-url": ""
     },
     {
       "sku": "651669",
@@ -48553,6 +48565,18 @@
       "image-url": "https://www.winehouse.com/prodimages/1265-DEFAULT-l.jpg"
     },
     {
+      "sku": "8414533043847",
+      "name": "2021 Vinos en Voz Baja Costumbres Rioja Red Blend",
+      "vintage": "2021",
+      "unit-size": "750ML",
+      "price": "26.99",
+      "url": "https://www.winehouse.com/shop/2021-vinos-en-voz-baja-costumbres-rioja-red-blend-134599",
+      "min-order": "1",
+      "offer-type": "",
+      "stock-level": "10",
+      "image-url": "https://www.winehouse.com/prodimages/3677-DEFAULT-l.jpg"
+    },
+    {
       "sku": "8423360040035",
       "name": "NV Fernando de Castilla Antique Palo Cortado Sherry",
       "vintage": "NV",
@@ -54518,7 +54542,7 @@
     },
     {
       "sku": "885202",
-      "name": "2023 Artuke Rioja Tempranillo Tinto",
+      "name": "2023 Artuke Rioja Tempranillo Tinto (Was $15.99)",
       "vintage": "2023",
       "unit-size": "750ML",
       "price": "9.00",
