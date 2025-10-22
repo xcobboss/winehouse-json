@@ -169,6 +169,18 @@
       "image-url": ""
     },
     {
+      "sku": "00810147310463",
+      "name": "2022 Tignanello",
+      "vintage": "2022",
+      "unit-size": "1.5L",
+      "price": "379.99",
+      "url": "https://www.winehouse.com/shop/2022-tignanello-136267",
+      "min-order": "1",
+      "offer-type": "",
+      "stock-level": "2",
+      "image-url": "https://www.winehouse.com/prodimages/3741-DEFAULT-l.jpg"
+    },
+    {
       "sku": "008853997591",
       "name": "Bottle Logic Red Eye November Imperial Coffee Stout Bottle",
       "vintage": "2024",
@@ -16382,7 +16394,7 @@
     },
     {
       "sku": "234987",
-      "name": "2022 Timo Mayer `Dr. Mayer` Pinot Noir Yarra Valley",
+      "name": "2022 Timo Mayer `Dr. Mayer` Pinot Noir Yarra Valley (Was $85.00)",
       "vintage": "2022",
       "unit-size": "750ML",
       "price": "50.00",
@@ -19550,7 +19562,7 @@
     },
     {
       "sku": "3225870",
-      "name": "2020 Domaine Auguste Clape Cotes du Rhone (Was $69.99)",
+      "name": "2020 Domaine Auguste Clape Cotes du Rhone",
       "vintage": "2020",
       "unit-size": "750ML",
       "price": "69.99",
@@ -21743,6 +21755,18 @@
       "offer-type": "",
       "stock-level": "34",
       "image-url": "https://www.winehouse.com/prodimages/5171-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "3517251001115",
+      "name": "NV Ployez-Jacquemart Extra Quality Brut Champagne",
+      "vintage": "NV",
+      "unit-size": "750ML",
+      "price": "52.99",
+      "url": "https://www.winehouse.com/shop/nv-ployez-jacquemart-extra-quality-brut-champagne-18254",
+      "min-order": "1",
+      "offer-type": "",
+      "stock-level": "34",
+      "image-url": "https://www.winehouse.com/prodimages/5186-DEFAULT-l.jpg"
     },
     {
       "sku": "3519340190212",
@@ -36171,7 +36195,7 @@
     {
       "sku": "695162024058",
       "name": "2018 Loredan Gasparini della Casa Montello Asolo Venegazzu",
-      "vintage": "2016",
+      "vintage": "2018",
       "unit-size": "750ML",
       "price": "28.99",
       "url": "https://www.winehouse.com/shop/2018-loredan-gasparini-della-casa-montello-asolo-venegazzu-135317",
@@ -42321,7 +42345,7 @@
       "url": "https://www.winehouse.com/shop/2022-damascene-swartland-syrah-134502",
       "min-order": "1",
       "offer-type": "",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/4488-DEFAULT-l.jpg"
     },
     {
@@ -44949,7 +44973,7 @@
       "url": "https://www.winehouse.com/shop/2009-tenuta-terre-nere-calderara-sottana-49493",
       "min-order": "1",
       "offer-type": "R",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/5366-DEFAULT-l.jpg"
     },
     {
@@ -51093,7 +51117,7 @@
       "url": "https://www.winehouse.com/shop/2021-paul-achs-zweigelt-burgenland-134920",
       "min-order": "1",
       "offer-type": "",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/1698-DEFAULT-l.jpg"
     },
     {
@@ -51314,7 +51338,7 @@
     },
     {
       "sku": "854905005727",
-      "name": "2018 Crown Point Relevant Red Happy Canyon",
+      "name": "2018 Crown Point Relevant Red Happy Canyon (Was $84.99)",
       "vintage": "2018",
       "unit-size": "750ML",
       "price": "49.00",
@@ -56481,7 +56505,7 @@
       "url": "https://www.winehouse.com/shop/2024-brundlmayer-gruner-veltliner-lt-137225",
       "min-order": "1",
       "offer-type": "",
-      "stock-level": "68",
+      "stock-level": "67",
       "image-url": "https://www.winehouse.com/prodimages/5147-DEFAULT-l.jpg"
     },
     {
