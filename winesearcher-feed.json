@@ -11565,7 +11565,7 @@
       "url": "https://www.winehouse.com/shop/2023-domaine-georges-roumier-bonnes-mares-grand-cru-137223",
       "min-order": "1",
       "offer-type": "",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/5271-DEFAULT-l.jpg"
     },
     {
@@ -11579,18 +11579,6 @@
       "offer-type": "R",
       "stock-level": "1",
       "image-url": ""
-    },
-    {
-      "sku": "1461949",
-      "name": "2023 Domaine Georges Roumier Morey St.-Denis Clos de la Bussière 1er Cru",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "399.99",
-      "url": "https://www.winehouse.com/shop/2023-domaine-georges-roumier-morey-st-denis-clos-de-la-bussi-re-1er-cru-137228",
-      "min-order": "1",
-      "offer-type": "",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5274-DEFAULT-l.jpg"
     },
     {
       "sku": "1462249",
@@ -26245,18 +26233,6 @@
       "image-url": ""
     },
     {
-      "sku": "4358949",
-      "name": "2023 Domaine Georges Roumier Chambolle-Musigny \"Les Cras\" 1er Cru",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "599.99",
-      "url": "https://www.winehouse.com/shop/2023-domaine-georges-roumier-chambolle-musigny-les-cras-1er-cru-137226",
-      "min-order": "1",
-      "offer-type": "",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5273-DEFAULT-l.jpg"
-    },
-    {
       "sku": "436741",
       "name": "2020 Maison Harbour Corton Charlemagne Grand Cru",
       "vintage": "2020",
@@ -26421,7 +26397,7 @@
       "url": "https://www.winehouse.com/shop/2015-domaine-gilbert-et-christine-felettig-chambolle-musigny-vieilles-vignes-137263",
       "min-order": "1",
       "offer-type": "R",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/5278-DEFAULT-l.jpg"
     },
     {
