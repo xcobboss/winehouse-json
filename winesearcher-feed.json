@@ -10332,7 +10332,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -47891,19 +47891,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "2",
       "image-url": ""
-    },
-    {
-      "sku": "8025401",
-      "name": "2014 Christopher Tynan Wines Meleagris Gallopavo Vineyard Cabernet Sauvignon Napa Valley",
-      "vintage": "2014",
-      "unit-size": "750ML",
-      "price": "399.98",
-      "url": "https://www.winehouse.com/shop/2014-christopher-tynan-wines-meleagris-gallopavo-vineyard-cabernet-sauvignon-napa-valley-129543",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/3866-DEFAULT-l.jpg"
     },
     {
       "sku": "8025862180327",
