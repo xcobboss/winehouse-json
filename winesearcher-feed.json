@@ -11935,19 +11935,6 @@
       "image-url": "https://www.winehouse.com/prodimages/1295-DEFAULT-l.jpg"
     },
     {
-      "sku": "13452898",
-      "name": "2022 Domaine Auguste Clape Cotes du Rhone",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "76.99",
-      "url": "https://www.winehouse.com/shop/2022-domaine-auguste-clape-cotes-du-rhone-130764",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "1349379",
       "name": "2021 Hartford Court Chardonnay Four Hearts Vineyard Russian River Valley Sonoma",
       "vintage": "2021",
@@ -16416,11 +16403,11 @@
     },
     {
       "sku": "22225",
-      "name": "2022 Ornellaia Bolgheri Superiore (Pre-Arrival, ETA Late Summer 2025)",
+      "name": "2022 Ornellaia Bolgheri Superiore (Pre-Arrival, ETA Late Fall 2025)",
       "vintage": "2022",
       "unit-size": "750ML",
       "price": "249.99",
-      "url": "https://www.winehouse.com/shop/2022-ornellaia-bolgheri-superiore-pre-arrival-eta-late-summer-2025-135556",
+      "url": "https://www.winehouse.com/shop/2022-ornellaia-bolgheri-superiore-pre-arrival-eta-late-fall-2025-135556",
       "min-order": "1",
       "offer-type": "PA",
       "stock-level": "87",
@@ -44951,7 +44938,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -44964,7 +44951,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/2806-DEFAULT-l.jpg"
     },
     {
@@ -52103,6 +52090,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "20",
       "image-url": ""
+    },
+    {
+      "sku": "840372714118",
+      "name": "2022 Tenuta San Guido Le Difese",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "36.99",
+      "url": "https://www.winehouse.com/shop/2022-tenuta-san-guido-le-difese-130582",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "11",
+      "image-url": "https://www.winehouse.com/prodimages/3426-DEFAULT-l.jpg"
     },
     {
       "sku": "840372715573",
@@ -62762,6 +62762,19 @@
       "offer-type": "",
       "delivery-time": "2-5 days",
       "stock-level": "1",
+      "image-url": ""
+    },
+    {
+      "sku": "972281",
+      "name": "2022 Orin Swift Papillon Red Wine Napa Valley",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "74.99",
+      "url": "https://www.winehouse.com/shop/2022-orin-swift-papillon-red-wine-napa-valley-136592",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "24",
       "image-url": ""
     },
     {
