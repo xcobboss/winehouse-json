@@ -140,7 +140,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/4206-DEFAULT-l.jpg"
     },
     {
@@ -13633,19 +13633,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/4853-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "189412",
-      "name": "2011 Domaine de la Romanee Conti La Tache Grand Cru",
-      "vintage": "2011",
-      "unit-size": "750ML",
-      "price": "4999.98",
-      "url": "https://www.winehouse.com/shop/2011-domaine-de-la-romanee-conti-la-tache-grand-cru-20145",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
     },
     {
       "sku": "193178",
