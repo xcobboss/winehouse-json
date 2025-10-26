@@ -14385,7 +14385,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/5306-DEFAULT-l.jpg"
     },
     {
@@ -14402,19 +14402,6 @@
       "image-url": "https://www.winehouse.com/prodimages/5380-DEFAULT-l.jpg"
     },
     {
-      "sku": "20037288",
-      "name": "2014 Jean Foillard Morgon Cote Du Py",
-      "vintage": "2014",
-      "unit-size": "750ML",
-      "price": "49.98",
-      "url": "https://www.winehouse.com/shop/2014-jean-foillard-morgon-cote-du-py-72501",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5307-DEFAULT-l.jpg"
-    },
-    {
       "sku": "20037508",
       "name": "2015 Domaine Marcel Lapierre Morgon",
       "vintage": "2015",
@@ -14424,7 +14411,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/5308-DEFAULT-l.jpg"
     },
     {
@@ -26365,7 +26352,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/5314-DEFAULT-l.jpg"
     },
     {
@@ -27912,7 +27899,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/5309-DEFAULT-l.jpg"
     },
     {
@@ -28003,7 +27990,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/5104-DEFAULT-l.jpg"
     },
     {
@@ -44215,19 +44202,6 @@
       "image-url": "https://www.winehouse.com/prodimages/1730-DEFAULT-l.jpg"
     },
     {
-      "sku": "76150322947",
-      "name": "2009 Jean Foillard Fleurie",
-      "vintage": "2009",
-      "unit-size": "750ML",
-      "price": "79.98",
-      "url": "https://www.winehouse.com/shop/2009-jean-foillard-fleurie-71840",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5427-DEFAULT-l.jpg"
-    },
-    {
       "sku": "761503230010",
       "name": "2023 Jean Foillard Beaujolais Village",
       "vintage": "2023",
@@ -44718,7 +44692,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/5310-DEFAULT-l.jpg"
     },
     {
