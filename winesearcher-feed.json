@@ -2831,7 +2831,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": ""
     },
     {
@@ -3260,7 +3260,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": ""
     },
     {
@@ -3494,7 +3494,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/778-DEFAULT-l.jpg"
     },
     {
@@ -3546,7 +3546,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/750-DEFAULT-l.jpg"
     },
     {
@@ -4469,7 +4469,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "33",
+      "stock-level": "32",
       "image-url": "https://www.winehouse.com/prodimages/796-DEFAULT-l.jpg"
     },
     {
@@ -5782,7 +5782,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "36",
+      "stock-level": "35",
       "image-url": "https://www.winehouse.com/prodimages/789-DEFAULT-l.jpg"
     },
     {
@@ -6770,7 +6770,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "43",
+      "stock-level": "42",
       "image-url": "https://www.winehouse.com/prodimages/788-DEFAULT-l.jpg"
     },
     {
@@ -6783,7 +6783,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/790-DEFAULT-l.jpg"
     },
     {
@@ -6978,7 +6978,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/4863-DEFAULT-l.jpg"
     },
     {
@@ -30174,7 +30174,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": ""
     },
     {
@@ -34773,7 +34773,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "7",
       "image-url": ""
     },
     {
@@ -48774,7 +48774,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": ""
     },
     {
@@ -59267,32 +59267,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "11",
       "image-url": ""
-    },
-    {
-      "sku": "898627001308",
-      "name": "Tequila Ocho Single Estate Plata-Blanco",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "41.99",
-      "url": "https://www.winehouse.com/shop/tequila-ocho-single-estate-plata-blanco-135348",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/2109-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "898627001315",
-      "name": "Tequila Ocho Single Estate Reposado",
-      "vintage": "",
-      "unit-size": "750ML",
-      "price": "49.99",
-      "url": "https://www.winehouse.com/shop/tequila-ocho-single-estate-reposado-135349",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/2110-DEFAULT-l.jpg"
     },
     {
       "sku": "899010",
