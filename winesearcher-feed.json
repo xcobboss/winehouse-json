@@ -9916,7 +9916,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": ""
     },
     {
@@ -17839,19 +17839,6 @@
       "image-url": "https://www.winehouse.com/prodimages/5501-DEFAULT-l.jpg"
     },
     {
-      "sku": "247358",
-      "name": "2023 Dujac Fils et Pere Chambolle Musigny Villages",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "129.99",
-      "url": "https://www.winehouse.com/shop/2023-dujac-fils-et-pere-chambolle-musigny-villages-137534",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": ""
-    },
-    {
       "sku": "247415",
       "name": "2023 Dujac Fils et Pere Morey St. Denis A.C.",
       "vintage": "2023",
@@ -20532,7 +20519,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "34",
+      "stock-level": "31",
       "image-url": "https://www.winehouse.com/prodimages/4309-DEFAULT-l.jpg"
     },
     {
@@ -23792,7 +23779,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/2536-DEFAULT-l.jpg"
     },
     {
@@ -24093,19 +24080,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/2534-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "3554770159873",
-      "name": "2022 Hubert Lamy Saint-Aubin Blanc La Princée",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "129.99",
-      "url": "https://www.winehouse.com/shop/2022-hubert-lamy-saint-aubin-blanc-la-princee-137231",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/5195-DEFAULT-l.jpg"
     },
     {
       "sku": "3554770159880",
@@ -51869,7 +51843,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/5591-DEFAULT-l.jpg"
     },
     {
