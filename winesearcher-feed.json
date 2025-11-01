@@ -4599,7 +4599,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": ""
     },
     {
@@ -4638,7 +4638,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -36494,19 +36494,6 @@
       "image-url": "https://www.winehouse.com/prodimages/4915-DEFAULT-l.jpg"
     },
     {
-      "sku": "639384",
-      "name": "2018 Merryvale Vineyards Profile Proprietary Red Wine Napa Valley (Was $199.99)",
-      "vintage": "2018",
-      "unit-size": "750ML",
-      "price": "99.00",
-      "url": "https://www.winehouse.com/shop/2018-merryvale-vineyards-profile-proprietary-red-wine-napa-valley-127742",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/2401-DEFAULT-l.jpg"
-    },
-    {
       "sku": "639737585537",
       "name": "2011 Chateau Latour Pauillac",
       "vintage": "2011",
@@ -42522,7 +42509,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "40",
+      "stock-level": "39",
       "image-url": "https://www.winehouse.com/prodimages/2983-DEFAULT-l.jpg"
     },
     {
@@ -49243,7 +49230,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "12",
       "image-url": ""
     },
     {
