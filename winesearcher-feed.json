@@ -3377,7 +3377,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/4354-DEFAULT-l.jpg"
     },
     {
@@ -8787,19 +8787,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/2421-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "332137",
-      "name": "2019 Realm Cellars The Bard Proprietary Red Blend Napa Valley",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "149.98",
-      "url": "https://www.winehouse.com/shop/2019-realm-cellars-the-bard-proprietary-red-blend-napa-valley-14416",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/2195-DEFAULT-l.jpg"
     },
     {
       "sku": "860003763551",
@@ -16442,7 +16429,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "33",
+      "stock-level": "32",
       "image-url": ""
     },
     {
@@ -25087,7 +25074,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/2459-DEFAULT-l.jpg"
     },
     {
@@ -35883,7 +35870,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": ""
     },
     {
@@ -35896,7 +35883,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/2063-DEFAULT-l.jpg"
     },
     {
@@ -54261,7 +54248,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": ""
     },
     {
