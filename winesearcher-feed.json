@@ -10280,7 +10280,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": ""
     },
     {
@@ -18197,7 +18197,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": ""
     },
     {
@@ -21176,6 +21176,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
+    },
+    {
+      "sku": "222000719",
+      "name": "2004 Shafer Vineyards Cabernet Sauvignon Hillside Select Stags Leap District",
+      "vintage": "2004",
+      "unit-size": "750ML",
+      "price": "324.98",
+      "url": "https://www.winehouse.com/shop/2004-shafer-vineyards-cabernet-sauvignon-hillside-select-stags-leap-district-63113",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/1851-DEFAULT-l.jpg"
     },
     {
       "sku": "314255",
@@ -33270,7 +33283,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": ""
     },
     {
@@ -42104,7 +42117,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "30",
+      "stock-level": "29",
       "image-url": "https://www.winehouse.com/prodimages/3591-DEFAULT-l.jpg"
     },
     {
@@ -56653,7 +56666,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/4637-DEFAULT-l.jpg"
     },
     {
@@ -58395,7 +58408,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/4883-DEFAULT-l.jpg"
     },
     {
@@ -62815,7 +62828,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/5481-DEFAULT-l.jpg"
     },
     {
@@ -62841,7 +62854,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/5508-DEFAULT-l.jpg"
     },
     {
