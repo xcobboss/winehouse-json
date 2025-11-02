@@ -1237,11 +1237,11 @@
     },
     {
       "sku": "031259005355",
-      "name": "2021The Calling Cabernet Sauvignon Paso Robles",
+      "name": "2021 The Calling Cabernet Sauvignon Paso Robles",
       "vintage": "2021",
       "unit-size": "750ML",
       "price": "24.99",
-      "url": "https://www.winehouse.com/shop/2021the-calling-cabernet-sauvignon-paso-robles-129757",
+      "url": "https://www.winehouse.com/shop/2021-the-calling-cabernet-sauvignon-paso-robles-129757",
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
@@ -6229,11 +6229,11 @@
     },
     {
       "sku": "086891090030",
-      "name": "2022 Klipsun Vineyards Red Wine Red Mountain AVA",
+      "name": "2022 Klipsun Vineyards Cabernet Sauvignon Red Mountain AVA",
       "vintage": "2022",
       "unit-size": "750ML",
       "price": "54.99",
-      "url": "https://www.winehouse.com/shop/2022-klipsun-vineyards-red-wine-red-mountain-ava-136248",
+      "url": "https://www.winehouse.com/shop/2022-klipsun-vineyards-cabernet-sauvignon-red-mountain-ava-136248",
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
@@ -56367,7 +56367,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/4427-DEFAULT-l.jpg"
     },
     {
@@ -57240,6 +57240,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/694-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "860000613507",
+      "name": "2019 Domaine Magdalena Red Mountain AVA",
+      "vintage": "2019",
+      "unit-size": "750ML",
+      "price": "49.99",
+      "url": "https://www.winehouse.com/shop/2019-domaine-magdalena-red-mountain-ava-137807",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "24",
+      "image-url": "https://www.winehouse.com/prodimages/5700-DEFAULT-l.jpg"
     },
     {
       "sku": "860001234602",
@@ -61996,7 +62009,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/4433-DEFAULT-l.jpg"
     },
     {
