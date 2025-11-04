@@ -2298,7 +2298,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "2",
       "image-url": ""
     },
     {
@@ -11036,19 +11036,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/4438-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "674545000001",
-      "name": "Don Julio Blanco Tequila",
-      "vintage": "",
-      "unit-size": "750ML",
-      "price": "49.99",
-      "url": "https://www.winehouse.com/shop/don-julio-blanco-tequila-17884",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/584-DEFAULT-l.jpg"
     },
     {
       "sku": "081753810979",
@@ -54664,7 +54651,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/4183-DEFAULT-l.jpg"
     },
     {
