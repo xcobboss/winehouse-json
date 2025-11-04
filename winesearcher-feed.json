@@ -4885,7 +4885,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/5686-DEFAULT-l.jpg"
     },
     {
@@ -8200,7 +8200,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "5",
       "image-url": ""
     },
     {
@@ -8694,7 +8694,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "43",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/3636-DEFAULT-l.jpg"
     },
     {
@@ -40065,7 +40065,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "32",
+      "stock-level": "26",
       "image-url": "https://www.winehouse.com/prodimages/3196-DEFAULT-l.jpg"
     },
     {
@@ -56432,33 +56432,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": ""
-    },
-    {
-      "sku": "858168005418",
-      "name": "Three Weavers Expatriate IPA 6P Cans 12 oz.",
-      "vintage": "",
-      "unit-size": "6PK",
-      "price": "12.99",
-      "url": "https://www.winehouse.com/shop/three-weavers-expatriate-ipa-6-9-abv-cans-102106",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
       "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/2521-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "858168005876",
-      "name": "Three Weavers Cloud City Hazy IPA 6.5% abv. Cans",
-      "vintage": "",
-      "unit-size": "6PK",
-      "price": "13.99",
-      "url": "https://www.winehouse.com/shop/three-weavers-cloud-city-hazy-ipa-6-5-abv-cans-22667",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
       "image-url": ""
     },
     {
