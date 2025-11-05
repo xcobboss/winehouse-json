@@ -10930,7 +10930,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/5518-DEFAULT-l.jpg"
     },
     {
@@ -21746,19 +21746,6 @@
       "image-url": "https://www.winehouse.com/prodimages/5280-DEFAULT-l.jpg"
     },
     {
-      "sku": "33330055",
-      "name": "2018 Rivers-Marie Summa Vineyards Old Vines Pinot Noir Sonoma Coast",
-      "vintage": "2018",
-      "unit-size": "750ML",
-      "price": "149.98",
-      "url": "https://www.winehouse.com/shop/2018-rivers-marie-summa-vineyards-old-vines-pinot-noir-sonoma-coast-137270",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5281-DEFAULT-l.jpg"
-    },
-    {
       "sku": "33330056",
       "name": "2019 Rivers Marie Pinot Noir Sonoma Coast Summa Vineyard",
       "vintage": "2019",
@@ -21768,7 +21755,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": ""
     },
     {
