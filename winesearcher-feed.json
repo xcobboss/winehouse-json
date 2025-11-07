@@ -3862,19 +3862,6 @@
       "image-url": "https://www.winehouse.com/prodimages/2857-DEFAULT-l.jpg"
     },
     {
-      "sku": "081753828844",
-      "name": "NV Veuve Clicquot Extra Brut Extra Old Number 1 Champagne",
-      "vintage": "NV",
-      "unit-size": "750ML",
-      "price": "94.98",
-      "url": "https://www.winehouse.com/shop/nv-veuve-clicquot-extra-brut-extra-old-edition-2-champagne-17973",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5075-DEFAULT-l.jpg"
-    },
-    {
       "sku": "081753831042",
       "name": "NV Krug Rose Champagne",
       "vintage": "NV",
@@ -28578,7 +28565,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "62",
+      "stock-level": "60",
       "image-url": ""
     },
     {
