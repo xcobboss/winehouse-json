@@ -16325,7 +16325,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": ""
     },
     {
@@ -32854,7 +32854,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/1117-DEFAULT-l.jpg"
     },
     {
@@ -51976,7 +51976,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "15",
+      "stock-level": "14",
       "image-url": "https://www.winehouse.com/prodimages/3609-DEFAULT-l.jpg"
     },
     {
@@ -59377,19 +59377,6 @@
       "image-url": "https://www.winehouse.com/prodimages/5284-DEFAULT-l.jpg"
     },
     {
-      "sku": "325158",
-      "name": "2021 The Mascot Red Wine Napa Valley",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "190.00",
-      "url": "https://www.winehouse.com/shop/2021-the-mascot-red-wine-napa-valley-137275",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5155-DEFAULT-l.jpg"
-    },
-    {
       "sku": "737038001500",
       "name": "2019 Stonestreet Cabernet Sauvignon Estate Sonoma County",
       "vintage": "2019",
@@ -62428,7 +62415,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "32",
+      "stock-level": "31",
       "image-url": "https://www.winehouse.com/prodimages/5690-DEFAULT-l.jpg"
     },
     {
