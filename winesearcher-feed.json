@@ -790,7 +790,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/4757-DEFAULT-l.jpg"
     },
     {
@@ -2415,7 +2415,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "28",
+      "stock-level": "24",
       "image-url": "https://www.winehouse.com/prodimages/5247-DEFAULT-l.jpg"
     },
     {
@@ -3641,19 +3641,6 @@
       "image-url": "https://www.winehouse.com/prodimages/3590-DEFAULT-l.jpg"
     },
     {
-      "sku": "081706000013",
-      "name": "Chimay Trappist Premiere Ale Red Label",
-      "vintage": "",
-      "unit-size": "",
-      "price": "4.99",
-      "url": "https://www.winehouse.com/shop/chimay-belgian-trappist-ale-red-label-bottle-conditioned-7-abv-11-2oz-27048",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "081706000037",
       "name": "Chimay Grande Reserve Belgian Trappist Ale Blue Label",
       "vintage": "",
@@ -3663,7 +3650,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": ""
     },
     {
@@ -3728,7 +3715,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "25",
+      "stock-level": "24",
       "image-url": ""
     },
     {
@@ -8655,7 +8642,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "15",
+      "stock-level": "14",
       "image-url": "https://www.winehouse.com/prodimages/3636-DEFAULT-l.jpg"
     },
     {
@@ -12178,7 +12165,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": ""
     },
     {
@@ -14190,7 +14177,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/2281-DEFAULT-l.jpg"
     },
     {
@@ -21435,19 +21422,6 @@
       "image-url": ""
     },
     {
-      "sku": "332515150025",
-      "name": "2022 Domaine du Grand Montmirail Gigondas Cuvée Les Deux Juliettes",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "29.99",
-      "url": "https://www.winehouse.com/shop/2022-domaine-du-grand-montmirail-gigondas-cuvee-les-deux-juliettes-137347",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "4",
-      "image-url": "https://www.winehouse.com/prodimages/5238-DEFAULT-l.jpg"
-    },
-    {
       "sku": "332695",
       "name": "2021 Realm Cellars The Bard Proprietary Red Blend Napa Valley",
       "vintage": "2021",
@@ -26628,7 +26602,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/3909-DEFAULT-l.jpg"
     },
     {
@@ -31269,7 +31243,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/4649-DEFAULT-l.jpg"
     },
     {
@@ -33633,7 +33607,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/4401-DEFAULT-l.jpg"
     },
     {
@@ -36233,7 +36207,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "5",
       "image-url": ""
     },
     {
@@ -44293,7 +44267,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/5777-DEFAULT-l.jpg"
     },
     {
@@ -48349,7 +48323,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "16",
       "image-url": ""
     },
     {
@@ -50702,7 +50676,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2.01",
+      "stock-level": "1.01",
       "image-url": ""
     },
     {
@@ -52678,7 +52652,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "12",
       "image-url": ""
     },
     {
@@ -59737,7 +59711,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/3720-DEFAULT-l.jpg"
     },
     {
