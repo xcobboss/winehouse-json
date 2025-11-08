@@ -21236,7 +21236,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": ""
     },
     {
@@ -23274,7 +23274,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/4171-DEFAULT-l.jpg"
     },
     {
@@ -26745,7 +26745,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "66",
+      "stock-level": "65",
       "image-url": "https://www.winehouse.com/prodimages/4877-DEFAULT-l.jpg"
     },
     {
@@ -28643,7 +28643,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "17",
       "image-url": ""
     },
     {
@@ -38105,7 +38105,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/2130-DEFAULT-l.jpg"
     },
     {
@@ -38690,7 +38690,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/5405-DEFAULT-l.jpg"
     },
     {
@@ -44518,19 +44518,6 @@
       "image-url": ""
     },
     {
-      "sku": "761503311023",
-      "name": "2023 Domaine Henri Costal Chablis Butteaux 1er Cru",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "49.99",
-      "url": "https://www.winehouse.com/shop/2023-domaine-henri-costal-chablis-butteaux-1er-cru-135421",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": ""
-    },
-    {
       "sku": "761503311184",
       "name": "2023 Domaine Costal Chablis Vaillons 1er Cru",
       "vintage": "2023",
@@ -44540,7 +44527,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/4241-DEFAULT-l.jpg"
     },
     {
@@ -44553,7 +44540,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/2291-DEFAULT-l.jpg"
     },
     {
@@ -48960,7 +48947,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "23",
       "image-url": "https://www.winehouse.com/prodimages/4804-DEFAULT-l.jpg"
     },
     {
@@ -56335,19 +56322,6 @@
       "image-url": ""
     },
     {
-      "sku": "858168005326",
-      "name": "Three Weavers Seafarer Kolsch 4.8% abv. Cans",
-      "vintage": "",
-      "unit-size": "6PK",
-      "price": "11.99",
-      "url": "https://www.winehouse.com/shop/three-weavers-seafarer-kolsch-4-8-abv-cans-22714",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "858232007935",
       "name": "Sagamore Spirit Signature Straight Maryland Rye Whiskey 41.5% abv",
       "vintage": "",
@@ -56762,19 +56736,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/2446-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "859809006061",
-      "name": "Brouwerij West, Popfuji Pilsner. 5% abv. of 16 oz cans",
-      "vintage": "",
-      "unit-size": "4PK",
-      "price": "12.99",
-      "url": "https://www.winehouse.com/shop/brouwerij-west-popfuji-pilsner-5-abv-of-16-oz-cans-20119",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
     },
     {
       "sku": "859809006078",
@@ -57787,7 +57748,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": ""
     },
     {
