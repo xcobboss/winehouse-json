@@ -3091,7 +3091,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -21591,19 +21591,6 @@
       "image-url": ""
     },
     {
-      "sku": "33330029",
-      "name": "2010 Domaine Vincent Dauvissat Chablis Premier Cru Vaillons",
-      "vintage": "2010",
-      "unit-size": "750ML",
-      "price": "219.98",
-      "url": "https://www.winehouse.com/shop/2010-domaine-vincent-dauvissat-chablis-premier-cru-vaillons-137209",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5063-DEFAULT-l.jpg"
-    },
-    {
       "sku": "33330031",
       "name": "2008 Veuve A. Devaux `D de Devaux` Millesime Champagne",
       "vintage": "2008",
@@ -35921,7 +35908,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "23",
       "image-url": "https://www.winehouse.com/prodimages/3140-DEFAULT-l.jpg"
     },
     {
@@ -55057,7 +55044,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "46",
+      "stock-level": "34",
       "image-url": "https://www.winehouse.com/prodimages/3821-DEFAULT-l.jpg"
     },
     {
@@ -55746,7 +55733,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/669-DEFAULT-l.jpg"
     },
     {
@@ -56123,7 +56110,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "30",
+      "stock-level": "29",
       "image-url": "https://www.winehouse.com/prodimages/3216-DEFAULT-l.jpg"
     },
     {
