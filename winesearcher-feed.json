@@ -144,19 +144,6 @@
       "image-url": "https://www.winehouse.com/prodimages/2063-DEFAULT-l.jpg"
     },
     {
-      "sku": "00123444",
-      "name": "2002 Leonetti Cellar Cabernet Sauvignon Columbia Valley",
-      "vintage": "2002",
-      "unit-size": "750ML",
-      "price": "129.98",
-      "url": "https://www.winehouse.com/shop/2002-leonetti-cellar-cabernet-sauvignon-columbia-valley-67436",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "0012345678912",
       "name": "NV J.L. Vergnon Blanc de Blancs Brut Conversation Grand Cru",
       "vintage": "NV",
@@ -7563,7 +7550,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/4435-DEFAULT-l.jpg"
     },
     {
@@ -21435,19 +21422,6 @@
       "image-url": "https://www.winehouse.com/prodimages/2338-DEFAULT-l.jpg"
     },
     {
-      "sku": "333300011",
-      "name": "2008 Henriot Rose Millesime Champagne",
-      "vintage": "2008",
-      "unit-size": "750ML",
-      "price": "99.98",
-      "url": "https://www.winehouse.com/shop/2008-henriot-rose-millesime-champagne-137150",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5055-DEFAULT-l.jpg"
-    },
-    {
       "sku": "33330002",
       "name": "2014 Joseph Drouhin Beaune Clos des Mouches Rouge",
       "vintage": "2014",
@@ -21639,7 +21613,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/5064-DEFAULT-l.jpg"
     },
     {
@@ -31022,7 +30996,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/3764-DEFAULT-l.jpg"
     },
     {
@@ -55902,7 +55876,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/4438-DEFAULT-l.jpg"
     },
     {
