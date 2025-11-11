@@ -8408,7 +8408,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/2897-DEFAULT-l.jpg"
     },
     {
@@ -11010,19 +11010,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "7",
       "image-url": ""
-    },
-    {
-      "sku": "12221459",
-      "name": "2007 Kongsgaard Wines Syrah Napa Valley",
-      "vintage": "2007",
-      "unit-size": "750ML",
-      "price": "199.98",
-      "url": "https://www.winehouse.com/shop/2007-kongsgaard-wines-syrah-napa-valley-4865",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5746-DEFAULT-l.jpg"
     },
     {
       "sku": "1225007",
@@ -22962,7 +22949,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/5853-DEFAULT-l.jpg"
     },
     {
@@ -51287,7 +51274,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/5591-DEFAULT-l.jpg"
     },
     {
@@ -55369,7 +55356,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": ""
     },
     {
