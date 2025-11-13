@@ -20586,7 +20586,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/4860-DEFAULT-l.jpg"
     },
     {
@@ -20616,19 +20616,6 @@
       "image-url": "https://www.winehouse.com/prodimages/4719-DEFAULT-l.jpg"
     },
     {
-      "sku": "322400",
-      "name": "NV Cruz Vieja Amontillado en Rama (Sherry)",
-      "vintage": "NV",
-      "unit-size": "750ML",
-      "price": "34.99",
-      "url": "https://www.winehouse.com/shop/nv-cruz-vieja-amontillado-en-rama-sherry-2049",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/4925-DEFAULT-l.jpg"
-    },
-    {
       "sku": "322424",
       "name": "2018 Didier Dagueneau Jurançon Les Jardins de Babylone Moelleux",
       "vintage": "2018",
@@ -20651,7 +20638,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -20677,7 +20664,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/4926-DEFAULT-l.jpg"
     },
     {
