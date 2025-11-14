@@ -17643,7 +17643,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/4726-DEFAULT-l.jpg"
     },
     {
@@ -17660,32 +17660,6 @@
       "image-url": "https://www.winehouse.com/prodimages/4727-DEFAULT-l.jpg"
     },
     {
-      "sku": "238544",
-      "name": "2023 Famillle Bertrand Morgon Cuvée Dynamite",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "46.99",
-      "url": "https://www.winehouse.com/shop/2023-famillle-bertrand-morgon-cuvee-dynamite-136775",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/4728-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "238694",
-      "name": "2023 Famillle Bertrand Morgon Cuvée Dynamite",
-      "vintage": "2023",
-      "unit-size": "1.5L",
-      "price": "95.99",
-      "url": "https://www.winehouse.com/shop/2023-famillle-bertrand-morgon-cuvee-dynamite-136776",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/4796-DEFAULT-l.jpg"
-    },
-    {
       "sku": "238791",
       "name": "2023 Famillle Bertrand Fleurie Cuvée du Chaos",
       "vintage": "2023",
@@ -17695,7 +17669,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/4729-DEFAULT-l.jpg"
     },
     {
@@ -45255,7 +45229,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/5310-DEFAULT-l.jpg"
     },
     {
