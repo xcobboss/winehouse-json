@@ -6042,7 +6042,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/4794-DEFAULT-l.jpg"
     },
     {
@@ -8815,19 +8815,6 @@
       "image-url": "https://www.winehouse.com/prodimages/5846-DEFAULT-l.jpg"
     },
     {
-      "sku": "098709088535",
-      "name": "2023 Bodega Catena Zapata Chardonnay Mendoza",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "19.99",
-      "url": "https://www.winehouse.com/shop/2023-bodega-catena-zapata-chardonnay-mendoza-137489",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "098709088542",
       "name": "2022 Catena Alta Chardonnay Mendoza",
       "vintage": "2022",
@@ -8837,7 +8824,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/2216-DEFAULT-l.jpg"
     },
     {
@@ -32285,19 +32272,6 @@
       "image-url": ""
     },
     {
-      "sku": "559633",
-      "name": "2010 Guigal St Joseph Vignes des Hospices",
-      "vintage": "2010",
-      "unit-size": "750ML",
-      "price": "119.98",
-      "url": "https://www.winehouse.com/shop/2010-guigal-st-joseph-vignes-des-hospices-52119",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/3208-DEFAULT-l.jpg"
-    },
-    {
       "sku": "5600269268033",
       "name": "2019 Herdade do Outeiros Altos Vino de Talha Alentejo Red Blend",
       "vintage": "2019",
@@ -48947,7 +48921,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/5849-DEFAULT-l.jpg"
     },
     {
@@ -49051,7 +49025,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "45",
+      "stock-level": "42",
       "image-url": "https://www.winehouse.com/prodimages/3510-DEFAULT-l.jpg"
     },
     {
@@ -49248,19 +49222,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/1687-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "810064520556",
-      "name": "2020 Conterno Fantino Barolo Sori Ginestra",
-      "vintage": "2020",
-      "unit-size": "750ML",
-      "price": "99.99",
-      "url": "https://www.winehouse.com/shop/2020-conterno-fantino-barolo-sori-ginestra-132155",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/1328-DEFAULT-l.jpg"
     },
     {
       "sku": "810080550032",
