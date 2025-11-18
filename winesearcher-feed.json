@@ -6952,7 +6952,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/1987-DEFAULT-l.jpg"
     },
     {
@@ -8423,19 +8423,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/6053-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "094799020462",
-      "name": "1994 Dow Vintage Port",
-      "vintage": "1994",
-      "unit-size": "750ML",
-      "price": "109.98",
-      "url": "https://www.winehouse.com/shop/1994-dow-vintage-port-130085",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": ""
     },
     {
       "sku": "094799260011",
@@ -31412,7 +31399,7 @@
       "url": "https://www.winehouse.com/shop/2022-chateau-giscours-margaux-pre-arrival-eta-spring-2026-138149",
       "min-order": "1",
       "offer-type": "PA",
-      "stock-level": "44",
+      "stock-level": "41",
       "image-url": ""
     },
     {
