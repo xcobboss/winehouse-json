@@ -491,7 +491,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": ""
     },
     {
@@ -2506,7 +2506,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/5813-DEFAULT-l.jpg"
     },
     {
@@ -4614,19 +4614,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "19",
       "image-url": "https://www.winehouse.com/prodimages/5684-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "084692477005",
-      "name": "2023 Tenuta San Guido Le Difese",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "39.99",
-      "url": "https://www.winehouse.com/shop/2023-tenuta-san-guido-le-difese-136102",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "11",
-      "image-url": "https://www.winehouse.com/prodimages/3604-DEFAULT-l.jpg"
     },
     {
       "sku": "084692478941",
@@ -16892,45 +16879,6 @@
       "offer-type": "PA",
       "stock-level": "118",
       "image-url": "https://www.winehouse.com/prodimages/2967-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "2411003",
-      "name": "2014 Peter Michael Winery Chardonnay Ma Belle Fille Sonoma County",
-      "vintage": "2014",
-      "unit-size": "750ML",
-      "price": "139.98",
-      "url": "https://www.winehouse.com/shop/2014-peter-michael-winery-chardonnay-ma-belle-fille-sonoma-county-68949",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5818-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "241500",
-      "name": "NV Jacky Blot Domaine de la Taille Aux Loups Triple Zero Montlouis Pétillant Brut",
-      "vintage": "NV",
-      "unit-size": "750ML",
-      "price": "36.99",
-      "url": "https://www.winehouse.com/shop/nv-jacky-blot-domaine-de-la-taille-aux-loups-triple-zero-montlouis-pétillant-brut-21285",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "15",
-      "image-url": "https://www.winehouse.com/prodimages/5187-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "241596325874",
-      "name": "2015 Domaine Serene `Yamhill Cuvee` Pinot Noir Willamette Valley [slight label damage]",
-      "vintage": "2015",
-      "unit-size": "750ML",
-      "price": "59.98",
-      "url": "https://www.winehouse.com/shop/2015-domaine-serene-pinot-noir-yamhill-cuvee-33123",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/4148-DEFAULT-l.jpg"
     },
     {
       "sku": "241633",
@@ -31762,7 +31710,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/4185-DEFAULT-l.jpg"
     },
     {
@@ -34546,32 +34494,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/3490-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "636824791802",
-      "name": "2023 Mongarda Prosecco Valdobbiadene Superiore Extra Dry",
-      "vintage": "NV",
-      "unit-size": "750ML",
-      "price": "22.99",
-      "url": "https://www.winehouse.com/shop/2023-mongarda-prosecco-valdobbiadene-superiore-extra-dry-136211",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "19",
-      "image-url": "https://www.winehouse.com/prodimages/4179-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "636824793141",
-      "name": "2023 TreCase Prosecco Treviso Extra Dry",
-      "vintage": "NV",
-      "unit-size": "750ML",
-      "price": "18.99",
-      "url": "https://www.winehouse.com/shop/2023-trecase-prosecco-treviso-extra-dry-136210",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "18",
-      "image-url": "https://www.winehouse.com/prodimages/4178-DEFAULT-l.jpg"
     },
     {
       "sku": "637784",
@@ -41148,7 +41070,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "4",
       "image-url": ""
     },
     {
@@ -42253,7 +42175,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/896-DEFAULT-l.jpg"
     },
     {
@@ -45464,7 +45386,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/3381-DEFAULT-l.jpg"
     },
     {
@@ -49416,7 +49338,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "20",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/6079-DEFAULT-l.jpg"
     },
     {
@@ -52328,7 +52250,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "56",
+      "stock-level": "53",
       "image-url": "https://www.winehouse.com/prodimages/3213-DEFAULT-l.jpg"
     },
     {
@@ -61272,7 +61194,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "57",
+      "stock-level": "54",
       "image-url": "https://www.winehouse.com/prodimages/6104-DEFAULT-l.jpg"
     },
     {
@@ -62781,6 +62703,71 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
+    },
+    {
+      "sku": "636824791802",
+      "name": "2023 Mongarda Prosecco Valdobbiadene Superiore Extra Dry",
+      "vintage": "NV",
+      "unit-size": "750ML",
+      "price": "22.99",
+      "url": "https://www.winehouse.com/shop/2023-mongarda-prosecco-valdobbiadene-superiore-extra-dry-136211",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "19",
+      "image-url": "https://www.winehouse.com/prodimages/4179-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "636824793141",
+      "name": "2023 TreCase Prosecco Treviso Extra Dry",
+      "vintage": "NV",
+      "unit-size": "750ML",
+      "price": "18.99",
+      "url": "https://www.winehouse.com/shop/2023-trecase-prosecco-treviso-extra-dry-136210",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "18",
+      "image-url": "https://www.winehouse.com/prodimages/4178-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "2411003",
+      "name": "2014 Peter Michael Winery Chardonnay Ma Belle Fille Sonoma County",
+      "vintage": "2014",
+      "unit-size": "750ML",
+      "price": "139.98",
+      "url": "https://www.winehouse.com/shop/2014-peter-michael-winery-chardonnay-ma-belle-fille-sonoma-county-68949",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/5818-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "241500",
+      "name": "NV Jacky Blot Domaine de la Taille Aux Loups Triple Zero Montlouis Pétillant Brut",
+      "vintage": "NV",
+      "unit-size": "750ML",
+      "price": "36.99",
+      "url": "https://www.winehouse.com/shop/nv-jacky-blot-domaine-de-la-taille-aux-loups-triple-zero-montlouis-pétillant-brut-21285",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "15",
+      "image-url": "https://www.winehouse.com/prodimages/5187-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "241596325874",
+      "name": "2015 Domaine Serene `Yamhill Cuvee` Pinot Noir Willamette Valley [slight label damage]",
+      "vintage": "2015",
+      "unit-size": "750ML",
+      "price": "59.98",
+      "url": "https://www.winehouse.com/shop/2015-domaine-serene-pinot-noir-yamhill-cuvee-33123",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/4148-DEFAULT-l.jpg"
     },
     {
       "sku": "2999110",
