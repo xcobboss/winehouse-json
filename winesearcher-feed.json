@@ -27284,32 +27284,6 @@
       "image-url": "https://www.winehouse.com/prodimages/1377-DEFAULT-l.jpg"
     },
     {
-      "sku": "45221037",
-      "name": "2006 Pride Mountain Vineyards Cabernet Franc Sonoma County",
-      "vintage": "2006",
-      "unit-size": "750ML",
-      "price": "69.98",
-      "url": "https://www.winehouse.com/shop/2006-pride-mountain-vineyards-cabernet-franc-107895",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5384-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "452231",
-      "name": "2007 Vineyard 29 Cabernet Sauvignon Napa Valley Aida Vineyard",
-      "vintage": "2007",
-      "unit-size": "750ML",
-      "price": "169.98",
-      "url": "https://www.winehouse.com/shop/2007-vineyard-29-cabernet-sauvignon-napa-valley-aida-vineyard-77974",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "4523625",
       "name": "2014 Vineyard 29 Cabernet Sauvignon Napa Valley Aida Vineyard",
       "vintage": "2014",
@@ -62859,6 +62833,32 @@
       "delivery-time": "2-5 days",
       "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/6099-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "45221037",
+      "name": "2006 Pride Mountain Vineyards Cabernet Franc Sonoma County",
+      "vintage": "2006",
+      "unit-size": "750ML",
+      "price": "69.98",
+      "url": "https://www.winehouse.com/shop/2006-pride-mountain-vineyards-cabernet-franc-107895",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/5384-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "452231",
+      "name": "2007 Vineyard 29 Cabernet Sauvignon Napa Valley Aida Vineyard",
+      "vintage": "2007",
+      "unit-size": "750ML",
+      "price": "169.98",
+      "url": "https://www.winehouse.com/shop/2007-vineyard-29-cabernet-sauvignon-napa-valley-aida-vineyard-77974",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
     },
     {
       "sku": "2999110",
