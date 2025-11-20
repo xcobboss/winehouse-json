@@ -23185,7 +23185,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/3623-DEFAULT-l.jpg"
     },
     {
@@ -34067,32 +34067,6 @@
       "image-url": ""
     },
     {
-      "sku": "632810",
-      "name": "2019 J Davies Cabernet Sauvignon Diamond Mountain District Napa Valley",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "134.99",
-      "url": "https://www.winehouse.com/shop/2019-j-davies-cabernet-sauvignon-diamond-mountain-district-napa-valley-127756",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "5",
-      "image-url": "https://www.winehouse.com/prodimages/1071-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "632916101702",
-      "name": "2020 Marimar Estate Chardonnay La Masia Don Miguel Vineyard, Russian River Valley",
-      "vintage": "2020",
-      "unit-size": "750ML",
-      "price": "44.99",
-      "url": "https://www.winehouse.com/shop/2020-marimar-estate-chardonnay-la-masia-don-miguel-vineyard-russian-river-valley-129147",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "7",
-      "image-url": "https://www.winehouse.com/prodimages/2408-DEFAULT-l.jpg"
-    },
-    {
       "sku": "632916140701",
       "name": "2021 Marimar Estate Albarino, Russian River Valley",
       "vintage": "2021",
@@ -36234,7 +36208,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "22",
       "image-url": ""
     },
     {
@@ -39393,7 +39367,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "26",
       "image-url": ""
     },
     {
@@ -40693,7 +40667,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/666-DEFAULT-l.jpg"
     },
     {
@@ -46738,7 +46712,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/5165-DEFAULT-l.jpg"
     },
     {
@@ -48441,7 +48415,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "14",
       "image-url": ""
     },
     {
@@ -48675,7 +48649,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/1461-DEFAULT-l.jpg"
     },
     {
@@ -52523,7 +52497,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "8",
       "image-url": ""
     },
     {
@@ -53914,7 +53888,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "44",
+      "stock-level": "43",
       "image-url": "https://www.winehouse.com/prodimages/4187-DEFAULT-l.jpg"
     },
     {
@@ -57580,7 +57554,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/1496-DEFAULT-l.jpg"
     },
     {
@@ -62129,7 +62103,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "11",
       "image-url": ""
     },
     {
@@ -62142,7 +62116,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "15",
       "image-url": ""
     },
     {
@@ -62155,7 +62129,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "1",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/908-DEFAULT-l.jpg"
     },
     {
@@ -62168,7 +62142,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "9",
       "image-url": ""
     },
     {
@@ -62807,6 +62781,32 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/2247-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "632810",
+      "name": "2019 J Davies Cabernet Sauvignon Diamond Mountain District Napa Valley",
+      "vintage": "2019",
+      "unit-size": "750ML",
+      "price": "134.99",
+      "url": "https://www.winehouse.com/shop/2019-j-davies-cabernet-sauvignon-diamond-mountain-district-napa-valley-127756",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "5",
+      "image-url": "https://www.winehouse.com/prodimages/1071-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "632916101702",
+      "name": "2020 Marimar Estate Chardonnay La Masia Don Miguel Vineyard, Russian River Valley",
+      "vintage": "2020",
+      "unit-size": "750ML",
+      "price": "44.99",
+      "url": "https://www.winehouse.com/shop/2020-marimar-estate-chardonnay-la-masia-don-miguel-vineyard-russian-river-valley-129147",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "7",
+      "image-url": "https://www.winehouse.com/prodimages/2408-DEFAULT-l.jpg"
     },
     {
       "sku": "2999110",
