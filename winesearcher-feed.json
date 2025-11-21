@@ -8070,7 +8070,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "48",
+      "stock-level": "47",
       "image-url": "https://www.winehouse.com/prodimages/5861-DEFAULT-l.jpg"
     },
     {
@@ -11257,45 +11257,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/3570-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "132393",
-      "name": "2023 Domaine Sauzet Bourgogne Hautes Cotes de Beaune `Jardin du Calvaire` Blanc",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "56.99",
-      "url": "https://www.winehouse.com/shop/2023-domaine-sauzet-bourgogne-hautes-cotes-de-beaune-jardin-du-calvaire-blanc-137898",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "35",
-      "image-url": "https://www.winehouse.com/prodimages/6007-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "132991",
-      "name": "2022 Domaine Dujac Morey St. Denis BLANC Les Monts Luisants 1er Cru",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "239.99",
-      "url": "https://www.winehouse.com/shop/2022-domaine-dujac-morey-st-denis-blanc-les-monts-luisants-1er-cru-132633",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "4",
-      "image-url": ""
-    },
-    {
-      "sku": "133002",
-      "name": "2014 Domaine de la Romanee Conti Corton Grand Cru",
-      "vintage": "2014",
-      "unit-size": "750ML",
-      "price": "3499.95",
-      "url": "https://www.winehouse.com/shop/2014-domaine-de-la-romanee-conti-corton-grand-cru-53211",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
     },
     {
       "sku": "133007",
@@ -20029,7 +19990,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/1625-DEFAULT-l.jpg"
     },
     {
@@ -25553,45 +25514,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/3109-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "409393",
-      "name": "2023 Lucia Vineyards Lucia Pinot Noir Santa Lucia Highlands",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "49.99",
-      "url": "https://www.winehouse.com/shop/2023-lucia-vineyards-lucia-pinot-noir-santa-lucia-highlands-136475",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "24",
-      "image-url": "https://www.winehouse.com/prodimages/4076-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "41001447",
-      "name": "2011 Peter Michael Winery Pinot Noir Clos du Ciel Sonoma Coast",
-      "vintage": "2011",
-      "unit-size": "750ML",
-      "price": "129.98",
-      "url": "https://www.winehouse.com/shop/2011-peter-michael-winery-pinot-noir-clos-du-ciel-sonoma-coast-12473",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/2347-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "41002713",
-      "name": "1996 Beringer Vineyards Cabernet Sauvignon Private Reserve Napa Valley",
-      "vintage": "1996",
-      "unit-size": "750ML",
-      "price": "119.98",
-      "url": "https://www.winehouse.com/shop/1996-beringer-vineyards-cabernet-sauvignon-private-reserve-napa-valley-some-label-damage-60523",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "13",
-      "image-url": ""
     },
     {
       "sku": "410141",
@@ -41681,7 +41603,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/713-DEFAULT-l.jpg"
     },
     {
@@ -49403,7 +49325,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": ""
     },
     {
@@ -56748,7 +56670,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "15",
       "image-url": ""
     },
     {
@@ -60665,6 +60587,84 @@
       "image-url": ""
     },
     {
+      "sku": "132393",
+      "name": "2023 Domaine Sauzet Bourgogne Hautes Cotes de Beaune `Jardin du Calvaire` Blanc",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "56.99",
+      "url": "https://www.winehouse.com/shop/2023-domaine-sauzet-bourgogne-hautes-cotes-de-beaune-jardin-du-calvaire-blanc-137898",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "35",
+      "image-url": "https://www.winehouse.com/prodimages/6007-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "132991",
+      "name": "2022 Domaine Dujac Morey St. Denis BLANC Les Monts Luisants 1er Cru",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "239.99",
+      "url": "https://www.winehouse.com/shop/2022-domaine-dujac-morey-st-denis-blanc-les-monts-luisants-1er-cru-132633",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "4",
+      "image-url": ""
+    },
+    {
+      "sku": "133002",
+      "name": "2014 Domaine de la Romanee Conti Corton Grand Cru",
+      "vintage": "2014",
+      "unit-size": "750ML",
+      "price": "3499.95",
+      "url": "https://www.winehouse.com/shop/2014-domaine-de-la-romanee-conti-corton-grand-cru-53211",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
+      "sku": "409393",
+      "name": "2023 Lucia Vineyards Lucia Pinot Noir Santa Lucia Highlands",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "49.99",
+      "url": "https://www.winehouse.com/shop/2023-lucia-vineyards-lucia-pinot-noir-santa-lucia-highlands-136475",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "24",
+      "image-url": "https://www.winehouse.com/prodimages/4076-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "41001447",
+      "name": "2011 Peter Michael Winery Pinot Noir Clos du Ciel Sonoma Coast",
+      "vintage": "2011",
+      "unit-size": "750ML",
+      "price": "129.98",
+      "url": "https://www.winehouse.com/shop/2011-peter-michael-winery-pinot-noir-clos-du-ciel-sonoma-coast-12473",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "3",
+      "image-url": "https://www.winehouse.com/prodimages/2347-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "41002713",
+      "name": "1996 Beringer Vineyards Cabernet Sauvignon Private Reserve Napa Valley",
+      "vintage": "1996",
+      "unit-size": "750ML",
+      "price": "119.98",
+      "url": "https://www.winehouse.com/shop/1996-beringer-vineyards-cabernet-sauvignon-private-reserve-napa-valley-some-label-damage-60523",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "13",
+      "image-url": ""
+    },
+    {
       "sku": "8436541331211",
       "name": "NV Equipo Navazos La Bota de Manzanillia 111 Florpower MMXVIII Sanlucar de Barrameda",
       "vintage": "NV",
@@ -61311,7 +61311,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/6107-DEFAULT-l.jpg"
     },
     {
