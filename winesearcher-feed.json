@@ -556,7 +556,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "12",
       "image-url": ""
     },
     {
@@ -10737,45 +10737,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/1927-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "124187",
-      "name": "2023 Domaine Michel Bouzereau et Fils Bourgogne Côte d’Or Chardonnay",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "46.99",
-      "url": "https://www.winehouse.com/shop/2023-domaine-michel-bouzereau-et-fils-bourgogne-c-te-d-or-pinot-noir-136282",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "17",
-      "image-url": "https://www.winehouse.com/prodimages/4320-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "124201254",
-      "name": "2012 Domaine de la Romanee Conti La Tache Grand Cru Banded OWC Six-pack",
-      "vintage": "2012",
-      "unit-size": "750ML",
-      "price": "46499.98",
-      "url": "https://www.winehouse.com/shop/2012-domaine-de-la-romanee-conti-la-tache-grand-cru-banded-owc-six-pack-122409",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
-      "sku": "124237",
-      "name": "2023 Domaine Michel Bouzereau Meursault-Blagny",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "189.99",
-      "url": "https://www.winehouse.com/shop/2023-domaine-michel-bouzereau-meursault-blagny-136283",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/4321-DEFAULT-l.jpg"
     },
     {
       "sku": "124433",
@@ -56527,7 +56488,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/3550-DEFAULT-l.jpg"
     },
     {
@@ -60856,7 +60817,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "35",
+      "stock-level": "33",
       "image-url": "https://www.winehouse.com/prodimages/6104-DEFAULT-l.jpg"
     },
     {
@@ -62573,6 +62534,45 @@
       "delivery-time": "2-5 days",
       "stock-level": "6",
       "image-url": ""
+    },
+    {
+      "sku": "124187",
+      "name": "2023 Domaine Michel Bouzereau et Fils Bourgogne Côte d’Or Chardonnay",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "46.99",
+      "url": "https://www.winehouse.com/shop/2023-domaine-michel-bouzereau-et-fils-bourgogne-c-te-d-or-pinot-noir-136282",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "17",
+      "image-url": "https://www.winehouse.com/prodimages/4320-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "124201254",
+      "name": "2012 Domaine de la Romanee Conti La Tache Grand Cru Banded OWC Six-pack",
+      "vintage": "2012",
+      "unit-size": "750ML",
+      "price": "46499.98",
+      "url": "https://www.winehouse.com/shop/2012-domaine-de-la-romanee-conti-la-tache-grand-cru-banded-owc-six-pack-122409",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
+      "sku": "124237",
+      "name": "2023 Domaine Michel Bouzereau Meursault-Blagny",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "189.99",
+      "url": "https://www.winehouse.com/shop/2023-domaine-michel-bouzereau-meursault-blagny-136283",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/4321-DEFAULT-l.jpg"
     },
     {
       "sku": "40404006",
