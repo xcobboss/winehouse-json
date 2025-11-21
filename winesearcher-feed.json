@@ -14739,19 +14739,6 @@
       "image-url": ""
     },
     {
-      "sku": "219029",
-      "name": "2019 Chateau Malescot-St-Exupery Margaux",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "79.99",
-      "url": "https://www.winehouse.com/shop/2019-chateau-malescot-st-exupery-margaux-12873",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "24",
-      "image-url": ""
-    },
-    {
       "sku": "219079",
       "name": "2019 Domaine de Chevalier Pessac-Léognan Rouge",
       "vintage": "2019",
@@ -20979,84 +20966,6 @@
       "image-url": "https://www.winehouse.com/prodimages/3451-DEFAULT-l.jpg"
     },
     {
-      "sku": "3430430006339",
-      "name": "2014 Chateau Giscours Margaux",
-      "vintage": "2014",
-      "unit-size": "750ML",
-      "price": "84.99",
-      "url": "https://www.winehouse.com/shop/2014-chateau-giscours-margaux-4800",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "7",
-      "image-url": "https://www.winehouse.com/prodimages/5245-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "3430430008487",
-      "name": "2018 Chateau Giscours Margaux",
-      "vintage": "2018",
-      "unit-size": "750ML",
-      "price": "84.99",
-      "url": "https://www.winehouse.com/shop/2018-chateau-giscours-margaux-136996",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "9",
-      "image-url": "https://www.winehouse.com/prodimages/5233-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "3430430009309",
-      "name": "2019 La Sirene de Giscours Margaux",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "39.99",
-      "url": "https://www.winehouse.com/shop/2019-la-sirene-de-giscours-margaux-136995",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "4",
-      "image-url": ""
-    },
-    {
-      "sku": "3430430009903",
-      "name": "2019 Le Haut Medoc de Giscours Haut Medoc",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "31.99",
-      "url": "https://www.winehouse.com/shop/2019-le-haut-medoc-de-giscours-haut-medoc-136993",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "19",
-      "image-url": "https://www.winehouse.com/prodimages/5231-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "3435160008752",
-      "name": "2008 Chateau Malescot St. Exupery Margaux",
-      "vintage": "2008",
-      "unit-size": "750ML",
-      "price": "129.98",
-      "url": "https://www.winehouse.com/shop/2008-chateau-malescot-st-exupery-margaux-69963",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/3469-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "3435160020754",
-      "name": "2020 Chateau Malescot-St-Exupery Margaux",
-      "vintage": "2020",
-      "unit-size": "750ML",
-      "price": "74.99",
-      "url": "https://www.winehouse.com/shop/2020-chateau-malescot-st-exupery-margaux-4257",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "24",
-      "image-url": ""
-    },
-    {
       "sku": "3438081121012",
       "name": "2021 Chateau Smith Haut Lafitte Rouge Pessac-Leognan",
       "vintage": "2021",
@@ -26968,7 +26877,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "26",
+      "stock-level": "25",
       "image-url": ""
     },
     {
@@ -47245,7 +47154,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/4599-DEFAULT-l.jpg"
     },
     {
@@ -62703,6 +62612,84 @@
       "delivery-time": "2-5 days",
       "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/2551-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "3430430006339",
+      "name": "2014 Chateau Giscours Margaux",
+      "vintage": "2014",
+      "unit-size": "750ML",
+      "price": "84.99",
+      "url": "https://www.winehouse.com/shop/2014-chateau-giscours-margaux-4800",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "7",
+      "image-url": "https://www.winehouse.com/prodimages/5245-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "3430430008487",
+      "name": "2018 Chateau Giscours Margaux",
+      "vintage": "2018",
+      "unit-size": "750ML",
+      "price": "84.99",
+      "url": "https://www.winehouse.com/shop/2018-chateau-giscours-margaux-136996",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "9",
+      "image-url": "https://www.winehouse.com/prodimages/5233-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "3430430009309",
+      "name": "2019 La Sirene de Giscours Margaux",
+      "vintage": "2019",
+      "unit-size": "750ML",
+      "price": "39.99",
+      "url": "https://www.winehouse.com/shop/2019-la-sirene-de-giscours-margaux-136995",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "4",
+      "image-url": ""
+    },
+    {
+      "sku": "3430430009903",
+      "name": "2019 Le Haut Medoc de Giscours Haut Medoc",
+      "vintage": "2019",
+      "unit-size": "750ML",
+      "price": "31.99",
+      "url": "https://www.winehouse.com/shop/2019-le-haut-medoc-de-giscours-haut-medoc-136993",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "19",
+      "image-url": "https://www.winehouse.com/prodimages/5231-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "3435160008752",
+      "name": "2008 Chateau Malescot St. Exupery Margaux",
+      "vintage": "2008",
+      "unit-size": "750ML",
+      "price": "129.98",
+      "url": "https://www.winehouse.com/shop/2008-chateau-malescot-st-exupery-margaux-69963",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/3469-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "3435160020754",
+      "name": "2020 Chateau Malescot-St-Exupery Margaux",
+      "vintage": "2020",
+      "unit-size": "750ML",
+      "price": "74.99",
+      "url": "https://www.winehouse.com/shop/2020-chateau-malescot-st-exupery-margaux-4257",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "24",
+      "image-url": ""
     },
     {
       "sku": "21471088",
