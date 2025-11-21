@@ -4040,7 +4040,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "37",
       "image-url": "https://www.winehouse.com/prodimages/5773-DEFAULT-l.jpg"
     },
     {
@@ -8603,7 +8603,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/1439-DEFAULT-l.jpg"
     },
     {
@@ -33868,7 +33868,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/2099-DEFAULT-l.jpg"
     },
     {
@@ -37330,58 +37330,6 @@
       "image-url": "https://www.winehouse.com/prodimages/447-DEFAULT-l.jpg"
     },
     {
-      "sku": "7040514",
-      "name": "2012 Giovanni Canonica Barolo del Comune di Grinzane Cavour DOCG",
-      "vintage": "2012",
-      "unit-size": "750ML",
-      "price": "299.98",
-      "url": "https://www.winehouse.com/shop/2012-giovanni-canonica-barolo-del-comune-di-grinzane-cavour-docg-organic-127861",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/3998-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "704228202009",
-      "name": "Tequila Arette Artesanal Suave Blanco 40% abv",
-      "vintage": "",
-      "unit-size": "750ML",
-      "price": "49.99",
-      "url": "https://www.winehouse.com/shop/tequila-arette-artesanal-suave-blanco-40-abv-26386",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/703-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "704228203006",
-      "name": "Tequila Arette Artesanal Suave Reposado 40% abv",
-      "vintage": "",
-      "unit-size": "750ML",
-      "price": "59.99",
-      "url": "https://www.winehouse.com/shop/tequila-arette-artesanal-suave-reposado-40-abv-26387",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "8",
-      "image-url": "https://www.winehouse.com/prodimages/704-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "705000956",
-      "name": "2009 Domaine Dugat-Py Chambertin Grand Cru",
-      "vintage": "2009",
-      "unit-size": "750ML",
-      "price": "1999.98",
-      "url": "https://www.winehouse.com/shop/2009-domaine-dugat-py-chambertin-grand-cru-127975",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "7050127",
       "name": "2003 Terre di Lavoro Galardi Campania",
       "vintage": "2003",
@@ -39419,7 +39367,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/4580-DEFAULT-l.jpg"
     },
     {
@@ -44634,19 +44582,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/2530-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "799419000076",
-      "name": "2021 Metier By DeLille Cellars Cabernet Sauvignon Columbia Valley",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "18.99",
-      "url": "https://www.winehouse.com/shop/2021-metier-by-delille-cellars-cabernet-sauvignon-columbia-valley-135092",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/927-DEFAULT-l.jpg"
     },
     {
       "sku": "799419010136",
@@ -62351,6 +62286,58 @@
       "offer-type": "",
       "delivery-time": "2-5 days",
       "stock-level": "6",
+      "image-url": ""
+    },
+    {
+      "sku": "7040514",
+      "name": "2012 Giovanni Canonica Barolo del Comune di Grinzane Cavour DOCG",
+      "vintage": "2012",
+      "unit-size": "750ML",
+      "price": "299.98",
+      "url": "https://www.winehouse.com/shop/2012-giovanni-canonica-barolo-del-comune-di-grinzane-cavour-docg-organic-127861",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/3998-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "704228202009",
+      "name": "Tequila Arette Artesanal Suave Blanco 40% abv",
+      "vintage": "",
+      "unit-size": "750ML",
+      "price": "49.99",
+      "url": "https://www.winehouse.com/shop/tequila-arette-artesanal-suave-blanco-40-abv-26386",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "3",
+      "image-url": "https://www.winehouse.com/prodimages/703-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "704228203006",
+      "name": "Tequila Arette Artesanal Suave Reposado 40% abv",
+      "vintage": "",
+      "unit-size": "750ML",
+      "price": "59.99",
+      "url": "https://www.winehouse.com/shop/tequila-arette-artesanal-suave-reposado-40-abv-26387",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "8",
+      "image-url": "https://www.winehouse.com/prodimages/704-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "705000956",
+      "name": "2009 Domaine Dugat-Py Chambertin Grand Cru",
+      "vintage": "2009",
+      "unit-size": "750ML",
+      "price": "1999.98",
+      "url": "https://www.winehouse.com/shop/2009-domaine-dugat-py-chambertin-grand-cru-127975",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
       "image-url": ""
     },
     {
