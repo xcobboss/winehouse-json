@@ -36,7 +36,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "32",
+      "stock-level": "26",
       "image-url": "https://www.winehouse.com/prodimages/4251-DEFAULT-l.jpg"
     },
     {
@@ -7563,7 +7563,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/4914-DEFAULT-l.jpg"
     },
     {
@@ -7901,7 +7901,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "47",
+      "stock-level": "35",
       "image-url": "https://www.winehouse.com/prodimages/5861-DEFAULT-l.jpg"
     },
     {
@@ -21685,12 +21685,12 @@
       "name": "NV Domaine Parigot et Richard Crémant de Bourgogne La Sentinelle Blanc de Blancs",
       "vintage": "NV",
       "unit-size": "750ML",
-      "price": "29.99",
+      "price": "35.99",
       "url": "https://www.winehouse.com/shop/nv-domaine-parigot-et-richard-crémant-de-bourgogne-la-sentinelle-blanc-de-blancs-24510",
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "21",
       "image-url": ""
     },
     {
@@ -21789,12 +21789,12 @@
       "name": "NV Parigot et Richard Crémant de Bourgogne Monochrome Rosé",
       "vintage": "NV",
       "unit-size": "750ML",
-      "price": "29.99",
+      "price": "35.99",
       "url": "https://www.winehouse.com/shop/nv-parigot-et-richard-crémant-de-bourgogne-monochrome-rosé-24511",
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "1",
+      "stock-level": "25",
       "image-url": ""
     },
     {
@@ -22432,19 +22432,6 @@
       "offer-type": "R",
       "delivery-time": "2-5 days",
       "stock-level": "2",
-      "image-url": ""
-    },
-    {
-      "sku": "3584642120410",
-      "name": "NV Liebart Regnier Confidencia Brut Champagne",
-      "vintage": "NV",
-      "unit-size": "750ML",
-      "price": "47.99",
-      "url": "https://www.winehouse.com/shop/nv-liebart-regnier-confidencia-brut-champagne-133966",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -41915,7 +41902,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/5696-DEFAULT-l.jpg"
     },
     {
@@ -42630,7 +42617,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/6051-DEFAULT-l.jpg"
     },
     {
@@ -43657,7 +43644,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/4768-DEFAULT-l.jpg"
     },
     {
@@ -43776,45 +43763,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "28",
       "image-url": "https://www.winehouse.com/prodimages/5206-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "781753059049",
-      "name": "2021 Eyrie Pinot Noir Estate Dundee Hills Willamette Valley",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "49.99",
-      "url": "https://www.winehouse.com/shop/2021-eyrie-pinot-noir-estate-dundee-hills-willamette-valley-134796",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "18",
-      "image-url": "https://www.winehouse.com/prodimages/3755-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "78215417",
-      "name": "2024 Lady of the Sunshine Sauvignon Blanc Stolpman Vineyard",
-      "vintage": "2024",
-      "unit-size": "750ML",
-      "price": "33.99",
-      "url": "https://www.winehouse.com/shop/2024-lady-of-the-sunshine-sauvignon-blanc-stolpman-vineyard-136608",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "5",
-      "image-url": "https://www.winehouse.com/prodimages/4297-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "782200",
-      "name": "2015 Domaine de la Grand`Cour (Jean-Louis Dutraive), Fleurie Cuvee Vieilles Vignes Le Clos",
-      "vintage": "2015",
-      "unit-size": "1.5L",
-      "price": "144.98",
-      "url": "https://www.winehouse.com/shop/2015-domaine-de-la-grand-cour-jean-louis-dutraive-fleurie-cuvee-vieilles-vignes-le-clos-104094",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
     },
     {
       "sku": "782512",
@@ -44931,7 +44879,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/569-DEFAULT-l.jpg"
     },
     {
@@ -48779,7 +48727,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/3908-DEFAULT-l.jpg"
     },
     {
@@ -53825,32 +53773,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "28",
       "image-url": "https://www.winehouse.com/prodimages/3591-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "859369001636",
-      "name": "2023 Flowers Vineyard Pinot Noir Sonoma Coast",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "56.99",
-      "url": "https://www.winehouse.com/shop/2023-flowers-vineyard-pinot-noir-sonoma-coast-135335",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "21",
-      "image-url": "https://www.winehouse.com/prodimages/2038-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "859369001773",
-      "name": "2024 Flowers Vineyard Rose of Pinot Noir Sonoma Coast",
-      "vintage": "2024",
-      "unit-size": "750ML",
-      "price": "23.99",
-      "url": "https://www.winehouse.com/shop/2024-flowers-vineyard-rose-of-pinot-noir-sonoma-coast-137034",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "32",
-      "image-url": "https://www.winehouse.com/prodimages/4899-DEFAULT-l.jpg"
     },
     {
       "sku": "859612001024",
@@ -62334,6 +62256,71 @@
       "unit-size": "750ML",
       "price": "1999.98",
       "url": "https://www.winehouse.com/shop/2009-domaine-dugat-py-chambertin-grand-cru-127975",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
+      "sku": "859369001636",
+      "name": "2023 Flowers Vineyard Pinot Noir Sonoma Coast",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "56.99",
+      "url": "https://www.winehouse.com/shop/2023-flowers-vineyard-pinot-noir-sonoma-coast-135335",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "21",
+      "image-url": "https://www.winehouse.com/prodimages/2038-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "859369001773",
+      "name": "2024 Flowers Vineyard Rose of Pinot Noir Sonoma Coast",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "23.99",
+      "url": "https://www.winehouse.com/shop/2024-flowers-vineyard-rose-of-pinot-noir-sonoma-coast-137034",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "32",
+      "image-url": "https://www.winehouse.com/prodimages/4899-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "781753059049",
+      "name": "2021 Eyrie Pinot Noir Estate Dundee Hills Willamette Valley",
+      "vintage": "2021",
+      "unit-size": "750ML",
+      "price": "49.99",
+      "url": "https://www.winehouse.com/shop/2021-eyrie-pinot-noir-estate-dundee-hills-willamette-valley-134796",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "18",
+      "image-url": "https://www.winehouse.com/prodimages/3755-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "78215417",
+      "name": "2024 Lady of the Sunshine Sauvignon Blanc Stolpman Vineyard",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "33.99",
+      "url": "https://www.winehouse.com/shop/2024-lady-of-the-sunshine-sauvignon-blanc-stolpman-vineyard-136608",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "5",
+      "image-url": "https://www.winehouse.com/prodimages/4297-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "782200",
+      "name": "2015 Domaine de la Grand`Cour (Jean-Louis Dutraive), Fleurie Cuvee Vieilles Vignes Le Clos",
+      "vintage": "2015",
+      "unit-size": "1.5L",
+      "price": "144.98",
+      "url": "https://www.winehouse.com/shop/2015-domaine-de-la-grand-cour-jean-louis-dutraive-fleurie-cuvee-vieilles-vignes-le-clos-104094",
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
