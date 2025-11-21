@@ -1986,7 +1986,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/209-DEFAULT-l.jpg"
     },
     {
@@ -19721,19 +19721,6 @@
       "image-url": ""
     },
     {
-      "sku": "326309293",
-      "name": "2024 Scar of the Sea Zinfandel Lopez Vineyard, Cucamonga Valley",
-      "vintage": "2024",
-      "unit-size": "750ML",
-      "price": "35.99",
-      "url": "https://www.winehouse.com/shop/2024-scar-of-the-sea-zinfandel-lopez-vineyard-cucamonga-valley-136598",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "10",
-      "image-url": ""
-    },
-    {
       "sku": "3269160010909",
       "name": "NV Joseph Perrier Cuvee Royale Brut Rose Champagne",
       "vintage": "NV",
@@ -23614,7 +23601,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/5239-DEFAULT-l.jpg"
     },
     {
@@ -23848,7 +23835,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/1509-DEFAULT-l.jpg"
     },
     {
@@ -46738,7 +46725,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/5913-DEFAULT-l.jpg"
     },
     {
@@ -46881,7 +46868,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/1897-DEFAULT-l.jpg"
     },
     {
@@ -47713,7 +47700,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": ""
     },
     {
@@ -56007,7 +55994,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "117",
+      "stock-level": "116",
       "image-url": "https://www.winehouse.com/prodimages/3834-DEFAULT-l.jpg"
     },
     {
@@ -56098,7 +56085,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/3838-DEFAULT-l.jpg"
     },
     {
@@ -57164,7 +57151,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "42",
+      "stock-level": "41",
       "image-url": "https://www.winehouse.com/prodimages/1499-DEFAULT-l.jpg"
     },
     {
@@ -57203,7 +57190,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/4300-DEFAULT-l.jpg"
     },
     {
@@ -58139,7 +58126,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/1384-DEFAULT-l.jpg"
     },
     {
@@ -59595,7 +59582,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": ""
     },
     {
@@ -62692,6 +62679,19 @@
       "image-url": ""
     },
     {
+      "sku": "326309293",
+      "name": "2024 Scar of the Sea Zinfandel Lopez Vineyard, Cucamonga Valley",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "35.99",
+      "url": "https://www.winehouse.com/shop/2024-scar-of-the-sea-zinfandel-lopez-vineyard-cucamonga-valley-136598",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "10",
+      "image-url": ""
+    },
+    {
       "sku": "21471088",
       "name": "2001 Silver Oak Cellars Cabernet Sauvignon Alexander Valley",
       "vintage": "2001",
@@ -63234,7 +63234,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/4869-DEFAULT-l.jpg"
     },
     {
