@@ -23956,71 +23956,6 @@
       "image-url": ""
     },
     {
-      "sku": "3760194770079",
-      "name": "2023 Domaine Fontaine-Gagnard Chassagne-Montrachet \"Les Vergers\" 1er Cru",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "132.99",
-      "url": "https://www.winehouse.com/shop/2023-domaine-fontaine-gagnard-chassagne-montrachet-les-vergers-1er-cru-135920",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/5014-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "3760199160677",
-      "name": "2023 Denis Meunier Vouvray Sec \"Expresion De Silex\"",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "23.99",
-      "url": "https://www.winehouse.com/shop/2023-denis-meunier-vouvray-sec-expresion-de-silex-136016",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "7",
-      "image-url": "https://www.winehouse.com/prodimages/3527-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "3760206981813",
-      "name": "2018 Chateau Fleur Cardinale St Emilion Grand Cru",
-      "vintage": "2018",
-      "unit-size": "750ML",
-      "price": "56.99",
-      "url": "https://www.winehouse.com/shop/2018-chateau-fleur-cardinale-st-emilion-grand-cru-131165",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "36",
-      "image-url": "https://www.winehouse.com/prodimages/1264-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "3760209920369",
-      "name": "2023 Chateau de la Font du Loup Chateauneuf du Pape",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "59.99",
-      "url": "https://www.winehouse.com/shop/2023-chateau-de-la-font-du-loup-chateauneuf-du-pape-137905",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "11",
-      "image-url": "https://www.winehouse.com/prodimages/5860-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "3760209920475",
-      "name": "2022 Chateau de la Font du Loup Chateauneuf du Pape Le Puy Rolland",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "73.99",
-      "url": "https://www.winehouse.com/shop/2022-chateau-de-la-font-du-loup-chateauneuf-du-pape-le-puy-rolland-135509",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "8",
-      "image-url": "https://www.winehouse.com/prodimages/2551-DEFAULT-l.jpg"
-    },
-    {
       "sku": "3760219920908",
       "name": "2020 Domaine Jacques Tissot Trousseau Arbois",
       "vintage": "2020",
@@ -25057,7 +24992,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "172",
+      "stock-level": "163",
       "image-url": "https://www.winehouse.com/prodimages/5838-DEFAULT-l.jpg"
     },
     {
@@ -62467,7 +62402,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "47",
+      "stock-level": "41",
       "image-url": "https://www.winehouse.com/prodimages/4877-DEFAULT-l.jpg"
     },
     {
@@ -62703,6 +62638,71 @@
       "delivery-time": "2-5 days",
       "stock-level": "96",
       "image-url": ""
+    },
+    {
+      "sku": "3760194770079",
+      "name": "2023 Domaine Fontaine-Gagnard Chassagne-Montrachet \"Les Vergers\" 1er Cru",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "132.99",
+      "url": "https://www.winehouse.com/shop/2023-domaine-fontaine-gagnard-chassagne-montrachet-les-vergers-1er-cru-135920",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "3",
+      "image-url": "https://www.winehouse.com/prodimages/5014-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "3760199160677",
+      "name": "2023 Denis Meunier Vouvray Sec \"Expresion De Silex\"",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "23.99",
+      "url": "https://www.winehouse.com/shop/2023-denis-meunier-vouvray-sec-expresion-de-silex-136016",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "7",
+      "image-url": "https://www.winehouse.com/prodimages/3527-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "3760206981813",
+      "name": "2018 Chateau Fleur Cardinale St Emilion Grand Cru",
+      "vintage": "2018",
+      "unit-size": "750ML",
+      "price": "56.99",
+      "url": "https://www.winehouse.com/shop/2018-chateau-fleur-cardinale-st-emilion-grand-cru-131165",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "36",
+      "image-url": "https://www.winehouse.com/prodimages/1264-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "3760209920369",
+      "name": "2023 Chateau de la Font du Loup Chateauneuf du Pape",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "59.99",
+      "url": "https://www.winehouse.com/shop/2023-chateau-de-la-font-du-loup-chateauneuf-du-pape-137905",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "11",
+      "image-url": "https://www.winehouse.com/prodimages/5860-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "3760209920475",
+      "name": "2022 Chateau de la Font du Loup Chateauneuf du Pape Le Puy Rolland",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "73.99",
+      "url": "https://www.winehouse.com/shop/2022-chateau-de-la-font-du-loup-chateauneuf-du-pape-le-puy-rolland-135509",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "8",
+      "image-url": "https://www.winehouse.com/prodimages/2551-DEFAULT-l.jpg"
     },
     {
       "sku": "21471088",
