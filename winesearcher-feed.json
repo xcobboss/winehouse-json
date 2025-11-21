@@ -5197,7 +5197,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/1973-DEFAULT-l.jpg"
     },
     {
@@ -25841,19 +25841,6 @@
       "image-url": ""
     },
     {
-      "sku": "421022",
-      "name": "2022 Carlisle Zinfandel Papera Ranch Russian River",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "57.99",
-      "url": "https://www.winehouse.com/shop/2022-carlisle-zinfandel-papera-ranch-russian-river-136222",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "4",
-      "image-url": "https://www.winehouse.com/prodimages/3715-DEFAULT-l.jpg"
-    },
-    {
       "sku": "422588",
       "name": "2016 Domaine Emmanuel Rouget Vosne-Romanée Cros Parantoux 1er Cru",
       "vintage": "2016",
@@ -36286,7 +36273,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/590-DEFAULT-l.jpg"
     },
     {
@@ -56046,7 +56033,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/1489-DEFAULT-l.jpg"
     },
     {
@@ -60626,6 +60613,19 @@
       "image-url": "https://www.winehouse.com/prodimages/4219-DEFAULT-l.jpg"
     },
     {
+      "sku": "421022",
+      "name": "2022 Carlisle Zinfandel Papera Ranch Russian River",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "57.99",
+      "url": "https://www.winehouse.com/shop/2022-carlisle-zinfandel-papera-ranch-russian-river-136222",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "4",
+      "image-url": "https://www.winehouse.com/prodimages/3715-DEFAULT-l.jpg"
+    },
+    {
       "sku": "8436541331211",
       "name": "NV Equipo Navazos La Bota de Manzanillia 111 Florpower MMXVIII Sanlucar de Barrameda",
       "vintage": "NV",
@@ -60843,7 +60843,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "43",
+      "stock-level": "41",
       "image-url": "https://www.winehouse.com/prodimages/6104-DEFAULT-l.jpg"
     },
     {
@@ -62168,7 +62168,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "65",
+      "stock-level": "64",
       "image-url": ""
     },
     {
