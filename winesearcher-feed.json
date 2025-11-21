@@ -11346,7 +11346,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/5017-DEFAULT-l.jpg"
     },
     {
@@ -14723,19 +14723,6 @@
       "offer-type": "R",
       "delivery-time": "2-5 days",
       "stock-level": "1",
-      "image-url": ""
-    },
-    {
-      "sku": "219079",
-      "name": "2019 Domaine de Chevalier Pessac-Léognan Rouge",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "84.99",
-      "url": "https://www.winehouse.com/shop/2019-domaine-de-chevalier-pessac-léognan-rouge-12876",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "24",
       "image-url": ""
     },
     {
@@ -28896,19 +28883,6 @@
       "image-url": ""
     },
     {
-      "sku": "525002",
-      "name": "2015 Domaine Joseph Faiveley Musigny (OWC banded)",
-      "vintage": "2015",
-      "unit-size": "750ML",
-      "price": "6249.98",
-      "url": "https://www.winehouse.com/shop/2015-domaine-joseph-faiveley-musigny-owc-banded-106",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "5257",
       "name": "2018 Julien Thurel Cidre Poiré Sec Cru des Loges",
       "vintage": "2018",
@@ -38652,7 +38626,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/4138-DEFAULT-l.jpg"
     },
     {
@@ -62594,6 +62568,19 @@
       "unit-size": "750ML",
       "price": "149.98",
       "url": "https://www.winehouse.com/shop/2011-grace-family-vineyards-cabernet-sauvignon-blank-vineyard-napa-valley-130588",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
+      "sku": "525002",
+      "name": "2015 Domaine Joseph Faiveley Musigny (OWC banded)",
+      "vintage": "2015",
+      "unit-size": "750ML",
+      "price": "6249.98",
+      "url": "https://www.winehouse.com/shop/2015-domaine-joseph-faiveley-musigny-owc-banded-106",
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
