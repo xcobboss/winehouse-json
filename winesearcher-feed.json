@@ -1,6 +1,71 @@
 {
   "product-list": [
     {
+      "sku": "477120",
+      "name": "2019 Domaine Armand Rousseau Gevrey Chambertin Clos du Chateau",
+      "vintage": "2019",
+      "unit-size": "750ML",
+      "price": "949.98",
+      "url": "https://www.winehouse.com/shop/2019-domaine-armand-rousseau-gevrey-chambertin-clos-du-chateau-122404",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
+      "sku": "477139",
+      "name": "2019 Domaine Armand Rousseau Gevrey Chambertin Clos Saint Jacques 1er Cru",
+      "vintage": "2019",
+      "unit-size": "750ML",
+      "price": "2899.98",
+      "url": "https://www.winehouse.com/shop/2019-domaine-armand-rousseau-gevrey-chambertin-clos-saint-jacques-1er-cru-122569",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
+      "sku": "477256",
+      "name": "2015 Domaine Armand Rousseau Ruchottes Chambertin Clos des Ruchottes Grand Cru",
+      "vintage": "2015",
+      "unit-size": "750ML",
+      "price": "1949.98",
+      "url": "https://www.winehouse.com/shop/2015-domaine-armand-rousseau-ruchottes-chambertin-clos-des-ruchottes-grand-cru-39",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
+      "sku": "477258",
+      "name": "2016 Domaine Armand Rousseau Ruchottes Chambertin Clos des Ruchottes Grand Cru",
+      "vintage": "2016",
+      "unit-size": "750ML",
+      "price": "1799.98",
+      "url": "https://www.winehouse.com/shop/2016-domaine-armand-rousseau-ruchottes-chambertin-clos-des-ruchottes-grand-cru-56",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
+      "sku": "477378",
+      "name": "2016 Domaine Armand Rousseau Gevrey Chambertin Clos Saint Jacques 1er Cru",
+      "vintage": "2016",
+      "unit-size": "750ML",
+      "price": "2499.98",
+      "url": "https://www.winehouse.com/shop/2016-domaine-armand-rousseau-gevrey-chambertin-clos-saint-jacques-1er-cru-73",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
       "sku": "000287628607",
       "name": "2000 Les Forts de Latour Pauillac",
       "vintage": "2000",
@@ -4742,7 +4807,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/1415-DEFAULT-l.jpg"
     },
     {
@@ -27115,71 +27180,6 @@
       "image-url": "https://www.winehouse.com/prodimages/5636-DEFAULT-l.jpg"
     },
     {
-      "sku": "477120",
-      "name": "2019 Domaine Armand Rousseau Gevrey Chambertin Clos du Chateau",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "949.98",
-      "url": "https://www.winehouse.com/shop/2019-domaine-armand-rousseau-gevrey-chambertin-clos-du-chateau-122404",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
-      "sku": "477139",
-      "name": "2019 Domaine Armand Rousseau Gevrey Chambertin Clos Saint Jacques 1er Cru",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "2899.98",
-      "url": "https://www.winehouse.com/shop/2019-domaine-armand-rousseau-gevrey-chambertin-clos-saint-jacques-1er-cru-122569",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
-      "sku": "477256",
-      "name": "2015 Domaine Armand Rousseau Ruchottes Chambertin Clos des Ruchottes Grand Cru",
-      "vintage": "2015",
-      "unit-size": "750ML",
-      "price": "1949.98",
-      "url": "https://www.winehouse.com/shop/2015-domaine-armand-rousseau-ruchottes-chambertin-clos-des-ruchottes-grand-cru-39",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
-      "sku": "477258",
-      "name": "2016 Domaine Armand Rousseau Ruchottes Chambertin Clos des Ruchottes Grand Cru",
-      "vintage": "2016",
-      "unit-size": "750ML",
-      "price": "1799.98",
-      "url": "https://www.winehouse.com/shop/2016-domaine-armand-rousseau-ruchottes-chambertin-clos-des-ruchottes-grand-cru-56",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
-      "sku": "477378",
-      "name": "2016 Domaine Armand Rousseau Gevrey Chambertin Clos Saint Jacques 1er Cru",
-      "vintage": "2016",
-      "unit-size": "750ML",
-      "price": "2499.98",
-      "url": "https://www.winehouse.com/shop/2016-domaine-armand-rousseau-gevrey-chambertin-clos-saint-jacques-1er-cru-73",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "47741147",
       "name": "2010 Sine Qua Non Grenache Five Shooter Santa Barbara County",
       "vintage": "2010",
@@ -30683,7 +30683,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/4446-DEFAULT-l.jpg"
     },
     {
@@ -52614,7 +52614,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/471-DEFAULT-l.jpg"
     },
     {
@@ -54434,7 +54434,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/3605-DEFAULT-l.jpg"
     },
     {
@@ -60998,7 +60998,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/6028-DEFAULT-l.jpg"
     },
     {
