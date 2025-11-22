@@ -9786,7 +9786,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "15",
       "image-url": ""
     },
     {
@@ -18690,7 +18690,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/5220-DEFAULT-l.jpg"
     },
     {
@@ -20863,32 +20863,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
-    },
-    {
-      "sku": "337710",
-      "name": "2018 Alesia by Rhys Vineyards Chardonnay Santa Cruz Mountains",
-      "vintage": "2018",
-      "unit-size": "750ML",
-      "price": "44.99",
-      "url": "https://www.winehouse.com/shop/2018-alesia-by-rhys-vineyards-chardonnay-santa-cruz-mouintains-21185",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "9",
-      "image-url": "https://www.winehouse.com/prodimages/2428-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "337788",
-      "name": "2017 Masseto Toscana Rosso Massetino",
-      "vintage": "2017",
-      "unit-size": "750ML",
-      "price": "549.98",
-      "url": "https://www.winehouse.com/shop/2017-masseto-toscana-rosso-massetino-6408",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/4106-DEFAULT-l.jpg"
     },
     {
       "sku": "338716",
@@ -28996,7 +28970,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/266-DEFAULT-l.jpg"
     },
     {
@@ -36286,7 +36260,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": ""
     },
     {
@@ -38990,7 +38964,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "26",
+      "stock-level": "25",
       "image-url": "https://www.winehouse.com/prodimages/3684-DEFAULT-l.jpg"
     },
     {
@@ -42968,7 +42942,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/2553-DEFAULT-l.jpg"
     },
     {
@@ -54395,7 +54369,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/4849-DEFAULT-l.jpg"
     },
     {
@@ -62534,6 +62508,32 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/4321-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "337710",
+      "name": "2018 Alesia by Rhys Vineyards Chardonnay Santa Cruz Mountains",
+      "vintage": "2018",
+      "unit-size": "750ML",
+      "price": "44.99",
+      "url": "https://www.winehouse.com/shop/2018-alesia-by-rhys-vineyards-chardonnay-santa-cruz-mouintains-21185",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "9",
+      "image-url": "https://www.winehouse.com/prodimages/2428-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "337788",
+      "name": "2017 Masseto Toscana Rosso Massetino",
+      "vintage": "2017",
+      "unit-size": "750ML",
+      "price": "549.98",
+      "url": "https://www.winehouse.com/shop/2017-masseto-toscana-rosso-massetino-6408",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/4106-DEFAULT-l.jpg"
     },
     {
       "sku": "40404006",
