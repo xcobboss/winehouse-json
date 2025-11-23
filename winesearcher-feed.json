@@ -12058,7 +12058,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/4888-DEFAULT-l.jpg"
     },
     {
@@ -21443,7 +21443,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/5679-DEFAULT-l.jpg"
     },
     {
@@ -22641,19 +22641,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/3026-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "364262",
-      "name": "2021 Radio-Coteau Chardonnay Sonoma Coast Heintz",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "69.99",
-      "url": "https://www.winehouse.com/shop/2021-radio-coteau-chardonnay-sonoma-coast-heintz-129855",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/2414-DEFAULT-l.jpg"
     },
     {
       "sku": "364271",
@@ -24201,19 +24188,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/4647-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "387594",
-      "name": "2022 Jax Vineyards Cabernet Sauvignon North Coast",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "21.99",
-      "url": "https://www.winehouse.com/shop/2022-jax-vineyards-cabernet-sauvignon-north-coast-133090",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/1396-DEFAULT-l.jpg"
     },
     {
       "sku": "387800",
@@ -28372,7 +28346,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/4243-DEFAULT-l.jpg"
     },
     {
@@ -32908,32 +32882,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "7",
       "image-url": ""
-    },
-    {
-      "sku": "631160817667",
-      "name": "Haciendo Sotol Platinum Sotol 38% abv",
-      "vintage": "",
-      "unit-size": "750ML",
-      "price": "45.99",
-      "url": "https://www.winehouse.com/shop/haciendo-sotol-platinum-sotol-38-abv-28865",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "5",
-      "image-url": ""
-    },
-    {
-      "sku": "631471002158",
-      "name": "2022 Chateau de Beaucastel Chateauneuf du Pape",
-      "vintage": "2022",
-      "unit-size": "375ML",
-      "price": "49.99",
-      "url": "https://www.winehouse.com/shop/2022-chateau-de-beaucastel-chateauneuf-du-pape-135099",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "18",
-      "image-url": "https://www.winehouse.com/prodimages/930-DEFAULT-l.jpg"
     },
     {
       "sku": "631763",
@@ -47466,7 +47414,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/3916-DEFAULT-l.jpg"
     },
     {
@@ -61431,6 +61379,32 @@
       "image-url": "https://www.winehouse.com/prodimages/5134-DEFAULT-l.jpg"
     },
     {
+      "sku": "631160817667",
+      "name": "Haciendo Sotol Platinum Sotol 38% abv",
+      "vintage": "",
+      "unit-size": "750ML",
+      "price": "45.99",
+      "url": "https://www.winehouse.com/shop/haciendo-sotol-platinum-sotol-38-abv-28865",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "5",
+      "image-url": ""
+    },
+    {
+      "sku": "631471002158",
+      "name": "2022 Chateau de Beaucastel Chateauneuf du Pape",
+      "vintage": "2022",
+      "unit-size": "375ML",
+      "price": "49.99",
+      "url": "https://www.winehouse.com/shop/2022-chateau-de-beaucastel-chateauneuf-du-pape-135099",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "18",
+      "image-url": "https://www.winehouse.com/prodimages/930-DEFAULT-l.jpg"
+    },
+    {
       "sku": "124187",
       "name": "2023 Domaine Michel Bouzereau et Fils Bourgogne Côte d’Or Chardonnay",
       "vintage": "2023",
@@ -61468,19 +61442,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/4321-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "337710",
-      "name": "2018 Alesia by Rhys Vineyards Chardonnay Santa Cruz Mountains",
-      "vintage": "2018",
-      "unit-size": "750ML",
-      "price": "44.99",
-      "url": "https://www.winehouse.com/shop/2018-alesia-by-rhys-vineyards-chardonnay-santa-cruz-mouintains-21185",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "9",
-      "image-url": "https://www.winehouse.com/prodimages/2428-DEFAULT-l.jpg"
     },
     {
       "sku": "337788",
