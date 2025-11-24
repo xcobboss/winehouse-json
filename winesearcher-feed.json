@@ -8096,7 +8096,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "272",
+      "stock-level": "261",
       "image-url": "https://www.winehouse.com/prodimages/5861-DEFAULT-l.jpg"
     },
     {
@@ -36121,32 +36121,6 @@
       "image-url": ""
     },
     {
-      "sku": "693540",
-      "name": "NV Guillaume Sergent Bossa Nova Extra Brut Champagne",
-      "vintage": "NV",
-      "unit-size": "750ML",
-      "price": "67.99",
-      "url": "https://www.winehouse.com/shop/nv-guillaume-sergent-bossa-nova-extra-brut-champagne-134899",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "20",
-      "image-url": "https://www.winehouse.com/prodimages/1699-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "6943",
-      "name": "2011 Moric Blaufrankisch Ried Krcsi Zagersdorf/Cocrstof, Burgenland",
-      "vintage": "2011",
-      "unit-size": "750ML",
-      "price": "139.99",
-      "url": "https://www.winehouse.com/shop/2011-moric-blaufrankisch-ried-krcsi-zagersdorf-cocrstof-burgenland-128258",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "4",
-      "image-url": "https://www.winehouse.com/prodimages/4667-DEFAULT-l.jpg"
-    },
-    {
       "sku": "6947",
       "name": "NV Manon Boutillez-Guer les Huchettes Extra Brut Blanc de Blancs Champagne",
       "vintage": "NV",
@@ -36858,7 +36832,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": ""
     },
     {
@@ -45672,7 +45646,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "44",
+      "stock-level": "33",
       "image-url": ""
     },
     {
@@ -58750,7 +58724,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "35",
+      "stock-level": "33",
       "image-url": "https://www.winehouse.com/prodimages/6007-DEFAULT-l.jpg"
     },
     {
@@ -61240,7 +61214,7 @@
       "name": "2022 Marchesi Antinori Villa Antinori Toscana IGT Tuscany",
       "vintage": "2022",
       "unit-size": "750ML",
-      "price": "18.99",
+      "price": "21.99",
       "url": "https://www.winehouse.com/shop/2022-marchesi-antinori-villa-antinori-toscana-igt-tuscany-137994",
       "min-order": "1",
       "offer-type": "",
@@ -63132,6 +63106,32 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
+    },
+    {
+      "sku": "693540",
+      "name": "NV Guillaume Sergent Bossa Nova Extra Brut Champagne",
+      "vintage": "NV",
+      "unit-size": "750ML",
+      "price": "67.99",
+      "url": "https://www.winehouse.com/shop/nv-guillaume-sergent-bossa-nova-extra-brut-champagne-134899",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "20",
+      "image-url": "https://www.winehouse.com/prodimages/1699-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "6943",
+      "name": "2011 Moric Blaufrankisch Ried Krcsi Zagersdorf/Cocrstof, Burgenland",
+      "vintage": "2011",
+      "unit-size": "750ML",
+      "price": "139.99",
+      "url": "https://www.winehouse.com/shop/2011-moric-blaufrankisch-ried-krcsi-zagersdorf-cocrstof-burgenland-128258",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "4",
+      "image-url": "https://www.winehouse.com/prodimages/4667-DEFAULT-l.jpg"
     },
     {
       "sku": "224571",
