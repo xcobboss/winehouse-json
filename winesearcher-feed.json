@@ -1934,7 +1934,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": ""
     },
     {
@@ -2935,7 +2935,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/635-DEFAULT-l.jpg"
     },
     {
@@ -3013,7 +3013,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/653-DEFAULT-l.jpg"
     },
     {
@@ -3702,7 +3702,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": ""
     },
     {
@@ -3767,7 +3767,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "22",
       "image-url": ""
     },
     {
@@ -4339,7 +4339,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "50",
+      "stock-level": "49",
       "image-url": "https://www.winehouse.com/prodimages/796-DEFAULT-l.jpg"
     },
     {
@@ -5535,7 +5535,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "33",
+      "stock-level": "32",
       "image-url": "https://www.winehouse.com/prodimages/789-DEFAULT-l.jpg"
     },
     {
@@ -7797,7 +7797,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": ""
     },
     {
@@ -8408,7 +8408,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/643-DEFAULT-l.jpg"
     },
     {
@@ -18911,7 +18911,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/4308-DEFAULT-l.jpg"
     },
     {
@@ -18939,32 +18939,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/4291-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "313398",
-      "name": "2017 Domaine Cecile Tremblay Chapelle-Chambertin Grand Cru",
-      "vintage": "2017",
-      "unit-size": "750ML",
-      "price": "1499.98",
-      "url": "https://www.winehouse.com/shop/2017-domaine-cecile-tremblay-chapelle-chambertin-grand-cru-25723",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": ""
-    },
-    {
-      "sku": "314255",
-      "name": "2006 Lewis Cellars Cabernet Sauvignon Reserve Napa Valley",
-      "vintage": "2006",
-      "unit-size": "750ML",
-      "price": "149.98",
-      "url": "https://www.winehouse.com/shop/2006-lewis-cellars-cabernet-sauvignon-reserve-napa-valley-63210",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
     },
     {
       "sku": "3149",
@@ -19678,7 +19652,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/563-DEFAULT-l.jpg"
     },
     {
@@ -33335,7 +33309,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/634-DEFAULT-l.jpg"
     },
     {
@@ -39354,7 +39328,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "91",
+      "stock-level": "90",
       "image-url": ""
     },
     {
@@ -53593,19 +53567,6 @@
       "image-url": "https://www.winehouse.com/prodimages/743-DEFAULT-l.jpg"
     },
     {
-      "sku": "863048000223",
-      "name": "Mico Reposado Tequila",
-      "vintage": "",
-      "unit-size": "750ML",
-      "price": "49.99",
-      "url": "https://www.winehouse.com/shop/mico-reposado-tequila-28215",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "863048000230",
       "name": "Mico Anejo Tequila",
       "vintage": "",
@@ -63127,6 +63088,32 @@
       "unit-size": "750ML",
       "price": "1199.98",
       "url": "https://www.winehouse.com/shop/2017-domaine-lamy-caillat-les-caillerets-chassagne-montrachet-premier-cru-10122",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
+      "sku": "313398",
+      "name": "2017 Domaine Cecile Tremblay Chapelle-Chambertin Grand Cru",
+      "vintage": "2017",
+      "unit-size": "750ML",
+      "price": "1499.98",
+      "url": "https://www.winehouse.com/shop/2017-domaine-cecile-tremblay-chapelle-chambertin-grand-cru-25723",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "2",
+      "image-url": ""
+    },
+    {
+      "sku": "314255",
+      "name": "2006 Lewis Cellars Cabernet Sauvignon Reserve Napa Valley",
+      "vintage": "2006",
+      "unit-size": "750ML",
+      "price": "149.98",
+      "url": "https://www.winehouse.com/shop/2006-lewis-cellars-cabernet-sauvignon-reserve-napa-valley-63210",
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
