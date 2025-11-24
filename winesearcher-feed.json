@@ -2168,7 +2168,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "14",
       "image-url": "https://www.winehouse.com/prodimages/3803-DEFAULT-l.jpg"
     },
     {
@@ -5912,7 +5912,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/4800-DEFAULT-l.jpg"
     },
     {
@@ -8096,7 +8096,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "275",
+      "stock-level": "272",
       "image-url": "https://www.winehouse.com/prodimages/5861-DEFAULT-l.jpg"
     },
     {
@@ -10518,45 +10518,6 @@
       "image-url": ""
     },
     {
-      "sku": "121652",
-      "name": "2018 Caparsa Caparsino Chianti Classico Riserva",
-      "vintage": "2018",
-      "unit-size": "750ML",
-      "price": "52.99",
-      "url": "https://www.winehouse.com/shop/2018-caparsa-caparsino-chianti-classico-riserva-136050",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "12",
-      "image-url": "https://www.winehouse.com/prodimages/3399-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "1216538",
-      "name": "2022 Evening Land Pinot Noir Seven Springs La Source Eola-Amity Hills",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "79.99",
-      "url": "https://www.winehouse.com/shop/2022-evening-land-pinot-noir-seven-springs-la-source-eola-amity-hills-133067",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "6",
-      "image-url": "https://www.winehouse.com/prodimages/1394-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "121700",
-      "name": "2005 Joseph Drouhin Bonnes-Mares Grand Cru Cote de Nuits",
-      "vintage": "2005",
-      "unit-size": "750ML",
-      "price": "1249.95",
-      "url": "https://www.winehouse.com/shop/n-a-75220",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6143-DEFAULT-l.jpg"
-    },
-    {
       "sku": "12204735",
       "name": "2014 Marie-Noelle Ledru Cuvee du Goulte Blanc de Noirs Brut Champagne Grand Cru Ambonnay",
       "vintage": "2014",
@@ -10956,7 +10917,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "14",
       "image-url": "https://www.winehouse.com/prodimages/3518-DEFAULT-l.jpg"
     },
     {
@@ -23757,7 +23718,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "15",
       "image-url": ""
     },
     {
@@ -34856,7 +34817,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "37",
+      "stock-level": "34",
       "image-url": "https://www.winehouse.com/prodimages/3314-DEFAULT-l.jpg"
     },
     {
@@ -36858,7 +36819,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/3613-DEFAULT-l.jpg"
     },
     {
@@ -37521,7 +37482,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/1661-DEFAULT-l.jpg"
     },
     {
@@ -41356,7 +41317,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/2846-DEFAULT-l.jpg"
     },
     {
@@ -63132,6 +63093,45 @@
       "delivery-time": "2-5 days",
       "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/5921-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "121652",
+      "name": "2018 Caparsa Caparsino Chianti Classico Riserva",
+      "vintage": "2018",
+      "unit-size": "750ML",
+      "price": "52.99",
+      "url": "https://www.winehouse.com/shop/2018-caparsa-caparsino-chianti-classico-riserva-136050",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": "https://www.winehouse.com/prodimages/3399-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "1216538",
+      "name": "2022 Evening Land Pinot Noir Seven Springs La Source Eola-Amity Hills",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "79.99",
+      "url": "https://www.winehouse.com/shop/2022-evening-land-pinot-noir-seven-springs-la-source-eola-amity-hills-133067",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "6",
+      "image-url": "https://www.winehouse.com/prodimages/1394-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "121700",
+      "name": "2005 Joseph Drouhin Bonnes-Mares Grand Cru Cote de Nuits",
+      "vintage": "2005",
+      "unit-size": "750ML",
+      "price": "1249.95",
+      "url": "https://www.winehouse.com/shop/n-a-75220",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/6143-DEFAULT-l.jpg"
     },
     {
       "sku": "224571",
