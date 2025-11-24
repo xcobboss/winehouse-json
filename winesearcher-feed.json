@@ -31133,12 +31133,12 @@
       "name": "2000 Chateau Calon Segur Saint Estephe",
       "vintage": "2000",
       "unit-size": "750ML",
-      "price": "379.95",
+      "price": "299.95",
       "url": "https://www.winehouse.com/shop/2000-chateau-calon-segur-saint-estephe-69955",
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "1",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/5377-DEFAULT-l.jpg"
     },
     {
@@ -31335,32 +31335,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/1400-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "599634",
-      "name": "2015 Domaine Nicolas Rossignol Volnay Cailleret 1er Cru",
-      "vintage": "2015",
-      "unit-size": "750ML",
-      "price": "139.98",
-      "url": "https://www.winehouse.com/shop/2015-domaine-nicolas-rossignol-volnay-cailleret-1er-cru-23643",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "6",
-      "image-url": "https://www.winehouse.com/prodimages/5353-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "5998014",
-      "name": "Bosteels Deus Biere de Champagne 11.5% abv",
-      "vintage": "",
-      "unit-size": "750ML",
-      "price": "36.99",
-      "url": "https://www.winehouse.com/shop/bosteels-deus-biere-de-champagne-11-5-abv-26470",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "5",
-      "image-url": ""
     },
     {
       "sku": "5998847180182",
@@ -48064,7 +48038,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/3908-DEFAULT-l.jpg"
     },
     {
@@ -50859,7 +50833,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/3606-DEFAULT-l.jpg"
     },
     {
@@ -52874,7 +52848,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "36",
+      "stock-level": "34",
       "image-url": "https://www.winehouse.com/prodimages/5835-DEFAULT-l.jpg"
     },
     {
@@ -54876,7 +54850,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "83",
+      "stock-level": "71",
       "image-url": "https://www.winehouse.com/prodimages/6148-DEFAULT-l.jpg"
     },
     {
@@ -63301,6 +63275,32 @@
       "delivery-time": "2-5 days",
       "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/4289-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "599634",
+      "name": "2015 Domaine Nicolas Rossignol Volnay Cailleret 1er Cru",
+      "vintage": "2015",
+      "unit-size": "750ML",
+      "price": "139.98",
+      "url": "https://www.winehouse.com/shop/2015-domaine-nicolas-rossignol-volnay-cailleret-1er-cru-23643",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "6",
+      "image-url": "https://www.winehouse.com/prodimages/5353-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "5998014",
+      "name": "Bosteels Deus Biere de Champagne 11.5% abv",
+      "vintage": "",
+      "unit-size": "750ML",
+      "price": "36.99",
+      "url": "https://www.winehouse.com/shop/bosteels-deus-biere-de-champagne-11-5-abv-26470",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "5",
+      "image-url": ""
     },
     {
       "sku": "224571",
