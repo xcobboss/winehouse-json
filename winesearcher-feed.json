@@ -9816,32 +9816,6 @@
       "image-url": ""
     },
     {
-      "sku": "11220688",
-      "name": "2018 Domaine Arnoux-Lachaux Vosne-Romanee Les Chaumes 1er Cru",
-      "vintage": "2018",
-      "unit-size": "750ML",
-      "price": "1199.98",
-      "url": "https://www.winehouse.com/shop/2018-domaine-arnoux-lachaux-vosne-romanee-les-chaumes-1er-cru-10259",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
-      "sku": "1122701",
-      "name": "2005 Domaine Comte Georges de Vogue Musigny Grand Cru Vieilles Vignes",
-      "vintage": "2005",
-      "unit-size": "750ML",
-      "price": "2199.98",
-      "url": "https://www.winehouse.com/shop/2005-domaine-comte-georges-de-vogue-musigny-grand-cru-vieilles-vignes-357",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/1930-DEFAULT-l.jpg"
-    },
-    {
       "sku": "1133897",
       "name": "2023 Habit Cabernet Franc Santa Ynez Valley",
       "vintage": "2023",
@@ -46153,7 +46127,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "30",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/3547-DEFAULT-l.jpg"
     },
     {
@@ -54824,7 +54798,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "48",
+      "stock-level": "33",
       "image-url": "https://www.winehouse.com/prodimages/6148-DEFAULT-l.jpg"
     },
     {
@@ -63275,6 +63249,32 @@
       "delivery-time": "2-5 days",
       "stock-level": "5",
       "image-url": ""
+    },
+    {
+      "sku": "11220688",
+      "name": "2018 Domaine Arnoux-Lachaux Vosne-Romanee Les Chaumes 1er Cru",
+      "vintage": "2018",
+      "unit-size": "750ML",
+      "price": "1199.98",
+      "url": "https://www.winehouse.com/shop/2018-domaine-arnoux-lachaux-vosne-romanee-les-chaumes-1er-cru-10259",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
+      "sku": "1122701",
+      "name": "2005 Domaine Comte Georges de Vogue Musigny Grand Cru Vieilles Vignes",
+      "vintage": "2005",
+      "unit-size": "750ML",
+      "price": "2199.98",
+      "url": "https://www.winehouse.com/shop/2005-domaine-comte-georges-de-vogue-musigny-grand-cru-vieilles-vignes-357",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/1930-DEFAULT-l.jpg"
     },
     {
       "sku": "224571",
