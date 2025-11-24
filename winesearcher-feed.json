@@ -3143,7 +3143,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "1",
+      "stock-level": "9",
       "image-url": ""
     },
     {
@@ -26231,19 +26231,6 @@
       "image-url": ""
     },
     {
-      "sku": "446387",
-      "name": "2014 Domaine Armand Rousseau Gevrey Chambertin Villages",
-      "vintage": "2014",
-      "unit-size": "750ML",
-      "price": "799.98",
-      "url": "https://www.winehouse.com/shop/2014-domaine-armand-rousseau-gevrey-chambertin-villages-9479",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "446407",
       "name": "2013 Domaine Armand Rousseau Chambertin Clos de Beze Grand Cru",
       "vintage": "2013",
@@ -36522,19 +36509,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/4693-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "698526",
-      "name": "2016 Zaro Rosso Folo Slovenia",
-      "vintage": "2016",
-      "unit-size": "750ML",
-      "price": "34.99",
-      "url": "https://www.winehouse.com/shop/2016-zaro-rosso-folo-slovenia-2885",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "8",
-      "image-url": "https://www.winehouse.com/prodimages/4405-DEFAULT-l.jpg"
     },
     {
       "sku": "69859471284",
@@ -63275,6 +63249,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/1930-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "698526",
+      "name": "2016 Zaro Rosso Folo Slovenia",
+      "vintage": "2016",
+      "unit-size": "750ML",
+      "price": "34.99",
+      "url": "https://www.winehouse.com/shop/2016-zaro-rosso-folo-slovenia-2885",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "8",
+      "image-url": "https://www.winehouse.com/prodimages/4405-DEFAULT-l.jpg"
     },
     {
       "sku": "224571",
