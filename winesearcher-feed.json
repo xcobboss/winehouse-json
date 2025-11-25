@@ -5990,7 +5990,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/686-DEFAULT-l.jpg"
     },
     {
@@ -7875,7 +7875,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "55",
+      "stock-level": "54",
       "image-url": ""
     },
     {
@@ -16254,7 +16254,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/4726-DEFAULT-l.jpg"
     },
     {
@@ -31610,45 +31610,6 @@
       "image-url": "https://www.winehouse.com/prodimages/1590-DEFAULT-l.jpg"
     },
     {
-      "sku": "608614388882",
-      "name": "Los Angeles Aleworks Jazz Forever Bourbon Barrel Aged Blend 10% abv 16oz Can",
-      "vintage": "",
-      "unit-size": "16OZ",
-      "price": "6.99",
-      "url": "https://www.winehouse.com/shop/los-angeles-aleworks-jazz-forever-bourbon-barrel-aged-blend-10-abv-16oz-can-14501",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "7",
-      "image-url": ""
-    },
-    {
-      "sku": "608728502808",
-      "name": "Straffe Hendrik Belgian Triple Ale 9.0% abv 11.2oz",
-      "vintage": "",
-      "unit-size": "330ML",
-      "price": "5.99",
-      "url": "https://www.winehouse.com/shop/straffe-hendrik-belgian-triple-ale-9-0-abv-11-2oz-26981",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "27",
-      "image-url": ""
-    },
-    {
-      "sku": "608728502853",
-      "name": "Straffe Hendrik Belgian Quadrupel Ale 11.0% abv 11.2oz",
-      "vintage": "",
-      "unit-size": "11OZ",
-      "price": "5.99",
-      "url": "https://www.winehouse.com/shop/straffe-hendrik-belgian-quadrupel-ale-11-0-abv-11-2oz-115313",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "20",
-      "image-url": ""
-    },
-    {
       "sku": "608819523170",
       "name": "2023 Domaine La Montagnette Côtes-du-Rhône Villages Signargues",
       "vintage": "2023",
@@ -39198,7 +39159,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": ""
     },
     {
@@ -49208,7 +49169,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/4340-DEFAULT-l.jpg"
     },
     {
@@ -49767,7 +49728,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "33",
+      "stock-level": "31",
       "image-url": "https://www.winehouse.com/prodimages/3213-DEFAULT-l.jpg"
     },
     {
@@ -58542,7 +58503,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "29",
+      "stock-level": "28",
       "image-url": "https://www.winehouse.com/prodimages/3608-DEFAULT-l.jpg"
     },
     {
@@ -60206,6 +60167,45 @@
       "offer-type": "R",
       "delivery-time": "2-5 days",
       "stock-level": "1",
+      "image-url": ""
+    },
+    {
+      "sku": "608614388882",
+      "name": "Los Angeles Aleworks Jazz Forever Bourbon Barrel Aged Blend 10% abv 16oz Can",
+      "vintage": "",
+      "unit-size": "16OZ",
+      "price": "6.99",
+      "url": "https://www.winehouse.com/shop/los-angeles-aleworks-jazz-forever-bourbon-barrel-aged-blend-10-abv-16oz-can-14501",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "7",
+      "image-url": ""
+    },
+    {
+      "sku": "608728502808",
+      "name": "Straffe Hendrik Belgian Triple Ale 9.0% abv 11.2oz",
+      "vintage": "",
+      "unit-size": "330ML",
+      "price": "5.99",
+      "url": "https://www.winehouse.com/shop/straffe-hendrik-belgian-triple-ale-9-0-abv-11-2oz-26981",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "27",
+      "image-url": ""
+    },
+    {
+      "sku": "608728502853",
+      "name": "Straffe Hendrik Belgian Quadrupel Ale 11.0% abv 11.2oz",
+      "vintage": "",
+      "unit-size": "11OZ",
+      "price": "5.99",
+      "url": "https://www.winehouse.com/shop/straffe-hendrik-belgian-quadrupel-ale-11-0-abv-11-2oz-115313",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "20",
       "image-url": ""
     },
     {
