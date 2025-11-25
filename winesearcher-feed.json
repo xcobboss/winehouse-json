@@ -959,7 +959,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/4777-DEFAULT-l.jpg"
     },
     {
@@ -1834,19 +1834,6 @@
       "image-url": "https://www.winehouse.com/prodimages/3893-DEFAULT-l.jpg"
     },
     {
-      "sku": "049331000389",
-      "name": "2023 La Crema Pinot Noir California",
-      "vintage": "2023",
-      "unit-size": "375ML",
-      "price": "12.99",
-      "url": "https://www.winehouse.com/shop/2023-la-crema-pinot-noir-california-137062",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/4906-DEFAULT-l.jpg"
-    },
-    {
       "sku": "049331002215",
       "name": "2023 La Crema Chardonnay Russian River Valley",
       "vintage": "2023",
@@ -2415,7 +2402,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/226-DEFAULT-l.jpg"
     },
     {
@@ -3299,7 +3286,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/653-DEFAULT-l.jpg"
     },
     {
@@ -3975,7 +3962,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "30",
+      "stock-level": "29",
       "image-url": "https://www.winehouse.com/prodimages/3590-DEFAULT-l.jpg"
     },
     {
@@ -4326,7 +4313,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "33",
+      "stock-level": "31",
       "image-url": "https://www.winehouse.com/prodimages/5995-DEFAULT-l.jpg"
     },
     {
@@ -5470,7 +5457,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "27",
+      "stock-level": "26",
       "image-url": "https://www.winehouse.com/prodimages/4605-DEFAULT-l.jpg"
     },
     {
@@ -7680,7 +7667,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/1544-DEFAULT-l.jpg"
     },
     {
@@ -8681,7 +8668,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "19",
       "image-url": ""
     },
     {
@@ -10030,19 +10017,6 @@
       "unit-size": "750ML",
       "price": "749.98",
       "url": "https://www.winehouse.com/shop/2008-domaine-mongeard-mugneret-echezeaux-grand-cru-130531",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
-      "sku": "106032",
-      "name": "2017 Melville Vineyards and Winery Anna`s Block Pinot Noir Santa Rita Hills",
-      "vintage": "2017",
-      "unit-size": "750ML",
-      "price": "69.98",
-      "url": "https://www.winehouse.com/shop/2017-melville-vineyards-and-winery-anna-s-block-pinot-noir-santa-rita-hills-129931",
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
@@ -12243,7 +12217,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/2397-DEFAULT-l.jpg"
     },
     {
@@ -12362,19 +12336,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "12",
       "image-url": ""
-    },
-    {
-      "sku": "140052",
-      "name": "2023 Wayfarer Pinot Noir Fort Ross-Seaview Wayfarer Vineyard The Estate",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "99.99",
-      "url": "https://www.winehouse.com/shop/2023-wayfarer-pinot-noir-fort-ross-seaview-wayfarer-vineyard-the-estate-138015",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "21",
-      "image-url": "https://www.winehouse.com/prodimages/5923-DEFAULT-l.jpg"
     },
     {
       "sku": "1403140180",
@@ -19261,7 +19222,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "20",
+      "stock-level": "19",
       "image-url": "https://www.winehouse.com/prodimages/1288-DEFAULT-l.jpg"
     },
     {
@@ -25550,7 +25511,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/3307-DEFAULT-l.jpg"
     },
     {
@@ -27591,7 +27552,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "29",
+      "stock-level": "28",
       "image-url": "https://www.winehouse.com/prodimages/4083-DEFAULT-l.jpg"
     },
     {
@@ -39769,7 +39730,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/3196-DEFAULT-l.jpg"
     },
     {
@@ -54446,7 +54407,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/3606-DEFAULT-l.jpg"
     },
     {
@@ -55434,7 +55395,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/3726-DEFAULT-l.jpg"
     },
     {
@@ -57696,7 +57657,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "36",
+      "stock-level": "35",
       "image-url": "https://www.winehouse.com/prodimages/6166-DEFAULT-l.jpg"
     },
     {
@@ -60049,7 +60010,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/5204-DEFAULT-l.jpg"
     },
     {
@@ -60218,7 +60179,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/1321-DEFAULT-l.jpg"
     },
     {
@@ -61388,7 +61349,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/3649-DEFAULT-l.jpg"
     },
     {
@@ -62467,7 +62428,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/1484-DEFAULT-l.jpg"
     },
     {
