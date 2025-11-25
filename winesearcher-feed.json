@@ -4729,7 +4729,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/1654-DEFAULT-l.jpg"
     },
     {
@@ -6315,7 +6315,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/686-DEFAULT-l.jpg"
     },
     {
@@ -9149,7 +9149,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/5484-DEFAULT-l.jpg"
     },
     {
@@ -9175,7 +9175,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "29",
+      "stock-level": "28",
       "image-url": "https://www.winehouse.com/prodimages/5488-DEFAULT-l.jpg"
     },
     {
@@ -11866,7 +11866,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "27",
+      "stock-level": "26",
       "image-url": "https://www.winehouse.com/prodimages/6038-DEFAULT-l.jpg"
     },
     {
@@ -12807,7 +12807,7 @@
       "name": "2023 Flowers Vineyard Chardonnay Sonoma Coast",
       "vintage": "2023",
       "unit-size": "750ML",
-      "price": "49.99",
+      "price": "39.99",
       "url": "https://www.winehouse.com/shop/2023-flowers-vineyard-chardonnay-sonoma-coast-133040",
       "min-order": "1",
       "offer-type": "",
@@ -16180,19 +16180,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/4144-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "22200024",
-      "name": "2013 Nickel + Nickel Cabernet Sauvignon Element 28 Napa Valley",
-      "vintage": "2013",
-      "unit-size": "750ML",
-      "price": "119.98",
-      "url": "https://www.winehouse.com/shop/2013-nickel-nickel-cabernet-sauvignon-element-28napa-valley-136552",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/4267-DEFAULT-l.jpg"
     },
     {
       "sku": "22200113",
@@ -25394,7 +25381,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "34",
+      "stock-level": "33",
       "image-url": "https://www.winehouse.com/prodimages/1264-DEFAULT-l.jpg"
     },
     {
@@ -25953,7 +25940,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/943-DEFAULT-l.jpg"
     },
     {
@@ -26564,7 +26551,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "144",
+      "stock-level": "142",
       "image-url": "https://www.winehouse.com/prodimages/5838-DEFAULT-l.jpg"
     },
     {
@@ -40744,7 +40731,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/5803-DEFAULT-l.jpg"
     },
     {
@@ -40809,7 +40796,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "31",
+      "stock-level": "30",
       "image-url": "https://www.winehouse.com/prodimages/1365-DEFAULT-l.jpg"
     },
     {
@@ -41162,6 +41149,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "74",
       "image-url": "https://www.winehouse.com/prodimages/2285-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "720815160330",
+      "name": "2021 Arnaldo Caprai Montefalco Rosso",
+      "vintage": "2021",
+      "unit-size": "750ML",
+      "price": "21.49",
+      "url": "https://www.winehouse.com/shop/2021-arnaldo-caprai-montefalco-rosso-135096",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/928-DEFAULT-l.jpg"
     },
     {
       "sku": "720815271036",
@@ -41784,7 +41784,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "40",
+      "stock-level": "39",
       "image-url": "https://www.winehouse.com/prodimages/4116-DEFAULT-l.jpg"
     },
     {
@@ -50923,7 +50923,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "33",
+      "stock-level": "27",
       "image-url": "https://www.winehouse.com/prodimages/1830-DEFAULT-l.jpg"
     },
     {
@@ -57080,7 +57080,7 @@
       "name": "2023 Flowers Vineyard Pinot Noir Sonoma Coast",
       "vintage": "2023",
       "unit-size": "750ML",
-      "price": "56.99",
+      "price": "44.99",
       "url": "https://www.winehouse.com/shop/2023-flowers-vineyard-pinot-noir-sonoma-coast-135335",
       "min-order": "1",
       "offer-type": "",
@@ -58177,7 +58177,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "32",
+      "stock-level": "30",
       "image-url": "https://www.winehouse.com/prodimages/5914-DEFAULT-l.jpg"
     },
     {
@@ -59191,7 +59191,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "75",
+      "stock-level": "74",
       "image-url": "https://www.winehouse.com/prodimages/3130-DEFAULT-l.jpg"
     },
     {
@@ -60218,7 +60218,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "27",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/5778-DEFAULT-l.jpg"
     },
     {
