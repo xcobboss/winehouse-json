@@ -5457,7 +5457,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "26",
+      "stock-level": "25",
       "image-url": "https://www.winehouse.com/prodimages/4605-DEFAULT-l.jpg"
     },
     {
@@ -22768,7 +22768,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": ""
     },
     {
@@ -24228,32 +24228,6 @@
       "image-url": "https://www.winehouse.com/prodimages/5244-DEFAULT-l.jpg"
     },
     {
-      "sku": "3609050492314",
-      "name": "2012 Chateau Cantenac Brown Margaux",
-      "vintage": "2012",
-      "unit-size": "750ML",
-      "price": "77.99",
-      "url": "https://www.winehouse.com/shop/2012-cantenac-brown-margaux-70019",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": ""
-    },
-    {
-      "sku": "3609051303886",
-      "name": "2019 Caiarossa Rosso di Toscana IGT",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "59.99",
-      "url": "https://www.winehouse.com/shop/2019-caiarossa-rosso-di-toscana-igt-137090",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "16",
-      "image-url": "https://www.winehouse.com/prodimages/5236-DEFAULT-l.jpg"
-    },
-    {
       "sku": "362302",
       "name": "2002 Chateau Montelena Cabernet Sauvignon The Montelena Estate Napa Valley",
       "vintage": "2002",
@@ -25160,7 +25134,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/5239-DEFAULT-l.jpg"
     },
     {
@@ -25862,7 +25836,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/5137-DEFAULT-l.jpg"
     },
     {
@@ -27461,7 +27435,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/3988-DEFAULT-l.jpg"
     },
     {
@@ -29073,7 +29047,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": ""
     },
     {
@@ -37611,7 +37585,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/6190-DEFAULT-l.jpg"
     },
     {
@@ -37975,7 +37949,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/1334-DEFAULT-l.jpg"
     },
     {
@@ -48739,7 +48713,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "33",
+      "stock-level": "31",
       "image-url": ""
     },
     {
@@ -51157,7 +51131,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/5591-DEFAULT-l.jpg"
     },
     {
@@ -55109,7 +55083,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/3821-DEFAULT-l.jpg"
     },
     {
@@ -63145,6 +63119,32 @@
       "delivery-time": "2-5 days",
       "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/5774-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "3609050492314",
+      "name": "2012 Chateau Cantenac Brown Margaux",
+      "vintage": "2012",
+      "unit-size": "750ML",
+      "price": "77.99",
+      "url": "https://www.winehouse.com/shop/2012-cantenac-brown-margaux-70019",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "2",
+      "image-url": ""
+    },
+    {
+      "sku": "3609051303886",
+      "name": "2019 Caiarossa Rosso di Toscana IGT",
+      "vintage": "2019",
+      "unit-size": "750ML",
+      "price": "59.99",
+      "url": "https://www.winehouse.com/shop/2019-caiarossa-rosso-di-toscana-igt-137090",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "16",
+      "image-url": "https://www.winehouse.com/prodimages/5236-DEFAULT-l.jpg"
     }
   ]
 }
