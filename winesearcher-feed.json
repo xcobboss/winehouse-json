@@ -4781,7 +4781,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": ""
     },
     {
@@ -13462,7 +13462,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": ""
     },
     {
@@ -14307,7 +14307,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "49",
+      "stock-level": "48",
       "image-url": ""
     },
     {
@@ -27410,7 +27410,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "28",
+      "stock-level": "27",
       "image-url": "https://www.winehouse.com/prodimages/4083-DEFAULT-l.jpg"
     },
     {
@@ -39120,7 +39120,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "180",
+      "stock-level": "168",
       "image-url": "https://www.winehouse.com/prodimages/6207-DEFAULT-l.jpg"
     },
     {
@@ -44931,7 +44931,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/2553-DEFAULT-l.jpg"
     },
     {
@@ -52237,7 +52237,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "25",
       "image-url": ""
     },
     {
@@ -52250,7 +52250,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "14",
       "image-url": ""
     },
     {
@@ -52445,7 +52445,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/2154-DEFAULT-l.jpg"
     },
     {
@@ -52770,7 +52770,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/5693-DEFAULT-l.jpg"
     },
     {
@@ -54850,7 +54850,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/795-DEFAULT-l.jpg"
     },
     {
@@ -55214,7 +55214,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "32",
+      "stock-level": "31",
       "image-url": "https://www.winehouse.com/prodimages/3725-DEFAULT-l.jpg"
     },
     {
@@ -57385,7 +57385,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/5221-DEFAULT-l.jpg"
     },
     {
@@ -57697,7 +57697,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/4801-DEFAULT-l.jpg"
     },
     {
@@ -59233,45 +59233,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "14",
       "image-url": "https://www.winehouse.com/prodimages/4066-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "895315000056",
-      "name": "2021 Lemelson Vineyards Pinot Noir Thea`s Selection Willamette Valley",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "28.99",
-      "url": "https://www.winehouse.com/shop/2021-lemelson-vineyards-pinot-noir-thea-s-selection-willamette-valley-130494",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "8",
-      "image-url": "https://www.winehouse.com/prodimages/1216-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "895315000063",
-      "name": "2024 Lemelson Vineyards Pinot Gris Tikkas Run Willamette Valley",
-      "vintage": "2024",
-      "unit-size": "750ML",
-      "price": "21.99",
-      "url": "https://www.winehouse.com/shop/2024-lemelson-vineyards-pinot-gris-tikkas-run-willamette-valley-135857",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "17",
-      "image-url": "https://www.winehouse.com/prodimages/2999-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "895315000094",
-      "name": "2023 Lemelson Vineyards Dry Riesling Willamette Valley",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "18.99",
-      "url": "https://www.winehouse.com/shop/2023-lemelson-vineyards-dry-riesling-willamette-valley-134803",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "5",
-      "image-url": ""
     },
     {
       "sku": "895627002014",
@@ -63222,6 +63183,45 @@
       "offer-type": "R",
       "delivery-time": "2-5 days",
       "stock-level": "2",
+      "image-url": ""
+    },
+    {
+      "sku": "895315000056",
+      "name": "2021 Lemelson Vineyards Pinot Noir Thea`s Selection Willamette Valley",
+      "vintage": "2021",
+      "unit-size": "750ML",
+      "price": "28.99",
+      "url": "https://www.winehouse.com/shop/2021-lemelson-vineyards-pinot-noir-thea-s-selection-willamette-valley-130494",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "8",
+      "image-url": "https://www.winehouse.com/prodimages/1216-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "895315000063",
+      "name": "2024 Lemelson Vineyards Pinot Gris Tikkas Run Willamette Valley",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "21.99",
+      "url": "https://www.winehouse.com/shop/2024-lemelson-vineyards-pinot-gris-tikkas-run-willamette-valley-135857",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "17",
+      "image-url": "https://www.winehouse.com/prodimages/2999-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "895315000094",
+      "name": "2023 Lemelson Vineyards Dry Riesling Willamette Valley",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "18.99",
+      "url": "https://www.winehouse.com/shop/2023-lemelson-vineyards-dry-riesling-willamette-valley-134803",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "5",
       "image-url": ""
     }
   ]
