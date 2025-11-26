@@ -14320,7 +14320,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "25",
+      "stock-level": "49",
       "image-url": ""
     },
     {
@@ -15520,18 +15520,6 @@
       "image-url": ""
     },
     {
-      "sku": "20830",
-      "name": "2023 Alvaro Palacios Alfaro Valdelareina Rioja (Pre-Arrival, ETA Nov 2025)",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "199.99",
-      "url": "https://www.winehouse.com/shop/2023-alvaro-palacios-alfaro-valdelareina-rioja-pre-arrival-eta-nov-2025-131360",
-      "min-order": "1",
-      "offer-type": "PA",
-      "stock-level": "6",
-      "image-url": ""
-    },
-    {
       "sku": "2090154777",
       "name": "2000 Le Petit Mouton de Mouton Rothschild Pauillac",
       "vintage": "2000",
@@ -15750,19 +15738,6 @@
       "offer-type": "R",
       "delivery-time": "2-5 days",
       "stock-level": "9",
-      "image-url": ""
-    },
-    {
-      "sku": "21215558",
-      "name": "2013 Pride Mountain Vineyards Claret Reserve Napa Valley",
-      "vintage": "2013",
-      "unit-size": "750ML",
-      "price": "289.98",
-      "url": "https://www.winehouse.com/shop/2013-pride-mountain-vineyards-claret-reserve-napa-valley-75",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -43396,7 +43371,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/466-DEFAULT-l.jpg"
     },
     {
@@ -43409,7 +43384,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/465-DEFAULT-l.jpg"
     },
     {
@@ -63249,6 +63224,31 @@
       "delivery-time": "2-5 days",
       "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/4396-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "21215558",
+      "name": "2013 Pride Mountain Vineyards Claret Reserve Napa Valley",
+      "vintage": "2013",
+      "unit-size": "750ML",
+      "price": "289.98",
+      "url": "https://www.winehouse.com/shop/2013-pride-mountain-vineyards-claret-reserve-napa-valley-75",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
+      "sku": "20830",
+      "name": "2023 Alvaro Palacios Alfaro Valdelareina Rioja (Pre-Arrival, ETA Nov 2025)",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "199.99",
+      "url": "https://www.winehouse.com/shop/2023-alvaro-palacios-alfaro-valdelareina-rioja-pre-arrival-eta-nov-2025-131360",
+      "min-order": "1",
+      "offer-type": "PA",
+      "stock-level": "6",
+      "image-url": ""
     }
   ]
 }
