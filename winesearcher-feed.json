@@ -1063,7 +1063,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/4793-DEFAULT-l.jpg"
     },
     {
@@ -8057,7 +8057,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "12",
       "image-url": ""
     },
     {
@@ -9162,7 +9162,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/3000-DEFAULT-l.jpg"
     },
     {
@@ -15739,19 +15739,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
-    },
-    {
-      "sku": "215473",
-      "name": "2019 Chateau Montelena Cabernet Sauvignon Napa Valley The Montelena Estate",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "229.99",
-      "url": "https://www.winehouse.com/shop/2019-chateau-montelena-cabernet-sauvignon-napa-valley-the-montelena-estate-127762",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "6",
-      "image-url": "https://www.winehouse.com/prodimages/1073-DEFAULT-l.jpg"
     },
     {
       "sku": "2155702",
@@ -30205,7 +30192,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/4150-DEFAULT-l.jpg"
     },
     {
@@ -40472,7 +40459,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "25",
+      "stock-level": "22",
       "image-url": "https://www.winehouse.com/prodimages/4334-DEFAULT-l.jpg"
     },
     {
@@ -43477,19 +43464,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/5427-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "761503230010",
-      "name": "2023 Jean Foillard Beaujolais Village",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "27.99",
-      "url": "https://www.winehouse.com/shop/2023-jean-foillard-beaujolais-village-135581",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/2846-DEFAULT-l.jpg"
     },
     {
       "sku": "761503232120",
@@ -47401,7 +47375,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "39",
+      "stock-level": "37",
       "image-url": "https://www.winehouse.com/prodimages/5165-DEFAULT-l.jpg"
     },
     {
@@ -47882,7 +47856,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "28",
+      "stock-level": "26",
       "image-url": ""
     },
     {
@@ -51717,7 +51691,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/3675-DEFAULT-l.jpg"
     },
     {
@@ -52679,7 +52653,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/715-DEFAULT-l.jpg"
     },
     {
@@ -57662,71 +57636,6 @@
       "image-url": ""
     },
     {
-      "sku": "88638410",
-      "name": "2019 Domaine Auguste Clape Cotes du Rhone",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "69.98",
-      "url": "https://www.winehouse.com/shop/2019-domaine-auguste-clape-cotes-du-rhone-13877",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "5",
-      "image-url": "https://www.winehouse.com/prodimages/5101-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "886777",
-      "name": "2009 Château des Tours Vacqueyras",
-      "vintage": "2009",
-      "unit-size": "750ML",
-      "price": "299.98",
-      "url": "https://www.winehouse.com/shop/2009-chateau-des-tours-vacqueyras-21315",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/3034-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "887341000018",
-      "name": "Cynar Original Artichoke Aperitif Liqueur",
-      "vintage": "",
-      "unit-size": "1L",
-      "price": "28.99",
-      "url": "https://www.winehouse.com/shop/cynar-original-artichoke-aperitif-liqueur-21880",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "11",
-      "image-url": ""
-    },
-    {
-      "sku": "887341175747",
-      "name": "Cinzano 1757 Vermouth di Torino Extra Dry",
-      "vintage": "",
-      "unit-size": "1L",
-      "price": "29.99",
-      "url": "https://www.winehouse.com/shop/cinzano-1757-vermouth-di-torino-extra-dry-135242",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/1895-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "887341340091",
-      "name": "Aperol Spritz 4 Pack 9% Alc Btls",
-      "vintage": "",
-      "unit-size": "",
-      "price": "18.99",
-      "url": "https://www.winehouse.com/shop/aperol-spritz-4-pack-9-alc-btls-131621",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/1964-DEFAULT-l.jpg"
-    },
-    {
       "sku": "888641301959",
       "name": "2022 Montaribaldi Dolcetto d`Alba Vagnona",
       "vintage": "2022",
@@ -62706,6 +62615,71 @@
       "image-url": "https://www.winehouse.com/prodimages/286-DEFAULT-l.jpg"
     },
     {
+      "sku": "88638410",
+      "name": "2019 Domaine Auguste Clape Cotes du Rhone",
+      "vintage": "2019",
+      "unit-size": "750ML",
+      "price": "69.98",
+      "url": "https://www.winehouse.com/shop/2019-domaine-auguste-clape-cotes-du-rhone-13877",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "5",
+      "image-url": "https://www.winehouse.com/prodimages/5101-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "886777",
+      "name": "2009 Château des Tours Vacqueyras",
+      "vintage": "2009",
+      "unit-size": "750ML",
+      "price": "299.98",
+      "url": "https://www.winehouse.com/shop/2009-chateau-des-tours-vacqueyras-21315",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "3",
+      "image-url": "https://www.winehouse.com/prodimages/3034-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "887341000018",
+      "name": "Cynar Original Artichoke Aperitif Liqueur",
+      "vintage": "",
+      "unit-size": "1L",
+      "price": "28.99",
+      "url": "https://www.winehouse.com/shop/cynar-original-artichoke-aperitif-liqueur-21880",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "11",
+      "image-url": ""
+    },
+    {
+      "sku": "887341175747",
+      "name": "Cinzano 1757 Vermouth di Torino Extra Dry",
+      "vintage": "",
+      "unit-size": "1L",
+      "price": "29.99",
+      "url": "https://www.winehouse.com/shop/cinzano-1757-vermouth-di-torino-extra-dry-135242",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/1895-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "887341340091",
+      "name": "Aperol Spritz 4 Pack 9% Alc Btls",
+      "vintage": "",
+      "unit-size": "",
+      "price": "18.99",
+      "url": "https://www.winehouse.com/shop/aperol-spritz-4-pack-9-alc-btls-131621",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "2",
+      "image-url": "https://www.winehouse.com/prodimages/1964-DEFAULT-l.jpg"
+    },
+    {
       "sku": "852669339799",
       "name": "2019 Krutz Family Cellars Cabernet Sauvignon Magnolia Sonoma County",
       "vintage": "2019",
@@ -63068,6 +63042,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/4853-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "215473",
+      "name": "2019 Chateau Montelena Cabernet Sauvignon Napa Valley The Montelena Estate",
+      "vintage": "2019",
+      "unit-size": "750ML",
+      "price": "229.99",
+      "url": "https://www.winehouse.com/shop/2019-chateau-montelena-cabernet-sauvignon-napa-valley-the-montelena-estate-127762",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "6",
+      "image-url": "https://www.winehouse.com/prodimages/1073-DEFAULT-l.jpg"
     },
     {
       "sku": "21215558",
