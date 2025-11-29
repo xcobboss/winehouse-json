@@ -37781,7 +37781,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "47",
+      "stock-level": "35",
       "image-url": "https://www.winehouse.com/prodimages/6207-DEFAULT-l.jpg"
     },
     {
@@ -51097,6 +51097,19 @@
       "image-url": ""
     },
     {
+      "sku": "8437015420080",
+      "name": "2023 Finca Vinoa Treixadura Blanco, Ribeiro",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "21.99",
+      "url": "https://www.winehouse.com/shop/2023-finca-vinoa-treixadura-blanco-ribeiro-134777",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
       "sku": "8437020298377",
       "name": "2020 Viña Mein O Gran Mein Ribeiro Blanco",
       "vintage": "2020",
@@ -62366,6 +62379,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/5396-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "6655465555555555",
+      "name": "Fremont Passionfruit, Orange, and Grapefruit Gose 4-pk 16oz. Cans 4.5%",
+      "vintage": "",
+      "unit-size": "4PK",
+      "price": "10.99",
+      "url": "https://www.winehouse.com/shop/fremont-passionfruit-orange-and-grapefruit-gose-4-pk-16oz-cans-4-5-131738",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "2",
+      "image-url": ""
     },
     {
       "sku": "6657",
