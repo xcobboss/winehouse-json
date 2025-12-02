@@ -8278,7 +8278,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "261",
+      "stock-level": "254",
       "image-url": "https://www.winehouse.com/prodimages/5861-DEFAULT-l.jpg"
     },
     {
@@ -51564,32 +51564,6 @@
       "image-url": ""
     },
     {
-      "sku": "8410062322002",
-      "name": "2015 Chivite Coleccion 125 Reserva Single Vineyard Tempranillo Navarra",
-      "vintage": "2015",
-      "unit-size": "750ML",
-      "price": "33.99",
-      "url": "https://www.winehouse.com/shop/2015-chivite-coleccion-125-reserva-single-vineyard-tempranillo-navarra-24971",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "6",
-      "image-url": "https://www.winehouse.com/prodimages/2105-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "8410792002144",
-      "name": "NV Valdespino Pedro Ximenez El Candado Sherry",
-      "vintage": "NV",
-      "unit-size": "750ML",
-      "price": "28.99",
-      "url": "https://www.winehouse.com/shop/nv-valdespino-pedro-ximenez-el-candado-sherry-5642",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/6029-DEFAULT-l.jpg"
-    },
-    {
       "sku": "8412449101651",
       "name": "NV Valdespino Manzanilla Deliciosa Sherry",
       "vintage": "NV",
@@ -62144,6 +62118,32 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/2673-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "8410062322002",
+      "name": "2015 Chivite Coleccion 125 Reserva Single Vineyard Tempranillo Navarra",
+      "vintage": "2015",
+      "unit-size": "750ML",
+      "price": "33.99",
+      "url": "https://www.winehouse.com/shop/2015-chivite-coleccion-125-reserva-single-vineyard-tempranillo-navarra-24971",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "6",
+      "image-url": "https://www.winehouse.com/prodimages/2105-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "8410792002144",
+      "name": "NV Valdespino Pedro Ximenez El Candado Sherry",
+      "vintage": "NV",
+      "unit-size": "750ML",
+      "price": "28.99",
+      "url": "https://www.winehouse.com/shop/nv-valdespino-pedro-ximenez-el-candado-sherry-5642",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "3",
+      "image-url": "https://www.winehouse.com/prodimages/6029-DEFAULT-l.jpg"
     }
   ]
 }
