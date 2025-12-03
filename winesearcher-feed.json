@@ -924,6 +924,58 @@
       "image-url": "https://www.winehouse.com/prodimages/3371-DEFAULT-l.jpg"
     },
     {
+      "sku": "193178",
+      "name": "2016 Domaines Georges Mugneret-Gibourg Clos Vougeot Grand Cru",
+      "vintage": "2016",
+      "unit-size": "750ML",
+      "price": "1574.98",
+      "url": "https://www.winehouse.com/shop/2016-domaines-georges-mugneret-gibourg-clos-vougeot-grand-cru-78630",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
+      "sku": "193278",
+      "name": "2016 Domaines Georges Mugneret-Gibourg Echezeaux Grand Cru",
+      "vintage": "2016",
+      "unit-size": "750ML",
+      "price": "1599.95",
+      "url": "https://www.winehouse.com/shop/2016-domaines-georges-mugneret-gibourg-echezeaux-grand-cru-78631",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/2308-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "193578",
+      "name": "2016 Domaines Georges Mugneret-Gibourg Vosne-Romanée Villages",
+      "vintage": "2016",
+      "unit-size": "750ML",
+      "price": "624.98",
+      "url": "https://www.winehouse.com/shop/2016-domaines-georges-mugneret-gibourg-vosne-romanee-villages-9513",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "3",
+      "image-url": "https://www.winehouse.com/prodimages/3476-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "194059",
+      "name": "2019 Domaine Fourrier Gevrey-Chambertin Vieilles Vignes Villages",
+      "vintage": "2019",
+      "unit-size": "750ML",
+      "price": "259.98",
+      "url": "https://www.winehouse.com/shop/2019-domaine-fourrier-gevrey-chambertin-vieilles-vignes-villages-5327",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "2",
+      "image-url": "https://www.winehouse.com/prodimages/5538-DEFAULT-l.jpg"
+    },
+    {
       "sku": "015917026968",
       "name": "2021 Freemark Abbey Winery Cabernet Sauvignon Napa Valley",
       "vintage": "2021",
@@ -8603,7 +8655,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "118",
+      "stock-level": "100",
       "image-url": "https://www.winehouse.com/prodimages/5861-DEFAULT-l.jpg"
     },
     {
@@ -9253,7 +9305,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/5845-DEFAULT-l.jpg"
     },
     {
@@ -13737,58 +13789,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/5924-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "193178",
-      "name": "2016 Domaines Georges Mugneret-Gibourg Clos Vougeot Grand Cru",
-      "vintage": "2016",
-      "unit-size": "750ML",
-      "price": "1574.98",
-      "url": "https://www.winehouse.com/shop/2016-domaines-georges-mugneret-gibourg-clos-vougeot-grand-cru-78630",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
-      "sku": "193278",
-      "name": "2016 Domaines Georges Mugneret-Gibourg Echezeaux Grand Cru",
-      "vintage": "2016",
-      "unit-size": "750ML",
-      "price": "1599.95",
-      "url": "https://www.winehouse.com/shop/2016-domaines-georges-mugneret-gibourg-echezeaux-grand-cru-78631",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/2308-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "193578",
-      "name": "2016 Domaines Georges Mugneret-Gibourg Vosne-Romanée Villages",
-      "vintage": "2016",
-      "unit-size": "750ML",
-      "price": "624.98",
-      "url": "https://www.winehouse.com/shop/2016-domaines-georges-mugneret-gibourg-vosne-romanee-villages-9513",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/3476-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "194059",
-      "name": "2019 Domaine Fourrier Gevrey-Chambertin Vieilles Vignes Villages",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "259.98",
-      "url": "https://www.winehouse.com/shop/2019-domaine-fourrier-gevrey-chambertin-vieilles-vignes-villages-5327",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/5538-DEFAULT-l.jpg"
     },
     {
       "sku": "194409",
@@ -38989,7 +38989,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/2963-DEFAULT-l.jpg"
     },
     {
@@ -45905,7 +45905,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/1679-DEFAULT-l.jpg"
     },
     {
@@ -47491,7 +47491,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/2781-DEFAULT-l.jpg"
     },
     {
@@ -48154,7 +48154,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/6197-DEFAULT-l.jpg"
     },
     {
@@ -48167,7 +48167,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": ""
     },
     {
@@ -48427,7 +48427,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "81",
+      "stock-level": "80",
       "image-url": "https://www.winehouse.com/prodimages/6206-DEFAULT-l.jpg"
     },
     {
