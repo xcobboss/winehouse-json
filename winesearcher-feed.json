@@ -1193,7 +1193,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/3393-DEFAULT-l.jpg"
     },
     {
@@ -4417,7 +4417,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "18",
       "image-url": ""
     },
     {
@@ -4495,7 +4495,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/5013-DEFAULT-l.jpg"
     },
     {
@@ -8668,7 +8668,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "15",
+      "stock-level": "12",
       "image-url": ""
     },
     {
@@ -18859,19 +18859,6 @@
       "offer-type": "",
       "delivery-time": "2-5 days",
       "stock-level": "3",
-      "image-url": ""
-    },
-    {
-      "sku": "281042",
-      "name": "2019 Seabold Cellars Rodnick Farm Syrah",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "37.99",
-      "url": "https://www.winehouse.com/shop/2019-seabold-cellars-rodnick-farm-syrah-132524",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
       "image-url": ""
     },
     {
@@ -37000,7 +36987,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/6184-DEFAULT-l.jpg"
     },
     {
@@ -61871,6 +61858,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/1057-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "281042",
+      "name": "2019 Seabold Cellars Rodnick Farm Syrah",
+      "vintage": "2019",
+      "unit-size": "750ML",
+      "price": "37.99",
+      "url": "https://www.winehouse.com/shop/2019-seabold-cellars-rodnick-farm-syrah-132524",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "2",
+      "image-url": ""
     },
     {
       "sku": "761503224194",
