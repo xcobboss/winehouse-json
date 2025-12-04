@@ -15299,45 +15299,6 @@
       "image-url": "https://www.winehouse.com/prodimages/4095-DEFAULT-l.jpg"
     },
     {
-      "sku": "20207",
-      "name": "2019 San Filippo Brunello di Montalcino Dei Comunali",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "83.99",
-      "url": "https://www.winehouse.com/shop/2019-san-filippo-brunello-di-montalcino-dei-comunali-130393",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "6",
-      "image-url": "https://www.winehouse.com/prodimages/116-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "2021",
-      "name": "2021 Scarecrow Cabernet Sauvignon Rutherford",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "729.99",
-      "url": "https://www.winehouse.com/shop/2021-scarecrow-cabernet-sauvignon-rutherford-130433",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/2420-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "2021500058",
-      "name": "2011 Sea Smoke Cellars Pinot Noir Southing Santa Rita Hills [label damage]",
-      "vintage": "2011",
-      "unit-size": "750ML",
-      "price": "99.98",
-      "url": "https://www.winehouse.com/shop/2011-sea-smoke-cellars-pinot-noir-southing-santa-rita-hills-13050",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5601-DEFAULT-l.jpg"
-    },
-    {
       "sku": "202199",
       "name": "2019 Canalicchio di Sopra Brunello di Montalcino",
       "vintage": "2019",
@@ -20508,6 +20469,19 @@
       "url": "https://www.winehouse.com/shop/2012-realm-cellars-the-absurd-proprietary-red-blend-napa-valley-15106",
       "min-order": "1",
       "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
+      "sku": "3215474",
+      "name": "2016 Chimere Chateauneuf du Pape (Sine Qua Non and Clos St. Jean) OWC",
+      "vintage": "2016",
+      "unit-size": "1.5L",
+      "price": "699.99",
+      "url": "https://www.winehouse.com/shop/2016-chimere-chateauneuf-du-pape-sine-qua-non-and-clos-st-jean-owc-15105",
+      "min-order": "1",
+      "offer-type": "",
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
@@ -30518,6 +30492,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "31",
       "image-url": "https://www.winehouse.com/prodimages/3654-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "529955",
+      "name": "NV Claude Cazals Cuvee Vive Blanc de Blancs Extra Brut Grand Cru, Le Mesnil-Sur-Oger",
+      "vintage": "NV",
+      "unit-size": "750ML",
+      "price": "64.99",
+      "url": "https://www.winehouse.com/shop/nv-claude-cazals-cuvee-vive-blanc-de-blancs-extra-brut-grand-cru-le-mesnil-sur-oger-14683",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "22",
+      "image-url": ""
     },
     {
       "sku": "529993",
@@ -45792,6 +45779,19 @@
       "image-url": "https://www.winehouse.com/prodimages/6071-DEFAULT-l.jpg"
     },
     {
+      "sku": "791202097218",
+      "name": "2021 Patz and Hall Wine Company Pinot Noir Sonoma Coast",
+      "vintage": "2021",
+      "unit-size": "750ML",
+      "price": "38.99",
+      "url": "https://www.winehouse.com/shop/2021-patz-and-hall-wine-company-pinot-noir-sonoma-coast-135344",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "16",
+      "image-url": "https://www.winehouse.com/prodimages/2121-DEFAULT-l.jpg"
+    },
+    {
       "sku": "791202097249",
       "name": "2022 Patz and Hall Wine Company Chardonnay Sonoma Coast",
       "vintage": "2022",
@@ -57492,6 +57492,19 @@
       "image-url": "https://www.winehouse.com/prodimages/4545-DEFAULT-l.jpg"
     },
     {
+      "sku": "881857",
+      "name": "2018 Chateau Redortier Beaumes-de-Venise",
+      "vintage": "2018",
+      "unit-size": "750ML",
+      "price": "18.99",
+      "url": "https://www.winehouse.com/shop/2018-redortier-côtes-du-rhône-beaumes-de-venise-131384",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "45",
+      "image-url": "https://www.winehouse.com/prodimages/6148-DEFAULT-l.jpg"
+    },
+    {
       "sku": "882444",
       "name": "2022 Wasenhaus Gutedel Baden",
       "vintage": "2022",
@@ -61871,6 +61884,45 @@
       "delivery-time": "2-5 days",
       "stock-level": "2",
       "image-url": ""
+    },
+    {
+      "sku": "20207",
+      "name": "2019 San Filippo Brunello di Montalcino Dei Comunali",
+      "vintage": "2019",
+      "unit-size": "750ML",
+      "price": "83.99",
+      "url": "https://www.winehouse.com/shop/2019-san-filippo-brunello-di-montalcino-dei-comunali-130393",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "6",
+      "image-url": "https://www.winehouse.com/prodimages/116-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "2021",
+      "name": "2021 Scarecrow Cabernet Sauvignon Rutherford",
+      "vintage": "2021",
+      "unit-size": "750ML",
+      "price": "729.99",
+      "url": "https://www.winehouse.com/shop/2021-scarecrow-cabernet-sauvignon-rutherford-130433",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "3",
+      "image-url": "https://www.winehouse.com/prodimages/2420-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "2021500058",
+      "name": "2011 Sea Smoke Cellars Pinot Noir Southing Santa Rita Hills [label damage]",
+      "vintage": "2011",
+      "unit-size": "750ML",
+      "price": "99.98",
+      "url": "https://www.winehouse.com/shop/2011-sea-smoke-cellars-pinot-noir-southing-santa-rita-hills-13050",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/5601-DEFAULT-l.jpg"
     },
     {
       "sku": "761503224194",
