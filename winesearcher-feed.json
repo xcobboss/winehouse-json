@@ -15347,7 +15347,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -49778,7 +49778,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/5040-DEFAULT-l.jpg"
     },
     {
@@ -61363,19 +61363,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "46",
       "image-url": "https://www.winehouse.com/prodimages/1628-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "3258690015058",
-      "name": "2019 Les Carmes Haut Brion Pessac-Léognan",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "179.99",
-      "url": "https://www.winehouse.com/shop/2019-les-carmes-haut-brion-pessac-léognan-15976",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5670-DEFAULT-l.jpg"
     },
     {
       "sku": "3258690016123",
