@@ -4721,7 +4721,7 @@
     },
     {
       "sku": "083085001025",
-      "name": "2021 Quintessa Red Wine Rutherford Napa Valley",
+      "name": "2022 Quintessa Red Wine Rutherford Napa Valley",
       "vintage": "2022",
       "unit-size": "750ML",
       "price": "249.00",
@@ -8694,7 +8694,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "53",
+      "stock-level": "52",
       "image-url": "https://www.winehouse.com/prodimages/5843-DEFAULT-l.jpg"
     },
     {
@@ -13831,7 +13831,7 @@
     },
     {
       "sku": "19640450",
-      "name": "2000 Chateau Lynch Bages Pauillac [slight label damage]",
+      "name": "2000 Chateau Lynch Bages Pauillac [",
       "vintage": "2000",
       "unit-size": "750ML",
       "price": "574.95",
@@ -15058,6 +15058,19 @@
       "unit-size": "750ML",
       "price": "2849.95",
       "url": "https://www.winehouse.com/shop/1999-domaine-jean-grivot-richebourg-grand-cru-138177",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
+      "sku": "20200087",
+      "name": "1996 Williams Selyem Pinot Noir Coastlands Sonoma Coast [slightly scuffed label]",
+      "vintage": "1996",
+      "unit-size": "750ML",
+      "price": "79.98",
+      "url": "https://www.winehouse.com/shop/1996-williams-selyem-pinot-noir-coastlands-sonoma-coast-138487",
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
@@ -19703,7 +19716,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "451",
+      "stock-level": "450",
       "image-url": "https://www.winehouse.com/prodimages/6269-DEFAULT-l.jpg"
     },
     {
@@ -44540,7 +44553,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -51416,7 +51429,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "25",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/4901-DEFAULT-l.jpg"
     },
     {
@@ -56564,7 +56577,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "28",
+      "stock-level": "26",
       "image-url": "https://www.winehouse.com/prodimages/3840-DEFAULT-l.jpg"
     },
     {
