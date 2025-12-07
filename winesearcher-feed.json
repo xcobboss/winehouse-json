@@ -15039,19 +15039,6 @@
       "image-url": ""
     },
     {
-      "sku": "20200087",
-      "name": "1996 Williams Selyem Pinot Noir Coastlands Sonoma Coast [slightly scuffed label]",
-      "vintage": "1996",
-      "unit-size": "750ML",
-      "price": "79.98",
-      "url": "https://www.winehouse.com/shop/1996-williams-selyem-pinot-noir-coastlands-sonoma-coast-138487",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "202008",
       "name": "2019 Vietti Barbaresco Roncaglie Masseria",
       "vintage": "2019",
@@ -18769,6 +18756,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/4524-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "29978355",
+      "name": "2019 G.D. Vajra Barolo Albe",
+      "vintage": "2019",
+      "unit-size": "750ML",
+      "price": "39.99",
+      "url": "https://www.winehouse.com/shop/2019-g-d-vajra-barolo-albe-127487",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
     },
     {
       "sku": "29981896",
@@ -26488,19 +26488,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/6139-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "4358949",
-      "name": "2023 Domaine Georges Roumier Chambolle-Musigny \"Les Cras\" 1er Cru",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "599.99",
-      "url": "https://www.winehouse.com/shop/2023-domaine-georges-roumier-chambolle-musigny-les-cras-1er-cru-137226",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5273-DEFAULT-l.jpg"
     },
     {
       "sku": "436741",
