@@ -140,7 +140,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": ""
     },
     {
@@ -153,7 +153,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/2063-DEFAULT-l.jpg"
     },
     {
@@ -1466,7 +1466,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/3593-DEFAULT-l.jpg"
     },
     {
@@ -1765,7 +1765,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -4092,7 +4092,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "25",
+      "stock-level": "23",
       "image-url": "https://www.winehouse.com/prodimages/3676-DEFAULT-l.jpg"
     },
     {
@@ -5184,7 +5184,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "116",
+      "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/6405-DEFAULT-l.jpg"
     },
     {
@@ -6822,7 +6822,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": ""
     },
     {
@@ -8486,7 +8486,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/6326-DEFAULT-l.jpg"
     },
     {
@@ -16684,7 +16684,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "2",
       "image-url": ""
     },
     {
@@ -20383,32 +20383,6 @@
       "image-url": ""
     },
     {
-      "sku": "314255",
-      "name": "2006 Lewis Cellars Cabernet Sauvignon Reserve Napa Valley",
-      "vintage": "2006",
-      "unit-size": "750ML",
-      "price": "149.98",
-      "url": "https://www.winehouse.com/shop/2006-lewis-cellars-cabernet-sauvignon-reserve-napa-valley-63210",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
-      "sku": "3149",
-      "name": "2019 Edmond Vatan Sancerre Clos la Neore",
-      "vintage": "2019",
-      "unit-size": "1.5L",
-      "price": "699.99",
-      "url": "https://www.winehouse.com/shop/2019-edmond-vatan-sancerre-clos-la-neore-133770",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/3794-DEFAULT-l.jpg"
-    },
-    {
       "sku": "3150",
       "name": "2021 Edmond Vatan Sancerre Clos la Neore",
       "vintage": "2021",
@@ -21393,7 +21367,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/4841-DEFAULT-l.jpg"
     },
     {
@@ -35768,7 +35742,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/1505-DEFAULT-l.jpg"
     },
     {
@@ -35952,19 +35926,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/1977-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "652459",
-      "name": "2022 Continuum Partners Proprietary Red Blend Napa Valley",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "319.99",
-      "url": "https://www.winehouse.com/shop/2022-continuum-partners-proprietary-red-blend-napa-valley-137042",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "83",
-      "image-url": "https://www.winehouse.com/prodimages/4887-DEFAULT-l.jpg"
     },
     {
       "sku": "653341303646",
@@ -36197,7 +36158,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "37",
+      "stock-level": "36",
       "image-url": "https://www.winehouse.com/prodimages/3361-DEFAULT-l.jpg"
     },
     {
@@ -38056,7 +38017,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/4411-DEFAULT-l.jpg"
     },
     {
@@ -40266,7 +40227,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/3670-DEFAULT-l.jpg"
     },
     {
@@ -46662,7 +46623,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/306-DEFAULT-l.jpg"
     },
     {
@@ -46857,7 +46818,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "15",
+      "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/4277-DEFAULT-l.jpg"
     },
     {
@@ -46961,7 +46922,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/3545-DEFAULT-l.jpg"
     },
     {
@@ -47572,7 +47533,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "31",
+      "stock-level": "29",
       "image-url": "https://www.winehouse.com/prodimages/2714-DEFAULT-l.jpg"
     },
     {
@@ -48001,7 +47962,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/6197-DEFAULT-l.jpg"
     },
     {
@@ -52706,7 +52667,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "26",
+      "stock-level": "23",
       "image-url": "https://www.winehouse.com/prodimages/5910-DEFAULT-l.jpg"
     },
     {
@@ -53018,7 +52979,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "19",
       "image-url": ""
     },
     {
@@ -56372,7 +56333,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "17",
       "image-url": ""
     },
     {
@@ -56905,7 +56866,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/4801-DEFAULT-l.jpg"
     },
     {
@@ -59427,7 +59388,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "5",
       "image-url": ""
     },
     {
@@ -61264,19 +61225,6 @@
       "image-url": "https://www.winehouse.com/prodimages/2463-DEFAULT-l.jpg"
     },
     {
-      "sku": "976023",
-      "name": "2022 Williams Selyem Pinot Noir Estate Vineyard",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "167.99",
-      "url": "https://www.winehouse.com/shop/2022-williams-selyem-pinot-noir-estate-vineyard-132280",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5651-DEFAULT-l.jpg"
-    },
-    {
       "sku": "98004",
       "name": "2019 Giuseppe Rinaldi Barolo Brunate",
       "vintage": "2019",
@@ -61780,7 +61728,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/329-DEFAULT-l.jpg"
     },
     {
@@ -62247,6 +62195,45 @@
       "delivery-time": "2-5 days",
       "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/4177-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "314255",
+      "name": "2006 Lewis Cellars Cabernet Sauvignon Reserve Napa Valley",
+      "vintage": "2006",
+      "unit-size": "750ML",
+      "price": "149.98",
+      "url": "https://www.winehouse.com/shop/2006-lewis-cellars-cabernet-sauvignon-reserve-napa-valley-63210",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
+      "sku": "3149",
+      "name": "2019 Edmond Vatan Sancerre Clos la Neore",
+      "vintage": "2019",
+      "unit-size": "1.5L",
+      "price": "699.99",
+      "url": "https://www.winehouse.com/shop/2019-edmond-vatan-sancerre-clos-la-neore-133770",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "2",
+      "image-url": "https://www.winehouse.com/prodimages/3794-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "652459",
+      "name": "2022 Continuum Partners Proprietary Red Blend Napa Valley",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "319.99",
+      "url": "https://www.winehouse.com/shop/2022-continuum-partners-proprietary-red-blend-napa-valley-137042",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "83",
+      "image-url": "https://www.winehouse.com/prodimages/4887-DEFAULT-l.jpg"
     }
   ]
 }
