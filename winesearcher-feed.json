@@ -19651,7 +19651,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "5",
       "image-url": ""
     },
     {
@@ -31641,19 +31641,6 @@
       "image-url": "https://www.winehouse.com/prodimages/3036-DEFAULT-l.jpg"
     },
     {
-      "sku": "523661",
-      "name": "2015 Domaine Romaneaux-Destezet (Hervé Souhaut) Gamay Souteronne (VDP, France)",
-      "vintage": "2015",
-      "unit-size": "750ML",
-      "price": "39.98",
-      "url": "https://www.winehouse.com/shop/2015-domaine-romaneaux-destezet-hervé-souhaut-gamay-souteronne-vdp-france-42440",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5534-DEFAULT-l.jpg"
-    },
-    {
       "sku": "524142",
       "name": "2023 Scar of the Sea Chardonnay Bassi Vineyard",
       "vintage": "2023",
@@ -33729,58 +33716,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/5840-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "5681",
-      "name": "2021 Alfredo Egia Izaki (Creatures) Bizkaiko Txakolina",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "35.99",
-      "url": "https://www.winehouse.com/shop/2021-alfredo-egia-izaki-creatures-bizkaiko-txakolina-129680",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
-      "sku": "568444",
-      "name": "2024 Peter Lauer Riesling Senior Fass 6, Saar",
-      "vintage": "2024",
-      "unit-size": "750ML",
-      "price": "34.99",
-      "url": "https://www.winehouse.com/shop/2024-peter-lauer-riesling-senior-fass-6-saar-137166",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "8",
-      "image-url": "https://www.winehouse.com/prodimages/5031-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "568491",
-      "name": "2024 Weingut Keller, Riesling Limestone, Rheinhessen",
-      "vintage": "2024",
-      "unit-size": "750ML",
-      "price": "39.99",
-      "url": "https://www.winehouse.com/shop/2024-weingut-keller-riesling-limestone-rheinhessen-137497",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "6",
-      "image-url": "https://www.winehouse.com/prodimages/5905-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "569152",
-      "name": "2022 Weingut Tement `Muschelkalk` Morillon (Chardonnay) Steiermark, Austria",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "24.99",
-      "url": "https://www.winehouse.com/shop/2022-weingut-tement-muschelkalk-morillon-chardonnay-steiermark-austria-137060",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "8",
-      "image-url": "https://www.winehouse.com/prodimages/4905-DEFAULT-l.jpg"
     },
     {
       "sku": "5699087",
@@ -38877,19 +38812,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/3898-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "676952",
-      "name": "2021 Cigliano di Sopra Chianti Classico Reserva",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "124.99",
-      "url": "https://www.winehouse.com/shop/2021-cigliano-di-sopra-chianti-classico-reserva-134757",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/3899-DEFAULT-l.jpg"
     },
     {
       "sku": "677201",
@@ -63404,6 +63326,71 @@
       "delivery-time": "2-5 days",
       "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/6320-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "5681",
+      "name": "2021 Alfredo Egia Izaki (Creatures) Bizkaiko Txakolina",
+      "vintage": "2021",
+      "unit-size": "750ML",
+      "price": "35.99",
+      "url": "https://www.winehouse.com/shop/2021-alfredo-egia-izaki-creatures-bizkaiko-txakolina-129680",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
+      "sku": "568444",
+      "name": "2024 Peter Lauer Riesling Senior Fass 6, Saar",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "34.99",
+      "url": "https://www.winehouse.com/shop/2024-peter-lauer-riesling-senior-fass-6-saar-137166",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "8",
+      "image-url": "https://www.winehouse.com/prodimages/5031-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "568491",
+      "name": "2024 Weingut Keller, Riesling Limestone, Rheinhessen",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "39.99",
+      "url": "https://www.winehouse.com/shop/2024-weingut-keller-riesling-limestone-rheinhessen-137497",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "6",
+      "image-url": "https://www.winehouse.com/prodimages/5905-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "569152",
+      "name": "2022 Weingut Tement `Muschelkalk` Morillon (Chardonnay) Steiermark, Austria",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "24.99",
+      "url": "https://www.winehouse.com/shop/2022-weingut-tement-muschelkalk-morillon-chardonnay-steiermark-austria-137060",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "8",
+      "image-url": "https://www.winehouse.com/prodimages/4905-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "523661",
+      "name": "2015 Domaine Romaneaux-Destezet (Hervé Souhaut) Gamay Souteronne (VDP, France)",
+      "vintage": "2015",
+      "unit-size": "750ML",
+      "price": "39.98",
+      "url": "https://www.winehouse.com/shop/2015-domaine-romaneaux-destezet-hervé-souhaut-gamay-souteronne-vdp-france-42440",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/5534-DEFAULT-l.jpg"
     },
     {
       "sku": "5060399680998",
