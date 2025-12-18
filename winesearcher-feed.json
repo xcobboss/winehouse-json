@@ -29531,7 +29531,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/6603-DEFAULT-l.jpg"
     },
     {
@@ -29544,7 +29544,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/6604-DEFAULT-l.jpg"
     },
     {
@@ -39919,32 +39919,6 @@
       "image-url": ""
     },
     {
-      "sku": "7020544",
-      "name": "2022 Aubert Wines Chardonnay Lauren Vineyard Sonoma Coast",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "269.98",
-      "url": "https://www.winehouse.com/shop/2022-aubert-wines-chardonnay-lauren-vineyard-sonoma-coast-129792",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5553-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "702078",
-      "name": "2015 Luigi Tecce ‘Poliphemo Vecchie Vigne‘ Taurasi Riserva",
-      "vintage": "2015",
-      "unit-size": "750ML",
-      "price": "97.99",
-      "url": "https://www.winehouse.com/shop/2015-luigi-tecce-poliphemo-vecchie-vigne-taurasi-riserva-15635",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "5",
-      "image-url": "https://www.winehouse.com/prodimages/1533-DEFAULT-l.jpg"
-    },
-    {
       "sku": "702487",
       "name": "1999 Domaine de la Romanee Conti Echezeaux Grand Cru",
       "vintage": "1999",
@@ -40058,7 +40032,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "60",
+      "stock-level": "48",
       "image-url": "https://www.winehouse.com/prodimages/3196-DEFAULT-l.jpg"
     },
     {
@@ -41982,7 +41956,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "14",
       "image-url": "https://www.winehouse.com/prodimages/1680-DEFAULT-l.jpg"
     },
     {
@@ -63147,6 +63121,32 @@
       "delivery-time": "2-5 days",
       "stock-level": "2",
       "image-url": ""
+    },
+    {
+      "sku": "7020544",
+      "name": "2022 Aubert Wines Chardonnay Lauren Vineyard Sonoma Coast",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "269.98",
+      "url": "https://www.winehouse.com/shop/2022-aubert-wines-chardonnay-lauren-vineyard-sonoma-coast-129792",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/5553-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "702078",
+      "name": "2015 Luigi Tecce ‘Poliphemo Vecchie Vigne‘ Taurasi Riserva",
+      "vintage": "2015",
+      "unit-size": "750ML",
+      "price": "97.99",
+      "url": "https://www.winehouse.com/shop/2015-luigi-tecce-poliphemo-vecchie-vigne-taurasi-riserva-15635",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "5",
+      "image-url": "https://www.winehouse.com/prodimages/1533-DEFAULT-l.jpg"
     }
   ]
 }
