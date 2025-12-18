@@ -2688,7 +2688,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "31",
+      "stock-level": "29",
       "image-url": "https://www.winehouse.com/prodimages/5813-DEFAULT-l.jpg"
     },
     {
@@ -4989,7 +4989,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "22",
       "image-url": "https://www.winehouse.com/prodimages/6311-DEFAULT-l.jpg"
     },
     {
@@ -5301,7 +5301,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "71",
+      "stock-level": "70",
       "image-url": "https://www.winehouse.com/prodimages/2859-DEFAULT-l.jpg"
     },
     {
@@ -16893,7 +16893,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/5243-DEFAULT-l.jpg"
     },
     {
@@ -22472,7 +22472,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/5093-DEFAULT-l.jpg"
     },
     {
@@ -27260,19 +27260,6 @@
       "image-url": "https://www.winehouse.com/prodimages/6097-DEFAULT-l.jpg"
     },
     {
-      "sku": "403581",
-      "name": "2023 Domaine Bachelet-Monnot Puligny Montrachet",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "119.99",
-      "url": "https://www.winehouse.com/shop/2023-domaine-bachelet-monnot-puligny-montrachet-137786",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/6098-DEFAULT-l.jpg"
-    },
-    {
       "sku": "4036328000015",
       "name": "Schoenramer Hell Private Landbraurei Schoenram",
       "vintage": "",
@@ -31693,19 +31680,6 @@
       "image-url": "https://www.winehouse.com/prodimages/6276-DEFAULT-l.jpg"
     },
     {
-      "sku": "529993",
-      "name": "2006 Moet et Chandon Dom Perignon Champagne",
-      "vintage": "2006",
-      "unit-size": "750ML",
-      "price": "299.98",
-      "url": "https://www.winehouse.com/shop/2006-moet-et-chandon-dom-perignon-83048",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/5970-DEFAULT-l.jpg"
-    },
-    {
       "sku": "529999",
       "name": "2008 Karl Lawrence Cabernet Sauvignon Napa Valley [label damage]",
       "vintage": "2008",
@@ -33649,7 +33623,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/5980-DEFAULT-l.jpg"
     },
     {
@@ -34884,7 +34858,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/5463-DEFAULT-l.jpg"
     },
     {
@@ -39945,45 +39919,6 @@
       "image-url": "https://www.winehouse.com/prodimages/447-DEFAULT-l.jpg"
     },
     {
-      "sku": "7040514",
-      "name": "2012 Giovanni Canonica Barolo del Comune di Grinzane Cavour DOCG",
-      "vintage": "2012",
-      "unit-size": "750ML",
-      "price": "299.98",
-      "url": "https://www.winehouse.com/shop/2012-giovanni-canonica-barolo-del-comune-di-grinzane-cavour-docg-organic-127861",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/3998-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "704228202009",
-      "name": "Tequila Arette Artesanal Suave Blanco 40% abv",
-      "vintage": "",
-      "unit-size": "750ML",
-      "price": "49.99",
-      "url": "https://www.winehouse.com/shop/tequila-arette-artesanal-suave-blanco-40-abv-26386",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/703-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "704228203006",
-      "name": "Tequila Arette Artesanal Suave Reposado 40% abv",
-      "vintage": "",
-      "unit-size": "750ML",
-      "price": "59.99",
-      "url": "https://www.winehouse.com/shop/tequila-arette-artesanal-suave-reposado-40-abv-26387",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "8",
-      "image-url": "https://www.winehouse.com/prodimages/704-DEFAULT-l.jpg"
-    },
-    {
       "sku": "705000956",
       "name": "2009 Domaine Dugat-Py Chambertin Grand Cru",
       "vintage": "2009",
@@ -44976,19 +44911,6 @@
       "image-url": "https://www.winehouse.com/prodimages/3843-DEFAULT-l.jpg"
     },
     {
-      "sku": "761503811127",
-      "name": "2018 Paul Bara Brut Millesime Champagne Grand Cru",
-      "vintage": "2018",
-      "unit-size": "750ML",
-      "price": "97.99",
-      "url": "https://www.winehouse.com/shop/2018-paul-bara-brut-millesime-champagne-grand-cru-138425",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "8",
-      "image-url": "https://www.winehouse.com/prodimages/6384-DEFAULT-l.jpg"
-    },
-    {
       "sku": "761503811349",
       "name": "NV Paul Bara Rose Brut Grand Cru Champagne",
       "vintage": "NV",
@@ -46597,7 +46519,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/5690-DEFAULT-l.jpg"
     },
     {
@@ -56571,19 +56493,6 @@
       "image-url": ""
     },
     {
-      "sku": "859793000755",
-      "name": "2021 Trinitas Sauvignon Blanc Napa Valley",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "28.99",
-      "url": "https://www.winehouse.com/shop/2021-trinitas-sauvignon-blanc-napa-valley-23713",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/2446-DEFAULT-l.jpg"
-    },
-    {
       "sku": "859809006061",
       "name": "Brouwerij West, Popfuji Pilsner. 5% abv. of 16 oz cans",
       "vintage": "",
@@ -62694,19 +62603,6 @@
       "image-url": "https://www.winehouse.com/prodimages/6511-DEFAULT-l.jpg"
     },
     {
-      "sku": "6304088",
-      "name": "Maestro Dobel Atelier Tequila Extra Anejo",
-      "vintage": "",
-      "unit-size": "750ML",
-      "price": "229.99",
-      "url": "https://www.winehouse.com/shop/maestro-dobel-atelier-tequila-extra-anejo-138562",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6669-DEFAULT-l.jpg"
-    },
-    {
       "sku": "630512",
       "name": "2017 Hickinbotham Elder Hill Grenache Clarendon Vineyard McLaren Vale",
       "vintage": "2017",
@@ -63147,6 +63043,45 @@
       "delivery-time": "2-5 days",
       "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/1533-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "7040514",
+      "name": "2012 Giovanni Canonica Barolo del Comune di Grinzane Cavour DOCG",
+      "vintage": "2012",
+      "unit-size": "750ML",
+      "price": "299.98",
+      "url": "https://www.winehouse.com/shop/2012-giovanni-canonica-barolo-del-comune-di-grinzane-cavour-docg-organic-127861",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/3998-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "704228202009",
+      "name": "Tequila Arette Artesanal Suave Blanco 40% abv",
+      "vintage": "",
+      "unit-size": "750ML",
+      "price": "49.99",
+      "url": "https://www.winehouse.com/shop/tequila-arette-artesanal-suave-blanco-40-abv-26386",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "2",
+      "image-url": "https://www.winehouse.com/prodimages/703-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "704228203006",
+      "name": "Tequila Arette Artesanal Suave Reposado 40% abv",
+      "vintage": "",
+      "unit-size": "750ML",
+      "price": "59.99",
+      "url": "https://www.winehouse.com/shop/tequila-arette-artesanal-suave-reposado-40-abv-26387",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "8",
+      "image-url": "https://www.winehouse.com/prodimages/704-DEFAULT-l.jpg"
     }
   ]
 }
