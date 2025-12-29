@@ -3507,7 +3507,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": ""
     },
     {
@@ -6055,7 +6055,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/780-DEFAULT-l.jpg"
     },
     {
@@ -20929,19 +20929,6 @@
       "image-url": "https://www.winehouse.com/prodimages/4966-DEFAULT-l.jpg"
     },
     {
-      "sku": "33330004",
-      "name": "2014 Hubert Lamy Bourgogne Blanc Les Chataigners",
-      "vintage": "2014",
-      "unit-size": "750ML",
-      "price": "149.98",
-      "url": "https://www.winehouse.com/shop/2014-hubert-lamy-bourgogne-blanc-les-chataigners-137136",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/4989-DEFAULT-l.jpg"
-    },
-    {
       "sku": "33330008",
       "name": "2016 Domaine Yvon Clerget Clos de Vougeot Grand Cru",
       "vintage": "2016",
@@ -24291,7 +24278,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/6721-DEFAULT-l.jpg"
     },
     {
@@ -28646,7 +28633,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/3643-DEFAULT-l.jpg"
     },
     {
@@ -31427,19 +31414,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/4905-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "5699087",
-      "name": "2021 Piedrasassi Syrah Rim Rock Vineyard, Arroyo Grande Valley",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "39.99",
-      "url": "https://www.winehouse.com/shop/2021-piedrasassi-syrah-rim-rock-vineyard-arroyo-grande-valley-137889",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "14",
-      "image-url": ""
     },
     {
       "sku": "5701474",
@@ -36690,7 +36664,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/3433-DEFAULT-l.jpg"
     },
     {
@@ -39719,7 +39693,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/925-DEFAULT-l.jpg"
     },
     {
@@ -41140,32 +41114,6 @@
       "image-url": "https://www.winehouse.com/prodimages/388-DEFAULT-l.jpg"
     },
     {
-      "sku": "7503018079059",
-      "name": "G4 Reposado Tequila",
-      "vintage": "",
-      "unit-size": "750ML",
-      "price": "57.99",
-      "url": "https://www.winehouse.com/shop/g4-reposado-tequila-26772",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "13",
-      "image-url": "https://www.winehouse.com/prodimages/713-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "7503018079066",
-      "name": "G4 Anejo Tequila",
-      "vintage": "",
-      "unit-size": "750ML",
-      "price": "79.99",
-      "url": "https://www.winehouse.com/shop/g4-anejo-tequila-26773",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "6",
-      "image-url": "https://www.winehouse.com/prodimages/5460-DEFAULT-l.jpg"
-    },
-    {
       "sku": "7503018079240",
       "name": "G4 Blanco Tequila 108 Proof",
       "vintage": "",
@@ -41188,7 +41136,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/465-DEFAULT-l.jpg"
     },
     {
@@ -47445,19 +47393,6 @@
       "image-url": "https://www.winehouse.com/prodimages/4071-DEFAULT-l.jpg"
     },
     {
-      "sku": "814460010529",
-      "name": "2023 Dumol Chardonnay Wester Reach Russian River Valley",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "64.99",
-      "url": "https://www.winehouse.com/shop/2023-dumol-chardonnay-wester-reach-russian-river-valley-136464",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "21",
-      "image-url": ""
-    },
-    {
       "sku": "814523",
       "name": "1999 Mommessin Clos de Tart Grand Cru",
       "vintage": "1999",
@@ -48247,7 +48182,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/4778-DEFAULT-l.jpg"
     },
     {
@@ -49070,17 +49005,17 @@
       "image-url": ""
     },
     {
-      "sku": "8427663280013",
-      "name": "NV Blancher Gran Reserva Cava",
-      "vintage": "",
+      "sku": "8427663290012",
+      "name": "NV Blancher Cava Brut Reserva",
+      "vintage": "NV",
       "unit-size": "750ML",
-      "price": "22.99",
-      "url": "https://www.winehouse.com/shop/2016-blancher-gran-reserva-cava-1986",
+      "price": "17.99",
+      "url": "https://www.winehouse.com/shop/nv-blancher-cava-brut-reserva-1911",
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
-      "image-url": ""
+      "stock-level": "6",
+      "image-url": "https://www.winehouse.com/prodimages/2150-DEFAULT-l.jpg"
     },
     {
       "sku": "8429073022016",
@@ -49235,7 +49170,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/331-DEFAULT-l.jpg"
     },
     {
@@ -51731,7 +51666,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/667-DEFAULT-l.jpg"
     },
     {
@@ -58830,6 +58765,19 @@
       "offer-type": "R",
       "delivery-time": "2-5 days",
       "stock-level": "1",
+      "image-url": ""
+    },
+    {
+      "sku": "5699087",
+      "name": "2021 Piedrasassi Syrah Rim Rock Vineyard, Arroyo Grande Valley",
+      "vintage": "2021",
+      "unit-size": "750ML",
+      "price": "39.99",
+      "url": "https://www.winehouse.com/shop/2021-piedrasassi-syrah-rim-rock-vineyard-arroyo-grande-valley-137889",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "14",
       "image-url": ""
     }
   ]
