@@ -6601,7 +6601,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "17",
       "image-url": ""
     },
     {
@@ -9619,19 +9619,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/3501-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "1134677",
-      "name": "2023 Brooks Winery Pinot Noir Willamette Valley",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "25.99",
-      "url": "https://www.winehouse.com/shop/2023-brooks-winery-pinot-noir-willamette-valley-134208",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
     },
     {
       "sku": "113852",
@@ -29945,7 +29932,7 @@
       "url": "https://www.winehouse.com/shop/2022-chateau-giscours-margaux-pre-arrival-eta-spring-2026-138149",
       "min-order": "1",
       "offer-type": "PA",
-      "stock-level": "56",
+      "stock-level": "24",
       "image-url": ""
     },
     {
