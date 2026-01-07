@@ -8087,6 +8087,19 @@
       "image-url": ""
     },
     {
+      "sku": "097546102008",
+      "name": "NV Roederer Estate Brut Estate Anderson Valley Sparkling Wine",
+      "vintage": "NV",
+      "unit-size": "750ML",
+      "price": "23.99",
+      "url": "https://www.winehouse.com/shop/nv-roederer-estate-brut-estate-anderson-valley-sparkling-wine-1717",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "19",
+      "image-url": "https://www.winehouse.com/prodimages/3634-DEFAULT-l.jpg"
+    },
+    {
       "sku": "097546182000",
       "name": "NV Roederer Estate Brut Rose Estate Anderson Valley",
       "vintage": "NV",
@@ -11800,6 +11813,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "9",
       "image-url": ""
+    },
+    {
+      "sku": "160522",
+      "name": "2023 Flowers Vineyard Chardonnay Sonoma Coast",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "39.99",
+      "url": "https://www.winehouse.com/shop/2023-flowers-vineyard-chardonnay-sonoma-coast-133040",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "30",
+      "image-url": "https://www.winehouse.com/prodimages/1778-DEFAULT-l.jpg"
     },
     {
       "sku": "161009",
@@ -23746,7 +23772,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": ""
     },
     {
@@ -29444,19 +29470,6 @@
       "image-url": ""
     },
     {
-      "sku": "540216999",
-      "name": "1983 Joseph Drouhin Les Suchots Vosne-Romanee Premier Cru",
-      "vintage": "1983",
-      "unit-size": "750ML",
-      "price": "299.98",
-      "url": "https://www.winehouse.com/shop/1983-joseph-drouhin-les-suchots-vosne-romanee-premier-cru-124676",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": ""
-    },
-    {
       "sku": "5402698",
       "name": "1990 Domaine Bertheau Chambolle Musigny 1er Cru [shows signs of slight leakage]",
       "vintage": "1990",
@@ -29608,7 +29621,7 @@
       "url": "https://www.winehouse.com/shop/2023-dominus-estate-red-wine-napa-valley-pre-arrival-eta-march-2026-138709",
       "min-order": "1",
       "offer-type": "PA",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/6771-DEFAULT-l.jpg"
     },
     {
@@ -29620,7 +29633,7 @@
       "url": "https://www.winehouse.com/shop/2023-dominus-estate-napanook-red-wine-napa-valley-pre-arrival-eta-march-2026-138710",
       "min-order": "1",
       "offer-type": "PA",
-      "stock-level": "86",
+      "stock-level": "83",
       "image-url": "https://www.winehouse.com/prodimages/6770-DEFAULT-l.jpg"
     },
     {
@@ -29723,7 +29736,7 @@
       "url": "https://www.winehouse.com/shop/2023-dominus-estate-red-wine-napa-valley-pre-arrival-eta-march-2026-138708",
       "min-order": "1",
       "offer-type": "PA",
-      "stock-level": "74",
+      "stock-level": "71",
       "image-url": ""
     },
     {
@@ -32593,7 +32606,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "29",
+      "stock-level": "28",
       "image-url": "https://www.winehouse.com/prodimages/805-DEFAULT-l.jpg"
     },
     {
@@ -42321,19 +42334,6 @@
       "image-url": "https://www.winehouse.com/prodimages/5588-DEFAULT-l.jpg"
     },
     {
-      "sku": "77000024",
-      "name": "2015 Booker Vineyard Ripper Grenache Paso Robles [label damage]",
-      "vintage": "2015",
-      "unit-size": "750ML",
-      "price": "69.98",
-      "url": "https://www.winehouse.com/shop/2015-booker-vineyard-ripper-grenache-paso-robles-label-damage-137829",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5783-DEFAULT-l.jpg"
-    },
-    {
       "sku": "77000031",
       "name": "2006 Force Majeure Vineyards Collaboration Series Ciel du Cheval Vineyard Ptera Red Mountain Washington",
       "vintage": "2006",
@@ -48856,7 +48856,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/3997-DEFAULT-l.jpg"
     },
     {
@@ -49181,7 +49181,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/1117-DEFAULT-l.jpg"
     },
     {
@@ -50693,6 +50693,19 @@
       "image-url": "https://www.winehouse.com/prodimages/540-DEFAULT-l.jpg"
     },
     {
+      "sku": "853098005002",
+      "name": "2022 Leviathan Proprietary Red",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "33.99",
+      "url": "https://www.winehouse.com/shop/2022-leviathan-proprietary-red-135011",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "22",
+      "image-url": "https://www.winehouse.com/prodimages/1681-DEFAULT-l.jpg"
+    },
+    {
       "sku": "853278007093",
       "name": "Cantera Negra Café Coffee Liqueur",
       "vintage": "",
@@ -51508,7 +51521,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/669-DEFAULT-l.jpg"
     },
     {
@@ -52197,7 +52210,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "42",
       "image-url": "https://www.winehouse.com/prodimages/3591-DEFAULT-l.jpg"
     },
     {
@@ -52210,7 +52223,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "25",
+      "stock-level": "61",
       "image-url": "https://www.winehouse.com/prodimages/2038-DEFAULT-l.jpg"
     },
     {
