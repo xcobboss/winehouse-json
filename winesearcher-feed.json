@@ -4326,7 +4326,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/3405-DEFAULT-l.jpg"
     },
     {
@@ -9166,19 +9166,6 @@
       "image-url": "https://www.winehouse.com/prodimages/5331-DEFAULT-l.jpg"
     },
     {
-      "sku": "11000024",
-      "name": "2017 Domaine Gilbert et Christine Felettig Vosne-Romanee Premier Cru Cote de Nuits",
-      "vintage": "2017",
-      "unit-size": "750ML",
-      "price": "119.98",
-      "url": "https://www.winehouse.com/shop/2017-domaine-gilbert-et-christine-felettig-vosne-romanee-premier-cru-cote-de-nui-137363",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5335-DEFAULT-l.jpg"
-    },
-    {
       "sku": "11000025",
       "name": "2016 Domaine Gilbert et Christine Felettig Vosne-Romanee Premier Cru Cote de Nuits",
       "vintage": "2016",
@@ -11813,19 +11800,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "9",
       "image-url": ""
-    },
-    {
-      "sku": "160522",
-      "name": "2023 Flowers Vineyard Chardonnay Sonoma Coast",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "39.99",
-      "url": "https://www.winehouse.com/shop/2023-flowers-vineyard-chardonnay-sonoma-coast-133040",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "30",
-      "image-url": "https://www.winehouse.com/prodimages/1778-DEFAULT-l.jpg"
     },
     {
       "sku": "161009",
@@ -20823,32 +20797,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/5289-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "33330066",
-      "name": "2017 Domaine Gilbert et Christine Felettig Les Carrieres Chambolle-Musigny 1er Cru",
-      "vintage": "2017",
-      "unit-size": "750ML",
-      "price": "119.98",
-      "url": "https://www.winehouse.com/shop/2017-domaine-gilbert-et-christine-felettig-les-carrieres-chambolle-musigny-137326",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/5096-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "33330069",
-      "name": "2017 Domaine Gilbert et Christine Felettig Les Charmes Chambolle-Musigny Premier Cru,",
-      "vintage": "2017",
-      "unit-size": "750ML",
-      "price": "129.98",
-      "url": "https://www.winehouse.com/shop/2017-domaine-gilbert-et-christine-felettig-les-charmes-chambolle-musigny-137327",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/5097-DEFAULT-l.jpg"
     },
     {
       "sku": "33330077",
@@ -44852,7 +44800,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/2724-DEFAULT-l.jpg"
     },
     {
@@ -45255,7 +45203,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "28",
+      "stock-level": "27",
       "image-url": "https://www.winehouse.com/prodimages/1253-DEFAULT-l.jpg"
     },
     {
@@ -48193,7 +48141,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/6290-DEFAULT-l.jpg"
     },
     {
@@ -48219,7 +48167,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/6376-DEFAULT-l.jpg"
     },
     {
@@ -52173,32 +52121,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "42",
       "image-url": "https://www.winehouse.com/prodimages/3591-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "859369001636",
-      "name": "2023 Flowers Vineyard Pinot Noir Sonoma Coast",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "44.99",
-      "url": "https://www.winehouse.com/shop/2023-flowers-vineyard-pinot-noir-sonoma-coast-135335",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "61",
-      "image-url": "https://www.winehouse.com/prodimages/2038-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "859369001773",
-      "name": "2024 Flowers Vineyard Rose of Pinot Noir Sonoma Coast",
-      "vintage": "2024",
-      "unit-size": "750ML",
-      "price": "23.99",
-      "url": "https://www.winehouse.com/shop/2024-flowers-vineyard-rose-of-pinot-noir-sonoma-coast-137034",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "29",
-      "image-url": "https://www.winehouse.com/prodimages/4899-DEFAULT-l.jpg"
     },
     {
       "sku": "859612001024",
@@ -57763,6 +57685,45 @@
       "delivery-time": "2-5 days",
       "stock-level": "6",
       "image-url": ""
+    },
+    {
+      "sku": "859369001605",
+      "name": "2023 Flowers Vineyard Chardonnay Sonoma Coast",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "39.99",
+      "url": "https://www.winehouse.com/shop/2023-flowers-vineyard-chardonnay-sonoma-coast-133040",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "30",
+      "image-url": "https://www.winehouse.com/prodimages/1778-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "859369001636",
+      "name": "2023 Flowers Vineyard Pinot Noir Sonoma Coast",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "44.99",
+      "url": "https://www.winehouse.com/shop/2023-flowers-vineyard-pinot-noir-sonoma-coast-135335",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "61",
+      "image-url": "https://www.winehouse.com/prodimages/2038-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "859369001773",
+      "name": "2024 Flowers Vineyard Rose of Pinot Noir Sonoma Coast",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "23.99",
+      "url": "https://www.winehouse.com/shop/2024-flowers-vineyard-rose-of-pinot-noir-sonoma-coast-137034",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "29",
+      "image-url": "https://www.winehouse.com/prodimages/4899-DEFAULT-l.jpg"
     }
   ]
 }
