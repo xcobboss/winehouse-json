@@ -439,7 +439,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "23",
       "image-url": ""
     },
     {
@@ -4794,7 +4794,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/4605-DEFAULT-l.jpg"
     },
     {
@@ -13852,7 +13852,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/6354-DEFAULT-l.jpg"
     },
     {
@@ -14114,19 +14114,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/6486-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "20200083",
-      "name": "2017 Littorai Pinot Noir The Haven Vineyard Sonoma Coast",
-      "vintage": "2017",
-      "unit-size": "750ML",
-      "price": "109.98",
-      "url": "https://www.winehouse.com/shop/2017-littorai-pinot-noir-the-haven-vineyard-sonoma-coast-138491",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6484-DEFAULT-l.jpg"
     },
     {
       "sku": "20200084",
@@ -23187,7 +23174,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "49",
+      "stock-level": "46",
       "image-url": "https://www.winehouse.com/prodimages/6115-DEFAULT-l.jpg"
     },
     {
@@ -23384,19 +23371,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "21",
       "image-url": ""
-    },
-    {
-      "sku": "3760073660347",
-      "name": "2020 Andre Heucq Coteaux Champenois Vieilles Vignes Parcelle le Bout de la Ville",
-      "vintage": "2020",
-      "unit-size": "750ML",
-      "price": "94.99",
-      "url": "https://www.winehouse.com/shop/2020-andre-heucq-coteaux-champenois-vieilles-vignes-parcelle-le-bout-de-la-ville-138399",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6386-DEFAULT-l.jpg"
     },
     {
       "sku": "3760087575569",
@@ -33156,32 +33130,6 @@
       "image-url": ""
     },
     {
-      "sku": "632501",
-      "name": "2021 Revana Cabernet Sauvignon Estate Napa Valley",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "199.99",
-      "url": "https://www.winehouse.com/shop/2021-revana-cabernet-sauvignon-estate-napa-valley-138582",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "11",
-      "image-url": "https://www.winehouse.com/prodimages/6646-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "6325663",
-      "name": "2021 Hyland Estates Chardonnay McMinnville",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "27.99",
-      "url": "https://www.winehouse.com/shop/2021-hyland-estates-chardonnay-mcminnville-134882",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": ""
-    },
-    {
       "sku": "632810",
       "name": "2019 J Davies Cabernet Sauvignon Diamond Mountain District Napa Valley",
       "vintage": "2019",
@@ -33934,32 +33882,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/5917-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "6523698",
-      "name": "NV Domaine les Terres de Fagayra Maury Fagayra Blanc Languedoc-Roussillon",
-      "vintage": "NV",
-      "unit-size": "750ML",
-      "price": "27.99",
-      "url": "https://www.winehouse.com/shop/nv-domaine-les-terres-de-fagayra-maury-fagayra-blanc-languedoc-roussillon-135313",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/1977-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "652459",
-      "name": "2022 Continuum Partners Proprietary Red Blend Napa Valley",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "319.99",
-      "url": "https://www.winehouse.com/shop/2022-continuum-partners-proprietary-red-blend-napa-valley-137042",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "75",
-      "image-url": "https://www.winehouse.com/prodimages/4887-DEFAULT-l.jpg"
     },
     {
       "sku": "653341303646",
@@ -56149,7 +56071,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/516-DEFAULT-l.jpg"
     },
     {
@@ -56916,7 +56838,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/6013-DEFAULT-l.jpg"
     },
     {
@@ -57542,6 +57464,58 @@
       "delivery-time": "2-5 days",
       "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/1024-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "6523698",
+      "name": "NV Domaine les Terres de Fagayra Maury Fagayra Blanc Languedoc-Roussillon",
+      "vintage": "NV",
+      "unit-size": "750ML",
+      "price": "27.99",
+      "url": "https://www.winehouse.com/shop/nv-domaine-les-terres-de-fagayra-maury-fagayra-blanc-languedoc-roussillon-135313",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "3",
+      "image-url": "https://www.winehouse.com/prodimages/1977-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "652459",
+      "name": "2022 Continuum Partners Proprietary Red Blend Napa Valley",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "319.99",
+      "url": "https://www.winehouse.com/shop/2022-continuum-partners-proprietary-red-blend-napa-valley-137042",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "75",
+      "image-url": "https://www.winehouse.com/prodimages/4887-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "632501",
+      "name": "2021 Revana Cabernet Sauvignon Estate Napa Valley",
+      "vintage": "2021",
+      "unit-size": "750ML",
+      "price": "199.99",
+      "url": "https://www.winehouse.com/shop/2021-revana-cabernet-sauvignon-estate-napa-valley-138582",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "11",
+      "image-url": "https://www.winehouse.com/prodimages/6646-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "6325663",
+      "name": "2021 Hyland Estates Chardonnay McMinnville",
+      "vintage": "2021",
+      "unit-size": "750ML",
+      "price": "27.99",
+      "url": "https://www.winehouse.com/shop/2021-hyland-estates-chardonnay-mcminnville-134882",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "2",
+      "image-url": ""
     },
     {
       "sku": "221225",
