@@ -4599,7 +4599,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/1415-DEFAULT-l.jpg"
     },
     {
@@ -10072,7 +10072,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/3399-DEFAULT-l.jpg"
     },
     {
@@ -22203,19 +22203,6 @@
       "image-url": ""
     },
     {
-      "sku": "3554770102725",
-      "name": "2017 Simon Bize Savigny-les-Beaune Rouge, 1er Cru Les Marconnets",
-      "vintage": "2017",
-      "unit-size": "750ML",
-      "price": "134.99",
-      "url": "https://www.winehouse.com/shop/2017-simon-bize-savigny-les-beaune-rouge-1er-cru-les-marconnets-23387",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "3554770108475",
       "name": "NV Parigot et Richard Crémant de Bourgogne Monochrome Rosé",
       "vintage": "NV",
@@ -22552,19 +22539,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/5196-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "3554770159958",
-      "name": "2022 Hubert Lamy Santenay Clos Des Gravières Vieilles Vignes 1er Cru Rouge",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "199.99",
-      "url": "https://www.winehouse.com/shop/2022-hubert-lamy-santenay-clos-des-gravieres-vieilles-vignes-1er-cru-rouge-137239",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5148-DEFAULT-l.jpg"
     },
     {
       "sku": "3554770161852",
@@ -25332,7 +25306,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "17",
       "image-url": ""
     },
     {
@@ -30619,19 +30593,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/4467-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "5600314041017",
-      "name": "2021 Herdade do Rocim Olho de Mocho Single Vineyard Alentejo Tinto",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "39.99",
-      "url": "https://www.winehouse.com/shop/2021-herdade-do-rocim-olho-de-mocho-single-vineyard-alentejo-tinto-129214",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "5",
-      "image-url": "https://www.winehouse.com/prodimages/4449-DEFAULT-l.jpg"
     },
     {
       "sku": "5600314042984",
@@ -37793,7 +37754,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "33",
+      "stock-level": "30",
       "image-url": "https://www.winehouse.com/prodimages/3607-DEFAULT-l.jpg"
     },
     {
