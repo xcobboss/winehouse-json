@@ -5964,7 +5964,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "47",
+      "stock-level": "33",
       "image-url": "https://www.winehouse.com/prodimages/6824-DEFAULT-l.jpg"
     },
     {
@@ -19239,6 +19239,19 @@
       "image-url": "https://www.winehouse.com/prodimages/3795-DEFAULT-l.jpg"
     },
     {
+      "sku": "316185",
+      "name": "2016 Cappellano Barolo Otin Fiorin Pie Rupestris [label damage]",
+      "vintage": "2016",
+      "unit-size": "750ML",
+      "price": "299.98",
+      "url": "https://www.winehouse.com/shop/2016-cappellano-barolo-otin-fiorin-pie-rupestris-9717",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/4233-DEFAULT-l.jpg"
+    },
+    {
       "sku": "3167",
       "name": "2024 Max Kilburg Goldtropfchen Kabinett Mosel",
       "vintage": "2024",
@@ -19601,6 +19614,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/5158-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "325121",
+      "name": "2014 Schrader Cellars Cabernet Sauvignon RBS Beckstoffer To Kalon Vineyard",
+      "vintage": "2014",
+      "unit-size": "750ML",
+      "price": "224.98",
+      "url": "https://www.winehouse.com/shop/2014-schrader-cellars-cabernet-sauvignon-rbs-beckstoffer-to-kalon-vineyard-13283",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/6775-DEFAULT-l.jpg"
     },
     {
       "sku": "325151",
@@ -32177,7 +32203,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/1884-DEFAULT-l.jpg"
     },
     {
@@ -50026,7 +50052,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/3680-DEFAULT-l.jpg"
     },
     {
@@ -50520,7 +50546,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/4187-DEFAULT-l.jpg"
     },
     {
@@ -53055,7 +53081,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "35",
+      "stock-level": "34",
       "image-url": "https://www.winehouse.com/prodimages/3130-DEFAULT-l.jpg"
     },
     {
