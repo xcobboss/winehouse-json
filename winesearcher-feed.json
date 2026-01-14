@@ -2116,7 +2116,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/221-DEFAULT-l.jpg"
     },
     {
@@ -3873,19 +3873,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/3778-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "08300577",
-      "name": "1998 Williams Selyem Pinot Noir Coastlands Sonoma Coast",
-      "vintage": "1998",
-      "unit-size": "750ML",
-      "price": "89.98",
-      "url": "https://www.winehouse.com/shop/1998-williams-selyem-pinot-noir-coastlands-sonoma-coast-92735",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6630-DEFAULT-l.jpg"
     },
     {
       "sku": "083085001025",
@@ -18884,7 +18871,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "3",
       "image-url": ""
     },
     {
@@ -21796,7 +21783,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/6594-DEFAULT-l.jpg"
     },
     {
@@ -30734,7 +30721,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "88",
+      "stock-level": "60",
       "image-url": ""
     },
     {
@@ -31646,6 +31633,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/6275-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "6009800497380",
+      "name": "2022 Raats Dolomite Cabernet Franc, Stellenbosch",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "22.99",
+      "url": "https://www.winehouse.com/shop/2022-raats-dolomite-cabernet-franc-stellenbosch-136999",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "24",
+      "image-url": "https://www.winehouse.com/prodimages/4865-DEFAULT-l.jpg"
     },
     {
       "sku": "6009800873740",
@@ -37975,7 +37975,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "80",
+      "stock-level": "79",
       "image-url": "https://www.winehouse.com/prodimages/6415-DEFAULT-l.jpg"
     },
     {
@@ -39977,7 +39977,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "20",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/6570-DEFAULT-l.jpg"
     },
     {
@@ -40613,7 +40613,7 @@
       "url": "https://www.winehouse.com/shop/2023-chateau-de-beaucastel-chateauneuf-du-pape-pre-arrival-eta-february-2026-138732",
       "min-order": "1",
       "offer-type": "PA",
-      "stock-level": "66",
+      "stock-level": "65",
       "image-url": "https://www.winehouse.com/prodimages/6844-DEFAULT-l.jpg"
     },
     {
@@ -41874,7 +41874,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/6050-DEFAULT-l.jpg"
     },
     {
@@ -42745,7 +42745,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "3",
       "image-url": ""
     },
     {
@@ -44084,7 +44084,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "27",
+      "stock-level": "25",
       "image-url": "https://www.winehouse.com/prodimages/6371-DEFAULT-l.jpg"
     },
     {
@@ -44487,7 +44487,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "25",
+      "stock-level": "24",
       "image-url": "https://www.winehouse.com/prodimages/2287-DEFAULT-l.jpg"
     },
     {
@@ -46281,7 +46281,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/1834-DEFAULT-l.jpg"
     },
     {
@@ -47828,7 +47828,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/3706-DEFAULT-l.jpg"
     },
     {
