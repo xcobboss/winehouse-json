@@ -2155,7 +2155,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/1804-DEFAULT-l.jpg"
     },
     {
@@ -4278,19 +4278,6 @@
       "image-url": ""
     },
     {
-      "sku": "083706803144",
-      "name": "NA Chouffe Non Alcoholic 4PK",
-      "vintage": "",
-      "unit-size": "330ML",
-      "price": "13.49",
-      "url": "https://www.winehouse.com/shop/na-chouffe-non-alcoholic-4pk-137792",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5825-DEFAULT-l.jpg"
-    },
-    {
       "sku": "083783228120",
       "name": "Sierra Nevada Celebration Fresh Hops IPA 12P Cans",
       "vintage": "",
@@ -4339,7 +4326,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/6907-DEFAULT-l.jpg"
     },
     {
@@ -4716,7 +4703,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/3767-DEFAULT-l.jpg"
     },
     {
@@ -5782,7 +5769,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/6821-DEFAULT-l.jpg"
     },
     {
@@ -17874,71 +17861,6 @@
       "image-url": "https://www.winehouse.com/prodimages/6743-DEFAULT-l.jpg"
     },
     {
-      "sku": "2792925",
-      "name": "2020 Cascina Fontana Barolo",
-      "vintage": "2020",
-      "unit-size": "750ML",
-      "price": "99.99",
-      "url": "https://www.winehouse.com/shop/2020-cascina-fontana-barolo-137661",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "8",
-      "image-url": "https://www.winehouse.com/prodimages/6444-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "2793935",
-      "name": "2020 Cascina Fontana Barolo Castiglione Falletto",
-      "vintage": "2020",
-      "unit-size": "750ML",
-      "price": "129.99",
-      "url": "https://www.winehouse.com/shop/2020-cascina-fontana-barolo-castiglione-falletto-137662",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "4",
-      "image-url": "https://www.winehouse.com/prodimages/6445-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "2794942",
-      "name": "2020 Cascina Fontana Barolo Monforte d`Alba",
-      "vintage": "2020",
-      "unit-size": "750ML",
-      "price": "119.99",
-      "url": "https://www.winehouse.com/shop/2020-cascina-fontana-barolo-monforte-d-alba-137663",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "5",
-      "image-url": "https://www.winehouse.com/prodimages/6446-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "2795652",
-      "name": "2021 Cascina Fontana Barbera d`Alba",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "32.99",
-      "url": "https://www.winehouse.com/shop/2021-cascina-fontana-barbera-d-alba-137664",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "7",
-      "image-url": "https://www.winehouse.com/prodimages/6447-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "2796965",
-      "name": "2023 Cascina Fontana Dolcetto d`Alba",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "27.99",
-      "url": "https://www.winehouse.com/shop/2023-cascina-fontana-dolcetto-d-alba-137665",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "9",
-      "image-url": "https://www.winehouse.com/prodimages/6448-DEFAULT-l.jpg"
-    },
-    {
       "sku": "281042",
       "name": "2019 Seabold Cellars Rodnick Farm Syrah",
       "vintage": "2019",
@@ -24136,7 +24058,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "22",
       "image-url": "https://www.winehouse.com/prodimages/6823-DEFAULT-l.jpg"
     },
     {
@@ -24149,7 +24071,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "13",
       "image-url": ""
     },
     {
@@ -37364,7 +37286,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/1365-DEFAULT-l.jpg"
     },
     {
@@ -45878,7 +45800,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/6908-DEFAULT-l.jpg"
     },
     {
@@ -49024,7 +48946,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/6897-DEFAULT-l.jpg"
     },
     {
@@ -49037,7 +48959,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "19",
       "image-url": "https://www.winehouse.com/prodimages/6896-DEFAULT-l.jpg"
     },
     {
@@ -49050,7 +48972,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/6893-DEFAULT-l.jpg"
     },
     {
@@ -49063,7 +48985,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "22",
       "image-url": "https://www.winehouse.com/prodimages/6895-DEFAULT-l.jpg"
     },
     {
@@ -49206,7 +49128,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/6825-DEFAULT-l.jpg"
     },
     {
@@ -49219,7 +49141,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/6826-DEFAULT-l.jpg"
     },
     {
@@ -51871,7 +51793,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/6890-DEFAULT-l.jpg"
     },
     {
@@ -53639,7 +53561,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/4066-DEFAULT-l.jpg"
     },
     {
@@ -56607,6 +56529,71 @@
       "image-url": "https://www.winehouse.com/prodimages/5028-DEFAULT-l.jpg"
     },
     {
+      "sku": "2792925",
+      "name": "2020 Cascina Fontana Barolo",
+      "vintage": "2020",
+      "unit-size": "750ML",
+      "price": "99.99",
+      "url": "https://www.winehouse.com/shop/2020-cascina-fontana-barolo-137661",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "8",
+      "image-url": "https://www.winehouse.com/prodimages/6444-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "2793935",
+      "name": "2020 Cascina Fontana Barolo Castiglione Falletto",
+      "vintage": "2020",
+      "unit-size": "750ML",
+      "price": "129.99",
+      "url": "https://www.winehouse.com/shop/2020-cascina-fontana-barolo-castiglione-falletto-137662",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "4",
+      "image-url": "https://www.winehouse.com/prodimages/6445-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "2794942",
+      "name": "2020 Cascina Fontana Barolo Monforte d`Alba",
+      "vintage": "2020",
+      "unit-size": "750ML",
+      "price": "119.99",
+      "url": "https://www.winehouse.com/shop/2020-cascina-fontana-barolo-monforte-d-alba-137663",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "5",
+      "image-url": "https://www.winehouse.com/prodimages/6446-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "2795652",
+      "name": "2021 Cascina Fontana Barbera d`Alba",
+      "vintage": "2021",
+      "unit-size": "750ML",
+      "price": "32.99",
+      "url": "https://www.winehouse.com/shop/2021-cascina-fontana-barbera-d-alba-137664",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "7",
+      "image-url": "https://www.winehouse.com/prodimages/6447-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "2796965",
+      "name": "2023 Cascina Fontana Dolcetto d`Alba",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "27.99",
+      "url": "https://www.winehouse.com/shop/2023-cascina-fontana-dolcetto-d-alba-137665",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "9",
+      "image-url": "https://www.winehouse.com/prodimages/6448-DEFAULT-l.jpg"
+    },
+    {
       "sku": "38941445",
       "name": "2006 Caparzo Brunello di Montalcino La Casa",
       "vintage": "2006",
@@ -56993,7 +56980,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/6894-DEFAULT-l.jpg"
     },
     {
@@ -57032,7 +57019,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/6886-DEFAULT-l.jpg"
     },
     {
