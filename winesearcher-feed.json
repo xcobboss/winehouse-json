@@ -8148,7 +8148,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -8317,7 +8317,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/2974-DEFAULT-l.jpg"
     },
     {
@@ -13709,7 +13709,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/6349-DEFAULT-l.jpg"
     },
     {
@@ -14348,6 +14348,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/950-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "2023",
+      "name": "2023 Scar of the Sea Zinfandel Lopez Vineyard, Cucamonga Valley",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "35.99",
+      "url": "https://www.winehouse.com/shop/2023-scar-of-the-sea-zinfandel-lopez-vineyard-cucamonga-valley-130745",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "3",
+      "image-url": "https://www.winehouse.com/prodimages/1234-DEFAULT-l.jpg"
     },
     {
       "sku": "202314",
@@ -17415,7 +17428,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/2864-DEFAULT-l.jpg"
     },
     {
@@ -20275,7 +20288,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "6",
       "image-url": ""
     },
     {
@@ -22355,7 +22368,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/6407-DEFAULT-l.jpg"
     },
     {
@@ -22901,7 +22914,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/6391-DEFAULT-l.jpg"
     },
     {
@@ -27503,7 +27516,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/5495-DEFAULT-l.jpg"
     },
     {
@@ -29882,19 +29895,6 @@
       "image-url": "https://www.winehouse.com/prodimages/3185-DEFAULT-l.jpg"
     },
     {
-      "sku": "55533318",
-      "name": "2012 Drinkward Peschon Cabernet Sauvignon Entre Deux Meres Napa Valley 750ml",
-      "vintage": "2012",
-      "unit-size": "750ML",
-      "price": "89.98",
-      "url": "https://www.winehouse.com/shop/2012-drinkward-peschon-cabernet-sauvignon-entre-deux-meres-napa-valley-750m-135909",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/3187-DEFAULT-l.jpg"
-    },
-    {
       "sku": "55533351",
       "name": "2010 Stone The Crows Three Twins Vineyard Cabernet Sauvignon Napa Valley",
       "vintage": "2010",
@@ -30344,7 +30344,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "15",
       "image-url": ""
     },
     {
@@ -33104,6 +33104,19 @@
       "image-url": "https://www.winehouse.com/prodimages/2125-DEFAULT-l.jpg"
     },
     {
+      "sku": "645549120958",
+      "name": "2025 Allan Scott Sauvignon Blanc Marlborough",
+      "vintage": "2025",
+      "unit-size": "750ML",
+      "price": "12.99",
+      "url": "https://www.winehouse.com/shop/2025-allan-scott-sauvignon-blanc-marlborough-138775",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "216",
+      "image-url": ""
+    },
+    {
       "sku": "645600001509",
       "name": "2021 Foley Pinot Noir Sta.Rita Hills",
       "vintage": "2021",
@@ -35440,7 +35453,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "34",
+      "stock-level": "33",
       "image-url": "https://www.winehouse.com/prodimages/6664-DEFAULT-l.jpg"
     },
     {
@@ -35505,7 +35518,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/2830-DEFAULT-l.jpg"
     },
     {
@@ -37093,19 +37106,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/5634-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "71540",
-      "name": "2004 Chateau Pavie Macquin Saint-Emilion Grand Cru",
-      "vintage": "2004",
-      "unit-size": "750ML",
-      "price": "109.98",
-      "url": "https://www.winehouse.com/shop/n-a-74506",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5968-DEFAULT-l.jpg"
     },
     {
       "sku": "715424",
@@ -46086,7 +46086,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "15",
+      "stock-level": "12",
       "image-url": ""
     },
     {
@@ -46762,7 +46762,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/5040-DEFAULT-l.jpg"
     },
     {
@@ -47269,7 +47269,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/6843-DEFAULT-l.jpg"
     },
     {
@@ -47867,7 +47867,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/4585-DEFAULT-l.jpg"
     },
     {
@@ -56449,6 +56449,32 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/6607-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "1250224",
+      "name": "2024 Dragonette Cellars Sauvignon Blanc Happy Canyon of Santa Barbara",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "33.99",
+      "url": "https://www.winehouse.com/shop/2024-dragonette-cellars-sauvignon-blanc-happy-canyon-of-santa-barbara-138773",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "24",
+      "image-url": "https://www.winehouse.com/prodimages/6914-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "362054",
+      "name": "2023 Dragonette Chardonnay Sta. Rita Hills",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "38.99",
+      "url": "https://www.winehouse.com/shop/2023-dragonette-chardonnay-sta-rita-hills-138774",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "24",
+      "image-url": "https://www.winehouse.com/prodimages/6913-DEFAULT-l.jpg"
     },
     {
       "sku": "669363",
