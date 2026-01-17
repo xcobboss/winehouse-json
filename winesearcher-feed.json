@@ -2246,7 +2246,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/3533-DEFAULT-l.jpg"
     },
     {
@@ -14943,7 +14943,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/2156-DEFAULT-l.jpg"
     },
     {
@@ -18650,7 +18650,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": ""
     },
     {
@@ -20160,19 +20160,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/6161-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "3258690084733",
-      "name": "2022 Domaine Geantet-Pansiot Gevrey-Chambertin",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "79.99",
-      "url": "https://www.winehouse.com/shop/2022-domaine-geantet-pansiot-gevrey-chambertin-133036",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
     },
     {
       "sku": "3258691566719",
@@ -23330,7 +23317,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/4059-DEFAULT-l.jpg"
     },
     {
@@ -41605,6 +41592,19 @@
       "image-url": ""
     },
     {
+      "sku": "77038",
+      "name": "2019 Le Ragnaie Brunello di Montalcino Lume Spento",
+      "vintage": "2019",
+      "unit-size": "750ML",
+      "price": "185.99",
+      "url": "https://www.winehouse.com/shop/2019-le-ragnaie-brunello-di-montalcino-lume-spento-pre-arrival-eta-march-2024-129592",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
       "sku": "7711100055",
       "name": "2005 Pride Mountain Vineyards Cabernet Sauvignon Napa/Sonoma Counties",
       "vintage": "2005",
@@ -46556,19 +46556,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/193-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "835603005714",
-      "name": "Takatenjin Sword of the Sun Tokubetsu Honjozo",
-      "vintage": "",
-      "unit-size": "720ML",
-      "price": "24.99",
-      "url": "https://www.winehouse.com/shop/takatenjin-sword-of-the-sun-tokubetsu-honjozo-135583",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/2775-DEFAULT-l.jpg"
     },
     {
       "sku": "835603005752",
@@ -53565,6 +53552,19 @@
       "image-url": ""
     },
     {
+      "sku": "896119",
+      "name": "2018 Le Ragnaie Brunello di Montalcino Montosoli",
+      "vintage": "2018",
+      "unit-size": "750ML",
+      "price": "173.99",
+      "url": "https://www.winehouse.com/shop/2018-le-ragnaie-brunello-di-montalcino-montosoli-125309",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "5",
+      "image-url": "https://www.winehouse.com/prodimages/1008-DEFAULT-l.jpg"
+    },
+    {
       "sku": "896154002775",
       "name": "2019 Bindi Sergardi Simbiosi",
       "vintage": "2019",
@@ -53589,19 +53589,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/6397-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "896264",
-      "name": "2018 Le Ragnaie Brunello V.V. Vigna Vecchia",
-      "vintage": "2018",
-      "unit-size": "750ML",
-      "price": "158.99",
-      "url": "https://www.winehouse.com/shop/2018-le-ragnaie-brunello-v-v-vigna-vecchia-125310",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "6",
-      "image-url": "https://www.winehouse.com/prodimages/2575-DEFAULT-l.jpg"
     },
     {
       "sku": "896625",
