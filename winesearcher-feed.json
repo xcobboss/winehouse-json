@@ -1496,19 +1496,6 @@
       "image-url": ""
     },
     {
-      "sku": "051497029678",
-      "name": "Ten To One White Rum Caribbean",
-      "vintage": "",
-      "unit-size": "750ML",
-      "price": "25.99",
-      "url": "https://www.winehouse.com/shop/ten-to-one-white-rum-caribbean-134593",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/531-DEFAULT-l.jpg"
-    },
-    {
       "sku": "051497037000",
       "name": "2023 Bodegas Virgen del Galir Val do Galir Godello, Valdeorras",
       "vintage": "2023",
@@ -3689,7 +3676,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "32",
+      "stock-level": "31",
       "image-url": ""
     },
     {
@@ -5938,7 +5925,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "31",
+      "stock-level": "30",
       "image-url": "https://www.winehouse.com/prodimages/851-DEFAULT-l.jpg"
     },
     {
@@ -5990,7 +5977,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/6203-DEFAULT-l.jpg"
     },
     {
@@ -6419,7 +6406,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": ""
     },
     {
@@ -24036,19 +24023,6 @@
       "image-url": "https://www.winehouse.com/prodimages/2177-DEFAULT-l.jpg"
     },
     {
-      "sku": "381240",
-      "name": "2020 Bien Nacido Syrah Estate Santa Maria Valley",
-      "vintage": "2020",
-      "unit-size": "750ML",
-      "price": "59.99",
-      "url": "https://www.winehouse.com/shop/2020-bien-nacido-syrah-estate-santa-maria-valley-122737",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "8",
-      "image-url": "https://www.winehouse.com/prodimages/943-DEFAULT-l.jpg"
-    },
-    {
       "sku": "383002047295",
       "name": "2018 Movia Cabernet Sauvignon, Brda, Slovenia",
       "vintage": "2018",
@@ -33152,7 +33126,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "142",
+      "stock-level": "136",
       "image-url": ""
     },
     {
@@ -54276,7 +54250,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/2109-DEFAULT-l.jpg"
     },
     {
@@ -56878,6 +56852,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/4028-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "381240",
+      "name": "2020 Bien Nacido Syrah Estate Santa Maria Valley",
+      "vintage": "2020",
+      "unit-size": "750ML",
+      "price": "59.99",
+      "url": "https://www.winehouse.com/shop/2020-bien-nacido-syrah-estate-santa-maria-valley-122737",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "8",
+      "image-url": "https://www.winehouse.com/prodimages/943-DEFAULT-l.jpg"
     }
   ]
 }
