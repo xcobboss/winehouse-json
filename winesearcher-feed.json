@@ -8122,7 +8122,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "61",
+      "stock-level": "49",
       "image-url": "https://www.winehouse.com/prodimages/5845-DEFAULT-l.jpg"
     },
     {
@@ -18964,6 +18964,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "69",
       "image-url": "https://www.winehouse.com/prodimages/6814-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "29995620",
+      "name": "2023 Beaumont Family Wines Hope Margurite Chenin Blanc, Walker Bay",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "42.99",
+      "url": "https://www.winehouse.com/shop/2023-beaumont-family-wines-hope-margurite-chenin-blanc-walker-bay-138771",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "6",
+      "image-url": ""
     },
     {
       "sku": "30001251",
@@ -39032,6 +39045,19 @@
       "image-url": "https://www.winehouse.com/prodimages/5203-DEFAULT-l.jpg"
     },
     {
+      "sku": "745437",
+      "name": "2023 Benoit Moreau Chassagne-Montrachet",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "139.99",
+      "url": "https://www.winehouse.com/shop/2023-benoit-moreau-chassagne-montrachet-137403",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "13",
+      "image-url": "https://www.winehouse.com/prodimages/6956-DEFAULT-l.jpg"
+    },
+    {
       "sku": "745451",
       "name": "2015 Sine Qua Non Syrah M Eleven Confessions Vineyard Santa Rita Hills",
       "vintage": "2015",
@@ -44515,6 +44541,71 @@
       "delivery-time": "2-5 days",
       "stock-level": "2",
       "image-url": ""
+    },
+    {
+      "sku": "8057723940030",
+      "name": "2023 Cascina Penna Currado Dolcetto D`Alba Bricco Lago",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "36.99",
+      "url": "https://www.winehouse.com/shop/2023-cascina-penna-currado-dolcetto-d-alba-bricco-lago-138712",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "30",
+      "image-url": "https://www.winehouse.com/prodimages/6958-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "8057723940054",
+      "name": "2023 Cascina Penna Currado Langhe Nebbiolo Bricco Lago",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "45.99",
+      "url": "https://www.winehouse.com/shop/2023-cascina-penna-currado-langhe-nebbiolo-bricco-lago-138714",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "24",
+      "image-url": "https://www.winehouse.com/prodimages/6960-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "8057723940061",
+      "name": "2023 Cascina Penna Currado Nebbiolo d`Alba San Sebastiano",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "59.99",
+      "url": "https://www.winehouse.com/shop/2023-cascina-penna-currado-nebbiolo-d-alba-san-sebastiano-138715",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "18",
+      "image-url": "https://www.winehouse.com/prodimages/6961-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "8057723940078",
+      "name": "2023 Cascina Penna Currado Barbera D`Alba Carra",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "56.99",
+      "url": "https://www.winehouse.com/shop/2023-cascina-penna-currado-barbera-d-alba-carra-138713",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "18",
+      "image-url": "https://www.winehouse.com/prodimages/6959-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "8057723940115",
+      "name": "2024 Cascina Penna Currado Timorasso Derthona",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "49.99",
+      "url": "https://www.winehouse.com/shop/2024-cascina-penna-currado-timorasso-derthona-138711",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "18",
+      "image-url": "https://www.winehouse.com/prodimages/6957-DEFAULT-l.jpg"
     },
     {
       "sku": "806202",
