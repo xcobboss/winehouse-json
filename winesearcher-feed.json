@@ -1843,7 +1843,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/226-DEFAULT-l.jpg"
     },
     {
@@ -1921,7 +1921,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/221-DEFAULT-l.jpg"
     },
     {
@@ -33542,7 +33542,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/5156-DEFAULT-l.jpg"
     },
     {
@@ -35466,7 +35466,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/6664-DEFAULT-l.jpg"
     },
     {
@@ -37429,7 +37429,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "61",
+      "stock-level": "59",
       "image-url": "https://www.winehouse.com/prodimages/6415-DEFAULT-l.jpg"
     },
     {
@@ -54718,7 +54718,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -56399,19 +56399,6 @@
       "image-url": ""
     },
     {
-      "sku": "993152",
-      "name": "2021 Xavier Gerard Condrieu L`Arbuel",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "48.99",
-      "url": "https://www.winehouse.com/shop/2021-xavier-gerard-condrieu-l-arbuel-136214",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/4805-DEFAULT-l.jpg"
-    },
-    {
       "sku": "996001",
       "name": "2011 Domaine des Lambrays Clos de Lambrays Grand Cru",
       "vintage": "2011",
@@ -56839,6 +56826,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
+    },
+    {
+      "sku": "993152",
+      "name": "2021 Xavier Gerard Condrieu L`Arbuel",
+      "vintage": "2021",
+      "unit-size": "750ML",
+      "price": "48.99",
+      "url": "https://www.winehouse.com/shop/2021-xavier-gerard-condrieu-l-arbuel-136214",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "2",
+      "image-url": "https://www.winehouse.com/prodimages/4805-DEFAULT-l.jpg"
     }
   ]
 }
