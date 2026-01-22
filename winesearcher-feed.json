@@ -5379,7 +5379,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/5855-DEFAULT-l.jpg"
     },
     {
@@ -7801,19 +7801,6 @@
       "image-url": "https://www.winehouse.com/prodimages/643-DEFAULT-l.jpg"
     },
     {
-      "sku": "097187",
-      "name": "2019 Patrimony by DAOU Vineyards Cabernet Sauvignon Paso Robles",
-      "vintage": "2019",
-      "unit-size": "1.5L",
-      "price": "599.99",
-      "url": "https://www.winehouse.com/shop/2019-patrimony-by-daou-vineyards-cabernet-sauvignon-paso-robles-124024",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "097546101001",
       "name": "NV Roederer Estate Brut Estate Anderson Valley",
       "vintage": "NV",
@@ -8096,7 +8083,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "27",
+      "stock-level": "23",
       "image-url": "https://www.winehouse.com/prodimages/5845-DEFAULT-l.jpg"
     },
     {
@@ -8984,6 +8971,19 @@
       "image-url": "https://www.winehouse.com/prodimages/4553-DEFAULT-l.jpg"
     },
     {
+      "sku": "11102289",
+      "name": "2016 Williams Selyem Pinot Noir Terra De Promissio Vineyard Sonoma Coast",
+      "vintage": "2016",
+      "unit-size": "750ML",
+      "price": "89.98",
+      "url": "https://www.winehouse.com/shop/2016-williams-selyem-pinot-noir-terra-de-promissio-vineyard-sonoma-coast-11428",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/6965-DEFAULT-l.jpg"
+    },
+    {
       "sku": "11104587",
       "name": "1998 Domaine Dujac Echezeaux Grand Cru [label damage]",
       "vintage": "1998",
@@ -9008,6 +9008,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
+    },
+    {
+      "sku": "111433",
+      "name": "2003 Williams Selyem Pinot Noir Flax Vineyard Russian River Valley",
+      "vintage": "2003",
+      "unit-size": "750ML",
+      "price": "79.98",
+      "url": "https://www.winehouse.com/shop/2003-williams-selyem-pinot-noir-flax-vineyard-russian-river-valley-64221",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "2",
+      "image-url": "https://www.winehouse.com/prodimages/6969-DEFAULT-l.jpg"
     },
     {
       "sku": "111449",
@@ -10022,6 +10035,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "3",
       "image-url": ""
+    },
+    {
+      "sku": "125815",
+      "name": "2014 Williams Selyem Pinot Noir Calegari Russian River Valley",
+      "vintage": "2014",
+      "unit-size": "750ML",
+      "price": "79.98",
+      "url": "https://www.winehouse.com/shop/2014-williams-selyem-pinot-noir-calegari-russian-river-valley-81051",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/6977-DEFAULT-l.jpg"
     },
     {
       "sku": "128657",
@@ -13921,19 +13947,6 @@
       "image-url": "https://www.winehouse.com/prodimages/6757-DEFAULT-l.jpg"
     },
     {
-      "sku": "20220225",
-      "name": "2014 Rhys Vineyards Pinot Noir Anderson Valley",
-      "vintage": "2014",
-      "unit-size": "750ML",
-      "price": "49.98",
-      "url": "https://www.winehouse.com/shop/2014-rhys-vineyards-pinot-noir-anderson-valley-138670",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6779-DEFAULT-l.jpg"
-    },
-    {
       "sku": "20220227",
       "name": "2012 Rhys Vineyards Pinot Noir Family Farm Vineyard San Mateo County",
       "vintage": "2012",
@@ -13945,19 +13958,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/6781-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "20220228",
-      "name": "2013 Rhys Vineyards Pinot Noir Family Farm Vineyard San Mateo County",
-      "vintage": "2013",
-      "unit-size": "750ML",
-      "price": "74.98",
-      "url": "https://www.winehouse.com/shop/2013-rhys-vineyards-pinot-noir-family-farm-vineyard-san-mateo-county-138674",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
     },
     {
       "sku": "20220229",
@@ -14596,6 +14596,19 @@
       "image-url": "https://www.winehouse.com/prodimages/4378-DEFAULT-l.jpg"
     },
     {
+      "sku": "21244456",
+      "name": "2016 Williams Selyem Pinot Noir Precious Mountain Sonoma Coast",
+      "vintage": "2016",
+      "unit-size": "750ML",
+      "price": "99.98",
+      "url": "https://www.winehouse.com/shop/2016-williams-selyem-pinot-noir-precious-mountain-sonoma-coast-11303",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/6963-DEFAULT-l.jpg"
+    },
+    {
       "sku": "2125878",
       "name": "2017 Domaine Arnoux-Lachaux Nuits-Saint-Georges Les Poisets",
       "vintage": "2017",
@@ -15101,6 +15114,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/4269-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "2220159",
+      "name": "2017 Williams Selyem Winery Pinot Noir Allen Vineyard Russian River Valley",
+      "vintage": "2017",
+      "unit-size": "750ML",
+      "price": "99.98",
+      "url": "https://www.winehouse.com/shop/2017-williams-selyem-winery-pinot-noir-allen-vineyard-russian-river-valley-11415",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/6964-DEFAULT-l.jpg"
     },
     {
       "sku": "22204",
@@ -18793,7 +18819,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/6568-DEFAULT-l.jpg"
     },
     {
@@ -19068,6 +19094,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/6944-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "30330307",
+      "name": "2017 Williams Selyem Winery Pinot Noir Rochioli Riverblock Vineyard Russian River Valley",
+      "vintage": "2017",
+      "unit-size": "750ML",
+      "price": "109.98",
+      "url": "https://www.winehouse.com/shop/2017-williams-selyem-winery-pinot-noir-rochioli-riverblock-vineyard-russian-rive-138832",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/6967-DEFAULT-l.jpg"
     },
     {
       "sku": "303312",
@@ -22450,6 +22489,19 @@
       "image-url": "https://www.winehouse.com/prodimages/1136-DEFAULT-l.jpg"
     },
     {
+      "sku": "36920325",
+      "name": "2003 Williams Selyem Pinot Noir Bucher Vineyard Russian River Valley",
+      "vintage": "2003",
+      "unit-size": "750ML",
+      "price": "59.98",
+      "url": "https://www.winehouse.com/shop/2003-williams-selyem-pinot-noir-bucher-vineyard-russian-river-valley-68140",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "2",
+      "image-url": "https://www.winehouse.com/prodimages/6973-DEFAULT-l.jpg"
+    },
+    {
       "sku": "36956595",
       "name": "1987 Stag`s Leap Wine Cellars Cabernet Sauvignon Cask 23 Napa Valley [corroded capsules]",
       "vintage": "1987",
@@ -22866,19 +22918,6 @@
       "image-url": ""
     },
     {
-      "sku": "3760073660347",
-      "name": "2020 Andre Heucq Coteaux Champenois Vieilles Vignes Parcelle le Bout de la Ville",
-      "vintage": "2020",
-      "unit-size": "750ML",
-      "price": "94.99",
-      "url": "https://www.winehouse.com/shop/2020-andre-heucq-coteaux-champenois-vieilles-vignes-parcelle-le-bout-de-la-ville-138399",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6386-DEFAULT-l.jpg"
-    },
-    {
       "sku": "3760087575569",
       "name": "2019 Josmeyer Pinot Gris `Le Fromenteau` Alsace",
       "vintage": "2019",
@@ -22901,7 +22940,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/6918-DEFAULT-l.jpg"
     },
     {
@@ -23239,7 +23278,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -23958,6 +23997,19 @@
       "image-url": "https://www.winehouse.com/prodimages/6364-DEFAULT-l.jpg"
     },
     {
+      "sku": "393201",
+      "name": "2003 Williams Selyem Pinot Noir Peay Vineyard Sonoma Coast",
+      "vintage": "2003",
+      "unit-size": "750ML",
+      "price": "69.98",
+      "url": "https://www.winehouse.com/shop/2003-williams-selyem-pinot-noir-peay-vineyard-sonoma-coast-64223",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/6970-DEFAULT-l.jpg"
+    },
+    {
       "sku": "394168",
       "name": "2021 Leonetti Cellars Cabernet Sauvignon Walla Walla Valley",
       "vintage": "2021",
@@ -24202,6 +24254,19 @@
       "offer-type": "R",
       "delivery-time": "2-5 days",
       "stock-level": "1",
+      "image-url": ""
+    },
+    {
+      "sku": "401166",
+      "name": "2011 Williams Selyem Pinot Noir Eastside Road Neighbors Russian River Valley",
+      "vintage": "2011",
+      "unit-size": "750ML",
+      "price": "79.98",
+      "url": "https://www.winehouse.com/shop/2011-williams-selyem-pinot-noir-eastside-road-neighbors-russian-river-valley-66898",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "3",
       "image-url": ""
     },
     {
@@ -25180,6 +25245,19 @@
       "image-url": "https://www.winehouse.com/prodimages/2487-DEFAULT-l.jpg"
     },
     {
+      "sku": "425342",
+      "name": "2012 Williams Selyem Pinot Noir Eastside Road Neighbors Russian River Valley",
+      "vintage": "2012",
+      "unit-size": "750ML",
+      "price": "99.98",
+      "url": "https://www.winehouse.com/shop/2012-williams-selyem-pinot-noir-eastside-road-neighbors-russian-river-valley-12434",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "3",
+      "image-url": "https://www.winehouse.com/prodimages/6966-DEFAULT-l.jpg"
+    },
+    {
       "sku": "425445421",
       "name": "1997 Marchesi Frescobaldi Castelgiocondo `Ripe al Convento` Brunello di Montalcino Riserva DOCG",
       "vintage": "1997",
@@ -25529,6 +25607,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/1556-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "4369652695",
+      "name": "2003 Williams Selyem Pinot Noir Ferrington Vineyard Anderson Valley",
+      "vintage": "2003",
+      "unit-size": "750ML",
+      "price": "69.98",
+      "url": "https://www.winehouse.com/shop/2003-williams-selyem-pinot-noir-ferrington-vineyard-anderson-valley-63733",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "2",
+      "image-url": "https://www.winehouse.com/prodimages/6968-DEFAULT-l.jpg"
     },
     {
       "sku": "44000018",
@@ -26727,19 +26818,6 @@
       "image-url": "https://www.winehouse.com/prodimages/3574-DEFAULT-l.jpg"
     },
     {
-      "sku": "4820125444",
-      "name": "2011 Rhys Vineyards Bearwallow Vineyard Pinot Noir Anderson Valley",
-      "vintage": "2011",
-      "unit-size": "750ML",
-      "price": "69.98",
-      "url": "https://www.winehouse.com/shop/2011-rhys-vineyards-pinot-noir-bearwallow-vineyard-santa-cruz-mountains-18572",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5953-DEFAULT-l.jpg"
-    },
-    {
       "sku": "4821521",
       "name": "2008 Sine Qua Non Grenache The Duel Santa Rita Hills",
       "vintage": "2008",
@@ -27128,6 +27206,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/6408-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "494120",
+      "name": "2003 Williams Selyem Pinot Noir Vista Verde Vineyard San Benito County",
+      "vintage": "2003",
+      "unit-size": "750ML",
+      "price": "59.98",
+      "url": "https://www.winehouse.com/shop/2003-williams-selyem-pinot-noir-vista-verde-vineyard-san-benito-county-64228",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/6971-DEFAULT-l.jpg"
     },
     {
       "sku": "494937",
@@ -30976,7 +31067,7 @@
       "name": "2023 Beaumont Family Wines Hope Margurite Chenin Blanc, Walker Bay",
       "vintage": "2023",
       "unit-size": "750ML",
-      "price": "42.99",
+      "price": "44.99",
       "url": "https://www.winehouse.com/shop/2023-beaumont-family-wines-hope-margurite-chenin-blanc-walker-bay-138771",
       "min-order": "1",
       "offer-type": "",
@@ -33130,19 +33221,6 @@
       "image-url": "https://www.winehouse.com/prodimages/5847-DEFAULT-l.jpg"
     },
     {
-      "sku": "65148747",
-      "name": "1999 Williams Selyem Winery Pinot Noir Ferrington Vineyard Anderson Valley",
-      "vintage": "1999",
-      "unit-size": "750ML",
-      "price": "89.98",
-      "url": "https://www.winehouse.com/shop/1999-williams-selyem-winery-pinot-noir-ferrington-vineyard-anderson-valley-66880",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6623-DEFAULT-l.jpg"
-    },
-    {
       "sku": "651669",
       "name": "2021 Les Deplaude de Tartaras HOP`LA Gamay, IGP Collines Rhodaniennes",
       "vintage": "2021",
@@ -34261,6 +34339,19 @@
       "image-url": "https://www.winehouse.com/prodimages/6104-DEFAULT-l.jpg"
     },
     {
+      "sku": "6636958474",
+      "name": "2003 Williams Selyem Winery Pinot Noir Allen Vineyard Russian River Valley",
+      "vintage": "2003",
+      "unit-size": "750ML",
+      "price": "79.98",
+      "url": "https://www.winehouse.com/shop/2003-williams-selyem-winery-pinot-noir-allen-vineyard-russian-river-valley-68141",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "2",
+      "image-url": "https://www.winehouse.com/prodimages/6974-DEFAULT-l.jpg"
+    },
+    {
       "sku": "663985002478",
       "name": "2022 Emilio Moro Malleolus Ribera del Duero Tempranillo",
       "vintage": "2022",
@@ -34716,6 +34807,19 @@
       "image-url": ""
     },
     {
+      "sku": "669511",
+      "name": "2017 Williams Selyem Pinot Noir Estate Vineyard",
+      "vintage": "2017",
+      "unit-size": "750ML",
+      "price": "119.98",
+      "url": "https://www.winehouse.com/shop/2017-williams-selyem-pinot-noir-estate-vineyard-79885",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "3",
+      "image-url": "https://www.winehouse.com/prodimages/6976-DEFAULT-l.jpg"
+    },
+    {
       "sku": "66952024",
       "name": "2007 Dalla Valle Vineyards Maya Proprietary Red Wine Napa Valley",
       "vintage": "2007",
@@ -34829,7 +34933,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/4031-DEFAULT-l.jpg"
     },
     {
@@ -41761,6 +41865,19 @@
       "image-url": ""
     },
     {
+      "sku": "77700469",
+      "name": "2003 Williams Selyem Pinot Noir Coastlands Sonoma Coast",
+      "vintage": "2003",
+      "unit-size": "750ML",
+      "price": "79.98",
+      "url": "https://www.winehouse.com/shop/2003-williams-selyem-pinot-noir-coastlands-sonoma-coast-68914",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "2",
+      "image-url": "https://www.winehouse.com/prodimages/6975-DEFAULT-l.jpg"
+    },
+    {
       "sku": "7770958",
       "name": "2012 Domaine François Raveneau Chablis Butteaux 1er Cru",
       "vintage": "2012",
@@ -43876,7 +43993,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/2724-DEFAULT-l.jpg"
     },
     {
@@ -45501,7 +45618,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/5111-DEFAULT-l.jpg"
     },
     {
@@ -47026,19 +47143,6 @@
       "image-url": "https://www.winehouse.com/prodimages/4923-DEFAULT-l.jpg"
     },
     {
-      "sku": "8412632",
-      "name": "2013 Rhys Vineyards San Matteo County Pinot Noir San Francisco Bay",
-      "vintage": "2013",
-      "unit-size": "750ML",
-      "price": "49.98",
-      "url": "https://www.winehouse.com/shop/2005-rhys-vineyards-alesia-pinot-noir-falstaff-road-vineyard-sonoma-coast-66485",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "841270100201",
       "name": "NV Mas Amiel Maury 20 year Fortified Red Wine",
       "vintage": "NV",
@@ -47360,7 +47464,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "28",
+      "stock-level": "27",
       "image-url": "https://www.winehouse.com/prodimages/1794-DEFAULT-l.jpg"
     },
     {
@@ -51806,7 +51910,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "15",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/3184-DEFAULT-l.jpg"
     },
     {
@@ -52001,7 +52105,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "19",
       "image-url": ""
     },
     {
@@ -52625,7 +52729,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/6879-DEFAULT-l.jpg"
     },
     {
