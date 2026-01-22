@@ -361,7 +361,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/211-DEFAULT-l.jpg"
     },
     {
@@ -569,7 +569,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "46",
+      "stock-level": "45",
       "image-url": "https://www.winehouse.com/prodimages/6047-DEFAULT-l.jpg"
     },
     {
@@ -1310,7 +1310,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "5",
       "image-url": ""
     },
     {
@@ -1895,7 +1895,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": ""
     },
     {
@@ -5314,7 +5314,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/4245-DEFAULT-l.jpg"
     },
     {
@@ -7537,7 +7537,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "97",
+      "stock-level": "93",
       "image-url": "https://www.winehouse.com/prodimages/5861-DEFAULT-l.jpg"
     },
     {
@@ -8070,7 +8070,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/5845-DEFAULT-l.jpg"
     },
     {
@@ -8148,7 +8148,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "15",
+      "stock-level": "14",
       "image-url": "https://www.winehouse.com/prodimages/6549-DEFAULT-l.jpg"
     },
     {
@@ -16964,19 +16964,6 @@
       "image-url": ""
     },
     {
-      "sku": "254774",
-      "name": "2015 Eisele Vineyard Cabernet Sauvignon Napa Valley Altagracia",
-      "vintage": "2015",
-      "unit-size": "750ML",
-      "price": "109.98",
-      "url": "https://www.winehouse.com/shop/2015-eisele-vineyard-cabernet-sauvignon-napa-valley-altagracia-10812",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "4",
-      "image-url": ""
-    },
-    {
       "sku": "254856",
       "name": "1998 Domaine Comte Georges de Vogue Bonnes Mares",
       "vintage": "1998",
@@ -18628,6 +18615,19 @@
       "image-url": "https://www.winehouse.com/prodimages/5220-DEFAULT-l.jpg"
     },
     {
+      "sku": "29990534",
+      "name": "2023 Wendouree Shiraz Malbec Clare Valley",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "239.99",
+      "url": "https://www.winehouse.com/shop/2023-wendouree-shiraz-malbec-clare-valley-137577",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "2",
+      "image-url": "https://www.winehouse.com/prodimages/6069-DEFAULT-l.jpg"
+    },
+    {
       "sku": "29991093",
       "name": "2024 Scions of Sinai Krummelklip Cabernet Sauvignon, Stellenbosch",
       "vintage": "2024",
@@ -18879,7 +18879,7 @@
       "name": "2020 Glenelly `Lady May",
       "vintage": "2020",
       "unit-size": "750ML",
-      "price": "49.99",
+      "price": "59.99",
       "url": "https://www.winehouse.com/shop/2020-glenelly-lady-may-138731",
       "min-order": "1",
       "offer-type": "",
@@ -19846,7 +19846,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/2478-DEFAULT-l.jpg"
     },
     {
@@ -21224,7 +21224,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/6594-DEFAULT-l.jpg"
     },
     {
@@ -30188,7 +30188,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": ""
     },
     {
@@ -32814,7 +32814,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/4179-DEFAULT-l.jpg"
     },
     {
@@ -33100,7 +33100,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "103",
+      "stock-level": "102",
       "image-url": ""
     },
     {
@@ -34660,7 +34660,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "34",
+      "stock-level": "32",
       "image-url": "https://www.winehouse.com/prodimages/1673-DEFAULT-l.jpg"
     },
     {
@@ -35635,7 +35635,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "36",
+      "stock-level": "34",
       "image-url": "https://www.winehouse.com/prodimages/6817-DEFAULT-l.jpg"
     },
     {
@@ -35778,7 +35778,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "29",
+      "stock-level": "28",
       "image-url": "https://www.winehouse.com/prodimages/1699-DEFAULT-l.jpg"
     },
     {
@@ -37507,7 +37507,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "136",
+      "stock-level": "135",
       "image-url": "https://www.winehouse.com/prodimages/3548-DEFAULT-l.jpg"
     },
     {
@@ -40587,7 +40587,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/6144-DEFAULT-l.jpg"
     },
     {
@@ -41081,7 +41081,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/1806-DEFAULT-l.jpg"
     },
     {
@@ -44296,19 +44296,6 @@
       "image-url": ""
     },
     {
-      "sku": "805109187016",
-      "name": "2023 Novellum (Jean-Marc Lafage) Chardonnay Vin de Pays",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "14.99",
-      "url": "https://www.winehouse.com/shop/2023-novellum-jean-marc-lafage-chardonnay-vin-de-pays-136161",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "6",
-      "image-url": "https://www.winehouse.com/prodimages/3547-DEFAULT-l.jpg"
-    },
-    {
       "sku": "8051766070068",
       "name": "2020 Broccardo Barolo Bricco San Pietro",
       "vintage": "2020",
@@ -44968,7 +44955,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": ""
     },
     {
@@ -45021,19 +45008,6 @@
       "offer-type": "R",
       "delivery-time": "2-5 days",
       "stock-level": "1",
-      "image-url": ""
-    },
-    {
-      "sku": "81025177",
-      "name": "2009 Peter Michael Winery Pinot Noir Le Caprice Russian River Valley",
-      "vintage": "2009",
-      "unit-size": "750ML",
-      "price": "159.98",
-      "url": "https://www.winehouse.com/shop/2009-peter-michael-winery-pinot-noir-le-caprice-russian-river-valley-66533",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
       "image-url": ""
     },
     {
@@ -45826,7 +45800,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/1830-DEFAULT-l.jpg"
     },
     {
@@ -46983,7 +46957,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "15",
       "image-url": ""
     },
     {
@@ -47477,7 +47451,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/2154-DEFAULT-l.jpg"
     },
     {
@@ -47776,7 +47750,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "27",
+      "stock-level": "24",
       "image-url": "https://www.winehouse.com/prodimages/3665-DEFAULT-l.jpg"
     },
     {
@@ -51611,7 +51585,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "36",
+      "stock-level": "34",
       "image-url": ""
     },
     {
@@ -53717,7 +53691,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/6885-DEFAULT-l.jpg"
     },
     {
