@@ -1622,7 +1622,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/316-DEFAULT-l.jpg"
     },
     {
@@ -3182,7 +3182,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "22",
       "image-url": "https://www.winehouse.com/prodimages/3590-DEFAULT-l.jpg"
     },
     {
@@ -4222,7 +4222,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/4576-DEFAULT-l.jpg"
     },
     {
@@ -7407,7 +7407,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "80",
+      "stock-level": "79",
       "image-url": "https://www.winehouse.com/prodimages/5861-DEFAULT-l.jpg"
     },
     {
@@ -10371,7 +10371,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "9",
       "image-url": ""
     },
     {
@@ -14215,7 +14215,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/6906-DEFAULT-l.jpg"
     },
     {
@@ -16265,7 +16265,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/5499-DEFAULT-l.jpg"
     },
     {
@@ -19430,7 +19430,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/4860-DEFAULT-l.jpg"
     },
     {
@@ -20756,7 +20756,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/2359-DEFAULT-l.jpg"
     },
     {
@@ -24630,7 +24630,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/2116-DEFAULT-l.jpg"
     },
     {
@@ -28235,19 +28235,6 @@
       "image-url": "https://www.winehouse.com/prodimages/6309-DEFAULT-l.jpg"
     },
     {
-      "sku": "5242432453453",
-      "name": "1997 Moraga Vineyards Red Bel Air",
-      "vintage": "1997",
-      "unit-size": "750ML",
-      "price": "149.98",
-      "url": "https://www.winehouse.com/shop/1997-moraga-vineyards-red-bel-air-64972",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "525002",
       "name": "2015 Domaine Joseph Faiveley Musigny (OWC banded)",
       "vintage": "2015",
@@ -29297,19 +29284,6 @@
       "image-url": ""
     },
     {
-      "sku": "555217",
-      "name": "1996 Moraga Vineyards Proprietary Red Wine South Coast",
-      "vintage": "1996",
-      "unit-size": "750ML",
-      "price": "119.98",
-      "url": "https://www.winehouse.com/shop/1996-moraga-vineyards-proprietary-red-wine-south-coast-4929",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "555235",
       "name": "2018 Scarecrow Cabernet Sauvignon Rutherford",
       "vintage": "2018",
@@ -30175,7 +30149,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": ""
     },
     {
@@ -30214,7 +30188,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/3744-DEFAULT-l.jpg"
     },
     {
@@ -36077,7 +36051,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/3196-DEFAULT-l.jpg"
     },
     {
@@ -39366,7 +39340,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/713-DEFAULT-l.jpg"
     },
     {
@@ -44929,7 +44903,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/864-DEFAULT-l.jpg"
     },
     {
@@ -52612,7 +52586,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/3840-DEFAULT-l.jpg"
     },
     {
@@ -53548,7 +53522,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "43",
+      "stock-level": "31",
       "image-url": "https://www.winehouse.com/prodimages/5778-DEFAULT-l.jpg"
     },
     {
@@ -54354,7 +54328,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/6696-DEFAULT-l.jpg"
     },
     {
