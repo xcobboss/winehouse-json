@@ -1635,7 +1635,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/6898-DEFAULT-l.jpg"
     },
     {
@@ -5197,7 +5197,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/5459-DEFAULT-l.jpg"
     },
     {
@@ -7940,7 +7940,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/6149-DEFAULT-l.jpg"
     },
     {
@@ -18936,7 +18936,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/7004-DEFAULT-l.jpg"
     },
     {
@@ -19703,7 +19703,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/1115-DEFAULT-l.jpg"
     },
     {
@@ -19807,7 +19807,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/6158-DEFAULT-l.jpg"
     },
     {
@@ -23434,7 +23434,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/3120-DEFAULT-l.jpg"
     },
     {
@@ -32922,19 +32922,6 @@
       "image-url": "https://www.winehouse.com/prodimages/4887-DEFAULT-l.jpg"
     },
     {
-      "sku": "6530100",
-      "name": "2015 Chateau Tour Grand Faurie St. Emilion",
-      "vintage": "2015",
-      "unit-size": "750ML",
-      "price": "44.99",
-      "url": "https://www.winehouse.com/shop/2015-chateau-tour-grand-faurie-st-emilion-138795",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6925-DEFAULT-l.jpg"
-    },
-    {
       "sku": "653341303646",
       "name": "2023 Alma de Cattleya Chardonnay Sonoma County",
       "vintage": "2023",
@@ -34168,19 +34155,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "31",
       "image-url": "https://www.winehouse.com/prodimages/1673-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "666392848233",
-      "name": "2023 Masso Antico Primitivo Appassito Salento IGT",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "14.99",
-      "url": "https://www.winehouse.com/shop/2023-masso-antico-primitivo-appassito-salento-igt-135967",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "52",
-      "image-url": "https://www.winehouse.com/prodimages/3314-DEFAULT-l.jpg"
     },
     {
       "sku": "666614",
@@ -53145,7 +53119,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/6885-DEFAULT-l.jpg"
     },
     {
