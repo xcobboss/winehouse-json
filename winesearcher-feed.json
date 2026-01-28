@@ -8018,7 +8018,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/6884-DEFAULT-l.jpg"
     },
     {
@@ -8098,19 +8098,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/5484-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "098803011705",
-      "name": "2019 Heitz Wine Cellars Cabernet Sauvignon Napa Valley",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "84.99",
-      "url": "https://www.winehouse.com/shop/2019-heitz-wine-cellars-cabernet-sauvignon-napa-valley-134493",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5488-DEFAULT-l.jpg"
     },
     {
       "sku": "099485000018",
@@ -18197,6 +18184,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/2075-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "29988001",
+      "name": "2019 Heitz Wine Cellars Cabernet Sauvignon Napa Valley",
+      "vintage": "2019",
+      "unit-size": "750ML",
+      "price": "84.99",
+      "url": "https://www.winehouse.com/shop/2019-heitz-wine-cellars-cabernet-sauvignon-napa-valley-134493",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/5488-DEFAULT-l.jpg"
     },
     {
       "sku": "29988291",
@@ -29750,19 +29750,6 @@
       "image-url": "https://www.winehouse.com/prodimages/1946-DEFAULT-l.jpg"
     },
     {
-      "sku": "5572106",
-      "name": "2013 Marcassin Chardonnay Sonoma Coast Marcassin Vineyard",
-      "vintage": "2013",
-      "unit-size": "750ML",
-      "price": "579.98",
-      "url": "https://www.winehouse.com/shop/2013-marcassin-chardonnay-sonoma-coast-marcassin-vineyard-4531",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6301-DEFAULT-l.jpg"
-    },
-    {
       "sku": "558761",
       "name": "2020 Domaine de Baal White Blend, Lebonan",
       "vintage": "2020",
@@ -34374,7 +34361,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "29",
+      "stock-level": "19",
       "image-url": "https://www.winehouse.com/prodimages/3314-DEFAULT-l.jpg"
     },
     {
@@ -43512,7 +43499,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/3815-DEFAULT-l.jpg"
     },
     {
@@ -44760,7 +44747,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/6648-DEFAULT-l.jpg"
     },
     {
@@ -45932,19 +45919,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/6315-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "8251961",
-      "name": "2020 Jacky Blot Domaine de la Butte Bourgueil Le Haut de la Butte, Loire",
-      "vintage": "2020",
-      "unit-size": "750ML",
-      "price": "29.99",
-      "url": "https://www.winehouse.com/shop/2020-jacky-blot-domaine-de-la-butte-bourgueil-le-haut-de-la-butte-loire-134701",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6876-DEFAULT-l.jpg"
     },
     {
       "sku": "8256121964",
@@ -49219,7 +49193,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": ""
     },
     {
