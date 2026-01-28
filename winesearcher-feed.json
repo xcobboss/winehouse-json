@@ -937,19 +937,6 @@
       "image-url": "https://www.winehouse.com/prodimages/849-DEFAULT-l.jpg"
     },
     {
-      "sku": "026404966292",
-      "name": "2022 Kolfok Gruner Veltliner Querschnitt Mittelburgenland",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "24.99",
-      "url": "https://www.winehouse.com/shop/2022-kolfok-gruner-veltliner-querschnitt-mittelburgenland-138680",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6759-DEFAULT-l.jpg"
-    },
-    {
       "sku": "027724017503",
       "name": "St. George All Purpose Vodka made from Grain and Fruit 40% abv",
       "vintage": "",
@@ -7563,7 +7550,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "69",
+      "stock-level": "68",
       "image-url": "https://www.winehouse.com/prodimages/5861-DEFAULT-l.jpg"
     },
     {
@@ -18988,7 +18975,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -22277,7 +22264,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/7046-DEFAULT-l.jpg"
     },
     {
@@ -23438,6 +23425,19 @@
       "image-url": "https://www.winehouse.com/prodimages/5733-DEFAULT-l.jpg"
     },
     {
+      "sku": "3760169471598",
+      "name": "2022 Domaine de la Vieille Julienne Chateauneuf du Pape Les Petites Parcelles",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "39.99",
+      "url": "https://www.winehouse.com/shop/2022-domaine-de-la-vieille-julienne-chateauneuf-du-pape-les-petites-parcelles-137725",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "24",
+      "image-url": "https://www.winehouse.com/prodimages/5731-DEFAULT-l.jpg"
+    },
+    {
       "sku": "3760173900039",
       "name": "NV Eric Bordelet Sidre Tendre Doux",
       "vintage": "NV",
@@ -23993,7 +23993,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/6304-DEFAULT-l.jpg"
     },
     {
@@ -34504,7 +34504,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "31",
+      "stock-level": "19",
       "image-url": "https://www.winehouse.com/prodimages/1673-DEFAULT-l.jpg"
     },
     {
@@ -34517,7 +34517,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "65",
+      "stock-level": "63",
       "image-url": "https://www.winehouse.com/prodimages/3314-DEFAULT-l.jpg"
     },
     {
@@ -38339,7 +38339,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "15",
+      "stock-level": "14",
       "image-url": "https://www.winehouse.com/prodimages/6367-DEFAULT-l.jpg"
     },
     {
@@ -44877,7 +44877,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "15",
+      "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/3598-DEFAULT-l.jpg"
     },
     {
@@ -46751,6 +46751,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/3015-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "840372715962",
+      "name": "2023 Domaine Durup Chablis “Vigne de la Reine”",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "22.99",
+      "url": "https://www.winehouse.com/shop/2023-domaine-durup-chablis-vigne-de-la-reine-136790",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "48",
+      "image-url": "https://www.winehouse.com/prodimages/4598-DEFAULT-l.jpg"
     },
     {
       "sku": "840372718031",
