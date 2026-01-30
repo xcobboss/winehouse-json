@@ -872,19 +872,6 @@
       "image-url": ""
     },
     {
-      "sku": "021893797532",
-      "name": "Doc Herson`s Amaro 30% abv",
-      "vintage": "",
-      "unit-size": "750ML",
-      "price": "44.99",
-      "url": "https://www.winehouse.com/shop/doc-herson-s-amaro-30-abv-18135",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/593-DEFAULT-l.jpg"
-    },
-    {
       "sku": "022100001701",
       "name": "Pabst Blue Ribbon 12p Cans",
       "vintage": "",
@@ -2831,7 +2818,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": ""
     },
     {
@@ -8382,7 +8369,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "59",
+      "stock-level": "56",
       "image-url": "https://www.winehouse.com/prodimages/7066-DEFAULT-l.jpg"
     },
     {
@@ -10683,7 +10670,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/2523-DEFAULT-l.jpg"
     },
     {
@@ -14062,6 +14049,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/2394-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "202533",
+      "name": "2023 Sadie Family Old Vine Series Soldaat Grenache Swartland, South Africa",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "97.99",
+      "url": "https://www.winehouse.com/shop/2023-sadie-family-old-vine-series-soldaat-grenache-swartland-south-africa-133823",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "3",
+      "image-url": "https://www.winehouse.com/prodimages/7030-DEFAULT-l.jpg"
     },
     {
       "sku": "202729",
@@ -18156,7 +18156,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/3669-DEFAULT-l.jpg"
     },
     {
@@ -21317,19 +21317,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/3451-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "3435160019758",
-      "name": "2019 Chateau Malescot-St-Exupery Margaux",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "79.99",
-      "url": "https://www.winehouse.com/shop/2019-chateau-malescot-st-exupery-margaux-12873",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6151-DEFAULT-l.jpg"
     },
     {
       "sku": "3438081121012",
@@ -27065,19 +27052,6 @@
       "image-url": ""
     },
     {
-      "sku": "478513",
-      "name": "2011 Peter Michael Winery Chardonnay Ma Belle Fille Sonoma County",
-      "vintage": "2011",
-      "unit-size": "750ML",
-      "price": "79.98",
-      "url": "https://www.winehouse.com/shop/2011-peter-michael-winery-chardonnay-ma-belle-fille-sonoma-county-66911",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6748-DEFAULT-l.jpg"
-    },
-    {
       "sku": "479198",
       "name": "2018 Domaine Leccia Patrimonio Rouge Cuvée Pettale Corsica, France",
       "vintage": "2018",
@@ -31375,6 +31349,32 @@
       "image-url": "https://www.winehouse.com/prodimages/5797-DEFAULT-l.jpg"
     },
     {
+      "sku": "6009824920277",
+      "name": "2023 Sadie Family `T Voetpad Field Blend Swartland",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "116.99",
+      "url": "https://www.winehouse.com/shop/2023-sadie-family-t-voetpad-field-blend-swartland-133824",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "2",
+      "image-url": "https://www.winehouse.com/prodimages/7031-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "6009824920284",
+      "name": "2023 Sadie Family Chenin Blanc Rotsbank Swartland, Paardeberg South Africa",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "94.99",
+      "url": "https://www.winehouse.com/shop/2023-sadie-family-chenin-blanc-rotsbank-swartland-paardeberg-south-africa-133818",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
       "sku": "6009881014650",
       "name": "2021 David + Nadia Plat`bos Chenin Blanc Swartland",
       "vintage": "2021",
@@ -31566,7 +31566,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": ""
     },
     {
@@ -32309,19 +32309,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/1884-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "627711",
-      "name": "2011 Peter Michael Winery Chardonnay Sonoma County La Carriere",
-      "vintage": "2011",
-      "unit-size": "750ML",
-      "price": "79.98",
-      "url": "https://www.winehouse.com/shop/2011-peter-michael-winery-chardonnay-sonoma-county-la-carriere-66661",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6747-DEFAULT-l.jpg"
     },
     {
       "sku": "627821",
@@ -33247,6 +33234,19 @@
       "image-url": ""
     },
     {
+      "sku": "646555",
+      "name": "2020 Sadie Family Old Vine Series Columella Red Swartland, South Africa",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "154.99",
+      "url": "https://www.winehouse.com/shop/2022-sadie-family-old-vine-series-columella-red-swartland-south-africa-133817",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "3",
+      "image-url": "https://www.winehouse.com/prodimages/7029-DEFAULT-l.jpg"
+    },
+    {
       "sku": "647702",
       "name": "2005 Alban Vineyards Syrah Lorraine Estate Edna Valley",
       "vintage": "2005",
@@ -33685,7 +33685,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/5156-DEFAULT-l.jpg"
     },
     {
@@ -36116,7 +36116,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/1986-DEFAULT-l.jpg"
     },
     {
