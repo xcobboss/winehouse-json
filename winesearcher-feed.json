@@ -660,7 +660,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "72",
+      "stock-level": "71",
       "image-url": "https://www.winehouse.com/prodimages/3587-DEFAULT-l.jpg"
     },
     {
@@ -1154,7 +1154,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": ""
     },
     {
@@ -3949,7 +3949,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/3131-DEFAULT-l.jpg"
     },
     {
@@ -4612,7 +4612,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/3767-DEFAULT-l.jpg"
     },
     {
@@ -4781,7 +4781,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/4605-DEFAULT-l.jpg"
     },
     {
@@ -8265,7 +8265,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "20",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/5036-DEFAULT-l.jpg"
     },
     {
@@ -17389,7 +17389,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/5834-DEFAULT-l.jpg"
     },
     {
@@ -17636,7 +17636,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/4523-DEFAULT-l.jpg"
     },
     {
@@ -17649,7 +17649,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/4524-DEFAULT-l.jpg"
     },
     {
@@ -18795,6 +18795,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "24",
       "image-url": ""
+    },
+    {
+      "sku": "29995698",
+      "name": "2023 Sadie Family Old Vine Series Columella Red Swartland, South Africa",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "207.99",
+      "url": "https://www.winehouse.com/shop/2023-sadie-family-old-vine-series-columella-red-swartland-south-africa-138866",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "6",
+      "image-url": "https://www.winehouse.com/prodimages/7087-DEFAULT-l.jpg"
     },
     {
       "sku": "30001251",
@@ -20080,7 +20093,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/1115-DEFAULT-l.jpg"
     },
     {
@@ -23291,7 +23304,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/4739-DEFAULT-l.jpg"
     },
     {
@@ -31102,6 +31115,45 @@
       "image-url": "https://www.winehouse.com/prodimages/5797-DEFAULT-l.jpg"
     },
     {
+      "sku": "6009824920024",
+      "name": "2023 Sadie Family Old Vine Series Palladius White Blend Swartland, South Africa",
+      "vintage": "2020",
+      "unit-size": "750ML",
+      "price": "194.99",
+      "url": "https://www.winehouse.com/shop/2023-sadie-family-old-vine-series-palladius-white-blend-swartland-south-africa-138867",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": "https://www.winehouse.com/prodimages/7088-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "6009824920239",
+      "name": "2024 Sadie Family Old Vine Series Skerpioen White Blend Swartland, South Africa",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "113.99",
+      "url": "https://www.winehouse.com/shop/2024-sadie-family-old-vine-series-skerpioen-white-blend-swartland-south-africa-138869",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": "https://www.winehouse.com/prodimages/7090-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "6009824920253",
+      "name": "2024 Sadie Family Old Vine Series Soldaat Grenache Swartland, South Africa",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "113.99",
+      "url": "https://www.winehouse.com/shop/2024-sadie-family-old-vine-series-soldaat-grenache-swartland-south-africa-138868",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "6",
+      "image-url": "https://www.winehouse.com/prodimages/7089-DEFAULT-l.jpg"
+    },
+    {
       "sku": "6009824920277",
       "name": "2023 Sadie Family `T Voetpad Field Blend Swartland",
       "vintage": "2023",
@@ -34452,7 +34504,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "26",
+      "stock-level": "23",
       "image-url": "https://www.winehouse.com/prodimages/3314-DEFAULT-l.jpg"
     },
     {
@@ -44058,7 +44110,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/4589-DEFAULT-l.jpg"
     },
     {
@@ -44365,7 +44417,7 @@
       "name": "2023 Cascina Penna Currado Dolcetto D`Alba Bricco Lago",
       "vintage": "2023",
       "unit-size": "750ML",
-      "price": "36.99",
+      "price": "32.99",
       "url": "https://www.winehouse.com/shop/2023-cascina-penna-currado-dolcetto-d-alba-bricco-lago-138712",
       "min-order": "1",
       "offer-type": "",
@@ -44378,7 +44430,7 @@
       "name": "2023 Cascina Penna Currado Langhe Nebbiolo Bricco Lago",
       "vintage": "2023",
       "unit-size": "750ML",
-      "price": "45.99",
+      "price": "40.99",
       "url": "https://www.winehouse.com/shop/2023-cascina-penna-currado-langhe-nebbiolo-bricco-lago-138714",
       "min-order": "1",
       "offer-type": "",
@@ -44391,7 +44443,7 @@
       "name": "2023 Cascina Penna Currado Nebbiolo d`Alba San Sebastiano",
       "vintage": "2023",
       "unit-size": "750ML",
-      "price": "59.99",
+      "price": "53.99",
       "url": "https://www.winehouse.com/shop/2023-cascina-penna-currado-nebbiolo-d-alba-san-sebastiano-138715",
       "min-order": "1",
       "offer-type": "",
@@ -44404,7 +44456,7 @@
       "name": "2023 Cascina Penna Currado Barbera D`Alba Carra",
       "vintage": "2023",
       "unit-size": "750ML",
-      "price": "56.99",
+      "price": "50.99",
       "url": "https://www.winehouse.com/shop/2023-cascina-penna-currado-barbera-d-alba-carra-138713",
       "min-order": "1",
       "offer-type": "",
@@ -44417,7 +44469,7 @@
       "name": "2024 Cascina Penna Currado Timorasso Derthona",
       "vintage": "2024",
       "unit-size": "750ML",
-      "price": "49.99",
+      "price": "44.99",
       "url": "https://www.winehouse.com/shop/2024-cascina-penna-currado-timorasso-derthona-138711",
       "min-order": "1",
       "offer-type": "",
@@ -47386,7 +47438,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/1794-DEFAULT-l.jpg"
     },
     {
@@ -47399,7 +47451,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/6553-DEFAULT-l.jpg"
     },
     {
@@ -51130,7 +51182,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "33",
+      "stock-level": "32",
       "image-url": "https://www.winehouse.com/prodimages/3591-DEFAULT-l.jpg"
     },
     {
@@ -53366,7 +53418,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/3630-DEFAULT-l.jpg"
     },
     {
@@ -53639,7 +53691,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/4066-DEFAULT-l.jpg"
     },
     {
