@@ -14674,19 +14674,6 @@
       "image-url": ""
     },
     {
-      "sku": "216981",
-      "name": "2016 San Maurizio Vuillermin",
-      "vintage": "2016",
-      "unit-size": "750ML",
-      "price": "42.99",
-      "url": "https://www.winehouse.com/shop/2016-san-maurizio-vuillermin-18109",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/1555-DEFAULT-l.jpg"
-    },
-    {
       "sku": "2174787",
       "name": "2018 Sine Qua Non Grenache Profuga Central Coast California",
       "vintage": "2018",
@@ -22524,7 +22511,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "19",
       "image-url": "https://www.winehouse.com/prodimages/6913-DEFAULT-l.jpg"
     },
     {
@@ -27776,7 +27763,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": ""
     },
     {
@@ -45722,7 +45709,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "2",
       "image-url": ""
     },
     {
@@ -53888,6 +53875,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/4529-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "897735000944",
+      "name": "2024 Curran Grenache Blanc Santa Barbara County",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "19.99",
+      "url": "https://www.winehouse.com/shop/2024-curran-grenache-blanc-santa-barbara-county-136180",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "2",
+      "image-url": "https://www.winehouse.com/prodimages/3611-DEFAULT-l.jpg"
     },
     {
       "sku": "897808002479",
