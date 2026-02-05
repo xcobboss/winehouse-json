@@ -400,7 +400,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "20",
+      "stock-level": "17",
       "image-url": ""
     },
     {
@@ -634,7 +634,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "20",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/3587-DEFAULT-l.jpg"
     },
     {
@@ -1559,19 +1559,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
-    },
-    {
-      "sku": "051497037000",
-      "name": "2023 Bodegas Virgen del Galir Val do Galir Godello, Valdeorras",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "17.99",
-      "url": "https://www.winehouse.com/shop/2023-bodegas-virgen-del-galir-val-do-galir-godello-valdeorras-136898",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/4771-DEFAULT-l.jpg"
     },
     {
       "sku": "051497363840",
@@ -5938,7 +5925,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/6824-DEFAULT-l.jpg"
     },
     {
@@ -17506,7 +17493,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "80",
+      "stock-level": "77",
       "image-url": "https://www.winehouse.com/prodimages/6978-DEFAULT-l.jpg"
     },
     {
@@ -23876,7 +23863,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "23",
       "image-url": "https://www.winehouse.com/prodimages/7106-DEFAULT-l.jpg"
     },
     {
@@ -37871,7 +37858,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/3980-DEFAULT-l.jpg"
     },
     {
@@ -44829,6 +44816,19 @@
       "image-url": "https://www.winehouse.com/prodimages/3970-DEFAULT-l.jpg"
     },
     {
+      "sku": "811751020601",
+      "name": "Stolichnaya Elit Russian Vodka",
+      "vintage": "",
+      "unit-size": "750ML",
+      "price": "59.99",
+      "url": "https://www.winehouse.com/shop/stolichnaya-elit-russian-vodka-28656",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "2",
+      "image-url": ""
+    },
+    {
       "sku": "812066020096",
       "name": "Brugal Extra Dry Caribbean Rum",
       "vintage": "",
@@ -46073,7 +46073,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "23",
       "image-url": "https://www.winehouse.com/prodimages/7104-DEFAULT-l.jpg"
     },
     {
@@ -46840,7 +46840,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": ""
     },
     {
@@ -47009,7 +47009,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/6834-DEFAULT-l.jpg"
     },
     {
@@ -51585,7 +51585,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "22",
       "image-url": "https://www.winehouse.com/prodimages/5914-DEFAULT-l.jpg"
     },
     {
@@ -52287,7 +52287,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": ""
     },
     {
