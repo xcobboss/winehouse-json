@@ -277,7 +277,7 @@
       "sku": "009125004016",
       "name": "Anderson Valley Boont Amber Ale Mendocino California 5.8% abv Six Pack Cans 12oz",
       "vintage": "",
-      "unit-size": "6PK",
+      "unit-size": "12OZ",
       "price": "7.99",
       "url": "https://www.winehouse.com/shop/anderson-valley-boont-amber-ale-mendocino-california-5-8-abv-six-pack-cans-12oz-26927",
       "min-order": "1",
@@ -1718,7 +1718,7 @@
     },
     {
       "sku": "072546032302",
-      "name": "Echigo Flying IPA 5.5% abv 3",
+      "name": "Echigo Stout 1S",
       "vintage": "",
       "unit-size": "330ML",
       "price": "3.99",
@@ -2082,11 +2082,11 @@
     },
     {
       "sku": "072546235734",
-      "name": "Wakayama Yuzu Ale 330ml",
+      "name": "Wakayama Yuzu Ale",
       "vintage": "",
       "unit-size": "330ML",
       "price": "6.49",
-      "url": "https://www.winehouse.com/shop/wakayama-yuzu-ale-330ml-138930",
+      "url": "https://www.winehouse.com/shop/wakayama-yuzu-ale-138930",
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
@@ -2264,7 +2264,7 @@
     },
     {
       "sku": "080020242215",
-      "name": "Abita Amber Lager Louisiana Munich Style Six Pack 4.5% abv 12oz",
+      "name": "Abita Amber Lager Louisiana Munich Style 6P",
       "vintage": "",
       "unit-size": "6PK",
       "price": "10.99",
@@ -13241,7 +13241,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/6349-DEFAULT-l.jpg"
     },
     {
@@ -20704,7 +20704,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/7098-DEFAULT-l.jpg"
     },
     {
@@ -23894,11 +23894,11 @@
     },
     {
       "sku": "3874562",
-      "name": "2022 Press Gang Cellars Something in the Orange White Wine Santa Ynez Valley (Skin Contact Chardonnay, Gamay Noir, Mencia)",
+      "name": "2022 Press Gang Cellars Something in the Orange Santa Ynez Valley (Skin Contact Chardonnay, Gamay Noir, Mencia)",
       "vintage": "2022",
       "unit-size": "750ML",
       "price": "23.99",
-      "url": "https://www.winehouse.com/shop/2022-press-gang-cellars-something-in-the-orange-white-wine-santa-ynez-valley-138919",
+      "url": "https://www.winehouse.com/shop/2022-press-gang-cellars-something-in-the-orange-santa-ynez-valley-138919",
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
@@ -34977,7 +34977,7 @@
     },
     {
       "sku": "688444500180",
-      "name": "St Peters English Ale 16.09 oz",
+      "name": "St Peters English Ale",
       "vintage": "",
       "unit-size": "500ML",
       "price": "5.49",
@@ -35297,7 +35297,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/1978-DEFAULT-l.jpg"
     },
     {
@@ -35549,7 +35549,7 @@
     },
     {
       "sku": "699176473314",
-      "name": "St Bernardus Tripel Belgian Abbey Ale 8% abv 11.2 oz",
+      "name": "St Bernardus Tripel Belgian Abbey Ale",
       "vintage": "",
       "unit-size": "330ML",
       "price": "5.49",
@@ -35562,9 +35562,9 @@
     },
     {
       "sku": "699176483313",
-      "name": "St Bernardus Abt 12 Belgian Abbey Ale 10% abv 11.2oz",
+      "name": "St Bernardus Abt 12 Belgian Abbey Ale 1S",
       "vintage": "",
-      "unit-size": "330ML",
+      "unit-size": "11OZ",
       "price": "5.99",
       "url": "https://www.winehouse.com/shop/st-bernardus-abt-12-belgian-abbey-ale-10-abv-11-2oz-26992",
       "min-order": "1",
@@ -35575,7 +35575,7 @@
     },
     {
       "sku": "699176493312",
-      "name": "St Bernardus Prior 8 Belgian Abbey Ale 8% abv 11.2oz",
+      "name": "St Bernardus Prior 8 Belgian Abbey Ale 1S",
       "vintage": "",
       "unit-size": "330ML",
       "price": "5.49",
@@ -37421,7 +37421,7 @@
     },
     {
       "sku": "727344000380",
-      "name": "North Coast Brewing Pranqster Belgian Style Golden Ale 4PK 12 oz.",
+      "name": "North Coast Brewing Pranqster Belgian Style Golden Ale 4PK",
       "vintage": "",
       "unit-size": "12OZ",
       "price": "10.99",
@@ -44669,7 +44669,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/5976-DEFAULT-l.jpg"
     },
     {
@@ -46437,7 +46437,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/1265-DEFAULT-l.jpg"
     },
     {
@@ -47742,7 +47742,7 @@
     },
     {
       "sku": "850031441019",
-      "name": "Gouden Carolus Tripel Belgian Blond Ale 9.0% abv 11.2oz",
+      "name": "Gouden Carolus Tripel Belgian Blond Ale 1S",
       "vintage": "",
       "unit-size": "330ML",
       "price": "5.49",
@@ -49731,9 +49731,9 @@
     },
     {
       "sku": "856650004901",
-      "name": "El Segundo Mayberry IPA 16oz Cans",
+      "name": "El Segundo Mayberry IPA Cans",
       "vintage": "",
-      "unit-size": "4PK",
+      "unit-size": "16OZ",
       "price": "14.99",
       "url": "https://www.winehouse.com/shop/el-segundo-mayberry-ipa-16oz-cans-22706",
       "min-order": "1",
@@ -52963,7 +52963,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/6885-DEFAULT-l.jpg"
     },
     {
