@@ -8984,19 +8984,6 @@
       "image-url": "https://www.winehouse.com/prodimages/2697-DEFAULT-l.jpg"
     },
     {
-      "sku": "115161",
-      "name": "2016 Domaine du Comte Liger Belair Vosne Romanee Clos du Château",
-      "vintage": "2016",
-      "unit-size": "750ML",
-      "price": "1699.98",
-      "url": "https://www.winehouse.com/shop/2016-domaine-du-comte-liger-belair-vosne-romanee-clos-du-chateau-107203",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "115177",
       "name": "2015 Sine Qua Non Syrah Trouver l`arene",
       "vintage": "2015",
@@ -20613,7 +20600,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -22255,6 +22242,19 @@
       "image-url": "https://www.winehouse.com/prodimages/1616-DEFAULT-l.jpg"
     },
     {
+      "sku": "3701400302622",
+      "name": "2019 La Croix de Beaucaillou (Ducru-Beaucaillou) St Julien",
+      "vintage": "2019",
+      "unit-size": "750ML",
+      "price": "48.99",
+      "url": "https://www.winehouse.com/shop/2019-la-croix-de-beaucaillou-ducru-beaucaillou-st-julien-15966",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
       "sku": "3701581900501",
       "name": "2021 Chateau La Mission Haut Brion Pessac-Léognan",
       "vintage": "2021",
@@ -23187,7 +23187,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "3",
       "image-url": ""
     },
     {
@@ -29201,7 +29201,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/1944-DEFAULT-l.jpg"
     },
     {
