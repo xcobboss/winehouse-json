@@ -88,7 +88,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": ""
     },
     {
@@ -673,7 +673,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/6220-DEFAULT-l.jpg"
     },
     {
@@ -2350,7 +2350,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/677-DEFAULT-l.jpg"
     },
     {
@@ -7190,19 +7190,6 @@
       "image-url": "https://www.winehouse.com/prodimages/1221-DEFAULT-l.jpg"
     },
     {
-      "sku": "089819042401",
-      "name": "2022 Stags Leap Winery Cabernet Sauvignon Napa Valley",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "59.99",
-      "url": "https://www.winehouse.com/shop/2022-stags-leap-winery-cabernet-sauvignon-napa-valley-138606",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6658-DEFAULT-l.jpg"
-    },
-    {
       "sku": "089819756001",
       "name": "2021 Etude Wines Pinot Noir Carneros",
       "vintage": "2021",
@@ -7966,7 +7953,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "37",
+      "stock-level": "36",
       "image-url": "https://www.winehouse.com/prodimages/7066-DEFAULT-l.jpg"
     },
     {
@@ -8382,7 +8369,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/4018-DEFAULT-l.jpg"
     },
     {
@@ -13942,7 +13929,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/6906-DEFAULT-l.jpg"
     },
     {
@@ -13981,7 +13968,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": ""
     },
     {
@@ -21068,7 +21055,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/6951-DEFAULT-l.jpg"
     },
     {
@@ -22732,7 +22719,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/5731-DEFAULT-l.jpg"
     },
     {
@@ -23967,7 +23954,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "20",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/7154-DEFAULT-l.jpg"
     },
     {
@@ -24188,7 +24175,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/3206-DEFAULT-l.jpg"
     },
     {
@@ -29839,19 +29826,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/6359-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "5995524",
-      "name": "2024 Pietro Caciorgna Etna Rosso Ciauria",
-      "vintage": "2024",
-      "unit-size": "750ML",
-      "price": "28.99",
-      "url": "https://www.winehouse.com/shop/2024-pietro-caciorgna-etna-rosso-ciauria-138305",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6360-DEFAULT-l.jpg"
     },
     {
       "sku": "5996610",
@@ -37429,7 +37403,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": ""
     },
     {
@@ -39001,7 +38975,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/1808-DEFAULT-l.jpg"
     },
     {
@@ -44240,7 +44214,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/1834-DEFAULT-l.jpg"
     },
     {
@@ -46593,7 +46567,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/4901-DEFAULT-l.jpg"
     },
     {
@@ -46827,7 +46801,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -47724,7 +47698,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "25",
+      "stock-level": "22",
       "image-url": "https://www.winehouse.com/prodimages/2239-DEFAULT-l.jpg"
     },
     {
