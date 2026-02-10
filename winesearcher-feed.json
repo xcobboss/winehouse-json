@@ -3559,7 +3559,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/2818-DEFAULT-l.jpg"
     },
     {
@@ -6640,7 +6640,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/6675-DEFAULT-l.jpg"
     },
     {
@@ -33429,19 +33429,6 @@
       "image-url": "https://www.winehouse.com/prodimages/1673-DEFAULT-l.jpg"
     },
     {
-      "sku": "666392848233",
-      "name": "2023 Masso Antico Primitivo Appassito Salento IGT",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "14.99",
-      "url": "https://www.winehouse.com/shop/2023-masso-antico-primitivo-appassito-salento-igt-135967",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "4",
-      "image-url": "https://www.winehouse.com/prodimages/3314-DEFAULT-l.jpg"
-    },
-    {
       "sku": "666614",
       "name": "2016 Domaine Guy Roulot Meursault Perrières 1er Cru",
       "vintage": "2016",
@@ -34257,7 +34244,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "31",
+      "stock-level": "30",
       "image-url": "https://www.winehouse.com/prodimages/6664-DEFAULT-l.jpg"
     },
     {
@@ -34818,6 +34805,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/4405-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "698565012875",
+      "name": "2023 J. Moreau & Fils Chablis Gloire de Chablis",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "22.99",
+      "url": "https://www.winehouse.com/shop/2023-j-moreau-fils-chablis-gloire-de-chablis-138283",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "144",
+      "image-url": "https://www.winehouse.com/prodimages/6207-DEFAULT-l.jpg"
     },
     {
       "sku": "698636",
@@ -41536,7 +41536,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/5858-DEFAULT-l.jpg"
     },
     {
@@ -44279,7 +44279,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -46138,7 +46138,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "26",
+      "stock-level": "25",
       "image-url": ""
     },
     {
