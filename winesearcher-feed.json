@@ -543,7 +543,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "37",
+      "stock-level": "36",
       "image-url": "https://www.winehouse.com/prodimages/6145-DEFAULT-l.jpg"
     },
     {
@@ -14671,6 +14671,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/1627-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "225024",
+      "name": "2023 Domaine Maby Cotes du Rhone \"Variations\"",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "21.99",
+      "url": "https://www.winehouse.com/shop/2023-domaine-maby-cotes-du-rhone-variations-137017",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "24",
+      "image-url": "https://www.winehouse.com/prodimages/4873-DEFAULT-l.jpg"
     },
     {
       "sku": "22555017",
