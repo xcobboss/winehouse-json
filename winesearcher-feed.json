@@ -543,7 +543,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "35",
+      "stock-level": "34",
       "image-url": "https://www.winehouse.com/prodimages/6145-DEFAULT-l.jpg"
     },
     {
@@ -2597,7 +2597,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/638-DEFAULT-l.jpg"
     },
     {
@@ -2623,7 +2623,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": ""
     },
     {
@@ -3377,7 +3377,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": ""
     },
     {
@@ -4287,7 +4287,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "32",
+      "stock-level": "30",
       "image-url": "https://www.winehouse.com/prodimages/6405-DEFAULT-l.jpg"
     },
     {
@@ -4495,7 +4495,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "32",
       "image-url": "https://www.winehouse.com/prodimages/4607-DEFAULT-l.jpg"
     },
     {
@@ -4547,7 +4547,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "1",
+      "stock-level": "19",
       "image-url": "https://www.winehouse.com/prodimages/4605-DEFAULT-l.jpg"
     },
     {
@@ -6341,7 +6341,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/7138-DEFAULT-l.jpg"
     },
     {
@@ -7617,19 +7617,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/6231-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "097921970109",
-      "name": "2024 Rombauer Vineyards Chardonnay Carneros",
-      "vintage": "2024",
-      "unit-size": "750ML",
-      "price": "39.99",
-      "url": "https://www.winehouse.com/shop/2024-rombauer-vineyards-chardonnay-carneros-138262",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6230-DEFAULT-l.jpg"
     },
     {
       "sku": "097921978105",
@@ -9361,6 +9348,19 @@
       "image-url": "https://www.winehouse.com/prodimages/6788-DEFAULT-l.jpg"
     },
     {
+      "sku": "121652",
+      "name": "2018 Caparsa Caparsino Chianti Classico Riserva",
+      "vintage": "2018",
+      "unit-size": "750ML",
+      "price": "52.99",
+      "url": "https://www.winehouse.com/shop/2018-caparsa-caparsino-chianti-classico-riserva-136050",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": "https://www.winehouse.com/prodimages/3399-DEFAULT-l.jpg"
+    },
+    {
       "sku": "1216538",
       "name": "2022 Evening Land Pinot Noir Seven Springs La Source Eola-Amity Hills",
       "vintage": "2022",
@@ -10388,6 +10388,19 @@
       "image-url": "https://www.winehouse.com/prodimages/284-DEFAULT-l.jpg"
     },
     {
+      "sku": "141516",
+      "name": "2021 Caparsa Chianti Classico",
+      "vintage": "2021",
+      "unit-size": "750ML",
+      "price": "39.99",
+      "url": "https://www.winehouse.com/shop/2021-caparsa-chianti-classico-130934",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "24",
+      "image-url": "https://www.winehouse.com/prodimages/5888-DEFAULT-l.jpg"
+    },
+    {
       "sku": "14301392",
       "name": "1998 Chateau Vieux Chateau Certan Pomerol",
       "vintage": "1998",
@@ -10438,19 +10451,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
-    },
-    {
-      "sku": "1461949",
-      "name": "2023 Domaine Georges Roumier Morey St.-Denis Clos de la Bussière 1er Cru",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "399.99",
-      "url": "https://www.winehouse.com/shop/2023-domaine-georges-roumier-morey-st-denis-clos-de-la-bussi-re-1er-cru-137228",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5274-DEFAULT-l.jpg"
     },
     {
       "sku": "1464249",
@@ -11603,7 +11603,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/4853-DEFAULT-l.jpg"
     },
     {
@@ -19638,7 +19638,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/571-DEFAULT-l.jpg"
     },
     {
@@ -28992,7 +28992,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/6237-DEFAULT-l.jpg"
     },
     {
@@ -30747,7 +30747,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "20",
+      "stock-level": "19",
       "image-url": "https://www.winehouse.com/prodimages/805-DEFAULT-l.jpg"
     },
     {
@@ -33165,7 +33165,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/3583-DEFAULT-l.jpg"
     },
     {
@@ -34725,7 +34725,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "66",
+      "stock-level": "59",
       "image-url": "https://www.winehouse.com/prodimages/6207-DEFAULT-l.jpg"
     },
     {
@@ -40825,6 +40825,19 @@
       "image-url": "https://www.winehouse.com/prodimages/6880-DEFAULT-l.jpg"
     },
     {
+      "sku": "78523932",
+      "name": "2024 Zardetto Prosecco Rose Extra Dry",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "13.99",
+      "url": "https://www.winehouse.com/shop/2024-zardetto-prosecco-rose-extra-dry-139019",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "180",
+      "image-url": ""
+    },
+    {
       "sku": "785254",
       "name": "2021 Luce Luce IGT Tuscany",
       "vintage": "2021",
@@ -41770,7 +41783,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/4590-DEFAULT-l.jpg"
     },
     {
@@ -41965,7 +41978,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/2828-DEFAULT-l.jpg"
     },
     {
@@ -45657,7 +45670,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/6837-DEFAULT-l.jpg"
     },
     {
@@ -51481,7 +51494,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "19",
       "image-url": ""
     },
     {
