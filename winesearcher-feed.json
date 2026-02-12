@@ -3416,7 +3416,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/2851-DEFAULT-l.jpg"
     },
     {
@@ -7654,7 +7654,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "26",
+      "stock-level": "25",
       "image-url": "https://www.winehouse.com/prodimages/3068-DEFAULT-l.jpg"
     },
     {
@@ -7797,7 +7797,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/6550-DEFAULT-l.jpg"
     },
     {
@@ -17172,6 +17172,19 @@
       "image-url": ""
     },
     {
+      "sku": "299842",
+      "name": "2022 Willi Schaefer Riesling Spatlese Graacher Himmelreich Mosel",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "54.99",
+      "url": "https://www.winehouse.com/shop/2022-willi-schaefer-riesling-spatlese-graacher-himmelreich-mosel-130447",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
       "sku": "29985200",
       "name": "2019 Eisele Estate Syrah Eisele Vineyard Napa Valley",
       "vintage": "2019",
@@ -24487,7 +24500,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/3715-DEFAULT-l.jpg"
     },
     {
@@ -34738,7 +34751,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "59",
+      "stock-level": "53",
       "image-url": "https://www.winehouse.com/prodimages/6207-DEFAULT-l.jpg"
     },
     {
@@ -37901,19 +37914,6 @@
       "image-url": "https://www.winehouse.com/prodimages/1669-DEFAULT-l.jpg"
     },
     {
-      "sku": "747736543097",
-      "name": "2023 Willi Schaefer Riesling Kabinett Graacher Domprobst Mosel",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "49.99",
-      "url": "https://www.winehouse.com/shop/2023-willi-schaefer-riesling-kabinett-graacher-domprobst-mosel-134713",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": ""
-    },
-    {
       "sku": "747736544513",
       "name": "2023 Mullineux Family Wines Iron Chenin Blanc Swartland",
       "vintage": "2023",
@@ -40574,7 +40574,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/4768-DEFAULT-l.jpg"
     },
     {
@@ -44747,7 +44747,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/3049-DEFAULT-l.jpg"
     },
     {
@@ -45605,7 +45605,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/6789-DEFAULT-l.jpg"
     },
     {
@@ -49691,19 +49691,6 @@
       "image-url": ""
     },
     {
-      "sku": "860002078120",
-      "name": "Trader Vic`s The Original Mai Tai Made with Rum 4PK Cans",
-      "vintage": "",
-      "unit-size": "12OZ",
-      "price": "14.99",
-      "url": "https://www.winehouse.com/shop/trader-vic-s-the-original-mai-tai-made-with-rum-10-abv-12oz-can-8935",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "5",
-      "image-url": ""
-    },
-    {
       "sku": "860002153087",
       "name": "Wilderton Bittersweet Aperitivo Non Alcoholic Spirit",
       "vintage": "",
@@ -51390,7 +51377,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/4824-DEFAULT-l.jpg"
     },
     {
