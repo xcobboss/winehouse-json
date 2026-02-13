@@ -166,7 +166,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/6227-DEFAULT-l.jpg"
     },
     {
@@ -7381,7 +7381,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "25",
+      "stock-level": "24",
       "image-url": "https://www.winehouse.com/prodimages/1271-DEFAULT-l.jpg"
     },
     {
@@ -7814,19 +7814,6 @@
       "image-url": "https://www.winehouse.com/prodimages/6451-DEFAULT-l.jpg"
     },
     {
-      "sku": "098709099159",
-      "name": "2022 Bodega Catena Malbec Paraje Altamira",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "21.99",
-      "url": "https://www.winehouse.com/shop/2022-bodega-catena-malbec-paraje-altamira-134149",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "4",
-      "image-url": "https://www.winehouse.com/prodimages/4416-DEFAULT-l.jpg"
-    },
-    {
       "sku": "098709099173",
       "name": "2022 El Enemigo Cabernet Franc Mendoza",
       "vintage": "2022",
@@ -7851,19 +7838,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "35",
       "image-url": "https://www.winehouse.com/prodimages/5845-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "098709188600",
-      "name": "2023 Catena Zapata White Clay Semillon Chenin Blanc Lujan de Cuyo",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "18.99",
-      "url": "https://www.winehouse.com/shop/2023-catena-zapata-white-clay-semillon-chenin-blanc-lujan-de-cuyo-136059",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/3404-DEFAULT-l.jpg"
     },
     {
       "sku": "098709421523",
@@ -9760,7 +9734,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/4961-DEFAULT-l.jpg"
     },
     {
@@ -11553,19 +11527,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/3488-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "185983000053",
-      "name": "2023 Ramey Wine Cellars Chardonnay Russian River",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "49.99",
-      "url": "https://www.winehouse.com/shop/2023-ramey-wine-cellars-chardonnay-russian-river-135208",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "12",
-      "image-url": "https://www.winehouse.com/prodimages/1840-DEFAULT-l.jpg"
     },
     {
       "sku": "185983000091",
@@ -14760,7 +14721,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/4873-DEFAULT-l.jpg"
     },
     {
@@ -14801,32 +14762,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/4517-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "225820",
-      "name": "2022 Domaine Bernard Bonin Meursault Les Charmes du Milieu 1er Cru",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "799.99",
-      "url": "https://www.winehouse.com/shop/2022-domaine-bernard-bonin-meursault-les-charmes-du-milieu-1er-cru-134538",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/2961-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "225821",
-      "name": "2022 Domaine Bernard Bonin Meursault Charmes-Dessus 1er Cru",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "799.99",
-      "url": "https://www.winehouse.com/shop/2022-domaine-bernard-bonin-meursault-charmes-dessus-1er-cru-134539",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
     },
     {
       "sku": "226387",
@@ -17859,6 +17794,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/3531-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "29989268",
+      "name": "2023 Catena Zapata White Clay Semillon Chenin Blanc Lujan de Cuyo",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "18.99",
+      "url": "https://www.winehouse.com/shop/2023-catena-zapata-white-clay-semillon-chenin-blanc-lujan-de-cuyo-136059",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/3404-DEFAULT-l.jpg"
     },
     {
       "sku": "29989541",
@@ -27286,19 +27234,6 @@
       "image-url": ""
     },
     {
-      "sku": "516432",
-      "name": "2023 Liquid Farm Wines `White Hill` Chardonnay, Sta. Rita Hills",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "44.99",
-      "url": "https://www.winehouse.com/shop/2023-liquid-farm-wines-white-hill-chardonnay-sta-rita-hills-135207",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/1839-DEFAULT-l.jpg"
-    },
-    {
       "sku": "518472",
       "name": "2023 FX Pichler Riesling Durnsteiner Kellerberg Smaragd, Wachau",
       "vintage": "2023",
@@ -33204,7 +33139,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/6104-DEFAULT-l.jpg"
     },
     {
@@ -33451,7 +33386,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "36",
+      "stock-level": "35",
       "image-url": "https://www.winehouse.com/prodimages/7167-DEFAULT-l.jpg"
     },
     {
@@ -50285,7 +50220,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/3605-DEFAULT-l.jpg"
     },
     {
@@ -50428,7 +50363,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/5851-DEFAULT-l.jpg"
     },
     {
@@ -54577,6 +54512,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/2626-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "987730",
+      "name": "2022 Bodega Catena Malbec Paraje Altamira",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "21.99",
+      "url": "https://www.winehouse.com/shop/2022-bodega-catena-malbec-paraje-altamira-134149",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "4",
+      "image-url": "https://www.winehouse.com/prodimages/4416-DEFAULT-l.jpg"
     },
     {
       "sku": "988337",
