@@ -3910,7 +3910,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "2",
       "image-url": ""
     },
     {
@@ -7043,7 +7043,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "20",
+      "stock-level": "19",
       "image-url": "https://www.winehouse.com/prodimages/5691-DEFAULT-l.jpg"
     },
     {
@@ -7381,7 +7381,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/7054-DEFAULT-l.jpg"
     },
     {
@@ -7888,7 +7888,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "59",
+      "stock-level": "53",
       "image-url": ""
     },
     {
@@ -14335,19 +14335,6 @@
       "image-url": "https://www.winehouse.com/prodimages/2710-DEFAULT-l.jpg"
     },
     {
-      "sku": "22247551",
-      "name": "2007 Lail Vineyards J. Daniel Cuvee Cabernet Sauvignon Napa Valley",
-      "vintage": "2007",
-      "unit-size": "750ML",
-      "price": "199.98",
-      "url": "https://www.winehouse.com/shop/2007-lail-vineyards-j-daniel-cuvee-cabernet-sauvignon-napa-valley-12088",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/2335-DEFAULT-l.jpg"
-    },
-    {
       "sku": "22272104",
       "name": "2015 Schrader Cellars Cabernet Sauvignon OLD SPARKY Beckstoffer To Kolan Vineyard",
       "vintage": "2015",
@@ -19020,7 +19007,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/3008-DEFAULT-l.jpg"
     },
     {
@@ -19711,6 +19698,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/6983-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "33632087",
+      "name": "2022 Talley Vineyards Pinot Noir Estate San Luis Obispo Coast",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "34.99",
+      "url": "https://www.winehouse.com/shop/2022-talley-vineyards-pinot-noir-estate-san-luis-obispo-coast-136479",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "7",
+      "image-url": "https://www.winehouse.com/prodimages/4190-DEFAULT-l.jpg"
     },
     {
       "sku": "336354",
@@ -21022,7 +21022,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/5197-DEFAULT-l.jpg"
     },
     {
@@ -21178,7 +21178,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/6399-DEFAULT-l.jpg"
     },
     {
@@ -28829,7 +28829,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/6993-DEFAULT-l.jpg"
     },
     {
@@ -31355,6 +31355,19 @@
       "image-url": "https://www.winehouse.com/prodimages/6777-DEFAULT-l.jpg"
     },
     {
+      "sku": "649788",
+      "name": "Bordiga Vermouth Bianco from Piedmont, Italy 18% avb",
+      "vintage": "",
+      "unit-size": "750ML",
+      "price": "28.99",
+      "url": "https://www.winehouse.com/shop/bordiga-vermouth-bianco-from-piedmont-italy-18-avb-17552",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": ""
+    },
+    {
       "sku": "650002997",
       "name": "2008 Domaine Cuchet-Beliando Cornas",
       "vintage": "2008",
@@ -33288,7 +33301,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "17",
       "image-url": ""
     },
     {
@@ -33470,7 +33483,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/6664-DEFAULT-l.jpg"
     },
     {
@@ -33810,6 +33823,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "28",
       "image-url": "https://www.winehouse.com/prodimages/1699-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "693541",
+      "name": "2023 Domaine Paul Pillot Chassagne-Montrachet Mazures",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "139.99",
+      "url": "https://www.winehouse.com/shop/2023-domaine-paul-pillot-chassagne-montrachet-mazures-138812",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "4",
+      "image-url": "https://www.winehouse.com/prodimages/7226-DEFAULT-l.jpg"
     },
     {
       "sku": "693953",
@@ -35307,19 +35333,6 @@
       "image-url": "https://www.winehouse.com/prodimages/4189-DEFAULT-l.jpg"
     },
     {
-      "sku": "717208883761",
-      "name": "2022 Talley Vineyards Pinot Noir Estate San Luis Obispo Coast",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "34.99",
-      "url": "https://www.winehouse.com/shop/2022-talley-vineyards-pinot-noir-estate-san-luis-obispo-coast-136479",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "7",
-      "image-url": "https://www.winehouse.com/prodimages/4190-DEFAULT-l.jpg"
-    },
-    {
       "sku": "717215001820",
       "name": "2018 Selbach Oster Zeltinger Schlossberg Schmitt",
       "vintage": "2018",
@@ -35628,7 +35641,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "35",
+      "stock-level": "34",
       "image-url": "https://www.winehouse.com/prodimages/6591-DEFAULT-l.jpg"
     },
     {
@@ -51918,19 +51931,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
-    },
-    {
-      "sku": "905026",
-      "name": "2015 Abreu Rothwell Hyde St. Helena Bordeaux Blend",
-      "vintage": "2015",
-      "unit-size": "750ML",
-      "price": "189.98",
-      "url": "https://www.winehouse.com/shop/2015-abreu-rothwell-hyde-st-helena-bordeaux-blend-130605",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6851-DEFAULT-l.jpg"
     },
     {
       "sku": "9051474",
