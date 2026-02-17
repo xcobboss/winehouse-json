@@ -3368,6 +3368,19 @@
       "image-url": "https://www.winehouse.com/prodimages/6118-DEFAULT-l.jpg"
     },
     {
+      "sku": "081753824174",
+      "name": "2016 Moet et Chandon Extra Brut Grand Vintage",
+      "vintage": "2016",
+      "unit-size": "750ML",
+      "price": "99.99",
+      "url": "https://www.winehouse.com/shop/2016-moet-et-chandon-extra-brut-grand-vintage-138368",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "9",
+      "image-url": "https://www.winehouse.com/prodimages/6378-DEFAULT-l.jpg"
+    },
+    {
       "sku": "081753836566",
       "name": "2015 Veuve Clicquot Brut Vintage Champagne",
       "vintage": "2015",
@@ -12593,19 +12606,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/4998-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "201196",
-      "name": "2011 Chateau Lynch Bages Pauillac",
-      "vintage": "2011",
-      "unit-size": "750ML",
-      "price": "179.99",
-      "url": "https://www.winehouse.com/shop/2011-chateau-lynch-bages-pauillac-4431",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "7",
-      "image-url": ""
     },
     {
       "sku": "201201558",
@@ -41013,19 +41013,6 @@
       "image-url": "https://www.winehouse.com/prodimages/1716-DEFAULT-l.jpg"
     },
     {
-      "sku": "8022534219750",
-      "name": "2019 Luciano Sandrone Barolo Le Vigne",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "159.98",
-      "url": "https://www.winehouse.com/shop/2019-sandrone-barolo-le-vigne-124204",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "8022534323754",
       "name": "2023 Sandrone Nebbiolo d’Alba Valmaggiore",
       "vintage": "2023",
@@ -43401,7 +43388,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/926-DEFAULT-l.jpg"
     },
     {
