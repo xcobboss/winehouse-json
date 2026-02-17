@@ -15619,7 +15619,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/6307-DEFAULT-l.jpg"
     },
     {
@@ -17878,19 +17878,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/1307-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "30303394",
-      "name": "1995 Silver Oak Cellars Cabernet Sauvignon Napa Valley",
-      "vintage": "1995",
-      "unit-size": "750ML",
-      "price": "149.98",
-      "url": "https://www.winehouse.com/shop/1995-silver-oak-cellars-cabernet-sauvignon-napa-valley-11705",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
     },
     {
       "sku": "30330301",
