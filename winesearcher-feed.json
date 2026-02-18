@@ -7901,7 +7901,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/6333-DEFAULT-l.jpg"
     },
     {
@@ -15430,19 +15430,6 @@
       "image-url": "https://www.winehouse.com/prodimages/6829-DEFAULT-l.jpg"
     },
     {
-      "sku": "2485",
-      "name": "2024 Max Kilburg Riesling Ohligsberg Kabinett Mosel",
-      "vintage": "2024",
-      "unit-size": "750ML",
-      "price": "43.99",
-      "url": "https://www.winehouse.com/shop/2024-max-kilburg-riesling-ohligsberg-kabinett-mosel-138691",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/6765-DEFAULT-l.jpg"
-    },
-    {
       "sku": "249122",
       "name": "2021 Domaine Pierre Boisson Bourgogne Blanc Murgey de Limozin",
       "vintage": "2021",
@@ -16667,7 +16654,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/7033-DEFAULT-l.jpg"
     },
     {
@@ -16680,7 +16667,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "6",
       "image-url": ""
     },
     {
@@ -25223,19 +25210,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
-    },
-    {
-      "sku": "477744",
-      "name": "2013 Domaine Vincent Dauvissat Chablis Preimer Cru Sechet",
-      "vintage": "2013",
-      "unit-size": "750ML",
-      "price": "189.98",
-      "url": "https://www.winehouse.com/shop/2013-domaine-vincent-dauvissat-chablis-preimer-cru-sechet-87495",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5086-DEFAULT-l.jpg"
     },
     {
       "sku": "479198",
@@ -36850,7 +36824,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "36",
+      "stock-level": "30",
       "image-url": "https://www.winehouse.com/prodimages/2001-DEFAULT-l.jpg"
     },
     {
@@ -39657,7 +39631,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/4837-DEFAULT-l.jpg"
     },
     {
@@ -40450,7 +40424,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/5954-DEFAULT-l.jpg"
     },
     {
@@ -40515,7 +40489,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "14",
       "image-url": "https://www.winehouse.com/prodimages/5858-DEFAULT-l.jpg"
     },
     {
@@ -40892,7 +40866,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/4591-DEFAULT-l.jpg"
     },
     {
@@ -41997,7 +41971,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/3528-DEFAULT-l.jpg"
     },
     {
@@ -45026,7 +45000,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "19",
       "image-url": ""
     },
     {
