@@ -3481,7 +3481,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/5995-DEFAULT-l.jpg"
     },
     {
@@ -7849,7 +7849,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "49",
+      "stock-level": "47",
       "image-url": ""
     },
     {
@@ -9565,7 +9565,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/6914-DEFAULT-l.jpg"
     },
     {
@@ -18864,7 +18864,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/3343-DEFAULT-l.jpg"
     },
     {
@@ -22116,19 +22116,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/7219-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "3760169471352",
-      "name": "2020 Domaine de la Vieille Julienne Chateauneuf du Pape Reserve (label damage; was $299.99)",
-      "vintage": "2020",
-      "unit-size": "750ML",
-      "price": "199.99",
-      "url": "https://www.winehouse.com/shop/2020-domaine-de-la-vieille-julienne-chateauneuf-du-pape-reserve-125405",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "5",
-      "image-url": "https://www.winehouse.com/prodimages/2933-DEFAULT-l.jpg"
     },
     {
       "sku": "3760169471536",
@@ -35433,7 +35420,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/6415-DEFAULT-l.jpg"
     },
     {
@@ -37071,7 +37058,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/6095-DEFAULT-l.jpg"
     },
     {
@@ -40671,7 +40658,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "103",
+      "stock-level": "97",
       "image-url": "https://www.winehouse.com/prodimages/7171-DEFAULT-l.jpg"
     },
     {
@@ -41958,7 +41945,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/1253-DEFAULT-l.jpg"
     },
     {
@@ -44961,7 +44948,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "26",
+      "stock-level": "25",
       "image-url": "https://www.winehouse.com/prodimages/3675-DEFAULT-l.jpg"
     },
     {
@@ -49277,7 +49264,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/6166-DEFAULT-l.jpg"
     },
     {
@@ -50447,7 +50434,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "22",
       "image-url": "https://www.winehouse.com/prodimages/3130-DEFAULT-l.jpg"
     },
     {
@@ -51400,6 +51387,19 @@
       "image-url": "https://www.winehouse.com/prodimages/718-DEFAULT-l.jpg"
     },
     {
+      "sku": "898563002506",
+      "name": "Carpano Antica Vermouth",
+      "vintage": "",
+      "unit-size": "375ML",
+      "price": "19.99",
+      "url": "https://www.winehouse.com/shop/carpano-antica-vermouth-28715",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/826-DEFAULT-l.jpg"
+    },
+    {
       "sku": "898563002605",
       "name": "Carpano Antica Vermouth",
       "vintage": "",
@@ -51409,7 +51409,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/763-DEFAULT-l.jpg"
     },
     {
