@@ -4248,7 +4248,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/2214-DEFAULT-l.jpg"
     },
     {
@@ -23986,7 +23986,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/4076-DEFAULT-l.jpg"
     },
     {
@@ -23999,7 +23999,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "12",
       "image-url": ""
     },
     {
@@ -25572,7 +25572,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/3961-DEFAULT-l.jpg"
     },
     {
@@ -31966,6 +31966,19 @@
       "image-url": "https://www.winehouse.com/prodimages/6014-DEFAULT-l.jpg"
     },
     {
+      "sku": "653341304049",
+      "name": "2024 Alma de Cattleya Sauvignon Blanc Sonoma County",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "22.99",
+      "url": "https://www.winehouse.com/shop/2024-alma-de-cattleya-sauvignon-blanc-sonoma-county-136462",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "24",
+      "image-url": "https://www.winehouse.com/prodimages/4070-DEFAULT-l.jpg"
+    },
+    {
       "sku": "653341304148",
       "name": "2023 Alma de Cattleya Pinot Noir Sonoma County",
       "vintage": "2023",
@@ -31975,7 +31988,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "38",
       "image-url": "https://www.winehouse.com/prodimages/4078-DEFAULT-l.jpg"
     },
     {
@@ -35632,6 +35645,19 @@
       "image-url": "https://www.winehouse.com/prodimages/2170-DEFAULT-l.jpg"
     },
     {
+      "sku": "715897008137",
+      "name": "2024 Morgan Winery Chardonnay Metallico Santa Lucia Highlands",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "22.99",
+      "url": "https://www.winehouse.com/shop/2024-morgan-winery-chardonnay-metallico-santa-lucia-highlands-136467",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "36",
+      "image-url": "https://www.winehouse.com/prodimages/4073-DEFAULT-l.jpg"
+    },
+    {
       "sku": "715897009233",
       "name": "2023 Morgan Winery Chardonnay Highland Santa Lucia Highlands",
       "vintage": "2023",
@@ -36577,7 +36603,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "17",
       "image-url": ""
     },
     {
@@ -40727,6 +40753,19 @@
       "image-url": "https://www.winehouse.com/prodimages/3254-DEFAULT-l.jpg"
     },
     {
+      "sku": "791066123467",
+      "name": "2021 Mount Eden Vineyards Pinot Noir Estate Santa Cruz Mountains",
+      "vintage": "2021",
+      "unit-size": "750ML",
+      "price": "67.99",
+      "url": "https://www.winehouse.com/shop/2021-mount-eden-vineyards-pinot-noir-estate-santa-cruz-mountains-138035",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": "https://www.winehouse.com/prodimages/6015-DEFAULT-l.jpg"
+    },
+    {
       "sku": "791066123474",
       "name": "2021 Mount Eden Vineyards Chardonnay Estate Santa Cruz Mountains",
       "vintage": "2021",
@@ -40736,7 +40775,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "19",
       "image-url": "https://www.winehouse.com/prodimages/6071-DEFAULT-l.jpg"
     },
     {
@@ -43819,6 +43858,32 @@
       "delivery-time": "2-5 days",
       "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/4177-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "814460010499",
+      "name": "2023 Dumol Pinot Noir Wester Reach Russian River Valley",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "74.99",
+      "url": "https://www.winehouse.com/shop/2023-dumol-pinot-noir-wester-reach-russian-river-valley-136463",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "16",
+      "image-url": "https://www.winehouse.com/prodimages/4071-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "814460010529",
+      "name": "2023 Dumol Chardonnay Wester Reach Russian River Valley",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "64.99",
+      "url": "https://www.winehouse.com/shop/2023-dumol-chardonnay-wester-reach-russian-river-valley-136464",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "13",
+      "image-url": ""
     },
     {
       "sku": "814523",
@@ -48603,6 +48668,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/6056-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "856750003033",
+      "name": "2023 Purple Hands Pinot Noir Lone Oak Ranch Willamette Valley",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "29.99",
+      "url": "https://www.winehouse.com/shop/2023-purple-hands-pinot-noir-lone-oak-ranch-willamette-valley-136476",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "24",
+      "image-url": "https://www.winehouse.com/prodimages/4187-DEFAULT-l.jpg"
     },
     {
       "sku": "856750003088",
