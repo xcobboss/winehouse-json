@@ -4001,7 +4001,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": ""
     },
     {
@@ -5483,7 +5483,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/857-DEFAULT-l.jpg"
     },
     {
@@ -6224,7 +6224,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/3138-DEFAULT-l.jpg"
     },
     {
@@ -7251,7 +7251,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": ""
     },
     {
@@ -7732,7 +7732,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/3000-DEFAULT-l.jpg"
     },
     {
@@ -7771,7 +7771,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/7180-DEFAULT-l.jpg"
     },
     {
@@ -7823,7 +7823,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "15",
+      "stock-level": "14",
       "image-url": "https://www.winehouse.com/prodimages/6550-DEFAULT-l.jpg"
     },
     {
@@ -11577,7 +11577,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/6338-DEFAULT-l.jpg"
     },
     {
@@ -18825,7 +18825,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/1024-DEFAULT-l.jpg"
     },
     {
@@ -21451,7 +21451,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/3648-DEFAULT-l.jpg"
     },
     {
@@ -21932,7 +21932,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/7246-DEFAULT-l.jpg"
     },
     {
@@ -23388,7 +23388,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "15",
+      "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/3909-DEFAULT-l.jpg"
     },
     {
@@ -24181,7 +24181,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/3869-DEFAULT-l.jpg"
     },
     {
@@ -24909,7 +24909,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/6234-DEFAULT-l.jpg"
     },
     {
@@ -28816,7 +28816,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/5840-DEFAULT-l.jpg"
     },
     {
@@ -29765,7 +29765,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": ""
     },
     {
@@ -34172,7 +34172,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "33",
+      "stock-level": "31",
       "image-url": "https://www.winehouse.com/prodimages/6207-DEFAULT-l.jpg"
     },
     {
@@ -34809,7 +34809,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": ""
     },
     {
@@ -34887,7 +34887,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": ""
     },
     {
@@ -35034,19 +35034,6 @@
       "image-url": "https://www.winehouse.com/prodimages/3085-DEFAULT-l.jpg"
     },
     {
-      "sku": "713684012695",
-      "name": "2022 Beckmen Grenache Santa Ynez Valley",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "24.99",
-      "url": "https://www.winehouse.com/shop/2022-beckmen-grenache-santa-ynez-valley-130752",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/3655-DEFAULT-l.jpg"
-    },
-    {
       "sku": "713684977000",
       "name": "2022 Beckmen Vineyards Cuvee Le Bec Santa Ynez Valley",
       "vintage": "2022",
@@ -35056,7 +35043,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "22",
       "image-url": "https://www.winehouse.com/prodimages/3607-DEFAULT-l.jpg"
     },
     {
@@ -36239,7 +36226,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/1320-DEFAULT-l.jpg"
     },
     {
@@ -39111,7 +39098,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/6051-DEFAULT-l.jpg"
     },
     {
@@ -40827,7 +40814,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/569-DEFAULT-l.jpg"
     },
     {
@@ -41399,7 +41386,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/5859-DEFAULT-l.jpg"
     },
     {
@@ -41672,7 +41659,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "22",
       "image-url": ""
     },
     {
@@ -42088,7 +42075,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "25",
+      "stock-level": "24",
       "image-url": "https://www.winehouse.com/prodimages/6958-DEFAULT-l.jpg"
     },
     {
@@ -44987,7 +44974,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "22",
       "image-url": "https://www.winehouse.com/prodimages/3675-DEFAULT-l.jpg"
     },
     {
@@ -45559,7 +45546,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/4901-DEFAULT-l.jpg"
     },
     {
@@ -46625,7 +46612,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/4174-DEFAULT-l.jpg"
     },
     {
@@ -48016,7 +48003,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "23",
       "image-url": "https://www.winehouse.com/prodimages/4187-DEFAULT-l.jpg"
     },
     {
@@ -50828,19 +50815,6 @@
       "image-url": "https://www.winehouse.com/prodimages/7194-DEFAULT-l.jpg"
     },
     {
-      "sku": "890841002031",
-      "name": "2019 La Rioja Alta Vina Ardanza Rioja Reserva",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "43.99",
-      "url": "https://www.winehouse.com/shop/2019-la-rioja-alta-vina-ardanza-rioja-reserva-135958",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/3630-DEFAULT-l.jpg"
-    },
-    {
       "sku": "890841002055",
       "name": "2020 La Rioja Alta Vina Alberdi Reserva Rioja",
       "vintage": "2020",
@@ -51240,7 +51214,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/2509-DEFAULT-l.jpg"
     },
     {
@@ -51526,7 +51500,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "161",
+      "stock-level": "160",
       "image-url": "https://www.winehouse.com/prodimages/3351-DEFAULT-l.jpg"
     },
     {
@@ -52618,7 +52592,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/7224-DEFAULT-l.jpg"
     },
     {
@@ -52904,7 +52878,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/5497-DEFAULT-l.jpg"
     },
     {
