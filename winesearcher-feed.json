@@ -543,7 +543,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/4793-DEFAULT-l.jpg"
     },
     {
@@ -3468,7 +3468,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": ""
     },
     {
@@ -4174,6 +4174,19 @@
       "image-url": "https://www.winehouse.com/prodimages/3754-DEFAULT-l.jpg"
     },
     {
+      "sku": "084692477005",
+      "name": "2023 Tenuta San Guido Le Difese",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "39.99",
+      "url": "https://www.winehouse.com/shop/2023-tenuta-san-guido-le-difese-136102",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "23",
+      "image-url": "https://www.winehouse.com/prodimages/3604-DEFAULT-l.jpg"
+    },
+    {
       "sku": "084692478941",
       "name": "2023 Cakebread Cellars Chardonnay Napa Valley",
       "vintage": "2023",
@@ -4200,17 +4213,17 @@
       "image-url": "https://www.winehouse.com/prodimages/3559-DEFAULT-l.jpg"
     },
     {
-      "sku": "084692492008",
-      "name": "2022 Tenuta San Guido Sassicaia",
-      "vintage": "2022",
+      "sku": "084692484201",
+      "name": "2023 Tenuta San Guido Guidalberto Toscana IGT",
+      "vintage": "2023",
       "unit-size": "750ML",
-      "price": "284.95",
-      "url": "https://www.winehouse.com/shop/2022-tenuta-san-guido-sassicaia-135287",
+      "price": "68.99",
+      "url": "https://www.winehouse.com/shop/2023-tenuta-san-guido-guidalberto-toscana-igt-137707",
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/2214-DEFAULT-l.jpg"
+      "stock-level": "18",
+      "image-url": "https://www.winehouse.com/prodimages/5686-DEFAULT-l.jpg"
     },
     {
       "sku": "084692500208",
@@ -8720,7 +8733,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/6936-DEFAULT-l.jpg"
     },
     {
@@ -27610,7 +27623,7 @@
       "url": "https://www.winehouse.com/shop/2023-dominus-estate-red-wine-napa-valley-pre-arrival-eta-march-2026-138708",
       "min-order": "1",
       "offer-type": "PA",
-      "stock-level": "47",
+      "stock-level": "39",
       "image-url": ""
     },
     {
@@ -28920,7 +28933,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "36",
+      "stock-level": "33",
       "image-url": "https://www.winehouse.com/prodimages/3551-DEFAULT-l.jpg"
     },
     {
@@ -36685,19 +36698,6 @@
       "image-url": ""
     },
     {
-      "sku": "740901",
-      "name": "2006 Domaine Georges Roumier Bonnes Mares Grand Cru",
-      "vintage": "2006",
-      "unit-size": "750ML",
-      "price": "3249.98",
-      "url": "https://www.winehouse.com/shop/2006-domaine-georges-roumier-bonnes-mares-grand-cru-10308",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "7412052",
       "name": "2006 Williams Selyem Pinot Noir Weir Vineyard Yorkville Highlands",
       "vintage": "2006",
@@ -37955,7 +37955,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/4706-DEFAULT-l.jpg"
     },
     {
