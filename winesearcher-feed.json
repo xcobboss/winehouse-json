@@ -478,7 +478,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/2838-DEFAULT-l.jpg"
     },
     {
@@ -1193,7 +1193,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": ""
     },
     {
@@ -5665,7 +5665,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/6824-DEFAULT-l.jpg"
     },
     {
@@ -7758,7 +7758,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/5845-DEFAULT-l.jpg"
     },
     {
@@ -7953,7 +7953,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/7066-DEFAULT-l.jpg"
     },
     {
@@ -19569,7 +19569,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "30",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/6659-DEFAULT-l.jpg"
     },
     {
@@ -24119,7 +24119,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/7388-DEFAULT-l.jpg"
     },
     {
@@ -27031,7 +27031,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": ""
     },
     {
@@ -29226,19 +29226,6 @@
       "image-url": "https://www.winehouse.com/prodimages/6359-DEFAULT-l.jpg"
     },
     {
-      "sku": "5996610",
-      "name": "2020 Pietro Caciorgna N*Anticchia Etna Rosso",
-      "vintage": "2020",
-      "unit-size": "750ML",
-      "price": "68.99",
-      "url": "https://www.winehouse.com/shop/2020-pietro-caciorgna-nanticchia-etna-rosso-138306",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "8",
-      "image-url": "https://www.winehouse.com/prodimages/6361-DEFAULT-l.jpg"
-    },
-    {
       "sku": "5998014",
       "name": "Bosteels Deus Biere de Champagne 11.5% abv",
       "vintage": "",
@@ -30864,19 +30851,6 @@
       "image-url": "https://www.winehouse.com/prodimages/6646-DEFAULT-l.jpg"
     },
     {
-      "sku": "6325663",
-      "name": "2021 Hyland Estates Chardonnay McMinnville",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "27.99",
-      "url": "https://www.winehouse.com/shop/2021-hyland-estates-chardonnay-mcminnville-134882",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "632810",
       "name": "2019 J Davies Cabernet Sauvignon Diamond Mountain District Napa Valley",
       "vintage": "2019",
@@ -30912,7 +30886,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": ""
     },
     {
@@ -31289,7 +31263,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "8",
       "image-url": ""
     },
     {
@@ -31809,7 +31783,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "123",
+      "stock-level": "113",
       "image-url": "https://www.winehouse.com/prodimages/4127-DEFAULT-l.jpg"
     },
     {
@@ -34788,19 +34762,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/3749-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "709192796752",
-      "name": "2022 Robert Talbott Vineyards Sleepy Hollow Chardonnay",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "36.99",
-      "url": "https://www.winehouse.com/shop/2022-robert-talbott-vineyards-sleepy-hollow-chardonnay-132219",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "5",
-      "image-url": "https://www.winehouse.com/prodimages/4330-DEFAULT-l.jpg"
     },
     {
       "sku": "7100596",
@@ -38858,6 +38819,19 @@
       "image-url": "https://www.winehouse.com/prodimages/6380-DEFAULT-l.jpg"
     },
     {
+      "sku": "761503812612",
+      "name": "NV J. Lassalle Brut \"Cachet Or\" 1er Cru Champagne",
+      "vintage": "NV",
+      "unit-size": "750ML",
+      "price": "39.99",
+      "url": "https://www.winehouse.com/shop/nv-j-lassalle-brut-réserve-cachet-or-1er-cru-champagne-14287",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "72",
+      "image-url": ""
+    },
+    {
       "sku": "761503813190",
       "name": "NV Veuve Fourny & Fils Brut “Grands Terroirs” 1er Cru",
       "vintage": "NV",
@@ -39114,7 +39088,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/6341-DEFAULT-l.jpg"
     },
     {
@@ -42108,19 +42082,6 @@
       "image-url": "https://www.winehouse.com/prodimages/1925-DEFAULT-l.jpg"
     },
     {
-      "sku": "8054956370184",
-      "name": "2022 Passorosso (Passopisciaro) Rosso Sicilia IGT",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "36.99",
-      "url": "https://www.winehouse.com/shop/2021-passorosso-passopisciaro-rosso-sicilia-igt-130942",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/1253-DEFAULT-l.jpg"
-    },
-    {
       "sku": "8054956370214",
       "name": "2021 Franchetti Red Blend (Petit Verdot & Cesanese d’Affile)",
       "vintage": "2021",
@@ -42494,7 +42455,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/6330-DEFAULT-l.jpg"
     },
     {
@@ -49007,7 +48968,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": ""
     },
     {
@@ -49020,7 +48981,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/5345-DEFAULT-l.jpg"
     },
     {
@@ -51269,7 +51230,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "40",
+      "stock-level": "34",
       "image-url": "https://www.winehouse.com/prodimages/3555-DEFAULT-l.jpg"
     },
     {
@@ -52363,6 +52324,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/4687-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "919752",
+      "name": "2022 Robert Talbott Vineyards Sleepy Hollow Chardonnay",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "36.99",
+      "url": "https://www.winehouse.com/shop/2022-robert-talbott-vineyards-sleepy-hollow-chardonnay-132219",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "5",
+      "image-url": "https://www.winehouse.com/prodimages/4330-DEFAULT-l.jpg"
     },
     {
       "sku": "921982",
