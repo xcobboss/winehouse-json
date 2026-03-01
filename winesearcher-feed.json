@@ -439,7 +439,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": ""
     },
     {
@@ -5275,7 +5275,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/3736-DEFAULT-l.jpg"
     },
     {
@@ -8031,7 +8031,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "3",
       "image-url": ""
     },
     {
@@ -8096,7 +8096,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/7066-DEFAULT-l.jpg"
     },
     {
@@ -11746,7 +11746,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/4853-DEFAULT-l.jpg"
     },
     {
@@ -22862,19 +22862,6 @@
       "image-url": "https://www.winehouse.com/prodimages/3430-DEFAULT-l.jpg"
     },
     {
-      "sku": "3770011323012",
-      "name": "2022 Domaine La Barroche `Liberty` Rouge, Vin de France",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "31.99",
-      "url": "https://www.winehouse.com/shop/2022-domaine-la-barroche-liberty-rouge-vin-de-france-133635",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "4",
-      "image-url": "https://www.winehouse.com/prodimages/3120-DEFAULT-l.jpg"
-    },
-    {
       "sku": "3770011700042",
       "name": "2020 Chateau de Bois-Brincon Anjou Blanc Blaison Terre de Gres",
       "vintage": "2020",
@@ -23755,7 +23742,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -23770,19 +23757,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/6103-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "405054",
-      "name": "2014 Domaine des Tours Vin de Pays de Vaucluse",
-      "vintage": "2014",
-      "unit-size": "750ML",
-      "price": "149.98",
-      "url": "https://www.winehouse.com/shop/2014-domaine-des-tours-vin-de-pays-de-vaucluse-7503",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
     },
     {
       "sku": "405212",
@@ -31861,7 +31835,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "57",
+      "stock-level": "51",
       "image-url": "https://www.winehouse.com/prodimages/4127-DEFAULT-l.jpg"
     },
     {
@@ -41302,19 +41276,6 @@
       "image-url": "https://www.winehouse.com/prodimages/1716-DEFAULT-l.jpg"
     },
     {
-      "sku": "8022534323754",
-      "name": "2023 Sandrone Nebbiolo d’Alba Valmaggiore",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "49.99",
-      "url": "https://www.winehouse.com/shop/2023-sandrone-nebbiolo-d-alba-valmaggiore-136670",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5833-DEFAULT-l.jpg"
-    },
-    {
       "sku": "802277",
       "name": "2019 Giovanni Chiappini Guado de` Gemoli",
       "vintage": "2019",
@@ -43261,7 +43222,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "15",
+      "stock-level": "14",
       "image-url": "https://www.winehouse.com/prodimages/4071-DEFAULT-l.jpg"
     },
     {
@@ -48526,7 +48487,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/4899-DEFAULT-l.jpg"
     },
     {
@@ -49113,19 +49074,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
-    },
-    {
-      "sku": "860005982349",
-      "name": "2023 Peyrassol Cotes de Provence `Le Clos Peyrassol` Rose",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "69.99",
-      "url": "https://www.winehouse.com/shop/2023-peyrassol-cotes-de-provence-le-clos-peyrassol-rose-136669",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/4211-DEFAULT-l.jpg"
     },
     {
       "sku": "860006210014",
