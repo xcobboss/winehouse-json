@@ -8815,19 +8815,6 @@
       "image-url": ""
     },
     {
-      "sku": "11220189",
-      "name": "2018 Aubert Wines Chardonnay Sugar Shack Napa Valley",
-      "vintage": "2018",
-      "unit-size": "750ML",
-      "price": "189.98",
-      "url": "https://www.winehouse.com/shop/2018-aubert-wines-chardonnay-sugar-shack-napa-valley-13162",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6438-DEFAULT-l.jpg"
-    },
-    {
       "sku": "1122701",
       "name": "2005 Domaine Comte Georges de Vogue Musigny Grand Cru Vieilles Vignes",
       "vintage": "2005",
@@ -13840,19 +13827,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/2350-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "212330",
-      "name": "2018 Aubert Wines Chardonnay Hudson Vineyard Carneros",
-      "vintage": "2018",
-      "unit-size": "750ML",
-      "price": "189.98",
-      "url": "https://www.winehouse.com/shop/2018-aubert-wines-chardonnay-hudson-vineyard-carneros-129",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/6431-DEFAULT-l.jpg"
     },
     {
       "sku": "212342",
@@ -40583,7 +40557,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "2",
       "image-url": ""
     },
     {
