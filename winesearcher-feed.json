@@ -1522,19 +1522,6 @@
       "image-url": "https://www.winehouse.com/prodimages/6733-DEFAULT-l.jpg"
     },
     {
-      "sku": "0549",
-      "name": "2018 Mixtura Independent Wines Red Label Ribeiro Red Blend",
-      "vintage": "2018",
-      "unit-size": "750ML",
-      "price": "39.99",
-      "url": "https://www.winehouse.com/shop/2018-mixtura-independent-wines-red-label-ribeiro-red-blend-130559",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": ""
-    },
-    {
       "sku": "062067029684",
       "name": "Hitachino Nest Espresso Stout 1S",
       "vintage": "",
@@ -7038,7 +7025,7 @@
       "name": "2022 Vincent Girardin Bourgogne Pinot Noir Cuvee Saint-Vincent",
       "vintage": "2022",
       "unit-size": "750ML",
-      "price": "39.99",
+      "price": "35.99",
       "url": "https://www.winehouse.com/shop/2022-vincent-girardin-bourgogne-pinot-noir-cuvee-saint-vincent-138976",
       "min-order": "1",
       "offer-type": "",
@@ -32502,6 +32489,19 @@
       "image-url": ""
     },
     {
+      "sku": "664841103513",
+      "name": "2018 Mixtura Independent Wines Red Label Ribeiro Red Blend",
+      "vintage": "2018",
+      "unit-size": "750ML",
+      "price": "39.99",
+      "url": "https://www.winehouse.com/shop/2018-mixtura-independent-wines-red-label-ribeiro-red-blend-130559",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "3",
+      "image-url": ""
+    },
+    {
       "sku": "6652",
       "name": "2022 Domaines Georges Mugneret-Gibourg Chambolle-Musigny Les Feusselottes 1er Cru",
       "vintage": "2022",
@@ -38557,19 +38557,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/1513-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "761503644602",
-      "name": "2009 Domaine Pierre Gonon Saint-Joseph Vielles Vignes",
-      "vintage": "2009",
-      "unit-size": "750ML",
-      "price": "1699.99",
-      "url": "https://www.winehouse.com/shop/2009-domaine-pierre-gonon-saint-joseph-vielles-vignes-4466",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
     },
     {
       "sku": "7615036655",
