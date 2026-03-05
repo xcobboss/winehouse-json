@@ -595,7 +595,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "30",
+      "stock-level": "29",
       "image-url": "https://www.winehouse.com/prodimages/7164-DEFAULT-l.jpg"
     },
     {
@@ -5548,7 +5548,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/857-DEFAULT-l.jpg"
     },
     {
@@ -6198,7 +6198,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -6263,7 +6263,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "23",
       "image-url": "https://www.winehouse.com/prodimages/1783-DEFAULT-l.jpg"
     },
     {
@@ -12201,7 +12201,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "34",
+      "stock-level": "33",
       "image-url": ""
     },
     {
@@ -16077,15 +16077,15 @@
     },
     {
       "sku": "2631099",
-      "name": "2023 Veronica Ortega Tormenta Godello Bierzo",
+      "name": "2023 Veronica Ortega Tormenta \"Anfora y Barrica\" Godello Bierzo",
       "vintage": "2023",
       "unit-size": "750ML",
       "price": "59.99",
-      "url": "https://www.winehouse.com/shop/2023-veronica-ortega-tormenta-godello-bierzo-138936",
+      "url": "https://www.winehouse.com/shop/2023-veronica-ortega-tormenta-anfora-y-barrica-godello-bierzo-138936",
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "23",
       "image-url": "https://www.winehouse.com/prodimages/7478-DEFAULT-l.jpg"
     },
     {
@@ -18906,7 +18906,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/1024-DEFAULT-l.jpg"
     },
     {
@@ -19244,7 +19244,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/3343-DEFAULT-l.jpg"
     },
     {
@@ -21324,7 +21324,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/7484-DEFAULT-l.jpg"
     },
     {
@@ -21376,7 +21376,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/7485-DEFAULT-l.jpg"
     },
     {
@@ -22104,7 +22104,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/7246-DEFAULT-l.jpg"
     },
     {
@@ -23157,7 +23157,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/7489-DEFAULT-l.jpg"
     },
     {
@@ -25535,19 +25535,6 @@
       "url": "https://www.winehouse.com/shop/2017-domaine-sylvain-cathiard-et-fils-vosne-romanée-les-suchots-1er-cru-74",
       "min-order": "1",
       "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
-      "sku": "479198",
-      "name": "2018 Domaine Leccia Patrimonio Rouge Cuvée Pettale Corsica, France",
-      "vintage": "2018",
-      "unit-size": "750ML",
-      "price": "46.99",
-      "url": "https://www.winehouse.com/shop/2018-domaine-leccia-patrimonio-rouge-cuvée-pettale-corsica-france-14631",
-      "min-order": "1",
-      "offer-type": "",
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
@@ -28726,9 +28713,9 @@
       "price": "299.98",
       "url": "https://www.winehouse.com/shop/2021-marcassin-pinot-noir-marcassin-vineyard-sonoma-coast-137989",
       "min-order": "1",
-      "offer-type": "",
+      "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/7503-DEFAULT-l.jpg"
     },
     {
@@ -30221,9 +30208,9 @@
       "price": "549.98",
       "url": "https://www.winehouse.com/shop/2021-marcassin-chardonnay-sonoma-coast-marcassin-vineyard-137990",
       "min-order": "1",
-      "offer-type": "",
+      "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": ""
     },
     {
@@ -30964,7 +30951,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/4654-DEFAULT-l.jpg"
     },
     {
@@ -31367,7 +31354,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/634-DEFAULT-l.jpg"
     },
     {
@@ -33863,7 +33850,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/7216-DEFAULT-l.jpg"
     },
     {
@@ -34942,7 +34929,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "25",
+      "stock-level": "24",
       "image-url": "https://www.winehouse.com/prodimages/4075-DEFAULT-l.jpg"
     },
     {
@@ -35657,7 +35644,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/7408-DEFAULT-l.jpg"
     },
     {
@@ -35683,7 +35670,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "35",
+      "stock-level": "34",
       "image-url": "https://www.winehouse.com/prodimages/2228-DEFAULT-l.jpg"
     },
     {
@@ -36580,7 +36567,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": ""
     },
     {
@@ -38711,7 +38698,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": ""
     },
     {
@@ -43027,7 +43014,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/2481-DEFAULT-l.jpg"
     },
     {
@@ -45887,7 +45874,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/660-DEFAULT-l.jpg"
     },
     {
@@ -47707,7 +47694,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/668-DEFAULT-l.jpg"
     },
     {
@@ -49059,7 +49046,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/6166-DEFAULT-l.jpg"
     },
     {
