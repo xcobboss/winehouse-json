@@ -23,7 +23,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "22",
       "image-url": "https://www.winehouse.com/prodimages/4251-DEFAULT-l.jpg"
     },
     {
@@ -595,7 +595,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": ""
     },
     {
@@ -4183,7 +4183,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/7498-DEFAULT-l.jpg"
     },
     {
@@ -11499,7 +11499,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/4053-DEFAULT-l.jpg"
     },
     {
@@ -15401,7 +15401,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/1991-DEFAULT-l.jpg"
     },
     {
@@ -39452,7 +39452,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": ""
     },
     {
@@ -39504,7 +39504,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "39",
+      "stock-level": "38",
       "image-url": "https://www.winehouse.com/prodimages/6559-DEFAULT-l.jpg"
     },
     {
@@ -41649,7 +41649,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/4593-DEFAULT-l.jpg"
     },
     {
@@ -41729,6 +41729,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/2654-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "8033501440343",
+      "name": "2024 G. B. Burlotto \"Elatis\" Vino da Tavola Rosato",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "28.99",
+      "url": "https://www.winehouse.com/shop/2024-g-b-burlotto-elatis-vino-da-tavola-rosato-136269",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/3973-DEFAULT-l.jpg"
     },
     {
       "sku": "8033509260455",
@@ -51217,7 +51230,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "159",
+      "stock-level": "158",
       "image-url": "https://www.winehouse.com/prodimages/3351-DEFAULT-l.jpg"
     },
     {
