@@ -19777,7 +19777,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": ""
     },
     {
@@ -25226,19 +25226,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/3713-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "47109958",
-      "name": "2013 Saxum Terry Hoage Vineyard Proprietary Red Paso Robles",
-      "vintage": "2013",
-      "unit-size": "750ML",
-      "price": "149.98",
-      "url": "https://www.winehouse.com/shop/2013-saxum-terry-hoage-vineyard-proprietary-red-paso-robles-44957",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6797-DEFAULT-l.jpg"
     },
     {
       "sku": "471155",
@@ -32073,19 +32060,6 @@
       "image-url": "https://www.winehouse.com/prodimages/5604-DEFAULT-l.jpg"
     },
     {
-      "sku": "66000081",
-      "name": "2018 Alban Vineyards Reva Syrah Alban Estate Vineyard Edna Valley",
-      "vintage": "2018",
-      "unit-size": "750ML",
-      "price": "139.98",
-      "url": "https://www.winehouse.com/shop/2018-alban-vineyards-reva-syrah-alban-estate-vineyard-edna-valley-137716",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5580-DEFAULT-l.jpg"
-    },
-    {
       "sku": "66000083",
       "name": "2023 Aubert Wines Chardonnay Eastside Russian River Valley",
       "vintage": "2023",
@@ -32425,7 +32399,7 @@
     },
     {
       "sku": "664841012075",
-      "name": "Trabanco Alicia Sidra de Autor Asturias",
+      "name": "Trabanco Alicia Sidra de Autor, Asturias",
       "vintage": "",
       "unit-size": "750ML",
       "price": "16.99",
@@ -33231,7 +33205,7 @@
     },
     {
       "sku": "688187043333",
-      "name": "Antoine Marois Ad Astra Poire 6% abv, 2022 Cambremer, FR",
+      "name": "Antoine Marois Ad Astra Poire, Cambremer, FR",
       "vintage": "",
       "unit-size": "750ML",
       "price": "26.99",
@@ -53037,7 +53011,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/5963-DEFAULT-l.jpg"
     },
     {
