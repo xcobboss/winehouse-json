@@ -3169,7 +3169,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/2858-DEFAULT-l.jpg"
     },
     {
@@ -4144,7 +4144,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/3559-DEFAULT-l.jpg"
     },
     {
@@ -7981,19 +7981,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/5484-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "098803011705",
-      "name": "2021 Heitz Cellar Cabernet Sauvignon Napa Valley",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "67.99",
-      "url": "https://www.winehouse.com/shop/2021-heitz-cellar-cabernet-sauvignon-napa-valley-138752",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/7066-DEFAULT-l.jpg"
     },
     {
       "sku": "099485000018",
@@ -48903,7 +48890,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/4764-DEFAULT-l.jpg"
     },
     {
