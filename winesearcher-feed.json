@@ -3572,7 +3572,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/5773-DEFAULT-l.jpg"
     },
     {
@@ -20652,19 +20652,6 @@
       "image-url": ""
     },
     {
-      "sku": "3554770156506",
-      "name": "2022 Domaine Michel Lafarge Beaune Les Greves 1er Cru",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "154.99",
-      "url": "https://www.winehouse.com/shop/2022-domaine-michel-lafarge-beaune-les-greves-1er-cru-138086",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/6337-DEFAULT-l.jpg"
-    },
-    {
       "sku": "3554770156575",
       "name": "2022 Domaine Michel Lafarge Volnay",
       "vintage": "2022",
@@ -22663,7 +22650,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "96",
+      "stock-level": "93",
       "image-url": "https://www.winehouse.com/prodimages/7528-DEFAULT-l.jpg"
     },
     {
