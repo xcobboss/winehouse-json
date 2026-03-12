@@ -413,7 +413,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/6478-DEFAULT-l.jpg"
     },
     {
@@ -2402,7 +2402,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/653-DEFAULT-l.jpg"
     },
     {
@@ -12838,7 +12838,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/6356-DEFAULT-l.jpg"
     },
     {
@@ -17361,19 +17361,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "24",
       "image-url": "https://www.winehouse.com/prodimages/6707-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "29995515",
-      "name": "2023 Pahlmeyer Winery Chardonnay Napa Valley",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "114.99",
-      "url": "https://www.winehouse.com/shop/2023-pahlmeyer-winery-chardonnay-napa-valley-138646",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "18",
-      "image-url": "https://www.winehouse.com/prodimages/6718-DEFAULT-l.jpg"
     },
     {
       "sku": "29995698",
@@ -24496,7 +24483,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/6168-DEFAULT-l.jpg"
     },
     {
@@ -26580,6 +26567,19 @@
       "image-url": "https://www.winehouse.com/prodimages/7393-DEFAULT-l.jpg"
     },
     {
+      "sku": "521063",
+      "name": "2023 Pahlmeyer Winery Chardonnay Napa Valley",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "114.99",
+      "url": "https://www.winehouse.com/shop/2023-pahlmeyer-winery-chardonnay-napa-valley-138646",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "18",
+      "image-url": "https://www.winehouse.com/prodimages/6718-DEFAULT-l.jpg"
+    },
+    {
       "sku": "521236",
       "name": "2020 Bien Nacido Chardonnay Estate Santa Maria Valley",
       "vintage": "2020",
@@ -27861,18 +27861,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/3275-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "55590",
-      "name": "2022 Comando G El Reventon Garnacha Sierra de Gredos (Pre-Arrival, ETA Summer 2025)",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "276.99",
-      "url": "https://www.winehouse.com/shop/2022-comando-g-el-reventon-garnacha-sierra-de-gredos-pre-arrival-eta-summer-20-134377",
-      "min-order": "1",
-      "offer-type": "PA",
-      "stock-level": "5",
-      "image-url": "https://www.winehouse.com/prodimages/1941-DEFAULT-l.jpg"
     },
     {
       "sku": "55591",
@@ -39804,7 +39792,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "30",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/4477-DEFAULT-l.jpg"
     },
     {
@@ -45511,21 +45499,8 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/904-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "850047003003",
-      "name": "Angels Envy Bourbon Whiskey",
-      "vintage": "",
-      "unit-size": "750ML",
-      "price": "49.99",
-      "url": "https://www.winehouse.com/shop/angels-envy-bourbon-whiskey-21931",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/660-DEFAULT-l.jpg"
     },
     {
       "sku": "850047003065",
@@ -45576,7 +45551,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/899-DEFAULT-l.jpg"
     },
     {
@@ -47955,7 +47930,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/1778-DEFAULT-l.jpg"
     },
     {
@@ -50646,7 +50621,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/6479-DEFAULT-l.jpg"
     },
     {
