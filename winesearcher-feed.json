@@ -179,7 +179,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "54",
       "image-url": "https://www.winehouse.com/prodimages/2263-DEFAULT-l.jpg"
     },
     {
@@ -686,7 +686,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/6220-DEFAULT-l.jpg"
     },
     {
@@ -6731,7 +6731,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/7416-DEFAULT-l.jpg"
     },
     {
@@ -7095,7 +7095,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/7419-DEFAULT-l.jpg"
     },
     {
@@ -7838,19 +7838,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/5846-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "098709088580",
-      "name": "2023 Bodega Catena Malbec Mendoza",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "18.99",
-      "url": "https://www.winehouse.com/shop/2023-bodega-catena-malbec-mendoza-138430",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6561-DEFAULT-l.jpg"
     },
     {
       "sku": "098709088993",
@@ -10397,7 +10384,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/5991-DEFAULT-l.jpg"
     },
     {
@@ -11626,7 +11613,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/4853-DEFAULT-l.jpg"
     },
     {
@@ -18552,7 +18539,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/4309-DEFAULT-l.jpg"
     },
     {
@@ -19696,7 +19683,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/7306-DEFAULT-l.jpg"
     },
     {
@@ -29356,19 +29343,6 @@
       "image-url": "https://www.winehouse.com/prodimages/7031-DEFAULT-l.jpg"
     },
     {
-      "sku": "6009824920284",
-      "name": "2023 Sadie Family Chenin Blanc Rotsbank Swartland, Paardeberg South Africa",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "94.99",
-      "url": "https://www.winehouse.com/shop/2023-sadie-family-chenin-blanc-rotsbank-swartland-paardeberg-south-africa-133818",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/7095-DEFAULT-l.jpg"
-    },
-    {
       "sku": "6009881014650",
       "name": "2021 David + Nadia Plat`bos Chenin Blanc Swartland",
       "vintage": "2021",
@@ -36363,6 +36337,19 @@
       "image-url": ""
     },
     {
+      "sku": "737534449172",
+      "name": "Bottle Logic Darkstar November Bourbon Barrel Aged Rye Stout with Molasses 14.0% abv",
+      "vintage": "",
+      "unit-size": "500ML",
+      "price": "24.99",
+      "url": "https://www.winehouse.com/shop/bottle-logic-darkstar-november-bourbon-barrel-aged-rye-stout-with-molasses-14-0-abv-2983",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "24",
+      "image-url": ""
+    },
+    {
       "sku": "738924",
       "name": "2022 Walter Scott Wines Chardonnay Freedom Hill Vineyard Mt. Pisgah",
       "vintage": "2022",
@@ -42122,19 +42109,6 @@
       "image-url": "https://www.winehouse.com/prodimages/5010-DEFAULT-l.jpg"
     },
     {
-      "sku": "810106780801",
-      "name": "NV Philipponnat Reserve Perpetuelle Royale Reserve Brut",
-      "vintage": "NV",
-      "unit-size": "750ML",
-      "price": "59.99",
-      "url": "https://www.winehouse.com/shop/nv-philipponnat-reserve-perpetuelle-royale-reserve-brut-138324",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6366-DEFAULT-l.jpg"
-    },
-    {
       "sku": "810106780832",
       "name": "NV Philipponnat Brut Royal Reserve Rose Champagne",
       "vintage": "NV",
@@ -42144,7 +42118,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/6306-DEFAULT-l.jpg"
     },
     {
@@ -49658,7 +49632,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/2644-DEFAULT-l.jpg"
     },
     {
