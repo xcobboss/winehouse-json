@@ -17525,7 +17525,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "23",
       "image-url": "https://www.winehouse.com/prodimages/7576-DEFAULT-l.jpg"
     },
     {
@@ -42785,19 +42785,6 @@
       "image-url": "https://www.winehouse.com/prodimages/7585-DEFAULT-l.jpg"
     },
     {
-      "sku": "811411",
-      "name": "2023 Domaine de Trevallon BLANC Vin de Pays des Bouches du Rhone",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "133.99",
-      "url": "https://www.winehouse.com/shop/2023-domaine-de-trevallon-blanc-vin-de-pays-des-bouches-du-rhone-138452",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/6573-DEFAULT-l.jpg"
-    },
-    {
       "sku": "811538011457",
       "name": "Jose Cuervo Reserva De La Familia Extra Anejo Tequila",
       "vintage": "",
@@ -50960,6 +50947,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/6397-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "896383000924",
+      "name": "NV Ca` del Bosco Cuvee Prestige Brut, Franciacorta DOCG",
+      "vintage": "NV",
+      "unit-size": "750ML",
+      "price": "39.99",
+      "url": "https://www.winehouse.com/shop/nv-ca-del-bosco-cuvee-prestige-brut-franciacorta-docg-28633",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "8",
+      "image-url": ""
     },
     {
       "sku": "8967",
