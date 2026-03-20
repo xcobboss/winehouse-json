@@ -5392,7 +5392,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/3195-DEFAULT-l.jpg"
     },
     {
@@ -6666,7 +6666,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/4746-DEFAULT-l.jpg"
     },
     {
@@ -6757,7 +6757,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/7556-DEFAULT-l.jpg"
     },
     {
@@ -6770,7 +6770,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "20",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/7554-DEFAULT-l.jpg"
     },
     {
@@ -6783,7 +6783,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "20",
+      "stock-level": "13",
       "image-url": ""
     },
     {
@@ -6796,7 +6796,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "14",
       "image-url": "https://www.winehouse.com/prodimages/7555-DEFAULT-l.jpg"
     },
     {
@@ -23171,19 +23171,6 @@
       "image-url": ""
     },
     {
-      "sku": "403312",
-      "name": "2019 Domaine Auguste + Pierre-Marie Clape Cornas Renaissance",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "99.98",
-      "url": "https://www.winehouse.com/shop/2019-domaine-auguste-pierre-marie-clape-cornas-renaissance-was-119-99-14129",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5297-DEFAULT-l.jpg"
-    },
-    {
       "sku": "403381",
       "name": "2023 Domaine Bachelet-Monnot Santenay Blanc",
       "vintage": "2023",
@@ -28585,7 +28572,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/5921-DEFAULT-l.jpg"
     },
     {
@@ -30418,7 +30405,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "35",
+      "stock-level": "32",
       "image-url": "https://www.winehouse.com/prodimages/7550-DEFAULT-l.jpg"
     },
     {
@@ -30457,7 +30444,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/7551-DEFAULT-l.jpg"
     },
     {
@@ -41234,7 +41221,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "30",
+      "stock-level": "28",
       "image-url": ""
     },
     {
