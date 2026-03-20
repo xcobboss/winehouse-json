@@ -1622,7 +1622,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/3183-DEFAULT-l.jpg"
     },
     {
@@ -3884,7 +3884,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/5270-DEFAULT-l.jpg"
     },
     {
@@ -4417,7 +4417,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "34",
+      "stock-level": "33",
       "image-url": "https://www.winehouse.com/prodimages/4124-DEFAULT-l.jpg"
     },
     {
@@ -6674,7 +6674,7 @@
       "name": "2024 Famille Perrin Cotes du Rhone Reserve Blanc",
       "vintage": "2024",
       "unit-size": "750ML",
-      "price": "12.99",
+      "price": "11.69",
       "url": "https://www.winehouse.com/shop/2024-famille-perrin-cotes-du-rhone-reserve-blanc-136864",
       "min-order": "1",
       "offer-type": "",
@@ -6765,7 +6765,7 @@
       "name": "2022 Famille Perrin Perrin Muscat Beaumes de Venise",
       "vintage": "2022",
       "unit-size": "375ML",
-      "price": "21.99",
+      "price": "19.79",
       "url": "https://www.winehouse.com/shop/2022-famille-perrin-perrin-muscat-beaumes-de-venise-139205",
       "min-order": "1",
       "offer-type": "",
@@ -6778,7 +6778,7 @@
       "name": "2022 Famille Perrin Gigondas \"La Gille\"",
       "vintage": "2022",
       "unit-size": "750ML",
-      "price": "37.99",
+      "price": "34.19",
       "url": "https://www.winehouse.com/shop/2022-famille-perrin-gigondas-la-gille-139203",
       "min-order": "1",
       "offer-type": "",
@@ -6791,7 +6791,7 @@
       "name": "2023 Famille Perrin Chateauneuf du Pape Les Sinards",
       "vintage": "2022",
       "unit-size": "750ML",
-      "price": "48.99",
+      "price": "44.09",
       "url": "https://www.winehouse.com/shop/2022-famille-perrin-chateauneuf-du-pape-les-sinards-139201",
       "min-order": "1",
       "offer-type": "",
@@ -6804,7 +6804,7 @@
       "name": "2022 Famille Perrin Vacqueyras \"Les Christins\"",
       "vintage": "2022",
       "unit-size": "750ML",
-      "price": "27.99",
+      "price": "25.19",
       "url": "https://www.winehouse.com/shop/2022-famille-perrin-vacqueyras-les-christins-139204",
       "min-order": "1",
       "offer-type": "",
@@ -7225,7 +7225,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "22",
       "image-url": "https://www.winehouse.com/prodimages/7547-DEFAULT-l.jpg"
     },
     {
@@ -11990,7 +11990,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "33",
+      "stock-level": "30",
       "image-url": "https://www.winehouse.com/prodimages/7405-DEFAULT-l.jpg"
     },
     {
@@ -16268,19 +16268,6 @@
       "image-url": "https://www.winehouse.com/prodimages/7420-DEFAULT-l.jpg"
     },
     {
-      "sku": "290601",
-      "name": "2023 Antinori Santa Cristina Cabernet Sauvignon Toscana",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "12.49",
-      "url": "https://www.winehouse.com/shop/2023-antinori-santa-cristina-cabernet-sauvignon-toscana-137659",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": ""
-    },
-    {
       "sku": "291352",
       "name": "2020 Seabold Cellars Eden Rift Vineyard Chardonnay",
       "vintage": "2020",
@@ -16433,7 +16420,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/4734-DEFAULT-l.jpg"
     },
     {
@@ -17408,7 +17395,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "23",
       "image-url": "https://www.winehouse.com/prodimages/7574-DEFAULT-l.jpg"
     },
     {
@@ -19856,19 +19843,6 @@
       "image-url": ""
     },
     {
-      "sku": "3438082122018",
-      "name": "2022 Chateau Smith Haut Lafitte Blanc Pessac-Leognan",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "194.99",
-      "url": "https://www.winehouse.com/shop/2022-chateau-smith-haut-lafitte-blanc-pessac-leognan-pre-arrival-eta-fall-2025-123539",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": ""
-    },
-    {
       "sku": "3438082322012",
       "name": "2022 Chateau Smith Haut Lafitte Blanc Pessac-Leognan",
       "vintage": "2022",
@@ -19956,7 +19930,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/7413-DEFAULT-l.jpg"
     },
     {
@@ -20972,19 +20946,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/7544-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "3554770165232",
-      "name": "2023 Domaine Bessin-Tremblay Chablis Valmur Grand Cru",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "134.99",
-      "url": "https://www.winehouse.com/shop/2023-domaine-bessin-tremblay-chablis-valmur-grand-cru-139060",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "6",
-      "image-url": ""
     },
     {
       "sku": "3554770171639",
@@ -25455,7 +25416,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": ""
     },
     {
@@ -30322,7 +30283,7 @@
       "name": "2023 Famille Perrin Côtes du Rhône Rouge Signature",
       "vintage": "2023",
       "unit-size": "750ML",
-      "price": "15.99",
+      "price": "14.39",
       "url": "https://www.winehouse.com/shop/2023-famille-perrin-cotes-du-rhone-rouge-signature-organic-139199",
       "min-order": "1",
       "offer-type": "",
@@ -30335,7 +30296,7 @@
       "name": "2022 Famille Perrin Vinsobres Les Cornuds",
       "vintage": "2022",
       "unit-size": "750ML",
-      "price": "19.99",
+      "price": "17.99",
       "url": "https://www.winehouse.com/shop/2022-famille-perrin-vinsobres-les-cornuds-139202",
       "min-order": "1",
       "offer-type": "",
@@ -30361,7 +30322,7 @@
       "name": "2023 Chateau de Beaucastel Coudoulet Cotes du Rhone Rouge",
       "vintage": "2023",
       "unit-size": "750ML",
-      "price": "37.99",
+      "price": "34.19",
       "url": "https://www.winehouse.com/shop/2023-chateau-de-beaucastel-coudoulet-cotes-du-rhone-rouge-139200",
       "min-order": "1",
       "offer-type": "",
@@ -43119,7 +43080,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": ""
     },
     {
@@ -43821,7 +43782,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "20",
+      "stock-level": "19",
       "image-url": "https://www.winehouse.com/prodimages/7520-DEFAULT-l.jpg"
     },
     {
@@ -45758,7 +45719,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/1899-DEFAULT-l.jpg"
     },
     {
@@ -48423,7 +48384,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/4787-DEFAULT-l.jpg"
     },
     {
