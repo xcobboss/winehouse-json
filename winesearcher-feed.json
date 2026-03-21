@@ -3182,7 +3182,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/2851-DEFAULT-l.jpg"
     },
     {
@@ -4417,7 +4417,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "33",
+      "stock-level": "32",
       "image-url": "https://www.winehouse.com/prodimages/4124-DEFAULT-l.jpg"
     },
     {
@@ -7979,7 +7979,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/2165-DEFAULT-l.jpg"
     },
     {
@@ -8018,21 +8018,8 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/6246-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "10100012",
-      "name": "2017 Rivers Marie Pinot Noir Sonoma Coast Summa Vineyard",
-      "vintage": "2017",
-      "unit-size": "750ML",
-      "price": "69.98",
-      "url": "https://www.winehouse.com/shop/2017-rivers-marie-pinot-noir-sonoma-coast-summa-vineyard-137991",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6333-DEFAULT-l.jpg"
     },
     {
       "sku": "10100013",
@@ -17278,7 +17265,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/7308-DEFAULT-l.jpg"
     },
     {
@@ -21022,7 +21009,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/6381-DEFAULT-l.jpg"
     },
     {
@@ -22625,19 +22612,6 @@
       "image-url": ""
     },
     {
-      "sku": "393201",
-      "name": "2003 Williams Selyem Pinot Noir Peay Vineyard Sonoma Coast",
-      "vintage": "2003",
-      "unit-size": "750ML",
-      "price": "69.98",
-      "url": "https://www.winehouse.com/shop/2003-williams-selyem-pinot-noir-peay-vineyard-sonoma-coast-64223",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6970-DEFAULT-l.jpg"
-    },
-    {
       "sku": "394168",
       "name": "2021 Leonetti Cellars Cabernet Sauvignon Walla Walla Valley",
       "vintage": "2021",
@@ -23427,7 +23401,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/4076-DEFAULT-l.jpg"
     },
     {
@@ -29014,7 +28988,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/5797-DEFAULT-l.jpg"
     },
     {
@@ -36658,7 +36632,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "46",
+      "stock-level": "42",
       "image-url": "https://www.winehouse.com/prodimages/6095-DEFAULT-l.jpg"
     },
     {
@@ -40870,7 +40844,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/7549-DEFAULT-l.jpg"
     },
     {
@@ -44198,7 +44172,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/6843-DEFAULT-l.jpg"
     },
     {
@@ -45979,7 +45953,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/5897-DEFAULT-l.jpg"
     },
     {
@@ -47058,7 +47032,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": ""
     },
     {
@@ -48644,7 +48618,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "14",
       "image-url": "https://www.winehouse.com/prodimages/7099-DEFAULT-l.jpg"
     },
     {
