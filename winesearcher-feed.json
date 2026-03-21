@@ -4447,6 +4447,19 @@
       "image-url": "https://www.winehouse.com/prodimages/6216-DEFAULT-l.jpg"
     },
     {
+      "sku": "085000026700",
+      "name": "2023 Orin Swift Cellars Eight Years in the Desert Red Wine California",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "49.99",
+      "url": "https://www.winehouse.com/shop/2023-orin-swift-cellars-eight-years-in-the-desert-red-wine-california-134995",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": "https://www.winehouse.com/prodimages/1671-DEFAULT-l.jpg"
+    },
+    {
       "sku": "085000027950",
       "name": "Germain Robin Select Barrel XO California Alambic Brandy 40% abv",
       "vintage": "",
@@ -16524,7 +16537,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": ""
     },
     {
@@ -27015,7 +27028,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/770-DEFAULT-l.jpg"
     },
     {
@@ -35869,19 +35882,6 @@
       "image-url": "https://www.winehouse.com/prodimages/6083-DEFAULT-l.jpg"
     },
     {
-      "sku": "734599020056",
-      "name": "2023 Domaines Ott Bandol Rose Chateau Romassan",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "39.99",
-      "url": "https://www.winehouse.com/shop/2023-domaines-ott-bandol-rose-chateau-romassan-133144",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/7631-DEFAULT-l.jpg"
-    },
-    {
       "sku": "734599161551",
       "name": "2015 Louis Roederer Brut Nature Rose `Philippe Starck` Champagne",
       "vintage": "2015",
@@ -42783,6 +42783,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/4121-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "812643020013",
+      "name": "2024 Allegrini Valpolicella",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "16.99",
+      "url": "https://www.winehouse.com/shop/2024-allegrini-valpolicella-139411",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": "https://www.winehouse.com/prodimages/7679-DEFAULT-l.jpg"
     },
     {
       "sku": "813114011271",
@@ -49935,6 +49948,19 @@
       "image-url": ""
     },
     {
+      "sku": "883640404250",
+      "name": "2023 Robert Talbott Vineyards Sleepy Hollow Pinot Noir",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "37.99",
+      "url": "https://www.winehouse.com/shop/2023-robert-talbott-vineyards-sleepy-hollow-pinot-noir-139412",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": "https://www.winehouse.com/prodimages/7680-DEFAULT-l.jpg"
+    },
+    {
       "sku": "883778",
       "name": "2018 Domaines Georges Mugneret-Gibourg Echezeaux Grand Cru",
       "vintage": "2018",
@@ -50945,7 +50971,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "34",
+      "stock-level": "32",
       "image-url": "https://www.winehouse.com/prodimages/7605-DEFAULT-l.jpg"
     },
     {
