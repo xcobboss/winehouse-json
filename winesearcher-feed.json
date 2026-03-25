@@ -6042,7 +6042,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": ""
     },
     {
@@ -6642,19 +6642,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
-    },
-    {
-      "sku": "089419128802",
-      "name": "2017 Finca la Capilla Vendimia Seleccionada Tempranillo Ribera del Duero",
-      "vintage": "2017",
-      "unit-size": "750ML",
-      "price": "44.99",
-      "url": "https://www.winehouse.com/shop/2017-finca-la-capilla-vendimia-seleccionada-tempranillo-ribera-del-duero-25030",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/7500-DEFAULT-l.jpg"
     },
     {
       "sku": "089419151039",
@@ -7732,7 +7719,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/3068-DEFAULT-l.jpg"
     },
     {
@@ -10975,7 +10962,7 @@
       "url": "https://www.winehouse.com/shop/2021-ciacci-piccolomini-daragona-brunello-di-montalcino-pre-arrival-eta-summer-139434",
       "min-order": "1",
       "offer-type": "PA",
-      "stock-level": "36",
+      "stock-level": "26",
       "image-url": ""
     },
     {
@@ -10987,7 +10974,7 @@
       "url": "https://www.winehouse.com/shop/2021-ciacci-piccolomini-d-aragona-brunello-di-montalcino-pianrosso-pre-arrival-139435",
       "min-order": "1",
       "offer-type": "PA",
-      "stock-level": "36",
+      "stock-level": "29",
       "image-url": "https://www.winehouse.com/prodimages/7683-DEFAULT-l.jpg"
     },
     {
@@ -12380,19 +12367,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
-    },
-    {
-      "sku": "20037074",
-      "name": "2014 Domaine Marcel Lapierre Morgon Cuvee Lapierre MMXIV",
-      "vintage": "2014",
-      "unit-size": "750ML",
-      "price": "69.98",
-      "url": "https://www.winehouse.com/shop/2014-domaine-marcel-lapierre-morgon-cuvee-lapierre-mmxi-72394",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5380-DEFAULT-l.jpg"
     },
     {
       "sku": "20037508",
@@ -16704,7 +16678,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/1481-DEFAULT-l.jpg"
     },
     {
@@ -22398,7 +22372,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "32",
+      "stock-level": "31",
       "image-url": "https://www.winehouse.com/prodimages/7109-DEFAULT-l.jpg"
     },
     {
@@ -25661,7 +25635,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -26519,7 +26493,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/4821-DEFAULT-l.jpg"
     },
     {
@@ -28245,7 +28219,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/6569-DEFAULT-l.jpg"
     },
     {
@@ -30015,6 +29989,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/7551-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "631471002622",
+      "name": "2023 Chateau de Beaucastel Chateauneuf-du-Pape",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "109.99",
+      "url": "https://www.winehouse.com/shop/2023-chateau-de-beaucastel-chateauneuf-du-pape-138732",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": "https://www.winehouse.com/prodimages/6844-DEFAULT-l.jpg"
     },
     {
       "sku": "631763",
@@ -37141,19 +37128,6 @@
       "image-url": ""
     },
     {
-      "sku": "75214",
-      "name": "2023 Chateau de Beaucastel Chateauneuf-du-Pape",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "109.99",
-      "url": "https://www.winehouse.com/shop/2023-chateau-de-beaucastel-chateauneuf-du-pape-138732",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "14",
-      "image-url": "https://www.winehouse.com/prodimages/6844-DEFAULT-l.jpg"
-    },
-    {
       "sku": "752245111507",
       "name": "Weihenstephaner Hefe Weissbier, Bavaria 1S",
       "vintage": "",
@@ -37795,7 +37769,7 @@
       "name": "2021 Domaine Roulot Bourgogne Blanc",
       "vintage": "2021",
       "unit-size": "750ML",
-      "price": "249.98",
+      "price": "249.96",
       "url": "https://www.winehouse.com/shop/2021-domaine-roulot-bourgogne-blanc-129045",
       "min-order": "1",
       "offer-type": "R",
@@ -40543,7 +40517,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/7549-DEFAULT-l.jpg"
     },
     {
@@ -44508,7 +44482,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/5693-DEFAULT-l.jpg"
     },
     {
@@ -44547,7 +44521,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "37",
+      "stock-level": "36",
       "image-url": "https://www.winehouse.com/prodimages/7658-DEFAULT-l.jpg"
     },
     {
@@ -50020,7 +49994,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "23",
       "image-url": "https://www.winehouse.com/prodimages/3630-DEFAULT-l.jpg"
     },
     {
