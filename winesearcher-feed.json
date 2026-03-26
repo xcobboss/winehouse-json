@@ -1687,7 +1687,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/209-DEFAULT-l.jpg"
     },
     {
@@ -10961,7 +10961,7 @@
       "url": "https://www.winehouse.com/shop/2021-ciacci-piccolomini-d-aragona-brunello-di-montalcino-pianrosso-pre-arrival-139435",
       "min-order": "1",
       "offer-type": "PA",
-      "stock-level": "23",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/7683-DEFAULT-l.jpg"
     },
     {
@@ -27595,7 +27595,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/4766-DEFAULT-l.jpg"
     },
     {
@@ -32500,19 +32500,6 @@
       "image-url": ""
     },
     {
-      "sku": "681571",
-      "name": "2021 Joben Herrera Cellars Mendoza Malbec Blend",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "36.99",
-      "url": "https://www.winehouse.com/shop/2021-joben-herrera-cellars-mendoza-malbec-blend-132115",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/4411-DEFAULT-l.jpg"
-    },
-    {
       "sku": "683652000828",
       "name": "2023 Ken Forrester FMC Chenin Blanc",
       "vintage": "2023",
@@ -35644,6 +35631,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/2647-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "736211670489",
+      "name": "2024 Covenant Sauvignon Blanc Red C Lake County Kosher",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "22.99",
+      "url": "https://www.winehouse.com/shop/2024-covenant-sauvignon-blanc-red-c-lake-county-kosher-135321",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "24",
+      "image-url": "https://www.winehouse.com/prodimages/2036-DEFAULT-l.jpg"
     },
     {
       "sku": "737033270031",
