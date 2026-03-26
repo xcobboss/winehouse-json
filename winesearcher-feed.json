@@ -3650,7 +3650,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": ""
     },
     {
@@ -4170,7 +4170,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/3580-DEFAULT-l.jpg"
     },
     {
@@ -5392,7 +5392,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/821-DEFAULT-l.jpg"
     },
     {
@@ -7563,7 +7563,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/643-DEFAULT-l.jpg"
     },
     {
@@ -10949,7 +10949,7 @@
       "url": "https://www.winehouse.com/shop/2021-ciacci-piccolomini-daragona-brunello-di-montalcino-pre-arrival-eta-summer-139434",
       "min-order": "1",
       "offer-type": "PA",
-      "stock-level": "29",
+      "stock-level": "24",
       "image-url": ""
     },
     {
@@ -10961,7 +10961,7 @@
       "url": "https://www.winehouse.com/shop/2021-ciacci-piccolomini-d-aragona-brunello-di-montalcino-pianrosso-pre-arrival-139435",
       "min-order": "1",
       "offer-type": "PA",
-      "stock-level": "20",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/7683-DEFAULT-l.jpg"
     },
     {
@@ -14144,7 +14144,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": ""
     },
     {
@@ -21969,7 +21969,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "60",
+      "stock-level": "59",
       "image-url": "https://www.winehouse.com/prodimages/3307-DEFAULT-l.jpg"
     },
     {
@@ -22268,7 +22268,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -31131,7 +31131,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "32",
+      "stock-level": "31",
       "image-url": "https://www.winehouse.com/prodimages/3355-DEFAULT-l.jpg"
     },
     {
@@ -33354,7 +33354,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": ""
     },
     {
@@ -33914,19 +33914,6 @@
       "offer-type": "R",
       "delivery-time": "2-5 days",
       "stock-level": "5",
-      "image-url": ""
-    },
-    {
-      "sku": "710168045019",
-      "name": "Monk`s Cafe, Flanders Oud Bruin, Flemish Sour Red Ale",
-      "vintage": "",
-      "unit-size": "330ML",
-      "price": "3.99",
-      "url": "https://www.winehouse.com/shop/monk-s-cafe-flanders-oud-bruin-flemish-sour-ale-5-5-abv-27006",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
       "image-url": ""
     },
     {
@@ -37319,7 +37306,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/5216-DEFAULT-l.jpg"
     },
     {
@@ -39802,7 +39789,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "27",
+      "stock-level": "25",
       "image-url": "https://www.winehouse.com/prodimages/7168-DEFAULT-l.jpg"
     },
     {
@@ -40348,7 +40335,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "33",
+      "stock-level": "32",
       "image-url": "https://www.winehouse.com/prodimages/3967-DEFAULT-l.jpg"
     },
     {
@@ -44118,7 +44105,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/6553-DEFAULT-l.jpg"
     },
     {
@@ -46328,7 +46315,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/1681-DEFAULT-l.jpg"
     },
     {
@@ -49227,7 +49214,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/6676-DEFAULT-l.jpg"
     },
     {
@@ -49331,7 +49318,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/6673-DEFAULT-l.jpg"
     },
     {
@@ -52789,7 +52776,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/5363-DEFAULT-l.jpg"
     },
     {
