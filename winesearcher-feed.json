@@ -6653,7 +6653,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "48",
+      "stock-level": "92",
       "image-url": "https://www.winehouse.com/prodimages/4746-DEFAULT-l.jpg"
     },
     {
@@ -7305,6 +7305,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/1221-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "089819042401",
+      "name": "2022 Stags Leap Winery Cabernet Sauvignon Napa Valley",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "59.99",
+      "url": "https://www.winehouse.com/shop/2022-stags-leap-winery-cabernet-sauvignon-napa-valley-138606",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "23",
+      "image-url": "https://www.winehouse.com/prodimages/6658-DEFAULT-l.jpg"
     },
     {
       "sku": "089832849520",
@@ -8005,7 +8018,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "46",
       "image-url": "https://www.winehouse.com/prodimages/6246-DEFAULT-l.jpg"
     },
     {
@@ -31809,7 +31822,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "27",
+      "stock-level": "87",
       "image-url": "https://www.winehouse.com/prodimages/1673-DEFAULT-l.jpg"
     },
     {
@@ -34383,7 +34396,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "250",
+      "stock-level": "370",
       "image-url": "https://www.winehouse.com/prodimages/3548-DEFAULT-l.jpg"
     },
     {
@@ -50988,19 +51001,6 @@
       "image-url": ""
     },
     {
-      "sku": "9120013374989",
-      "name": "2024 Weingut Bernhard Ott Gruner Veltliner Fass 4",
-      "vintage": "2024",
-      "unit-size": "750ML",
-      "price": "33.99",
-      "url": "https://www.winehouse.com/shop/2024-weingut-bernhard-ott-gruner-veltliner-fass-4-139210",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "4",
-      "image-url": "https://www.winehouse.com/prodimages/7525-DEFAULT-l.jpg"
-    },
-    {
       "sku": "9120013663908",
       "name": "2021 Weingut Markus Huber, Gruner Veltliner, Terrassen",
       "vintage": "2021",
@@ -51010,7 +51010,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "31",
+      "stock-level": "25",
       "image-url": "https://www.winehouse.com/prodimages/4964-DEFAULT-l.jpg"
     },
     {
