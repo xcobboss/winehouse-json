@@ -7797,7 +7797,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -37579,7 +37579,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "42",
+      "stock-level": "39",
       "image-url": "https://www.winehouse.com/prodimages/3353-DEFAULT-l.jpg"
     },
     {
@@ -50984,19 +50984,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
-    },
-    {
-      "sku": "905245",
-      "name": "2019 Domaine Boissonnet Condrieu",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "49.99",
-      "url": "https://www.winehouse.com/shop/2019-domaine-boissonnet-condrieu-4212",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6870-DEFAULT-l.jpg"
     },
     {
       "sku": "90705215",
