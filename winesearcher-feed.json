@@ -4261,7 +4261,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "38",
+      "stock-level": "37",
       "image-url": "https://www.winehouse.com/prodimages/2859-DEFAULT-l.jpg"
     },
     {
@@ -14148,18 +14148,6 @@
       "image-url": ""
     },
     {
-      "sku": "23063",
-      "name": "2023 Chateau Lafleur Pomerol (Pre-Arrival, ETA Fall 2026)",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "899.99",
-      "url": "https://www.winehouse.com/shop/2023-chateau-lafleur-pomerol-pre-arrival-eta-fall-2026-130996",
-      "min-order": "1",
-      "offer-type": "PA",
-      "stock-level": "7",
-      "image-url": "https://www.winehouse.com/prodimages/2748-DEFAULT-l.jpg"
-    },
-    {
       "sku": "2306498",
       "name": "2023 Les Perrieres de Lafleur Fronsac (Pre-Arrival, ETA Fall 2026)",
       "vintage": "2023",
@@ -16162,6 +16150,19 @@
       "image-url": ""
     },
     {
+      "sku": "29985165",
+      "name": "2023 Chateau Lafleur Pomerol",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "899.99",
+      "url": "https://www.winehouse.com/shop/2023-chateau-lafleur-pomerol-pre-arrival-eta-fall-2026-130996",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "11",
+      "image-url": "https://www.winehouse.com/prodimages/2748-DEFAULT-l.jpg"
+    },
+    {
       "sku": "29985200",
       "name": "2019 Eisele Estate Syrah Eisele Vineyard Napa Valley",
       "vintage": "2019",
@@ -16989,7 +16990,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/7568-DEFAULT-l.jpg"
     },
     {
@@ -24191,7 +24192,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "120",
+      "stock-level": "118",
       "image-url": "https://www.winehouse.com/prodimages/3833-DEFAULT-l.jpg"
     },
     {
@@ -46576,7 +46577,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": ""
     },
     {
@@ -47252,7 +47253,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/5835-DEFAULT-l.jpg"
     },
     {
