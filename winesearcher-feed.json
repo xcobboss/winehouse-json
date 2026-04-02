@@ -686,7 +686,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "3",
       "image-url": ""
     },
     {
@@ -7459,7 +7459,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "20",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/3215-DEFAULT-l.jpg"
     },
     {
@@ -20734,7 +20734,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/7359-DEFAULT-l.jpg"
     },
     {
@@ -27365,19 +27365,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/1676-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "56023987",
-      "name": "1979 Domaine Faiveley Morey-Saint-Denis Cote de Nuits",
-      "vintage": "1979",
-      "unit-size": "750ML",
-      "price": "299.98",
-      "url": "https://www.winehouse.com/shop/1979-domaine-faiveley-morey-saint-denis-cote-de-nuits-124629",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
     },
     {
       "sku": "5602840011007",
@@ -40233,7 +40220,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "31",
+      "stock-level": "30",
       "image-url": "https://www.winehouse.com/prodimages/2721-DEFAULT-l.jpg"
     },
     {
@@ -43236,7 +43223,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/4596-DEFAULT-l.jpg"
     },
     {
@@ -46486,7 +46473,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "15",
+      "stock-level": "14",
       "image-url": "https://www.winehouse.com/prodimages/6021-DEFAULT-l.jpg"
     },
     {
