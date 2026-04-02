@@ -686,7 +686,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "9",
       "image-url": ""
     },
     {
@@ -6813,19 +6813,6 @@
       "image-url": ""
     },
     {
-      "sku": "089419532920",
-      "name": "2023 Domaine Louis Michel Chablis",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "39.99",
-      "url": "https://www.winehouse.com/shop/2023-domaine-louis-michel-chablis-138969",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "089419564051",
       "name": "2022 Thierry et Pascale Matrot Bourgogne Blanc",
       "vintage": "2022",
@@ -7043,7 +7030,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/7547-DEFAULT-l.jpg"
     },
     {
@@ -7160,7 +7147,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "22",
       "image-url": "https://www.winehouse.com/prodimages/6658-DEFAULT-l.jpg"
     },
     {
@@ -7539,6 +7526,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/6231-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "097921970109",
+      "name": "2023 Rombauer Vineyards Chardonnay Carneros",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "39.99",
+      "url": "https://www.winehouse.com/shop/2023-rombauer-vineyards-chardonnay-carneros-132060",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "13",
+      "image-url": "https://www.winehouse.com/prodimages/3619-DEFAULT-l.jpg"
     },
     {
       "sku": "097921978105",
@@ -11806,7 +11806,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "29",
+      "stock-level": "28",
       "image-url": ""
     },
     {
@@ -16903,6 +16903,19 @@
       "image-url": "https://www.winehouse.com/prodimages/6005-DEFAULT-l.jpg"
     },
     {
+      "sku": "29991125",
+      "name": "2024 Rombauer Vineyards Chardonnay Carneros",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "39.99",
+      "url": "https://www.winehouse.com/shop/2024-rombauer-vineyards-chardonnay-carneros-138262",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "11",
+      "image-url": "https://www.winehouse.com/prodimages/6230-DEFAULT-l.jpg"
+    },
+    {
       "sku": "2999114",
       "name": "2023 Domaine Marc Sorrel Hermitage Blanc \"Les Rocoules\"",
       "vintage": "2023",
@@ -17185,7 +17198,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": ""
     },
     {
@@ -17965,7 +17978,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/4309-DEFAULT-l.jpg"
     },
     {
@@ -19304,7 +19317,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "22",
       "image-url": ""
     },
     {
@@ -24231,7 +24244,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "78",
+      "stock-level": "67",
       "image-url": "https://www.winehouse.com/prodimages/3833-DEFAULT-l.jpg"
     },
     {
@@ -24361,7 +24374,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/7506-DEFAULT-l.jpg"
     },
     {
@@ -30379,7 +30392,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "14",
       "image-url": "https://www.winehouse.com/prodimages/7515-DEFAULT-l.jpg"
     },
     {
@@ -32186,7 +32199,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "5",
       "image-url": ""
     },
     {
@@ -34240,7 +34253,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/4024-DEFAULT-l.jpg"
     },
     {
@@ -36008,7 +36021,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/2041-DEFAULT-l.jpg"
     },
     {
@@ -40818,7 +40831,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/5447-DEFAULT-l.jpg"
     },
     {
@@ -46954,7 +46967,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/4187-DEFAULT-l.jpg"
     },
     {
@@ -47435,7 +47448,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/3608-DEFAULT-l.jpg"
     },
     {
@@ -49840,7 +49853,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "20",
+      "stock-level": "19",
       "image-url": "https://www.winehouse.com/prodimages/5476-DEFAULT-l.jpg"
     },
     {
