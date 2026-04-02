@@ -1063,7 +1063,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "21",
       "image-url": ""
     },
     {
@@ -1076,7 +1076,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/7741-DEFAULT-l.jpg"
     },
     {
@@ -1089,7 +1089,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/7743-DEFAULT-l.jpg"
     },
     {
@@ -5457,7 +5457,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/6805-DEFAULT-l.jpg"
     },
     {
@@ -5470,7 +5470,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/6498-DEFAULT-l.jpg"
     },
     {
@@ -11806,7 +11806,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "30",
+      "stock-level": "29",
       "image-url": ""
     },
     {
@@ -16275,6 +16275,19 @@
       "offer-type": "R",
       "delivery-time": "2-5 days",
       "stock-level": "4",
+      "image-url": ""
+    },
+    {
+      "sku": "29985672",
+      "name": "2023 Chateau Grand Village (Chateau Lafleur) Bordeaux Superieur",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "23.99",
+      "url": "https://www.winehouse.com/shop/2023-chateau-grand-village-chateau-lafleur-bordeaux-superieur-131614",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "114",
       "image-url": ""
     },
     {
@@ -21591,7 +21604,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "53",
+      "stock-level": "52",
       "image-url": "https://www.winehouse.com/prodimages/3307-DEFAULT-l.jpg"
     },
     {
@@ -23697,7 +23710,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "30",
+      "stock-level": "29",
       "image-url": "https://www.winehouse.com/prodimages/1570-DEFAULT-l.jpg"
     },
     {
@@ -29546,7 +29559,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -32280,19 +32293,6 @@
       "image-url": "https://www.winehouse.com/prodimages/5207-DEFAULT-l.jpg"
     },
     {
-      "sku": "6871",
-      "name": "2023 Chateau Grand Village (Chateau Lafleur) Bordeaux Superieur",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "23.99",
-      "url": "https://www.winehouse.com/shop/2023-chateau-grand-village-chateau-lafleur-bordeaux-superieur-131614",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "114",
-      "image-url": ""
-    },
-    {
       "sku": "688187043333",
       "name": "Antoine Marois Ad Astra Poire, Cambremer, FR",
       "vintage": "",
@@ -33407,7 +33407,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/704-DEFAULT-l.jpg"
     },
     {
@@ -33459,7 +33459,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/7744-DEFAULT-l.jpg"
     },
     {
@@ -34200,7 +34200,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "152",
+      "stock-level": "151",
       "image-url": "https://www.winehouse.com/prodimages/7558-DEFAULT-l.jpg"
     },
     {
@@ -36007,7 +36007,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/2037-DEFAULT-l.jpg"
     },
     {
