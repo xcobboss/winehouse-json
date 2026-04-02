@@ -14160,7 +14160,7 @@
       "image-url": "https://www.winehouse.com/prodimages/2748-DEFAULT-l.jpg"
     },
     {
-      "sku": "23064",
+      "sku": "2306498",
       "name": "2023 Les Perrieres de Lafleur Fronsac (Pre-Arrival, ETA Fall 2026)",
       "vintage": "2023",
       "unit-size": "750ML",
@@ -14169,18 +14169,6 @@
       "min-order": "1",
       "offer-type": "PA",
       "stock-level": "6",
-      "image-url": ""
-    },
-    {
-      "sku": "230655",
-      "name": "2023 Chateau Lafleur Les Pensees de Lafleur Pomerol (Pre-Arrival, ETA Fall 2026)",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "219.99",
-      "url": "https://www.winehouse.com/shop/2023-chateau-lafleur-les-pensees-de-lafleur-pomerol-pre-arrival-eta-fall-2026-131042",
-      "min-order": "1",
-      "offer-type": "PA",
-      "stock-level": "2",
       "image-url": ""
     },
     {
@@ -16187,6 +16175,18 @@
       "image-url": ""
     },
     {
+      "sku": "29985207",
+      "name": "2023 Chateau Lafleur Les Pensees de Lafleur Pomerol (Pre-Arrival, ETA Fall 2026)",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "219.99",
+      "url": "https://www.winehouse.com/shop/2023-chateau-lafleur-les-pensees-de-lafleur-pomerol-pre-arrival-eta-fall-2026-131042",
+      "min-order": "1",
+      "offer-type": "PA",
+      "stock-level": "2",
+      "image-url": ""
+    },
+    {
       "sku": "29985266",
       "name": "2016 Saxon Brown Fighting Brothers Zinfandel Sonoma Valley",
       "vintage": "2016",
@@ -16495,7 +16495,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": ""
     },
     {
