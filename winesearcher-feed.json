@@ -2285,7 +2285,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/691-DEFAULT-l.jpg"
     },
     {
@@ -7056,7 +7056,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/5843-DEFAULT-l.jpg"
     },
     {
@@ -11366,6 +11366,19 @@
       "image-url": ""
     },
     {
+      "sku": "19663156",
+      "name": "1995 Chateau Lynch Bages Pauillac",
+      "vintage": "1995",
+      "unit-size": "750ML",
+      "price": "219.98",
+      "url": "https://www.winehouse.com/shop/1995-chateau-lynch-bages-pauillac-11556",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/7038-DEFAULT-l.jpg"
+    },
+    {
       "sku": "19663442",
       "name": "1995 Chateau Cos d`Estournel Saint Estephe",
       "vintage": "1995",
@@ -15339,7 +15352,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/7426-DEFAULT-l.jpg"
     },
     {
@@ -29287,7 +29300,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "26",
+      "stock-level": "25",
       "image-url": "https://www.winehouse.com/prodimages/7553-DEFAULT-l.jpg"
     },
     {
@@ -38192,7 +38205,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "21",
       "image-url": ""
     },
     {
