@@ -3000,7 +3000,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "35",
       "image-url": "https://www.winehouse.com/prodimages/2854-DEFAULT-l.jpg"
     },
     {
@@ -3013,8 +3013,21 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/2855-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "081753802479",
+      "name": "NV Veuve Clicquot Brut Rose",
+      "vintage": "NV",
+      "unit-size": "750ML",
+      "price": "71.99",
+      "url": "https://www.winehouse.com/shop/nv-veuve-clicquot-brut-rose-82218",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "8",
+      "image-url": "https://www.winehouse.com/prodimages/2858-DEFAULT-l.jpg"
     },
     {
       "sku": "081753810832",
@@ -3078,7 +3091,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "1",
+      "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/2851-DEFAULT-l.jpg"
     },
     {
@@ -7320,6 +7333,19 @@
       "image-url": "https://www.winehouse.com/prodimages/3636-DEFAULT-l.jpg"
     },
     {
+      "sku": "097546102008",
+      "name": "NV Roederer Estate Brut Estate Anderson Valley Sparkling Wine",
+      "vintage": "NV",
+      "unit-size": "750ML",
+      "price": "23.99",
+      "url": "https://www.winehouse.com/shop/nv-roederer-estate-brut-estate-anderson-valley-sparkling-wine-1717",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "19",
+      "image-url": "https://www.winehouse.com/prodimages/3634-DEFAULT-l.jpg"
+    },
+    {
       "sku": "097546152898",
       "name": "2019 Roederer Estate L`Ermitage Brut Anderson Valley",
       "vintage": "2019",
@@ -7331,6 +7357,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "24",
       "image-url": "https://www.winehouse.com/prodimages/3215-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "097546182000",
+      "name": "NV Roederer Estate Brut Rose Estate Anderson Valley",
+      "vintage": "NV",
+      "unit-size": "750ML",
+      "price": "32.99",
+      "url": "https://www.winehouse.com/shop/nv-roederer-estate-brut-rose-estate-anderson-valley-1744",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "23",
+      "image-url": "https://www.winehouse.com/prodimages/6133-DEFAULT-l.jpg"
     },
     {
       "sku": "097921176105",
@@ -22179,7 +22218,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "34",
+      "stock-level": "33",
       "image-url": "https://www.winehouse.com/prodimages/4877-DEFAULT-l.jpg"
     },
     {
@@ -22818,19 +22857,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/3715-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "422502",
-      "name": "2003 Domaine Jean Louis Chave Hermitage",
-      "vintage": "2003",
-      "unit-size": "750ML",
-      "price": "599.98",
-      "url": "https://www.winehouse.com/shop/2003-domaine-jean-louis-chave-hermitage-62036",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/7388-DEFAULT-l.jpg"
     },
     {
       "sku": "422588",
@@ -34636,6 +34662,19 @@
       "image-url": "https://www.winehouse.com/prodimages/6083-DEFAULT-l.jpg"
     },
     {
+      "sku": "734599020056",
+      "name": "2023 Domaines Ott Bandol Rose Chateau Romassan",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "39.99",
+      "url": "https://www.winehouse.com/shop/2023-domaines-ott-bandol-rose-chateau-romassan-133144",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "17",
+      "image-url": "https://www.winehouse.com/prodimages/7631-DEFAULT-l.jpg"
+    },
+    {
       "sku": "734599161551",
       "name": "2015 Louis Roederer Brut Nature Rose `Philippe Starck` Champagne",
       "vintage": "2015",
@@ -44343,7 +44382,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "60",
       "image-url": "https://www.winehouse.com/prodimages/7803-DEFAULT-l.jpg"
     },
     {
@@ -48854,7 +48893,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "15",
+      "stock-level": "14",
       "image-url": ""
     },
     {
