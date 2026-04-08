@@ -2012,7 +2012,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "8",
       "image-url": ""
     },
     {
@@ -3550,6 +3550,19 @@
       "image-url": ""
     },
     {
+      "sku": "083706401173",
+      "name": "Duvel Triple Hop Citra Belgian IPA 4PK",
+      "vintage": "",
+      "unit-size": "330ML",
+      "price": "17.99",
+      "url": "https://www.winehouse.com/shop/duvel-triple-hopped-belgian-seasonal-ale-saaz-syrian-golding-amarillo-dry-hopped-syrian-golding-bottle-conditioned-9-5-abv-20109",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "6",
+      "image-url": ""
+    },
+    {
       "sku": "083706408011",
       "name": "Duvel 6.66 Belgian Blonde 4PK",
       "vintage": "",
@@ -3585,7 +3598,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/5825-DEFAULT-l.jpg"
     },
     {
@@ -18149,7 +18162,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "20",
+      "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/3343-DEFAULT-l.jpg"
     },
     {
@@ -31980,7 +31993,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/6664-DEFAULT-l.jpg"
     },
     {
@@ -44278,7 +44291,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "7",
       "image-url": ""
     },
     {
@@ -48065,19 +48078,6 @@
       "image-url": "https://www.winehouse.com/prodimages/7664-DEFAULT-l.jpg"
     },
     {
-      "sku": "860462001102",
-      "name": "2024 Red Car Wine Rose of Pinot Noir Sonoma Coast",
-      "vintage": "2024",
-      "unit-size": "750ML",
-      "price": "25.99",
-      "url": "https://www.winehouse.com/shop/2024-red-car-wine-company-rose-of-pinot-noir-sonoma-coast-137942",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/5914-DEFAULT-l.jpg"
-    },
-    {
       "sku": "861602000412",
       "name": "Gray Whale Gin California",
       "vintage": "",
@@ -49920,7 +49920,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "102",
+      "stock-level": "75",
       "image-url": "https://www.winehouse.com/prodimages/7605-DEFAULT-l.jpg"
     },
     {
@@ -51300,19 +51300,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
-    },
-    {
-      "sku": "943194",
-      "name": "2021 Cloudy Bay Vineyards Pinot Noir Marlborough",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "41.99",
-      "url": "https://www.winehouse.com/shop/2021-cloudy-bay-vineyards-pinot-noir-marlborough-125750",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "11",
-      "image-url": "https://www.winehouse.com/prodimages/4439-DEFAULT-l.jpg"
     },
     {
       "sku": "945201",
