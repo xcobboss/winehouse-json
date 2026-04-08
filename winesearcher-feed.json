@@ -6484,7 +6484,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/4500-DEFAULT-l.jpg"
     },
     {
@@ -6900,7 +6900,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/7601-DEFAULT-l.jpg"
     },
     {
@@ -7526,19 +7526,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/7250-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "098709099074",
-      "name": "2023 Catena Chardonnay Adrianna Vineyard White Bones",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "139.99",
-      "url": "https://www.winehouse.com/shop/2023-catena-chardonnay-adrianna-vineyard-white-bones-138235",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/6451-DEFAULT-l.jpg"
     },
     {
       "sku": "098709099159",
@@ -18097,7 +18084,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "22",
       "image-url": "https://www.winehouse.com/prodimages/7101-DEFAULT-l.jpg"
     },
     {
@@ -33865,7 +33852,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "148",
+      "stock-level": "147",
       "image-url": "https://www.winehouse.com/prodimages/7558-DEFAULT-l.jpg"
     },
     {
@@ -35334,7 +35321,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/7723-DEFAULT-l.jpg"
     },
     {
@@ -37102,7 +37089,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "26",
+      "stock-level": "25",
       "image-url": "https://www.winehouse.com/prodimages/3353-DEFAULT-l.jpg"
     },
     {
@@ -37845,19 +37832,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/5799-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "77000088",
-      "name": "2009 Domaine William Fèvre Chablis Grand Cru Les Preuses",
-      "vintage": "2009",
-      "unit-size": "1.5L",
-      "price": "299.98",
-      "url": "https://www.winehouse.com/shop/2009-domaine-william-f-vre-chablis-grand-cru-les-preuses-137965",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/5943-DEFAULT-l.jpg"
     },
     {
       "sku": "77000095",
@@ -45799,7 +45773,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/1681-DEFAULT-l.jpg"
     },
     {
@@ -47996,7 +47970,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "29",
+      "stock-level": "27",
       "image-url": ""
     },
     {
@@ -49907,7 +49881,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "41",
+      "stock-level": "37",
       "image-url": "https://www.winehouse.com/prodimages/7605-DEFAULT-l.jpg"
     },
     {
