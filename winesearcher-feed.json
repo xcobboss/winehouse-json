@@ -6462,19 +6462,6 @@
       "image-url": ""
     },
     {
-      "sku": "089419172546",
-      "name": "2024 Ingrid Groiss Rose Pinot Noir Ried Hasenhaide",
-      "vintage": "2024",
-      "unit-size": "750ML",
-      "price": "21.99",
-      "url": "https://www.winehouse.com/shop/2024-ingrid-groiss-rose-pinot-noir-ried-hasenhaide-134945",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/3737-DEFAULT-l.jpg"
-    },
-    {
       "sku": "089419180015",
       "name": "2022 Hamilton Russell Pinot Noir Heme-en-Aarde Valley",
       "vintage": "2022",
@@ -9593,6 +9580,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
+    },
+    {
+      "sku": "133007",
+      "name": "2014 Domaine de la Romanee Conti La Tache Grand Cru",
+      "vintage": "2014",
+      "unit-size": "750ML",
+      "price": "6249.95",
+      "url": "https://www.winehouse.com/shop/2014-domaine-de-la-romanee-conti-la-tache-grand-cru-7191",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/4168-DEFAULT-l.jpg"
     },
     {
       "sku": "133011",
@@ -13484,6 +13484,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
+    },
+    {
+      "sku": "221137",
+      "name": "2013 Sine Qua Non Grenache Jusqu`a l`os Eleven Confessions Estate Vineyard",
+      "vintage": "2013",
+      "unit-size": "750ML",
+      "price": "599.95",
+      "url": "https://www.winehouse.com/shop/2013-sine-qua-non-grenache-jusqu-a-l-os-eleven-confessions-estate-vineyard-318",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/2199-DEFAULT-l.jpg"
     },
     {
       "sku": "221198",
@@ -20138,7 +20151,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/6381-DEFAULT-l.jpg"
     },
     {
@@ -20276,7 +20289,7 @@
       "name": "2018 Chateau Verso de Haut-Batailley Pauillac",
       "vintage": "2018",
       "unit-size": "750ML",
-      "price": "36.99",
+      "price": "33.29",
       "url": "https://www.winehouse.com/shop/2018-chateau-verso-de-haut-batailley-pauillac-139345",
       "min-order": "1",
       "offer-type": "",
@@ -20315,7 +20328,7 @@
       "name": "2022 Chateau Lynch Bages Pauillac",
       "vintage": "2022",
       "unit-size": "750ML",
-      "price": "189.99",
+      "price": "170.99",
       "url": "https://www.winehouse.com/shop/2022-chateau-lynch-bages-pauillac-123523",
       "min-order": "1",
       "offer-type": "",
@@ -20580,7 +20593,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/7545-DEFAULT-l.jpg"
     },
     {
@@ -20705,7 +20718,7 @@
       "name": "2015 Chateau Lynch Bages Pauillac",
       "vintage": "2015",
       "unit-size": "750ML",
-      "price": "249.99",
+      "price": "224.99",
       "url": "https://www.winehouse.com/shop/2015-chateau-lynch-bages-pauillac-32895",
       "min-order": "1",
       "offer-type": "",
@@ -20718,7 +20731,7 @@
       "name": "2018 Chateau Lynch Bages Pauillac",
       "vintage": "2018",
       "unit-size": "750ML",
-      "price": "199.99",
+      "price": "179.99",
       "url": "https://www.winehouse.com/shop/2018-chateau-lynch-bages-pauillac-12835",
       "min-order": "1",
       "offer-type": "",
@@ -21347,7 +21360,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "45",
+      "stock-level": "44",
       "image-url": "https://www.winehouse.com/prodimages/3307-DEFAULT-l.jpg"
     },
     {
@@ -21433,7 +21446,7 @@
       "name": "2019 Chateau Haut Batailley Pauillac",
       "vintage": "2019",
       "unit-size": "750ML",
-      "price": "69.99",
+      "price": "62.99",
       "url": "https://www.winehouse.com/shop/2019-chateau-haut-batailley-pauillac-122930",
       "min-order": "1",
       "offer-type": "",
@@ -24003,6 +24016,19 @@
       "image-url": "https://www.winehouse.com/prodimages/5523-DEFAULT-l.jpg"
     },
     {
+      "sku": "461072",
+      "name": "2021 Domaine Roulot Roulot Meursault Les Vireuils",
+      "vintage": "2021",
+      "unit-size": "750ML",
+      "price": "599.95",
+      "url": "https://www.winehouse.com/shop/2021-domaine-roulot-roulot-meursault-les-vireuils-128626",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/6325-DEFAULT-l.jpg"
+    },
+    {
       "sku": "461300",
       "name": "2020 Domaine de la Romanee Conti Richebourg Grand Cru",
       "vintage": "2020",
@@ -26456,7 +26482,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "14",
       "image-url": "https://www.winehouse.com/prodimages/5034-DEFAULT-l.jpg"
     },
     {
@@ -27288,19 +27314,6 @@
       "offer-type": "",
       "delivery-time": "2-5 days",
       "stock-level": "4",
-      "image-url": ""
-    },
-    {
-      "sku": "566206",
-      "name": "2013 Leroy Domaine d`Auvenay Bourgogne Aligote Sous Chatelet",
-      "vintage": "2013",
-      "unit-size": "750ML",
-      "price": "3799.98",
-      "url": "https://www.winehouse.com/shop/2013-leroy-domaine-d-auvenay-bourgogne-aligote-sous-chatelet-9493",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -28431,7 +28444,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/7517-DEFAULT-l.jpg"
     },
     {
@@ -30801,6 +30814,19 @@
       "image-url": "https://www.winehouse.com/prodimages/5604-DEFAULT-l.jpg"
     },
     {
+      "sku": "66000081",
+      "name": "2018 Alban Vineyards Reva Syrah Alban Estate Vineyard Edna Valley",
+      "vintage": "2018",
+      "unit-size": "750ML",
+      "price": "199.95",
+      "url": "https://www.winehouse.com/shop/2018-alban-vineyards-reva-syrah-alban-estate-vineyard-edna-valley-137716",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/5580-DEFAULT-l.jpg"
+    },
+    {
       "sku": "66000083",
       "name": "2023 Aubert Wines Chardonnay Eastside Russian River Valley",
       "vintage": "2023",
@@ -32071,7 +32097,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "25",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/6817-DEFAULT-l.jpg"
     },
     {
@@ -33401,6 +33427,19 @@
       "image-url": ""
     },
     {
+      "sku": "715574",
+      "name": "2016 Sine Qua Non Grenache Pajarito Eleven Confessions Vineyard Santa Rita Hills",
+      "vintage": "2016",
+      "unit-size": "750ML",
+      "price": "649.95",
+      "url": "https://www.winehouse.com/shop/2016-sine-qua-non-grenache-pajarito-eleven-confessions-vineyard-santa-rita-hills-13124",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "2",
+      "image-url": "https://www.winehouse.com/prodimages/2170-DEFAULT-l.jpg"
+    },
+    {
       "sku": "715897008137",
       "name": "2024 Morgan Winery Chardonnay Metallico Santa Lucia Highlands",
       "vintage": "2024",
@@ -33943,7 +33982,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "23",
       "image-url": ""
     },
     {
@@ -35659,7 +35698,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/1747-DEFAULT-l.jpg"
     },
     {
@@ -38718,19 +38757,6 @@
       "image-url": "https://www.winehouse.com/prodimages/4477-DEFAULT-l.jpg"
     },
     {
-      "sku": "791930002751",
-      "name": "2024 Domaine Charvin Cotes du Rhone Rosé",
-      "vintage": "2024",
-      "unit-size": "750ML",
-      "price": "21.99",
-      "url": "https://www.winehouse.com/shop/2024-domaine-charvin-cotes-du-rhone-rose-135777",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/2986-DEFAULT-l.jpg"
-    },
-    {
       "sku": "791930003741",
       "name": "2022 Pichler Krutzler Riesling In der Wand Wachau",
       "vintage": "2022",
@@ -39091,7 +39117,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/7168-DEFAULT-l.jpg"
     },
     {
@@ -41366,7 +41392,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "22",
       "image-url": "https://www.winehouse.com/prodimages/7698-DEFAULT-l.jpg"
     },
     {
@@ -42579,19 +42605,6 @@
       "image-url": "https://www.winehouse.com/prodimages/560-DEFAULT-l.jpg"
     },
     {
-      "sku": "836575000110",
-      "name": "2021 Mt Difficulty Bannockburn Pinot Noir Central Otago",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "34.99",
-      "url": "https://www.winehouse.com/shop/2021-mt-difficulty-bannockburn-pinot-noir-central-otago-135261",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/1916-DEFAULT-l.jpg"
-    },
-    {
       "sku": "836794",
       "name": "2024 Nanclares y Prieto Dandelion Albariño Rias Baixas",
       "vintage": "2024",
@@ -43511,7 +43524,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/1794-DEFAULT-l.jpg"
     },
     {
@@ -43524,7 +43537,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "32",
+      "stock-level": "31",
       "image-url": "https://www.winehouse.com/prodimages/6553-DEFAULT-l.jpg"
     },
     {
@@ -49781,19 +49794,6 @@
       "image-url": ""
     },
     {
-      "sku": "897941000165",
-      "name": "2022 Paul Hobbs Winery Pinot Noir Sonoma County",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "74.99",
-      "url": "https://www.winehouse.com/shop/2022-paul-hobbs-winery-pinot-noir-sonoma-county-134181",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/1495-DEFAULT-l.jpg"
-    },
-    {
       "sku": "897941000271",
       "name": "2021 Crossbarn by Paul Hobbs Pinot Noir Sonoma Coast",
       "vintage": "2021",
@@ -49920,7 +49920,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "75",
+      "stock-level": "52",
       "image-url": "https://www.winehouse.com/prodimages/7605-DEFAULT-l.jpg"
     },
     {
@@ -51233,7 +51233,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/2877-DEFAULT-l.jpg"
     },
     {
