@@ -7407,7 +7407,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "40",
+      "stock-level": "30",
       "image-url": "https://www.winehouse.com/prodimages/3634-DEFAULT-l.jpg"
     },
     {
@@ -7615,7 +7615,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/7251-DEFAULT-l.jpg"
     },
     {
@@ -14002,18 +14002,6 @@
       "offer-type": "",
       "delivery-time": "2-5 days",
       "stock-level": "6",
-      "image-url": ""
-    },
-    {
-      "sku": "23067",
-      "name": "2023 Chateau Branaire Ducru St Julien (Pre-Arrival, ETA Fall 2026)",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "46.99",
-      "url": "https://www.winehouse.com/shop/2023-chateau-branaire-ducru-st-julien-pre-arrival-eta-fall-2026-131119",
-      "min-order": "1",
-      "offer-type": "PA",
-      "stock-level": "8",
       "image-url": ""
     },
     {
@@ -20480,19 +20468,6 @@
       "image-url": ""
     },
     {
-      "sku": "367763",
-      "name": "2021 Antiquum Farm Pinot Noir Juel Willamette Valley",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "45.99",
-      "url": "https://www.winehouse.com/shop/2021-antiquum-farm-pinot-noir-juel-willamette-valley-129351",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "7",
-      "image-url": "https://www.winehouse.com/prodimages/1135-DEFAULT-l.jpg"
-    },
-    {
       "sku": "367841",
       "name": "2021 Antiquum Farm Pinot Noir Passiflora Willamette Valley",
       "vintage": "2021",
@@ -25515,7 +25490,7 @@
       "name": "2021 Paraduxx (Duckhorn) Napa Valley Red Wine",
       "vintage": "2021",
       "unit-size": "750ML",
-      "price": "39.99",
+      "price": "27.00",
       "url": "https://www.winehouse.com/shop/2021-paraduxx-duckhorn-napa-valley-red-wine-135107",
       "min-order": "1",
       "offer-type": "",
@@ -34424,7 +34399,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/1774-DEFAULT-l.jpg"
     },
     {
@@ -41977,7 +41952,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/6760-DEFAULT-l.jpg"
     },
     {
@@ -46050,19 +46025,6 @@
       "image-url": "https://www.winehouse.com/prodimages/766-DEFAULT-l.jpg"
     },
     {
-      "sku": "8541259",
-      "name": "2021 Antiquum Farm Pinot Noir Luxuria Willamette Valley",
-      "vintage": "2021",
-      "unit-size": "750ML",
-      "price": "80.99",
-      "url": "https://www.winehouse.com/shop/2021-antiquum-farm-pinot-noir-luxuria-willamette-valley-132811",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/3751-DEFAULT-l.jpg"
-    },
-    {
       "sku": "854396005008",
       "name": "High West Double Rye Whiskey",
       "vintage": "",
@@ -47627,7 +47589,7 @@
       "name": "2022 Spoken West Wines Pinot Noir California",
       "vintage": "2022",
       "unit-size": "750ML",
-      "price": "13.99",
+      "price": "8.00",
       "url": "https://www.winehouse.com/shop/2022-spoken-west-wines-pinot-noir-california-137937",
       "min-order": "1",
       "offer-type": "",
@@ -49114,7 +49076,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/3888-DEFAULT-l.jpg"
     },
     {
