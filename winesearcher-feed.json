@@ -621,7 +621,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "19",
       "image-url": "https://www.winehouse.com/prodimages/6267-DEFAULT-l.jpg"
     },
     {
@@ -2701,7 +2701,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/5485-DEFAULT-l.jpg"
     },
     {
@@ -4391,7 +4391,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "36",
+      "stock-level": "35",
       "image-url": ""
     },
     {
@@ -7420,7 +7420,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "36",
+      "stock-level": "35",
       "image-url": "https://www.winehouse.com/prodimages/3634-DEFAULT-l.jpg"
     },
     {
@@ -7758,7 +7758,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "60",
+      "stock-level": "48",
       "image-url": "https://www.winehouse.com/prodimages/5036-DEFAULT-l.jpg"
     },
     {
@@ -20780,6 +20780,19 @@
       "image-url": "https://www.winehouse.com/prodimages/6715-DEFAULT-l.jpg"
     },
     {
+      "sku": "3760031472647",
+      "name": "2019 Domaine Lafage Tessellae Carignan Vieilles Vignes, Cotes Catalanes",
+      "vintage": "2019",
+      "unit-size": "750ML",
+      "price": "11.99",
+      "url": "https://www.winehouse.com/shop/2019-domaine-lafage-tessellae-carignan-vieilles-vignes-cotes-catalanes-139609",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "332",
+      "image-url": ""
+    },
+    {
       "sku": "3760039380517",
       "name": "1985 Domaine Gardiés Rivesaltes Ambre, Languedoc-Roussillon",
       "vintage": "1985",
@@ -23935,7 +23948,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "25",
+      "stock-level": "32",
       "image-url": "https://www.winehouse.com/prodimages/3833-DEFAULT-l.jpg"
     },
     {
@@ -38624,7 +38637,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/3610-DEFAULT-l.jpg"
     },
     {
@@ -44565,7 +44578,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/715-DEFAULT-l.jpg"
     },
     {
@@ -49973,7 +49986,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "52",
+      "stock-level": "46",
       "image-url": "https://www.winehouse.com/prodimages/7605-DEFAULT-l.jpg"
     },
     {
