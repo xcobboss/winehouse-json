@@ -699,7 +699,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "28",
+      "stock-level": "26",
       "image-url": "https://www.winehouse.com/prodimages/6193-DEFAULT-l.jpg"
     },
     {
@@ -894,7 +894,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "7",
       "image-url": ""
     },
     {
@@ -1609,7 +1609,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "29",
+      "stock-level": "22",
       "image-url": "https://www.winehouse.com/prodimages/213-DEFAULT-l.jpg"
     },
     {
@@ -3923,7 +3923,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "32",
+      "stock-level": "30",
       "image-url": "https://www.winehouse.com/prodimages/4576-DEFAULT-l.jpg"
     },
     {
@@ -5171,7 +5171,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "21",
       "image-url": ""
     },
     {
@@ -15385,19 +15385,6 @@
       "image-url": "https://www.winehouse.com/prodimages/7478-DEFAULT-l.jpg"
     },
     {
-      "sku": "264484",
-      "name": "2024 Williams Selyem Unoaked RRV Chardonnay",
-      "vintage": "2024",
-      "unit-size": "750ML",
-      "price": "62.99",
-      "url": "https://www.winehouse.com/shop/2024-williams-selyem-unoaked-rrv-chardonnay-139122",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "5",
-      "image-url": "https://www.winehouse.com/prodimages/7426-DEFAULT-l.jpg"
-    },
-    {
       "sku": "264531",
       "name": "2024 Williams Selyem Pinot Noir Sonoma County",
       "vintage": "2024",
@@ -22262,19 +22249,6 @@
       "image-url": ""
     },
     {
-      "sku": "4036328000015",
-      "name": "Schoenramer Hell Private Landbraurei Schoenram",
-      "vintage": "",
-      "unit-size": "500ML",
-      "price": "4.99",
-      "url": "https://www.winehouse.com/shop/schoenramer-hell-private-landbraurei-schoenram-5-0-abv-20940",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/4878-DEFAULT-l.jpg"
-    },
-    {
       "sku": "4036328000022",
       "name": "Schonramer Dunkel 1S",
       "vintage": "",
@@ -22297,7 +22271,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "32",
+      "stock-level": "31",
       "image-url": "https://www.winehouse.com/prodimages/4877-DEFAULT-l.jpg"
     },
     {
@@ -30473,7 +30447,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "5",
       "image-url": ""
     },
     {
@@ -35790,7 +35764,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "12",
       "image-url": ""
     },
     {
@@ -35881,7 +35855,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/7723-DEFAULT-l.jpg"
     },
     {
@@ -39018,6 +38992,32 @@
       "image-url": "https://www.winehouse.com/prodimages/4768-DEFAULT-l.jpg"
     },
     {
+      "sku": "7798136980725",
+      "name": "2024 Chacra Barda Pinot Noir Patagonia",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "31.99",
+      "url": "https://www.winehouse.com/shop/2024-chacra-barda-pinot-noir-patagonia-136945",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "36",
+      "image-url": "https://www.winehouse.com/prodimages/4834-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "7798136982293",
+      "name": "2024 Chacra `Sin Azufre` Pinot Noir, Rio Negro",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "54.99",
+      "url": "https://www.winehouse.com/shop/2024-chacra-sin-azufre-pinot-noir-rio-negro-136948",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": "https://www.winehouse.com/prodimages/4837-DEFAULT-l.jpg"
+    },
+    {
       "sku": "7798136987052",
       "name": "2024 Chacra Mainque Chardonnay Rio Negro Patagonia",
       "vintage": "2024",
@@ -39029,6 +39029,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/4838-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "7798136987236",
+      "name": "2024 Chacra Roka Malbec Patagonia",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "59.99",
+      "url": "https://www.winehouse.com/shop/2024-chacra-roka-malbec-patagonia-136946",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": "https://www.winehouse.com/prodimages/4835-DEFAULT-l.jpg"
     },
     {
       "sku": "7798136988226",
@@ -39391,7 +39404,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/6071-DEFAULT-l.jpg"
     },
     {
@@ -42394,7 +42407,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": ""
     },
     {
@@ -43057,7 +43070,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "35",
+      "stock-level": "34",
       "image-url": "https://www.winehouse.com/prodimages/4778-DEFAULT-l.jpg"
     },
     {
@@ -46944,7 +46957,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/1159-DEFAULT-l.jpg"
     },
     {
@@ -47191,7 +47204,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/7761-DEFAULT-l.jpg"
     },
     {
@@ -50480,7 +50493,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "144",
+      "stock-level": "142",
       "image-url": "https://www.winehouse.com/prodimages/7605-DEFAULT-l.jpg"
     },
     {
