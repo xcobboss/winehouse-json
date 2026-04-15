@@ -621,7 +621,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "41",
       "image-url": "https://www.winehouse.com/prodimages/6267-DEFAULT-l.jpg"
     },
     {
@@ -634,7 +634,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "38",
       "image-url": "https://www.winehouse.com/prodimages/6248-DEFAULT-l.jpg"
     },
     {
@@ -5093,7 +5093,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "32",
+      "stock-level": "30",
       "image-url": "https://www.winehouse.com/prodimages/4794-DEFAULT-l.jpg"
     },
     {
@@ -6614,7 +6614,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/4489-DEFAULT-l.jpg"
     },
     {
@@ -11260,7 +11260,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "20",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/6338-DEFAULT-l.jpg"
     },
     {
@@ -16425,19 +16425,6 @@
       "image-url": "https://www.winehouse.com/prodimages/4686-DEFAULT-l.jpg"
     },
     {
-      "sku": "29988194",
-      "name": "2022 Tenuta Luce Lucente",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "22.99",
-      "url": "https://www.winehouse.com/shop/2022-tenuta-luce-lucente-134725",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "7",
-      "image-url": "https://www.winehouse.com/prodimages/4604-DEFAULT-l.jpg"
-    },
-    {
       "sku": "29988334",
       "name": "NV A. Margaine \"Le Brut\" Brut 1er Cru Champagne",
       "vintage": "NV",
@@ -17322,19 +17309,6 @@
       "image-url": "https://www.winehouse.com/prodimages/7279-DEFAULT-l.jpg"
     },
     {
-      "sku": "30330374",
-      "name": "2009 Bressler Young Vines Red Wine St Helena",
-      "vintage": "2009",
-      "unit-size": "750ML",
-      "price": "39.98",
-      "url": "https://www.winehouse.com/shop/2009-bressler-young-vines-red-wine-st-helena-139089",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/7277-DEFAULT-l.jpg"
-    },
-    {
       "sku": "30330375",
       "name": "2010 Abreu Rothwell Hyde St. Helena Bordeaux Blend",
       "vintage": "2010",
@@ -17463,19 +17437,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/7264-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "30330389",
-      "name": "2011 Behrens Family Winery Cabernet Sauvignon Spare Me Napa Valley",
-      "vintage": "2011",
-      "unit-size": "750ML",
-      "price": "59.98",
-      "url": "https://www.winehouse.com/shop/2011-behrens-family-winery-cabernet-sauvignon-spare-me-napa-valley-139075",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/7263-DEFAULT-l.jpg"
     },
     {
       "sku": "30330393",
@@ -18657,7 +18618,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/3730-DEFAULT-l.jpg"
     },
     {
@@ -21413,7 +21374,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/3307-DEFAULT-l.jpg"
     },
     {
@@ -26223,7 +26184,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/6718-DEFAULT-l.jpg"
     },
     {
@@ -27003,7 +26964,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/5034-DEFAULT-l.jpg"
     },
     {
@@ -31760,7 +31721,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "76",
       "image-url": "https://www.winehouse.com/prodimages/1673-DEFAULT-l.jpg"
     },
     {
@@ -34854,7 +34815,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -40548,7 +40509,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/7746-DEFAULT-l.jpg"
     },
     {
@@ -42511,7 +42472,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/4177-DEFAULT-l.jpg"
     },
     {
@@ -45852,7 +45813,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/6671-DEFAULT-l.jpg"
     },
     {
@@ -47546,6 +47507,32 @@
       "image-url": "https://www.winehouse.com/prodimages/6221-DEFAULT-l.jpg"
     },
     {
+      "sku": "857407002058",
+      "name": "2022 Jayson (Pahlmeyer) Chardonnay Napa County",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "56.99",
+      "url": "https://www.winehouse.com/shop/2022-jayson-pahlmeyer-chardonnay-napa-county-135082",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": "https://www.winehouse.com/prodimages/1801-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "857407002089",
+      "name": "2022 Pahlmeyer Winery Jayson Red Wine Napa Valley",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "79.99",
+      "url": "https://www.winehouse.com/shop/2022-pahlmeyer-winery-jayson-red-wine-napa-valley-136596",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": "https://www.winehouse.com/prodimages/4135-DEFAULT-l.jpg"
+    },
+    {
       "sku": "8574880055280",
       "name": "NV Philippe Fontaine Brut Tradition Champagne",
       "vintage": "NV",
@@ -48597,19 +48584,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/3605-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "860010226407",
-      "name": "2024 Massican Annia White Blend Napa Valley",
-      "vintage": "2024",
-      "unit-size": "750ML",
-      "price": "34.99",
-      "url": "https://www.winehouse.com/shop/2024-massican-annia-white-blend-napa-valley-138217",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "5",
-      "image-url": "https://www.winehouse.com/prodimages/6166-DEFAULT-l.jpg"
     },
     {
       "sku": "860010795118",
@@ -50198,6 +50172,19 @@
       "image-url": "https://www.winehouse.com/prodimages/2671-DEFAULT-l.jpg"
     },
     {
+      "sku": "894910000102",
+      "name": "2024 Frank Family Vineyards Chardonnay Carneros",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "39.99",
+      "url": "https://www.winehouse.com/shop/2024-frank-family-vineyards-chardonnay-carneros-138381",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "36",
+      "image-url": "https://www.winehouse.com/prodimages/6475-DEFAULT-l.jpg"
+    },
+    {
       "sku": "894910000409",
       "name": "2023 Frank Family Vineyard Cabernet Sauvignon Napa Valley",
       "vintage": "2023",
@@ -50207,7 +50194,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "28",
       "image-url": "https://www.winehouse.com/prodimages/5476-DEFAULT-l.jpg"
     },
     {
@@ -52548,19 +52535,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "17",
       "image-url": ""
-    },
-    {
-      "sku": "9726300",
-      "name": "2022 Brancaia Tre Toscano Rosso",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "21.99",
-      "url": "https://www.winehouse.com/shop/2022-brancaia-tre-toscano-rosso-136565",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/4124-DEFAULT-l.jpg"
     },
     {
       "sku": "9736",
