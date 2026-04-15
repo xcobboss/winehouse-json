@@ -6770,7 +6770,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/6285-DEFAULT-l.jpg"
     },
     {
@@ -9556,6 +9556,19 @@
       "image-url": "https://www.winehouse.com/prodimages/7336-DEFAULT-l.jpg"
     },
     {
+      "sku": "128149",
+      "name": "2018 Baron de Brane Margaux",
+      "vintage": "2018",
+      "unit-size": "750ML",
+      "price": "45.99",
+      "url": "https://www.winehouse.com/shop/2018-baron-de-brane-margaux-15830",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": ""
+    },
+    {
       "sku": "128657",
       "name": "2021 Cruse Wine Co. Ultramarine Blanc de Noirs Charles Heintz Vineyard Sonoma Coast",
       "vintage": "2021",
@@ -11780,7 +11793,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/7598-DEFAULT-l.jpg"
     },
     {
@@ -15173,7 +15186,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": ""
     },
     {
@@ -20738,19 +20751,6 @@
       "offer-type": "",
       "delivery-time": "2-5 days",
       "stock-level": "4",
-      "image-url": ""
-    },
-    {
-      "sku": "3760023696181",
-      "name": "2018 Baron de Brane Margaux",
-      "vintage": "2018",
-      "unit-size": "750ML",
-      "price": "45.99",
-      "url": "https://www.winehouse.com/shop/2018-baron-de-brane-margaux-15830",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "12",
       "image-url": ""
     },
     {
@@ -32501,7 +32501,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/877-DEFAULT-l.jpg"
     },
     {
@@ -35972,7 +35972,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/6956-DEFAULT-l.jpg"
     },
     {
@@ -46541,7 +46541,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "15",
+      "stock-level": "14",
       "image-url": "https://www.winehouse.com/prodimages/7034-DEFAULT-l.jpg"
     },
     {
