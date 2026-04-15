@@ -2272,7 +2272,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/687-DEFAULT-l.jpg"
     },
     {
@@ -6445,7 +6445,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/6675-DEFAULT-l.jpg"
     },
     {
@@ -13667,19 +13667,6 @@
       "image-url": "https://www.winehouse.com/prodimages/2710-DEFAULT-l.jpg"
     },
     {
-      "sku": "22272104",
-      "name": "2015 Schrader Cellars Cabernet Sauvignon OLD SPARKY Beckstoffer To Kolan Vineyard",
-      "vintage": "2015",
-      "unit-size": "1.5L",
-      "price": "1299.98",
-      "url": "https://www.winehouse.com/shop/2015-schrader-cellars-cabernet-sauvignon-old-sparky-beckstoffer-to-kolan-vineyard-15112",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "224072",
       "name": "2021 Chateau Angelus St Emilion",
       "vintage": "2021",
@@ -15346,19 +15333,6 @@
       "image-url": ""
     },
     {
-      "sku": "2631099",
-      "name": "2023 Veronica Ortega Tormenta \"Anfora y Barrica\" Godello Bierzo",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "59.99",
-      "url": "https://www.winehouse.com/shop/2023-veronica-ortega-tormenta-anfora-y-barrica-godello-bierzo-138936",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "6",
-      "image-url": "https://www.winehouse.com/prodimages/7478-DEFAULT-l.jpg"
-    },
-    {
       "sku": "264531",
       "name": "2024 Williams Selyem Pinot Noir Sonoma County",
       "vintage": "2024",
@@ -15836,7 +15810,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "37",
+      "stock-level": "36",
       "image-url": ""
     },
     {
@@ -32475,7 +32449,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/877-DEFAULT-l.jpg"
     },
     {
@@ -40383,19 +40357,6 @@
       "image-url": "https://www.winehouse.com/prodimages/4214-DEFAULT-l.jpg"
     },
     {
-      "sku": "8021321080719",
-      "name": "2024 Villa Sparina Gavi",
-      "vintage": "2024",
-      "unit-size": "750ML",
-      "price": "15.99",
-      "url": "https://www.winehouse.com/shop/2024-villa-sparina-gavi-136414",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/3967-DEFAULT-l.jpg"
-    },
-    {
       "sku": "80215999",
       "name": "1991 Domaine des Comtes Lafon Volnay Santenots-du-Milieu 1er Cru",
       "vintage": "1991",
@@ -40444,7 +40405,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "23",
       "image-url": ""
     },
     {
@@ -42186,7 +42147,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "36",
+      "stock-level": "35",
       "image-url": "https://www.winehouse.com/prodimages/4129-DEFAULT-l.jpg"
     },
     {
@@ -42394,7 +42355,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "23",
       "image-url": "https://www.winehouse.com/prodimages/2481-DEFAULT-l.jpg"
     },
     {
@@ -42550,7 +42511,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/7700-DEFAULT-l.jpg"
     },
     {
@@ -44123,7 +44084,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "22",
       "image-url": "https://www.winehouse.com/prodimages/3954-DEFAULT-l.jpg"
     },
     {
@@ -44630,7 +44591,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "15",
+      "stock-level": "14",
       "image-url": "https://www.winehouse.com/prodimages/5693-DEFAULT-l.jpg"
     },
     {
@@ -49622,7 +49583,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "36",
+      "stock-level": "35",
       "image-url": "https://www.winehouse.com/prodimages/7363-DEFAULT-l.jpg"
     },
     {
@@ -49973,7 +49934,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/3629-DEFAULT-l.jpg"
     },
     {
@@ -52234,7 +52195,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/7477-DEFAULT-l.jpg"
     },
     {
