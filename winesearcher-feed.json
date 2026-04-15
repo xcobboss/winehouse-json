@@ -569,7 +569,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "15",
+      "stock-level": "14",
       "image-url": "https://www.winehouse.com/prodimages/7164-DEFAULT-l.jpg"
     },
     {
@@ -805,6 +805,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/849-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "026404966445",
+      "name": "2023 Moric Hausmarke Gruner Veltliner Blend `Super Natural`",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "36.99",
+      "url": "https://www.winehouse.com/shop/2023-moric-hausmarke-gruner-veltliner-blend-super-natural-139120",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": "https://www.winehouse.com/prodimages/7330-DEFAULT-l.jpg"
     },
     {
       "sku": "026757132511",
@@ -6302,7 +6315,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "20",
+      "stock-level": "19",
       "image-url": "https://www.winehouse.com/prodimages/7177-DEFAULT-l.jpg"
     },
     {
@@ -6380,7 +6393,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/7186-DEFAULT-l.jpg"
     },
     {
@@ -7320,6 +7333,19 @@
       "image-url": "https://www.winehouse.com/prodimages/3481-DEFAULT-l.jpg"
     },
     {
+      "sku": "094922118134",
+      "name": "2024 Franz Etz Gruner Veltliner, Kamptal",
+      "vintage": "2024",
+      "unit-size": "1L",
+      "price": "14.99",
+      "url": "https://www.winehouse.com/shop/2024-franz-etz-gruner-veltliner-kamptal-136447",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "108",
+      "image-url": "https://www.winehouse.com/prodimages/3987-DEFAULT-l.jpg"
+    },
+    {
       "sku": "094922525017",
       "name": "Averell Damson Gin Liqueur",
       "vintage": "",
@@ -7654,7 +7680,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/7250-DEFAULT-l.jpg"
     },
     {
@@ -21334,7 +21360,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/3307-DEFAULT-l.jpg"
     },
     {
@@ -21750,7 +21776,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "32",
+      "stock-level": "31",
       "image-url": "https://www.winehouse.com/prodimages/7108-DEFAULT-l.jpg"
     },
     {
@@ -22114,7 +22140,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "29",
       "image-url": "https://www.winehouse.com/prodimages/3909-DEFAULT-l.jpg"
     },
     {
@@ -22209,6 +22235,19 @@
       "image-url": ""
     },
     {
+      "sku": "4036328000015",
+      "name": "Schoenramer Hell Private Landbraurei Schoenram",
+      "vintage": "",
+      "unit-size": "500ML",
+      "price": "4.99",
+      "url": "https://www.winehouse.com/shop/schoenramer-hell-private-landbraurei-schoenram-5-0-abv-20940",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "20",
+      "image-url": "https://www.winehouse.com/prodimages/4878-DEFAULT-l.jpg"
+    },
+    {
       "sku": "4036328000022",
       "name": "Schonramer Dunkel 1S",
       "vintage": "",
@@ -22222,6 +22261,19 @@
       "image-url": "https://www.winehouse.com/prodimages/7154-DEFAULT-l.jpg"
     },
     {
+      "sku": "4036328000039",
+      "name": "Schonramer Gold",
+      "vintage": "",
+      "unit-size": "500ML",
+      "price": "4.99",
+      "url": "https://www.winehouse.com/shop/schoenramer-gold-5-4-abv-24289",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "36",
+      "image-url": "https://www.winehouse.com/prodimages/4876-DEFAULT-l.jpg"
+    },
+    {
       "sku": "4036328000053",
       "name": "Schonramer Pilsner",
       "vintage": "",
@@ -22231,7 +22283,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "31",
+      "stock-level": "71",
       "image-url": "https://www.winehouse.com/prodimages/4877-DEFAULT-l.jpg"
     },
     {
@@ -24324,7 +24376,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "25",
+      "stock-level": "24",
       "image-url": "https://www.winehouse.com/prodimages/3833-DEFAULT-l.jpg"
     },
     {
@@ -25897,7 +25949,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/1739-DEFAULT-l.jpg"
     },
     {
@@ -26755,7 +26807,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/7674-DEFAULT-l.jpg"
     },
     {
@@ -30901,7 +30953,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "31",
+      "stock-level": "30",
       "image-url": "https://www.winehouse.com/prodimages/3355-DEFAULT-l.jpg"
     },
     {
@@ -31837,7 +31889,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "22",
       "image-url": "https://www.winehouse.com/prodimages/7721-DEFAULT-l.jpg"
     },
     {
@@ -34203,7 +34255,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "27",
       "image-url": "https://www.winehouse.com/prodimages/7328-DEFAULT-l.jpg"
     },
     {
@@ -35152,7 +35204,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/2104-DEFAULT-l.jpg"
     },
     {
@@ -37427,7 +37479,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": ""
     },
     {
@@ -38987,7 +39039,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "36",
+      "stock-level": "35",
       "image-url": "https://www.winehouse.com/prodimages/4834-DEFAULT-l.jpg"
     },
     {
@@ -39299,7 +39351,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/3935-DEFAULT-l.jpg"
     },
     {
@@ -40599,7 +40651,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "15",
       "image-url": ""
     },
     {
@@ -41912,7 +41964,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/7706-DEFAULT-l.jpg"
     },
     {
@@ -46479,19 +46531,6 @@
       "image-url": "https://www.winehouse.com/prodimages/540-DEFAULT-l.jpg"
     },
     {
-      "sku": "853098005002",
-      "name": "2022 Leviathan Proprietary Red",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "33.99",
-      "url": "https://www.winehouse.com/shop/2022-leviathan-proprietary-red-135011",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/1681-DEFAULT-l.jpg"
-    },
-    {
       "sku": "85328457",
       "name": "2018 Cain Cellars Cain Five Meritage Red Napa Valley",
       "vintage": "2018",
@@ -50245,7 +50284,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/7678-DEFAULT-l.jpg"
     },
     {
