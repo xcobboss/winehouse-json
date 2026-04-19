@@ -478,7 +478,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/6047-DEFAULT-l.jpg"
     },
     {
@@ -9682,7 +9682,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/7234-DEFAULT-l.jpg"
     },
     {
@@ -14491,7 +14491,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/7786-DEFAULT-l.jpg"
     },
     {
@@ -14582,7 +14582,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/5501-DEFAULT-l.jpg"
     },
     {
@@ -16394,7 +16394,7 @@
       "url": "https://www.winehouse.com/shop/2021-casanova-di-neri-brunello-di-montalcino-white-label-pa-summer-2026-139663",
       "min-order": "1",
       "offer-type": "PA",
-      "stock-level": "38",
+      "stock-level": "32",
       "image-url": "https://www.winehouse.com/prodimages/7915-DEFAULT-l.jpg"
     },
     {
@@ -17854,32 +17854,6 @@
       "image-url": "https://www.winehouse.com/prodimages/7470-DEFAULT-l.jpg"
     },
     {
-      "sku": "320513",
-      "name": "2022 Domaine Dujac Charmes Chambertin Grand Cru",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "549.99",
-      "url": "https://www.winehouse.com/shop/2022-domaine-dujac-charmes-chambertin-grand-cru-132629",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/7233-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "320534",
-      "name": "2022 Domaine Dujac Clos de la Roche Grand Cru",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "749.99",
-      "url": "https://www.winehouse.com/shop/2022-domaine-dujac-clos-de-la-roche-grand-cru-132634",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/7469-DEFAULT-l.jpg"
-    },
-    {
       "sku": "320549",
       "name": "2021 Domaine Dujac Vosne Romanee Les Malconsorts 1er Cru",
       "vintage": "2021",
@@ -17891,19 +17865,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
-    },
-    {
-      "sku": "320552",
-      "name": "2022 Domaine Dujac Echezeaux Grand Cru",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "679.99",
-      "url": "https://www.winehouse.com/shop/2022-domaine-dujac-echezeaux-grand-cru-132639",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/7236-DEFAULT-l.jpg"
     },
     {
       "sku": "3206251",
@@ -18630,7 +18591,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/3731-DEFAULT-l.jpg"
     },
     {
@@ -30615,7 +30576,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/7644-DEFAULT-l.jpg"
     },
     {
@@ -36569,7 +36530,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "35",
+      "stock-level": "34",
       "image-url": "https://www.winehouse.com/prodimages/6095-DEFAULT-l.jpg"
     },
     {
@@ -38484,32 +38445,6 @@
       "image-url": "https://www.winehouse.com/prodimages/3233-DEFAULT-l.jpg"
     },
     {
-      "sku": "763196",
-      "name": "2023 Domaine Dujac Echezeaux Grand Cru",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "699.99",
-      "url": "https://www.winehouse.com/shop/2023-domaine-dujac-echezeaux-grand-cru-137049",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
-      "sku": "763225",
-      "name": "2023 Domaine Dujac Clos Saint-Denis Grand Cru",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "799.99",
-      "url": "https://www.winehouse.com/shop/2023-domaine-dujac-clos-saint-denis-grand-cru-137050",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": ""
-    },
-    {
       "sku": "763288",
       "name": "1996 Chateau de Fonsalette Cotes du Rhone Rouge",
       "vintage": "1996",
@@ -38547,32 +38482,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
-    },
-    {
-      "sku": "763541",
-      "name": "2023 Domaine Dujac Bonnes Mares Grand Cru",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "939.99",
-      "url": "https://www.winehouse.com/shop/2023-domaine-dujac-bonnes-mares-grand-cru-137053",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/7474-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "763791",
-      "name": "2023 Domaine Dujac Vosne Romanee Les Beaux Monts 1er Cru",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "429.99",
-      "url": "https://www.winehouse.com/shop/2023-domaine-dujac-vosne-romanee-les-beaux-monts-1er-cru-137055",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/7238-DEFAULT-l.jpg"
     },
     {
       "sku": "764164",
@@ -43043,7 +42952,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/5779-DEFAULT-l.jpg"
     },
     {
@@ -51051,7 +50960,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "67",
+      "stock-level": "66",
       "image-url": "https://www.winehouse.com/prodimages/7605-DEFAULT-l.jpg"
     },
     {
