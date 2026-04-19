@@ -9695,7 +9695,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/7234-DEFAULT-l.jpg"
     },
     {
@@ -17826,6 +17826,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/5688-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "320513",
+      "name": "2022 Domaine Dujac Charmes Chambertin Grand Cru",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "549.99",
+      "url": "https://www.winehouse.com/shop/2022-domaine-dujac-charmes-chambertin-grand-cru-132629",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/7233-DEFAULT-l.jpg"
     },
     {
       "sku": "320549",
@@ -50934,7 +50947,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "66",
+      "stock-level": "54",
       "image-url": "https://www.winehouse.com/prodimages/7605-DEFAULT-l.jpg"
     },
     {
