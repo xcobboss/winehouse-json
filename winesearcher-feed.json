@@ -66,6 +66,19 @@
       "image-url": ""
     },
     {
+      "sku": "000579000401",
+      "name": "2022 Pine Ridge Vineyards Stags Leap District Cabernet Sauvignon Napa Valley",
+      "vintage": "2022",
+      "unit-size": "750ML",
+      "price": "123.99",
+      "url": "https://www.winehouse.com/shop/2022-pine-ridge-vineyards-stags-leap-district-cabernet-sauvignon-napa-valley-137480",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/5394-DEFAULT-l.jpg"
+    },
+    {
       "sku": "000579000555",
       "name": "2023 Pine Ridge Winery Cabernet Sauvignon Napa Valley",
       "vintage": "2023",
@@ -14547,32 +14560,6 @@
       "image-url": "https://www.winehouse.com/prodimages/5499-DEFAULT-l.jpg"
     },
     {
-      "sku": "246693",
-      "name": "2023 Domaine Dujac Clos Saint-Denis Grand Cru",
-      "vintage": "2023",
-      "unit-size": "1.5L",
-      "price": "1799.99",
-      "url": "https://www.winehouse.com/shop/2023-domaine-dujac-clos-saint-denis-grand-cru-137527",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/7475-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "246841",
-      "name": "2023 Domaine Dujac Bonnes Mares Grand Cru",
-      "vintage": "2023",
-      "unit-size": "1.5L",
-      "price": "2199.99",
-      "url": "https://www.winehouse.com/shop/2023-domaine-dujac-bonnes-mares-grand-cru-137529",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/7476-DEFAULT-l.jpg"
-    },
-    {
       "sku": "247164",
       "name": "2023 Domaine Dujac Gevrey Chambertin Aux Combottes 1er Cru",
       "vintage": "2023",
@@ -17839,19 +17826,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/5688-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "320498",
-      "name": "2022 Domaine Dujac Echezeaux Grand Cru",
-      "vintage": "2022",
-      "unit-size": "1.5L",
-      "price": "1459.99",
-      "url": "https://www.winehouse.com/shop/2022-domaine-dujac-echezeaux-grand-cru-132640",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/7470-DEFAULT-l.jpg"
     },
     {
       "sku": "320549",
@@ -33267,7 +33241,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "24",
+      "stock-level": "23",
       "image-url": "https://www.winehouse.com/prodimages/1699-DEFAULT-l.jpg"
     },
     {
