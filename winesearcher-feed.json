@@ -1375,7 +1375,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": ""
     },
     {
@@ -1414,7 +1414,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": ""
     },
     {
@@ -7593,19 +7593,6 @@
       "image-url": "https://www.winehouse.com/prodimages/3000-DEFAULT-l.jpg"
     },
     {
-      "sku": "098709188600",
-      "name": "2024 Catena Zapata White Clay Semillon Chenin Blanc Lujan de Cuyo",
-      "vintage": "2024",
-      "unit-size": "750ML",
-      "price": "18.99",
-      "url": "https://www.winehouse.com/shop/2024-catena-zapata-white-clay-semillon-chenin-blanc-lujan-de-cuyo-139052",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": ""
-    },
-    {
       "sku": "098709198111",
       "name": "2021 Villa Maria Pinot Noir Single Vineyard Taylors Pass, Marlborough",
       "vintage": "2021",
@@ -7719,7 +7706,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "42",
+      "stock-level": "41",
       "image-url": "https://www.winehouse.com/prodimages/5036-DEFAULT-l.jpg"
     },
     {
@@ -15602,7 +15589,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "36",
+      "stock-level": "33",
       "image-url": ""
     },
     {
@@ -39910,7 +39897,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/7507-DEFAULT-l.jpg"
     },
     {
@@ -40508,7 +40495,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/6373-DEFAULT-l.jpg"
     },
     {
@@ -47060,7 +47047,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "32",
+      "stock-level": "31",
       "image-url": "https://www.winehouse.com/prodimages/6021-DEFAULT-l.jpg"
     },
     {
@@ -47166,19 +47153,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "6",
       "image-url": ""
-    },
-    {
-      "sku": "855731005622",
-      "name": "Smog City Brewing Coffee Porter 4P Cans",
-      "vintage": "",
-      "unit-size": "16OZ",
-      "price": "14.99",
-      "url": "https://www.winehouse.com/shop/smog-city-brewing-coffee-porter-4p-cans-136746",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6125-DEFAULT-l.jpg"
     },
     {
       "sku": "855731005677",
@@ -50713,7 +50687,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "33",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/7605-DEFAULT-l.jpg"
     },
     {
