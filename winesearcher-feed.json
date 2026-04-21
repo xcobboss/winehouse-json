@@ -4040,7 +4040,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/3767-DEFAULT-l.jpg"
     },
     {
@@ -6380,7 +6380,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/4619-DEFAULT-l.jpg"
     },
     {
@@ -11509,19 +11509,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/496-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "196852982158",
-      "name": "2023 Luuma Cabernet Sauvignon Calistoga Napa Valley",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "25.99",
-      "url": "https://www.winehouse.com/shop/2023-luuma-cabernet-sauvignon-calistoga-napa-valley-137180",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/5134-DEFAULT-l.jpg"
     },
     {
       "sku": "19693587",
@@ -32162,7 +32149,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "25",
+      "stock-level": "22",
       "image-url": "https://www.winehouse.com/prodimages/7720-DEFAULT-l.jpg"
     },
     {
