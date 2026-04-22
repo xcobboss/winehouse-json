@@ -1674,7 +1674,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "13",
       "image-url": "https://www.winehouse.com/prodimages/213-DEFAULT-l.jpg"
     },
     {
@@ -1687,7 +1687,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "35",
+      "stock-level": "34",
       "image-url": "https://www.winehouse.com/prodimages/234-DEFAULT-l.jpg"
     },
     {
@@ -7201,6 +7201,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "27",
       "image-url": "https://www.winehouse.com/prodimages/3403-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "089832922889",
+      "name": "2024 Santa Julia La Vaquita Mendoza Natural Clarete",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "17.99",
+      "url": "https://www.winehouse.com/shop/2024-santa-julia-la-vaquita-mendoza-natural-clarete-134840",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "24",
+      "image-url": "https://www.winehouse.com/prodimages/3628-DEFAULT-l.jpg"
     },
     {
       "sku": "090019301397",
@@ -27748,19 +27761,6 @@
       "image-url": ""
     },
     {
-      "sku": "5511",
-      "name": "2023 Avignonesi Dadi Amphorae Bianco",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "27.99",
-      "url": "https://www.winehouse.com/shop/2022-avignonesi-dadi-amphorae-bianco-130507",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "12",
-      "image-url": ""
-    },
-    {
       "sku": "55120478",
       "name": "2014 Rudd Oakville Estate Proprietary Red Wine Napa Valley",
       "vintage": "2014",
@@ -36405,6 +36405,19 @@
       "image-url": "https://www.winehouse.com/prodimages/7118-DEFAULT-l.jpg"
     },
     {
+      "sku": "736040006138",
+      "name": "2023 Avignonesi Dadi Amphorae Bianco",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "27.99",
+      "url": "https://www.winehouse.com/shop/2022-avignonesi-dadi-amphorae-bianco-130507",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": ""
+    },
+    {
       "sku": "736040011880",
       "name": "2020 Yarden Mt Hermon Moscato Kosher",
       "vintage": "2020",
@@ -37352,6 +37365,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/1387-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "748789700079",
+      "name": "2020 Avignonesi Vino Nobile di Montepulciano",
+      "vintage": "2020",
+      "unit-size": "750ML",
+      "price": "26.99",
+      "url": "https://www.winehouse.com/shop/2020-avignonesi-vino-nobile-di-montepulciano-133532",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "24",
+      "image-url": ""
     },
     {
       "sku": "748793",
@@ -39665,19 +39691,6 @@
       "offer-type": "R",
       "delivery-time": "2-5 days",
       "stock-level": "1",
-      "image-url": ""
-    },
-    {
-      "sku": "7729",
-      "name": "2020 Avignonesi Vino Nobile di Montepulciano",
-      "vintage": "2020",
-      "unit-size": "750ML",
-      "price": "26.99",
-      "url": "https://www.winehouse.com/shop/2020-avignonesi-vino-nobile-di-montepulciano-133532",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "24",
       "image-url": ""
     },
     {
@@ -50573,19 +50586,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
-    },
-    {
-      "sku": "882862",
-      "name": "2024 Santa Julia La Vaquita Mendoza Natural Clarete",
-      "vintage": "2024",
-      "unit-size": "750ML",
-      "price": "17.99",
-      "url": "https://www.winehouse.com/shop/2024-santa-julia-la-vaquita-mendoza-natural-clarete-134840",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "24",
-      "image-url": "https://www.winehouse.com/prodimages/3628-DEFAULT-l.jpg"
     },
     {
       "sku": "883614",
