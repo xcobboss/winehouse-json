@@ -20815,7 +20815,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "88",
+      "stock-level": "82",
       "image-url": "https://www.winehouse.com/prodimages/7878-DEFAULT-l.jpg"
     },
     {
@@ -32722,7 +32722,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "120",
+      "stock-level": "117",
       "image-url": ""
     },
     {
@@ -47988,6 +47988,19 @@
       "image-url": "https://www.winehouse.com/prodimages/7704-DEFAULT-l.jpg"
     },
     {
+      "sku": "855152001623",
+      "name": "2025 Domaine du Bagnol Cassis Rose",
+      "vintage": "2025",
+      "unit-size": "750ML",
+      "price": "28.99",
+      "url": "https://www.winehouse.com/shop/2025-domaine-du-bagnol-cassis-rose-139712",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "36",
+      "image-url": "https://www.winehouse.com/prodimages/8128-DEFAULT-l.jpg"
+    },
+    {
       "sku": "855152001746",
       "name": "2021 Vignobles Levet Cote Rotie La Chavaroche",
       "vintage": "2021",
@@ -52678,19 +52691,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/3237-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "9241",
-      "name": "2025 Domaine du Bagnol Cassis Rose",
-      "vintage": "2025",
-      "unit-size": "750ML",
-      "price": "28.99",
-      "url": "https://www.winehouse.com/shop/2025-domaine-du-bagnol-cassis-rose-139712",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "36",
-      "image-url": "https://www.winehouse.com/prodimages/8128-DEFAULT-l.jpg"
     },
     {
       "sku": "930021",
