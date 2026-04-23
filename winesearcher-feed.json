@@ -2181,7 +2181,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/124-DEFAULT-l.jpg"
     },
     {
@@ -3845,7 +3845,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/7410-DEFAULT-l.jpg"
     },
     {
@@ -4443,7 +4443,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "30",
+      "stock-level": "28",
       "image-url": ""
     },
     {
@@ -7472,7 +7472,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "20",
+      "stock-level": "19",
       "image-url": "https://www.winehouse.com/prodimages/3634-DEFAULT-l.jpg"
     },
     {
@@ -7797,7 +7797,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/6550-DEFAULT-l.jpg"
     },
     {
@@ -18089,19 +18089,6 @@
       "image-url": "https://www.winehouse.com/prodimages/7157-DEFAULT-l.jpg"
     },
     {
-      "sku": "324863",
-      "name": "2022 Domaine du Terme Gigondas",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "29.99",
-      "url": "https://www.winehouse.com/shop/2022-domaine-du-terme-gigondas-135437",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/3343-DEFAULT-l.jpg"
-    },
-    {
       "sku": "3251159",
       "name": "2021 La Jota Vineyard Company Cabernet Sauvignon Howell Mountain",
       "vintage": "2021",
@@ -18982,7 +18969,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "3",
       "image-url": ""
     },
     {
@@ -20815,7 +20802,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/7246-DEFAULT-l.jpg"
     },
     {
@@ -23612,6 +23599,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/7697-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "4260606080073",
+      "name": "2023 Eva Fricke Riesling Melange Rheingau",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "73.99",
+      "url": "https://www.winehouse.com/shop/2023-eva-fricke-riesling-melange-rheingau-137736",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": "https://www.winehouse.com/prodimages/5513-DEFAULT-l.jpg"
     },
     {
       "sku": "426499",
@@ -28670,6 +28670,19 @@
       "image-url": "https://www.winehouse.com/prodimages/5840-DEFAULT-l.jpg"
     },
     {
+      "sku": "568444",
+      "name": "2024 Peter Lauer Riesling Senior Fass 6, Saar",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "34.99",
+      "url": "https://www.winehouse.com/shop/2024-peter-lauer-riesling-senior-fass-6-saar-137166",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": "https://www.winehouse.com/prodimages/5031-DEFAULT-l.jpg"
+    },
+    {
       "sku": "569152",
       "name": "2022 Weingut Tement `Muschelkalk` Morillon (Chardonnay) Steiermark, Austria",
       "vintage": "2022",
@@ -28744,7 +28757,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "1",
+      "stock-level": "25",
       "image-url": ""
     },
     {
@@ -29303,7 +29316,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "15",
       "image-url": ""
     },
     {
@@ -31110,7 +31123,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "4",
       "image-url": ""
     },
     {
@@ -32696,7 +32709,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "30",
+      "stock-level": "82",
       "image-url": ""
     },
     {
@@ -33476,7 +33489,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "26",
+      "stock-level": "24",
       "image-url": "https://www.winehouse.com/prodimages/7675-DEFAULT-l.jpg"
     },
     {
@@ -34620,7 +34633,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "36",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/7491-DEFAULT-l.jpg"
     },
     {
@@ -35322,7 +35335,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/6415-DEFAULT-l.jpg"
     },
     {
@@ -35361,7 +35374,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "140",
+      "stock-level": "138",
       "image-url": "https://www.winehouse.com/prodimages/7558-DEFAULT-l.jpg"
     },
     {
@@ -35855,7 +35868,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "17",
+      "stock-level": "16",
       "image-url": "https://www.winehouse.com/prodimages/8091-DEFAULT-l.jpg"
     },
     {
@@ -37142,7 +37155,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "30",
+      "stock-level": "29",
       "image-url": "https://www.winehouse.com/prodimages/6095-DEFAULT-l.jpg"
     },
     {
@@ -38808,19 +38821,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/1731-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "761503442222",
-      "name": "2024 Domaine du Salvard Cheverny [85% Sauvignon Blanc, 15% Chardonnay]",
-      "vintage": "2024",
-      "unit-size": "750ML",
-      "price": "18.99",
-      "url": "https://www.winehouse.com/shop/2024-domaine-du-salvard-cheverny-85-sauvignon-blanc-15-chardonnay-135960",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/3353-DEFAULT-l.jpg"
     },
     {
       "sku": "761503442284",
@@ -43187,7 +43187,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/836-DEFAULT-l.jpg"
     },
     {
@@ -43525,7 +43525,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "64",
+      "stock-level": "63",
       "image-url": "https://www.winehouse.com/prodimages/7700-DEFAULT-l.jpg"
     },
     {
@@ -45098,7 +45098,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/7659-DEFAULT-l.jpg"
     },
     {
@@ -46814,7 +46814,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/8145-DEFAULT-l.jpg"
     },
     {
@@ -47919,7 +47919,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "31",
+      "stock-level": "30",
       "image-url": "https://www.winehouse.com/prodimages/8055-DEFAULT-l.jpg"
     },
     {
@@ -51988,7 +51988,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "21",
       "image-url": "https://www.winehouse.com/prodimages/1321-DEFAULT-l.jpg"
     },
     {
