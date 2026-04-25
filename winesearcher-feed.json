@@ -322,7 +322,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/5709-DEFAULT-l.jpg"
     },
     {
@@ -343,7 +343,7 @@
       "name": "2024 Adelsheim Vineyard Rose Artist Series Willamette Valley",
       "vintage": "2024",
       "unit-size": "750ML",
-      "price": "26.99",
+      "price": "29.99",
       "url": "https://www.winehouse.com/shop/2024-adelsheim-vineyard-rose-artist-series-willamette-valley-139425",
       "min-order": "1",
       "offer-type": "",
@@ -356,7 +356,7 @@
       "name": "2023 Adelsheim Vineyard Chardonnay Willamette Valley",
       "vintage": "2023",
       "unit-size": "750ML",
-      "price": "26.99",
+      "price": "29.99",
       "url": "https://www.winehouse.com/shop/2023-adelsheim-vineyard-chardonnay-willamette-valley-139427",
       "min-order": "1",
       "offer-type": "",
@@ -369,7 +369,7 @@
       "name": "2020 Adelsheim Vineyard Chardonnay Staking Claim Chehalem Mountains",
       "vintage": "2020",
       "unit-size": "750ML",
-      "price": "31.49",
+      "price": "34.99",
       "url": "https://www.winehouse.com/shop/2020-adelsheim-vineyard-chardonnay-staking-claim-chehalem-mountains-139429",
       "min-order": "1",
       "offer-type": "",
@@ -382,7 +382,7 @@
       "name": "2022 Adelsheim Vineyard Pinot Noir Willamette Valley",
       "vintage": "2023",
       "unit-size": "750ML",
-      "price": "31.49",
+      "price": "34.99",
       "url": "https://www.winehouse.com/shop/2023-adelsheim-vineyard-pinot-noir-willamette-valley-139426",
       "min-order": "1",
       "offer-type": "",
@@ -3706,19 +3706,6 @@
       "image-url": ""
     },
     {
-      "sku": "083706401173",
-      "name": "Duvel Triple Hop Citra Belgian IPA 4PK",
-      "vintage": "",
-      "unit-size": "330ML",
-      "price": "17.99",
-      "url": "https://www.winehouse.com/shop/duvel-triple-hopped-belgian-seasonal-ale-saaz-syrian-golding-amarillo-dry-hopped-syrian-golding-bottle-conditioned-9-5-abv-20109",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": ""
-    },
-    {
       "sku": "083706408011",
       "name": "Duvel 6.66 Belgian Blonde 4PK",
       "vintage": "",
@@ -3910,7 +3897,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/7410-DEFAULT-l.jpg"
     },
     {
@@ -5210,7 +5197,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "16",
+      "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/4794-DEFAULT-l.jpg"
     },
     {
@@ -9673,19 +9660,6 @@
       "image-url": "https://www.winehouse.com/prodimages/7339-DEFAULT-l.jpg"
     },
     {
-      "sku": "125969",
-      "name": "2015 Continuum Partners Sage Mountain Vineyard Napa Valley Proprietary Red Wine [slight label damage]",
-      "vintage": "2015",
-      "unit-size": "750ML",
-      "price": "249.98",
-      "url": "https://www.winehouse.com/shop/2015-continuum-partners-proprietary-red-blend-napa-valley-56436",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/7336-DEFAULT-l.jpg"
-    },
-    {
       "sku": "128149",
       "name": "2018 Baron de Brane Margaux",
       "vintage": "2018",
@@ -11757,19 +11731,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "21",
       "image-url": ""
-    },
-    {
-      "sku": "197351",
-      "name": "2022 Domaine Marc Colin Bourgogne Chardonnay",
-      "vintage": "2022",
-      "unit-size": "750ML",
-      "price": "42.99",
-      "url": "https://www.winehouse.com/shop/2022-domaine-marc-colin-bourgogne-chardonnay-138777",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "4",
-      "image-url": "https://www.winehouse.com/prodimages/7404-DEFAULT-l.jpg"
     },
     {
       "sku": "197352",
@@ -15395,7 +15356,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/7961-DEFAULT-l.jpg"
     },
     {
@@ -19996,7 +19957,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/7481-DEFAULT-l.jpg"
     },
     {
@@ -21465,7 +21426,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/7929-DEFAULT-l.jpg"
     },
     {
@@ -23064,7 +23025,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/6273-DEFAULT-l.jpg"
     },
     {
@@ -26626,7 +26587,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/5765-DEFAULT-l.jpg"
     },
     {
@@ -26940,19 +26901,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/5180-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "520906",
-      "name": "2023 Vinos en Voz Baja Barrio Pastores Rioja",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "44.99",
-      "url": "https://www.winehouse.com/shop/2023-vinos-en-voz-baja-barrio-pastores-rioja-136713",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/4344-DEFAULT-l.jpg"
     },
     {
       "sku": "5210257",
@@ -29979,7 +29927,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/805-DEFAULT-l.jpg"
     },
     {
@@ -30187,7 +30135,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/7960-DEFAULT-l.jpg"
     },
     {
@@ -30967,7 +30915,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/6770-DEFAULT-l.jpg"
     },
     {
@@ -32930,7 +32878,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "11",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/7729-DEFAULT-l.jpg"
     },
     {
@@ -35733,7 +35681,7 @@
       "name": "2022 Cooper Mountain Vineyards Pinot Noir Willamette Valley",
       "vintage": "2022",
       "unit-size": "750ML",
-      "price": "28.79",
+      "price": "31.99",
       "url": "https://www.winehouse.com/shop/2022-cooper-mountain-vineyards-pinot-noir-willamette-valley-139424",
       "min-order": "1",
       "offer-type": "",
@@ -35746,7 +35694,7 @@
       "name": "2023 Cooper Hill by Cooper Mountain Pinot Noir Willamette Valley",
       "vintage": "2023",
       "unit-size": "750ML",
-      "price": "19.79",
+      "price": "21.99",
       "url": "https://www.winehouse.com/shop/2023-cooper-hill-by-cooper-mountain-pinot-noir-willamette-valley-139421",
       "min-order": "1",
       "offer-type": "",
@@ -35759,7 +35707,7 @@
       "name": "2022 Cooper Mountain Vineyards Chardonnay Willamette Valley",
       "vintage": "2022",
       "unit-size": "750ML",
-      "price": "19.79",
+      "price": "21.99",
       "url": "https://www.winehouse.com/shop/2022-cooper-mountain-vineyards-chardonnay-willamette-valley-139422",
       "min-order": "1",
       "offer-type": "",
@@ -35772,7 +35720,7 @@
       "name": "2023 Cooper Mountain Vineyards Pinot Gris Willamette Valley",
       "vintage": "2023",
       "unit-size": "750ML",
-      "price": "17.09",
+      "price": "18.99",
       "url": "https://www.winehouse.com/shop/2023-cooper-mountain-vineyards-pinot-gris-willamette-valley-139423",
       "min-order": "1",
       "offer-type": "",
@@ -36440,7 +36388,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/7118-DEFAULT-l.jpg"
     },
     {
@@ -39731,19 +39679,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
-    },
-    {
-      "sku": "772684",
-      "name": "NV Bereche et Fils Brut Reserve (Base 2022)",
-      "vintage": "NV",
-      "unit-size": "750ML",
-      "price": "78.99",
-      "url": "https://www.winehouse.com/shop/nv-bereche-et-fils-brut-reserve-base-2022-139765",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": "https://www.winehouse.com/prodimages/8149-DEFAULT-l.jpg"
     },
     {
       "sku": "7730951080112",
@@ -43629,7 +43564,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "34",
+      "stock-level": "33",
       "image-url": "https://www.winehouse.com/prodimages/727-DEFAULT-l.jpg"
     },
     {
@@ -45176,7 +45111,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/6674-DEFAULT-l.jpg"
     },
     {
@@ -45800,7 +45735,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "10",
+      "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/7658-DEFAULT-l.jpg"
     },
     {
@@ -51156,7 +51091,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/3630-DEFAULT-l.jpg"
     },
     {
