@@ -2766,7 +2766,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/1245-DEFAULT-l.jpg"
     },
     {
@@ -7147,7 +7147,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "1",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/1221-DEFAULT-l.jpg"
     },
     {
@@ -25170,7 +25170,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "4",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/4034-DEFAULT-l.jpg"
     },
     {
@@ -29242,19 +29242,6 @@
       "image-url": "https://www.winehouse.com/prodimages/7676-DEFAULT-l.jpg"
     },
     {
-      "sku": "607531744535",
-      "name": "2018 San Giusto a Rentennano La Ricolma (Merlot) IGT",
-      "vintage": "2018",
-      "unit-size": "1.5L",
-      "price": "428.99",
-      "url": "https://www.winehouse.com/shop/2018-san-giusto-a-rentennano-la-ricolma-merlot-igt-25129",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/2655-DEFAULT-l.jpg"
-    },
-    {
       "sku": "607531744696",
       "name": "2019 San Giusto a Rentennano La Ricolma (Merlot) IGT",
       "vintage": "2019",
@@ -29539,19 +29526,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "15",
       "image-url": "https://www.winehouse.com/prodimages/7519-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "614338",
-      "name": "2000 Marchesi Antinori Tignanello Toscana IGT",
-      "vintage": "2000",
-      "unit-size": "750ML",
-      "price": "299.98",
-      "url": "https://www.winehouse.com/shop/2000-antinori-tignanello-37600",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "2",
-      "image-url": ""
     },
     {
       "sku": "615503125107",
@@ -34689,6 +34663,19 @@
       "image-url": "https://www.winehouse.com/prodimages/7816-DEFAULT-l.jpg"
     },
     {
+      "sku": "717888000144",
+      "name": "2024 Hess Collection Sauvignon Blanc Maverick Ranches Central Coast",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "16.99",
+      "url": "https://www.winehouse.com/shop/2024-hess-collection-sauvignon-blanc-maverick-ranches-central-coast-136962",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": ""
+    },
+    {
       "sku": "717888903124",
       "name": "2025 Bodega Colome Calchaqui Valley Torrontes",
       "vintage": "2025",
@@ -35556,7 +35543,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/4909-DEFAULT-l.jpg"
     },
     {
@@ -39235,7 +39222,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "23",
+      "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/8149-DEFAULT-l.jpg"
     },
     {
