@@ -391,6 +391,19 @@
       "image-url": "https://www.winehouse.com/prodimages/6176-DEFAULT-l.jpg"
     },
     {
+      "sku": "013024070010",
+      "name": "2023 Trefethen Vineyards Chardonnay Napa Valley",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "34.99",
+      "url": "https://www.winehouse.com/shop/2023-trefethen-vineyards-chardonnay-napa-valley-135628",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "24",
+      "image-url": "https://www.winehouse.com/prodimages/2733-DEFAULT-l.jpg"
+    },
+    {
       "sku": "013528100022",
       "name": "2024 Shafer Vineyards Chardonnay Red Shoulder Ranch Carneros Napa Valley",
       "vintage": "2024",
@@ -1713,7 +1726,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/5209-DEFAULT-l.jpg"
     },
     {
@@ -2404,19 +2417,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "1",
       "image-url": ""
-    },
-    {
-      "sku": "080686001102",
-      "name": "Jim Beam Bourbon",
-      "vintage": "",
-      "unit-size": "1.75L",
-      "price": "31.99",
-      "url": "https://www.winehouse.com/shop/jim-beam-bourbon-red-21912",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6793-DEFAULT-l.jpg"
     },
     {
       "sku": "080686001409",
@@ -7134,7 +7134,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "32",
       "image-url": "https://www.winehouse.com/prodimages/7573-DEFAULT-l.jpg"
     },
     {
@@ -7628,7 +7628,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/8150-DEFAULT-l.jpg"
     },
     {
@@ -7914,7 +7914,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "37",
       "image-url": "https://www.winehouse.com/prodimages/6246-DEFAULT-l.jpg"
     },
     {
@@ -10280,7 +10280,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/5720-DEFAULT-l.jpg"
     },
     {
@@ -23952,19 +23952,6 @@
       "image-url": "https://www.winehouse.com/prodimages/4216-DEFAULT-l.jpg"
     },
     {
-      "sku": "451880",
-      "name": "2019 L’Aietta Brunello di Montalcino",
-      "vintage": "2019",
-      "unit-size": "750ML",
-      "price": "89.99",
-      "url": "https://www.winehouse.com/shop/2019-l-aietta-brunello-di-montalcino-132771",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/1377-DEFAULT-l.jpg"
-    },
-    {
       "sku": "4521714",
       "name": "2023 Roar Wines Pinot Noir Santa Lucia Highlands",
       "vintage": "2023",
@@ -27693,19 +27680,6 @@
       "offer-type": "R",
       "delivery-time": "2-5 days",
       "stock-level": "4",
-      "image-url": ""
-    },
-    {
-      "sku": "55533303",
-      "name": "2015 La Fornace Brunello di Montalcino",
-      "vintage": "2015",
-      "unit-size": "750ML",
-      "price": "79.98",
-      "url": "https://www.winehouse.com/shop/2015-la-fornace-brunello-di-montalcino-135736",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
       "image-url": ""
     },
     {
@@ -34819,6 +34793,19 @@
       "image-url": "https://www.winehouse.com/prodimages/7558-DEFAULT-l.jpg"
     },
     {
+      "sku": "720815271036",
+      "name": "2023 Bergstrom Winery Pinot Noir Cumberland Reserve Willamette Valley",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "44.99",
+      "url": "https://www.winehouse.com/shop/2023-bergstrom-winery-pinot-noir-cumberland-reserve-willamette-valley-134836",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": ""
+    },
+    {
       "sku": "720815290037",
       "name": "NV Gosset Grande Réserve Brut Champagne",
       "vintage": "NV",
@@ -36674,7 +36661,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "9",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/3986-DEFAULT-l.jpg"
     },
     {
@@ -48257,7 +48244,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "29",
+      "stock-level": "28",
       "image-url": "https://www.winehouse.com/prodimages/8184-DEFAULT-l.jpg"
     },
     {
@@ -49934,7 +49921,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "37",
       "image-url": "https://www.winehouse.com/prodimages/6673-DEFAULT-l.jpg"
     },
     {
@@ -49947,7 +49934,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "1",
+      "stock-level": "61",
       "image-url": "https://www.winehouse.com/prodimages/3553-DEFAULT-l.jpg"
     },
     {
@@ -50436,12 +50423,12 @@
       "name": "2023 DAOU Vineyards Cabernet Sauvignon Paso Robles",
       "vintage": "2023",
       "unit-size": "750ML",
-      "price": "29.99",
+      "price": "24.99",
       "url": "https://www.winehouse.com/shop/2023-daou-vineyards-cabernet-sauvignon-paso-robles-138551",
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "26",
+      "stock-level": "50",
       "image-url": "https://www.winehouse.com/prodimages/6598-DEFAULT-l.jpg"
     },
     {
@@ -50950,6 +50937,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/4529-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "897735000944",
+      "name": "2024 Curran Grenache Blanc Santa Barbara County",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "24.99",
+      "url": "https://www.winehouse.com/shop/2024-curran-grenache-blanc-santa-barbara-county-136180",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": "https://www.winehouse.com/prodimages/3611-DEFAULT-l.jpg"
     },
     {
       "sku": "897808002479",
