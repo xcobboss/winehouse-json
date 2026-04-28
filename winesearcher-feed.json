@@ -1609,7 +1609,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/213-DEFAULT-l.jpg"
     },
     {
@@ -1622,7 +1622,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "34",
+      "stock-level": "33",
       "image-url": "https://www.winehouse.com/prodimages/234-DEFAULT-l.jpg"
     },
     {
@@ -10523,7 +10523,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/3826-DEFAULT-l.jpg"
     },
     {
@@ -32436,7 +32436,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "20",
+      "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/7720-DEFAULT-l.jpg"
     },
     {
@@ -41150,19 +41150,6 @@
       "image-url": "https://www.winehouse.com/prodimages/7791-DEFAULT-l.jpg"
     },
     {
-      "sku": "8031481005552",
-      "name": "2021 Querciabella Chianti Classico",
-      "vintage": "2020",
-      "unit-size": "750ML",
-      "price": "26.99",
-      "url": "https://www.winehouse.com/shop/2021-querciabella-chianti-classico-139003",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "18",
-      "image-url": "https://www.winehouse.com/prodimages/7931-DEFAULT-l.jpg"
-    },
-    {
       "sku": "8032532313510",
       "name": "2024 Matteo Correggia Roero Arneis",
       "vintage": "2024",
@@ -41627,7 +41614,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/7806-DEFAULT-l.jpg"
     },
     {
@@ -43490,6 +43477,19 @@
       "image-url": "https://www.winehouse.com/prodimages/5767-DEFAULT-l.jpg"
     },
     {
+      "sku": "822037220219",
+      "name": "2021 Mayacamas Cabernet Sauvignon Mt. Veeder Napa Valley",
+      "vintage": "2021",
+      "unit-size": "750ML",
+      "price": "189.99",
+      "url": "https://www.winehouse.com/shop/2021-mayacamas-cabernet-sauvignon-mt-veeder-napa-valley-139229",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": "https://www.winehouse.com/prodimages/7646-DEFAULT-l.jpg"
+    },
+    {
       "sku": "823403",
       "name": "2001 Domaine Fourrier Gevrey-Chambertin Clos St. Jacques 1er Cru",
       "vintage": "2001",
@@ -44357,7 +44357,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "4",
       "image-url": "https://www.winehouse.com/prodimages/7795-DEFAULT-l.jpg"
     },
     {
@@ -45605,7 +45605,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "2",
       "image-url": "https://www.winehouse.com/prodimages/7803-DEFAULT-l.jpg"
     },
     {
@@ -46532,6 +46532,19 @@
       "image-url": "https://www.winehouse.com/prodimages/6024-DEFAULT-l.jpg"
     },
     {
+      "sku": "850892006006",
+      "name": "2021 Hartley Ostini Hitching Post Winery Pinot Noir Cork Dancer Santa Barbara County",
+      "vintage": "2021",
+      "unit-size": "750ML",
+      "price": "27.99",
+      "url": "https://www.winehouse.com/shop/2021-hartley-ostini-hitching-post-winery-pinot-noir-cork-dancer-santa-barbara-county-130366",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "24",
+      "image-url": "https://www.winehouse.com/prodimages/1201-DEFAULT-l.jpg"
+    },
+    {
       "sku": "850892006037",
       "name": "2023 Hartley Ostini Hitching Post Winery Hometown Pinot Noir Santa Barbara",
       "vintage": "2023",
@@ -46541,8 +46554,21 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "31",
       "image-url": "https://www.winehouse.com/prodimages/6019-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "850892006044",
+      "name": "2023 Hartley Ostini Hitching Post Winery Hometown Pinot Noir Santa Barbara",
+      "vintage": "2023",
+      "unit-size": "375ML",
+      "price": "11.99",
+      "url": "https://www.winehouse.com/shop/2023-hartley-ostini-hitching-post-winery-hometown-pinot-noir-santa-barbara-136133",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": "https://www.winehouse.com/prodimages/3606-DEFAULT-l.jpg"
     },
     {
       "sku": "851083000063",
