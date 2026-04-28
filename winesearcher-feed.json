@@ -296,7 +296,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "3",
       "image-url": "https://www.winehouse.com/prodimages/5709-DEFAULT-l.jpg"
     },
     {
@@ -9556,6 +9556,19 @@
       "image-url": "https://www.winehouse.com/prodimages/7339-DEFAULT-l.jpg"
     },
     {
+      "sku": "125969",
+      "name": "2015 Continuum Partners Sage Mountain Vineyard Napa Valley Proprietary Red Wine [slight label damage]",
+      "vintage": "2015",
+      "unit-size": "750ML",
+      "price": "249.98",
+      "url": "https://www.winehouse.com/shop/2015-continuum-partners-proprietary-red-blend-napa-valley-56436",
+      "min-order": "1",
+      "offer-type": "R",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/7336-DEFAULT-l.jpg"
+    },
+    {
       "sku": "128149",
       "name": "2018 Baron de Brane Margaux",
       "vintage": "2018",
@@ -11963,7 +11976,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "21",
+      "stock-level": "20",
       "image-url": "https://www.winehouse.com/prodimages/4558-DEFAULT-l.jpg"
     },
     {
