@@ -20335,7 +20335,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/6973-DEFAULT-l.jpg"
     },
     {
@@ -39146,7 +39146,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/6975-DEFAULT-l.jpg"
     },
     {
@@ -44179,19 +44179,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "4",
       "image-url": ""
-    },
-    {
-      "sku": "8429073022016",
-      "name": "2023 Alvaro Palacios Camins del Priorat",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "25.99",
-      "url": "https://www.winehouse.com/shop/2023-alvaro-palacios-camins-del-priorat-136118",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "6",
-      "image-url": "https://www.winehouse.com/prodimages/3705-DEFAULT-l.jpg"
     },
     {
       "sku": "8429073024201",
@@ -49418,19 +49405,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/8130-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "8700149",
-      "name": "1998 Williams Selyem Winery Pinot Noir Rochioli Riverblock Russian River Valley",
-      "vintage": "1998",
-      "unit-size": "750ML",
-      "price": "84.99",
-      "url": "https://www.winehouse.com/shop/1998-williams-selyem-winery-pinot-noir-rochioli-riverblock-russian-river-valley-139715",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/8131-DEFAULT-l.jpg"
     },
     {
       "sku": "870143",
