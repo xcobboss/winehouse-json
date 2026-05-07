@@ -6280,19 +6280,6 @@
       "image-url": "https://www.winehouse.com/prodimages/8117-DEFAULT-l.jpg"
     },
     {
-      "sku": "0885858444447",
-      "name": "2018 Marchesi Antinori Castello della Sala `Cervaro della Sala` Umbria IGT Italy",
-      "vintage": "2018",
-      "unit-size": "750ML",
-      "price": "99.98",
-      "url": "https://www.winehouse.com/shop/2018-antinori-cervaro-della-sala-umbria-chardonnay-21441",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "6",
-      "image-url": "https://www.winehouse.com/prodimages/8098-DEFAULT-l.jpg"
-    },
-    {
       "sku": "088586002854",
       "name": "2018 Tormaresca Bocca di Lupo Castel del Monte",
       "vintage": "2018",
@@ -16409,7 +16396,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": ""
     },
     {
@@ -24079,7 +24066,7 @@
       "min-order": "1",
       "offer-type": "R",
       "delivery-time": "2-5 days",
-      "stock-level": "5",
+      "stock-level": "23",
       "image-url": "https://www.winehouse.com/prodimages/1810-DEFAULT-l.jpg"
     },
     {
