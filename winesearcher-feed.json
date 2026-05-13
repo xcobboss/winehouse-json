@@ -7186,7 +7186,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "175",
+      "stock-level": "172",
       "image-url": "https://www.winehouse.com/prodimages/3406-DEFAULT-l.jpg"
     },
     {
@@ -14298,7 +14298,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "1",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/5499-DEFAULT-l.jpg"
     },
     {
@@ -15661,6 +15661,19 @@
       "image-url": "https://www.winehouse.com/prodimages/1393-DEFAULT-l.jpg"
     },
     {
+      "sku": "29986915",
+      "name": "2022 Moreau-Naudet Chablis AC",
+      "vintage": "2021",
+      "unit-size": "750ML",
+      "price": "56.99",
+      "url": "https://www.winehouse.com/shop/2022-moreau-naudet-chablis-ac-133111",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "12",
+      "image-url": ""
+    },
+    {
       "sku": "29987372",
       "name": "2020 San Giusto a Rentennano Percarlo IGT",
       "vintage": "2020",
@@ -16137,7 +16150,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "1",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/6453-DEFAULT-l.jpg"
     },
     {
@@ -20740,6 +20753,19 @@
       "offer-type": "",
       "delivery-time": "2-5 days",
       "stock-level": "2",
+      "image-url": ""
+    },
+    {
+      "sku": "3760278781175",
+      "name": "2018 Chateau Haut Bailly Pessac-Leognan",
+      "vintage": "2018",
+      "unit-size": "750ML",
+      "price": "159.99",
+      "url": "https://www.winehouse.com/shop/2018-chateau-haut-bailly-pessac-leognan-12858",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "21",
       "image-url": ""
     },
     {
@@ -26671,6 +26697,19 @@
       "image-url": "https://www.winehouse.com/prodimages/8205-DEFAULT-l.jpg"
     },
     {
+      "sku": "5538894",
+      "name": "2023 Domaine Latour-Giraud Meursault \"Les Genevrieres\" 1er Cru",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "179.99",
+      "url": "https://www.winehouse.com/shop/2023-domaine-latour-giraud-meursault-les-genevrieres-1er-cru-139771",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "9",
+      "image-url": "https://www.winehouse.com/prodimages/8206-DEFAULT-l.jpg"
+    },
+    {
       "sku": "5538895",
       "name": "2023 Domaine Latour-Giraud Meursault \"Narvaux\"",
       "vintage": "2023",
@@ -26695,6 +26734,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/8208-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "5538897",
+      "name": "2023 Domaine Latour-Giraud Puligny Montrachet \"Champ Canet\" 1er Cru",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "189.99",
+      "url": "https://www.winehouse.com/shop/2023-domaine-latour-giraud-puligny-montrachet-champ-canet-1er-cru-139777",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "6",
+      "image-url": "https://www.winehouse.com/prodimages/8209-DEFAULT-l.jpg"
     },
     {
       "sku": "554215",
@@ -45907,7 +45959,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "8",
+      "stock-level": "7",
       "image-url": "https://www.winehouse.com/prodimages/7704-DEFAULT-l.jpg"
     },
     {
