@@ -3936,7 +3936,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "15",
+      "stock-level": "14",
       "image-url": "https://www.winehouse.com/prodimages/3604-DEFAULT-l.jpg"
     },
     {
@@ -4911,7 +4911,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/2616-DEFAULT-l.jpg"
     },
     {
@@ -10910,8 +10910,21 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "30",
       "image-url": "https://www.winehouse.com/prodimages/3488-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "185983000053",
+      "name": "2023 Ramey Wine Cellars Chardonnay Russian River",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "49.99",
+      "url": "https://www.winehouse.com/shop/2023-ramey-wine-cellars-chardonnay-russian-river-135208",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "34",
+      "image-url": "https://www.winehouse.com/prodimages/1840-DEFAULT-l.jpg"
     },
     {
       "sku": "185983000091",
@@ -15267,7 +15280,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "17",
       "image-url": ""
     },
     {
@@ -16501,7 +16514,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "18",
+      "stock-level": "17",
       "image-url": "https://www.winehouse.com/prodimages/8344-DEFAULT-l.jpg"
     },
     {
@@ -19287,19 +19300,6 @@
       "image-url": "https://www.winehouse.com/prodimages/5196-DEFAULT-l.jpg"
     },
     {
-      "sku": "3554770163641",
-      "name": "2023 Domaine Berthaut Gerbet Fixin Village Rouge",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "59.99",
-      "url": "https://www.winehouse.com/shop/2023-domaine-berthaut-gerbet-fixin-village-rouge-137389",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "3",
-      "image-url": "https://www.winehouse.com/prodimages/5490-DEFAULT-l.jpg"
-    },
-    {
       "sku": "3554770164501",
       "name": "2023 Chantereves Corton Charlemagne Grand Cru",
       "vintage": "2023",
@@ -20349,7 +20349,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "12",
+      "stock-level": "11",
       "image-url": "https://www.winehouse.com/prodimages/8337-DEFAULT-l.jpg"
     },
     {
@@ -32976,6 +32976,19 @@
       "image-url": "https://www.winehouse.com/prodimages/5763-DEFAULT-l.jpg"
     },
     {
+      "sku": "705105169873",
+      "name": "2023 Melville Vineyards and Winery Pinot Noir Estate Sta. Rita Hills",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "39.99",
+      "url": "https://www.winehouse.com/shop/2023-melville-vineyards-and-winery-pinot-noir-estate-sta-rita-hills-135926",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "36",
+      "image-url": "https://www.winehouse.com/prodimages/3196-DEFAULT-l.jpg"
+    },
+    {
       "sku": "705105441955",
       "name": "McKenzie Rye distilled in New York",
       "vintage": "",
@@ -33596,7 +33609,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "2",
+      "stock-level": "1",
       "image-url": "https://www.winehouse.com/prodimages/1365-DEFAULT-l.jpg"
     },
     {
@@ -34844,7 +34857,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "6",
+      "stock-level": "5",
       "image-url": "https://www.winehouse.com/prodimages/7631-DEFAULT-l.jpg"
     },
     {
@@ -35676,7 +35689,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "26",
+      "stock-level": "25",
       "image-url": "https://www.winehouse.com/prodimages/6095-DEFAULT-l.jpg"
     },
     {
@@ -35910,7 +35923,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "20",
+      "stock-level": "19",
       "image-url": "https://www.winehouse.com/prodimages/8126-DEFAULT-l.jpg"
     },
     {
@@ -40746,7 +40759,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "40",
+      "stock-level": "25",
       "image-url": "https://www.winehouse.com/prodimages/8374-DEFAULT-l.jpg"
     },
     {
@@ -41773,7 +41786,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "13",
+      "stock-level": "12",
       "image-url": "https://www.winehouse.com/prodimages/7700-DEFAULT-l.jpg"
     },
     {
@@ -41829,6 +41842,19 @@
       "image-url": "https://www.winehouse.com/prodimages/5779-DEFAULT-l.jpg"
     },
     {
+      "sku": "816068010239",
+      "name": "2023 The Hilt Estate Chardonnay Sta. Rita Hills",
+      "vintage": "2023",
+      "unit-size": "750ML",
+      "price": "44.99",
+      "url": "https://www.winehouse.com/shop/2023-the-hilt-estate-chardonnay-sta-rita-hills-138483",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "24",
+      "image-url": ""
+    },
+    {
       "sku": "816068010246",
       "name": "2022 The HILT Pinot Noir Sta. Rita Hills",
       "vintage": "2022",
@@ -41879,19 +41905,6 @@
       "delivery-time": "2-5 days",
       "stock-level": "10",
       "image-url": "https://www.winehouse.com/prodimages/5121-DEFAULT-l.jpg"
-    },
-    {
-      "sku": "816342",
-      "name": "2023 Monteraponi Chianti Classico",
-      "vintage": "2023",
-      "unit-size": "750ML",
-      "price": "34.99",
-      "url": "https://www.winehouse.com/shop/2023-monteraponi-chianti-classico-138681",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/6760-DEFAULT-l.jpg"
     },
     {
       "sku": "816751021085",
@@ -45608,7 +45621,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "14",
+      "stock-level": "8",
       "image-url": "https://www.winehouse.com/prodimages/7034-DEFAULT-l.jpg"
     },
     {
@@ -46624,6 +46637,19 @@
       "delivery-time": "2-5 days",
       "stock-level": "9",
       "image-url": "https://www.winehouse.com/prodimages/6221-DEFAULT-l.jpg"
+    },
+    {
+      "sku": "857332004011",
+      "name": "2024 Margerum Sauvignon Blanc Sybarite Happy Canyon",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "21.99",
+      "url": "https://www.winehouse.com/shop/2024-margerum-sauvignon-blanc-sybarite-happy-canyon-136238",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "24",
+      "image-url": ""
     },
     {
       "sku": "857407002089",
@@ -49417,7 +49443,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "31",
       "image-url": ""
     },
     {
