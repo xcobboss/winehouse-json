@@ -2272,7 +2272,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "3",
+      "stock-level": "2",
       "image-url": ""
     },
     {
@@ -4404,7 +4404,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "20",
+      "stock-level": "19",
       "image-url": ""
     },
     {
@@ -11912,19 +11912,6 @@
       "offer-type": "R",
       "delivery-time": "2-5 days",
       "stock-level": "2",
-      "image-url": ""
-    },
-    {
-      "sku": "20105847",
-      "name": "2016 Bruyere + Houillon Arbois Blanc Savagnin Jura",
-      "vintage": "2016",
-      "unit-size": "750ML",
-      "price": "349.98",
-      "url": "https://www.winehouse.com/shop/2016-bruyere-houillon-arbois-blanc-savagnin-jura-10084",
-      "min-order": "1",
-      "offer-type": "R",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
       "image-url": ""
     },
     {
@@ -28894,19 +28881,6 @@
       "image-url": ""
     },
     {
-      "sku": "622137",
-      "name": "2024 Domaine de Camille + Laurent Schaller Chablis",
-      "vintage": "2024",
-      "unit-size": "750ML",
-      "price": "29.99",
-      "url": "https://www.winehouse.com/shop/2024-domaine-de-camille-laurent-schaller-chablis-139602",
-      "min-order": "1",
-      "offer-type": "",
-      "delivery-time": "2-5 days",
-      "stock-level": "1",
-      "image-url": "https://www.winehouse.com/prodimages/7960-DEFAULT-l.jpg"
-    },
-    {
       "sku": "623145",
       "name": "2012 Domaine Jean-François Coche-Dury Meursault Villages",
       "vintage": "2012",
@@ -40681,7 +40655,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "22",
+      "stock-level": "19",
       "image-url": "https://www.winehouse.com/prodimages/8374-DEFAULT-l.jpg"
     },
     {
@@ -41331,7 +41305,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "19",
+      "stock-level": "18",
       "image-url": "https://www.winehouse.com/prodimages/4129-DEFAULT-l.jpg"
     },
     {
