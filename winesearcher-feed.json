@@ -29658,7 +29658,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "7",
+      "stock-level": "6",
       "image-url": "https://www.winehouse.com/prodimages/7515-DEFAULT-l.jpg"
     },
     {
@@ -36903,6 +36903,19 @@
       "image-url": "https://www.winehouse.com/prodimages/8358-DEFAULT-l.jpg"
     },
     {
+      "sku": "761503515124",
+      "name": "2024 Domaine de la Chanteleuserie Bourgueil Les Alouettes",
+      "vintage": "2024",
+      "unit-size": "750ML",
+      "price": "15.99",
+      "url": "https://www.winehouse.com/shop/2024-domaine-de-la-chanteleuserie-bourgueil-les-alouettes-139389",
+      "min-order": "1",
+      "offer-type": "",
+      "delivery-time": "2-5 days",
+      "stock-level": "1",
+      "image-url": "https://www.winehouse.com/prodimages/7669-DEFAULT-l.jpg"
+    },
+    {
       "sku": "761503534477",
       "name": "2024 Domaine Tempier Bandol Rosé",
       "vintage": "2024",
@@ -40097,7 +40110,7 @@
       "min-order": "1",
       "offer-type": "",
       "delivery-time": "2-5 days",
-      "stock-level": "35",
+      "stock-level": "33",
       "image-url": "https://www.winehouse.com/prodimages/8374-DEFAULT-l.jpg"
     },
     {
